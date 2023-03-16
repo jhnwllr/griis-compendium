@@ -35,8 +35,6 @@ jobs:
         shell: Rscript {0}
 
       - name: run stats
-        run: | 
-            Rscript run.R
-        shell: Rscript {0} 
+        run: Rscript run.R
        
       - uses: stefanzweifel/git-auto-commit-action@v4
