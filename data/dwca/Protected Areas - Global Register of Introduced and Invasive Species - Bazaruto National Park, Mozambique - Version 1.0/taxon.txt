@@ -1,0 +1,8 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+12367	12367	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+12368	12368	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+12369	12369	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+12370	12370	Neotragus moschatus (Von Dueben, 1846)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+12371	12371	Neotragus moschatus (Von Dueben, 1846)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+12372	12372	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+12373	12373	Mabuia striata Boulenger, 1895	Trachylepis striata (Peters, 1844)	Animalia	Chordata	Reptilia	Squamata	Scincidae	SPECIES	SYNONYM

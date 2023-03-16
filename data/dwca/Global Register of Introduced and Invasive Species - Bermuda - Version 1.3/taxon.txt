@@ -1,0 +1,121 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+95500	95500	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+95501	95501	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+95502	95502	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+95503	95503	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+95504	95504	Anolis extremus Garman, 1887		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+95505	95505	Anolis grahami grahami		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SUBSPECIES	ACCEPTED
+95506	95506	Anolis leachii DumÃ©ril & Bibron, 1837		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+95507	95507	Anolis sagrei DumÃ©ril & Bibron, 1837		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+95508	95508	Anredera baselloides Baill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Basellaceae	SPECIES	ACCEPTED
+95509	95509	Ardisia elliptica Thunb.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Primulaceae	SPECIES	ACCEPTED
+95510	95510	Arundo donax L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+95511	95511	Asparagus densiflorus (Kunth) Jessop		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+95512	95512	Asparagus falcatus L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+95513	95513	Asparagus setaceus (Kunth) Jessop		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+95514	95514	Bipalium vagum Jones & Sterrer, 2005		Animalia	Platyhelminthes	Rhabditophora	Tricladida	Geoplanidae	SPECIES	ACCEPTED
+95515	95515	Buddleja madagascariensis Lam.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+95516	95516	Calophyllum calaba L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Calophyllaceae	SPECIES	ACCEPTED
+95517	95517	Calophyllum inophyllum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Calophyllaceae	SPECIES	ACCEPTED
+95518	95518	Camponotus pennsylvanicus (De Geer, 1773)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95519	95519	Cardiocondyla emeryi Forel, 1881		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95520	95520	Cardiocondyla minutior Forel, 1899		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95521	95521	Cardiocondyla obscurior Wheeler, 1929		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95522	95522	Cardiospermum halicacabum L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+95523	95523	Carpobrotus chilensis N.E.Br.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED
+95524	95524	Carulaspis minima (Signoret, 1869)		Animalia	Arthropoda	Insecta	Hemiptera	Diaspididae	SPECIES	ACCEPTED
+95525	95525	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+95526	95526	Casuarina glauca Sieber		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+95527	95527	Cenchrus purpureus (Schumach.) Morrone		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+95528	95528	Cenchrus setaceus (Forssk.) Morrone		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+95529	95529	Citharexylum spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+95530	95530	Clematis vitalba L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED
+95531	95531	Colocasia esculenta (L.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+95532	95532	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+95533	95533	Conyza canadensis (L.) Cronq.	Erigeron canadensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+95534	95534	Corvus brachyrhynchos C.L.Brehm, 1822		Animalia	Chordata	Aves	Passeriformes	Corvidae	SPECIES	ACCEPTED
+95535	95535	Cyperus involucratus Rottb.	Cyperus alternifolius subsp. flabelliformis Kük.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+95536	95536	Cyrtomium falcatum (L.f.) C.Presl		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Dryopteridaceae	SPECIES	ACCEPTED
+95537	95537	Dolichos lablab L.	Lablab purpureus (L.) Sweet	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+95538	95538	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+95539	95539	Elaeagnus angustifolia L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Elaeagnaceae	SPECIES	ACCEPTED
+95540	95540	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+95541	95541	Eleutherodactylus johnstonei Barbour, 1914		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	SPECIES	ACCEPTED
+95542	95542	Epipremnum pinnatum Engl.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+95543	95543	Eugenia uniflora L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+95544	95544	Euglandina rosea (FÃ©russac, 1821)		Animalia	Mollusca	Gastropoda	Stylommatophora	Spiraxidae	SPECIES	ACCEPTED
+95545	95545	Eupatorium riparium Regel	Ageratina riparia (Regel) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+95546	95546	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+95547	95547	Ficus microcarpa L.f.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+95548	95548	Fumaria muralis W.D.J.Koch		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+95549	95549	Gallus gallus (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+95550	95550	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+95551	95551	Gonaxis quadrilateralis (Preston, 1910)	Tayloria quadrilateralis (Preston, 1910)	Animalia	Mollusca	Gastropoda		Streptaxidae	SPECIES	ACCEPTED
+95552	95552	Helenium amarum (Raf.) H.Rock		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+95553	95553	Hylocereus undatus (Haw.) Britton & Rose		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+95554	95554	Hypoponera punctatissima (Roger, 1859)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95555	95555	Ipomoea indica Merr.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+95556	95556	Lepidosaphes newsteadi (Å ulc, 1895)		Animalia	Arthropoda	Insecta	Hemiptera	Diaspididae	SPECIES	ACCEPTED
+95557	95557	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+95558	95558	Linepithema humile (Mayr, 1868)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95559	95559	Livistona chinensis (Jacq.) R.Br. ex Mart.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+95560	95560	Macfadyena unguis-cati (L.) A.H.Gentry	Dolichandra unguis-cati (L.) L.G.Lohmann	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	SYNONYM
+95561	95561	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+95562	95562	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+95563	95563	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95564	95564	Monomorium monomorium Bolton, 1987		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95565	95565	Murraya paniculata (L.) Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+95566	95566	Nephrolepis cordifolia (L.) C.Presl		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Nephrolepidaceae	SPECIES	ACCEPTED
+95567	95567	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+95568	95568	Noronhia emarginata (Lam.) Poir.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+95569	95569	Nylanderia fulva (Mayr, 1862)	Paratrechina fulva (Mayr, 1862)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+95570	95570	Nylanderia vividula (Nylander, 1846)	Paratrechina vividula (Nylander, 1846)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+95571	95571	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95572	95572	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED
+95573	95573	Pennisetum macrostachyum Benth.	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+95574	95574	Pereskia aculeata Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+95575	95575	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95576	95576	Pheidole navigans		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95577	95577	Phoenix canariensis H.Wildpret		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+95578	95578	Phoenix reclinata Jacq.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+95579	95579	Phymatosorus scolopendria Pic.Serm.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Polypodiaceae	SPECIES	ACCEPTED
+95580	95580	Pimenta dioica (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+95581	95581	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+95582	95582	Pitangus sulphuratus (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Tyrannidae	SPECIES	ACCEPTED
+95583	95583	Plagiolepis alluaudi Emery, 1894		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95584	95584	Prunus caroliniana (Mill.) Aiton		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+95585	95585	Psidium cattleianum Sabine		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+95586	95586	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+95587	95587	Pteris longifolia L.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED
+95588	95588	Pterois miles (Bennett, 1828)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+95589	95589	Pterois volitans (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+95590	95590	Pueraria montana (Lour.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+95591	95591	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+95592	95592	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+95593	95593	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	ACCEPTED
+95594	95594	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+95595	95595	Rivina humilis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+95596	95596	Ruellia brittoniana Leonard	Ruellia simplex C.Wright	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+95597	95597	Russelia equisetiformis Schltdl. & Cham.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+95598	95598	Sansevieria trifasciata Prain		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+95599	95599	Scaevola sericea G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Goodeniaceae	SPECIES	ACCEPTED
+95600	95600	Schefflera actinophylla (Endl.) Harms		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+95601	95601	Schefflera arboricola (Hayata) Merr.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+95602	95602	Schinus terebinthifolia Raddi		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+95603	95603	Setaria verticillata (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+95604	95604	Sida acuta Burm.f.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+95605	95605	Sphagneticola trilobata (L.) Pruski		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+95606	95606	Sporobolus poiretii (Roem. & Schult.) Hitchc.	Sporobolus junceus Kunth	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+95607	95607	Strumigenys emmae (Emery, 1890)	Pyramica emmae (Emery, 1890)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+95608	95608	Strumigenys membranifera Emery, 1869	Pyramica membranifera (Emery, 1869)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+95609	95609	Sturnus vulgaris Linnaeus, 1758		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+95610	95610	Tabebuia pallida Miers		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+95611	95611	Tetramorium caldarium (Roger, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95612	95612	Tetramorium simillimum (Smith, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95613	95613	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+95614	95614	Tradescantia spathacea Sw.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+95615	95615	Tradescantia zebrina Bosse		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+95616	95616	Tropaeolum majus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Tropaeolaceae	SPECIES	ACCEPTED
+95617	95617	Urochloa mutica (Forssk.) T.Q.Nguyen	Brachiaria mutica Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+95618	95618	Wasmannia auropunctata (Roger, 1863)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+95619	95619	Zoysia matrella Merr.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED

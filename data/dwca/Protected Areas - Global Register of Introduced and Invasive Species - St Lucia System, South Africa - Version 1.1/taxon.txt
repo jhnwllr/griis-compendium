@@ -1,0 +1,8 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+7100	7100	Chromolaena odorata (L.) R.M.King & H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+7101	7101	Eucalyptus L'HÃ©r.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	GENUS	ACCEPTED
+7102	7102	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+7103	7103	Pereskia aculeata Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+7104	7104	Pinus elliottii Engelm.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+7105	7105	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+7106	7106	Tarebia granifera (Lamarck, 1816)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED

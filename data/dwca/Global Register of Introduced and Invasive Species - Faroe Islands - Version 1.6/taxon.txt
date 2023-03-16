@@ -1,0 +1,102 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+22045	22045	Achillea millefolium Ledeb.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22046	22046	Achillea ptarmica Richards.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22047	22047	Aegopinella nitidula (Draparnaud, 1805)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrodontidae	ACCEPTED	SPECIES
+22048	22048	Aegopinella pura (Alder, 1830)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrodontidae	ACCEPTED	SPECIES
+22049	22049	Aegopodium podagraria L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	ACCEPTED	SPECIES
+22050	22050	Alchemilla mollis (Buser) Rothm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	ACCEPTED	SPECIES
+22051	22051	Alexandrium tamarense (Lebour) Balech		Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Gonyaulacaceae	ACCEPTED	SPECIES
+22052	22052	Allolobophora rosea Savigny, 1826	Aporrectodea rosea (Savigny, 1826)	Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SYNONYM	SPECIES
+22053	22053	Alopecurus geniculatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22054	22054	Alopecurus pratensis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22055	22055	Anthelia juratzkana (Limpr.) Trevis.		Plantae	Marchantiophyta	Jungermanniopsida	Jungermanniales	Antheliaceae	ACCEPTED	SPECIES
+22056	22056	Apera spica-venti (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22057	22057	Arion distinctus Mabille, 1868		Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	ACCEPTED	SPECIES
+22058	22058	Arion lusitanicus J.Mabille, 1868		Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	ACCEPTED	SPECIES
+22059	22059	Arion silvaticus Lohmander, 1937		Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	ACCEPTED	SPECIES
+22060	22060	Arthurdendyus triangulatus (Dendy, 1895)		Animalia	Platyhelminthes	Rhabditophora	Tricladida	Geoplanidae	ACCEPTED	SPECIES
+22061	22061	Bonnemaisonia hamifera Hariot		Plantae	Rhodophyta	Florideophyceae	Bonnemaisoniales	Bonnemaisoniaceae	ACCEPTED	SPECIES
+22062	22062	Branta canadensis (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	ACCEPTED	SPECIES
+22063	22063	Bromus hordeaceus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22064	22064	Campylopus introflexus Bridel, 1819		Plantae	Bryophyta	Bryopsida	Dicranales	Dicranaceae	ACCEPTED	SPECIES
+22065	22065	Caprella mutica Schurin, 1935		Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	ACCEPTED	SPECIES
+22066	22066	Capsella bursa-pastoris Medik.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+22067	22067	Carum carvi L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	ACCEPTED	SPECIES
+22068	22068	Centaurea scabiosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22069	22069	Cerastium glomeratum Thuill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+22070	22070	Cirsium vulgare (Savi) Ten.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22071	22071	Cochlicopa lubrica (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Cochlicopidae	ACCEPTED	SPECIES
+22072	22072	Cynosurus cristatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22073	22073	Dactylis glomerata L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22074	22074	Deroceras agreste (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	ACCEPTED	SPECIES
+22075	22075	Deroceras reticulatum (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	ACCEPTED	SPECIES
+22076	22076	Devaleraea ramentacea (Linnaeus) Guiry, 1982		Plantae	Rhodophyta	Florideophyceae	Palmariales	Palmariaceae	ACCEPTED	SPECIES
+22077	22077	Elytrigia repens (L.) Nevski	Elymus repens (L.) Gould	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+22078	22078	Epilobium ciliatum Raf.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	ACCEPTED	SPECIES
+22079	22079	Epilobium komarovianum H.LÃ©v.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	ACCEPTED	SPECIES
+22080	22080	Equisetum variegatum Schleich.		Plantae	Tracheophyta	Equisetopsida	Equisetales	Equisetaceae	ACCEPTED	SPECIES
+22081	22081	Fallopia convolvulus (L.) Ã.LÃ¶ve		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22082	22082	Galeopsis speciosa Mill.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+22083	22083	Galium spurium L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+22084	22084	Glebionis segetum Fourr.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22085	22085	Glyceria declinata BrÃ©b.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22086	22086	Glyceria maxima Holmb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22087	22087	Holcus lanatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22088	22088	Iris pseudacorus L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	ACCEPTED	SPECIES
+22089	22089	Lamium purpureum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+22090	22090	Lamium purpureum var. hybridum (Vill.) Vill.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	VARIETY
+22091	22091	Lathyrus pratensis L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+22092	22092	Lauria cylindracea (da Costa, 1778)		Animalia	Mollusca	Gastropoda	Stylommatophora	Lauriidae	ACCEPTED	SPECIES
+22093	22093	Lepus timidus Linnaeus, 1758		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	ACCEPTED	SPECIES
+22094	22094	Lepus timidus Linnaeus, 1758		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	ACCEPTED	SPECIES
+22095	22095	Leucanthemum vulgare Lam.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22096	22096	Limax maximus Linnaeus, 1758		Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	ACCEPTED	SPECIES
+22097	22097	Lolium perenne L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22098	22098	Lotus corniculatus var. sativus Hyl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	VARIETY
+22099	22099	Lotus pedunculatus Cav.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+22100	22100	Lumbricus castaneus (Savigny, 1826)	Enterion castaneum Savigny, 1826	Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SYNONYM	SPECIES
+22101	22101	Lumbricus terrestris Linnaeus, 1758		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	ACCEPTED	SPECIES
+22102	22102	Matricaria discoidea DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22103	22103	Mentha spicata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+22104	22104	Mimulus guttatus		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Phrymaceae	NONE	SPECIES
+22105	22105	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+22106	22106	Myosotis arvensis Hill		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	ACCEPTED	SPECIES
+22107	22107	Myosotis discolor Pers.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	ACCEPTED	SPECIES
+22108	22108	Myrrhis odorata Scop.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	ACCEPTED	SPECIES
+22109	22109	Nesovitrea hammonis (Strom, 1765)	Helix hammonis Strøm, 1765	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SYNONYM	SPECIES
+22110	22110	Ochlopoa annua (L.) H.Scholz	Poa annua L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+22111	22111	Octolasium cyancum		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	ACCEPTED	SPECIES
+22112	22112	Octolasium lacteum		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	ACCEPTED	SPECIES
+22113	22113	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	ACCEPTED	SPECIES
+22114	22114	Oxychilus cellarius (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Oxychilidae	ACCEPTED	SPECIES
+22115	22115	Persicaria amphibia (L.) Gray		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22116	22116	Persicaria lapathifolia (L.) Delarbre		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22117	22117	Persicaria maculosa Gray		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22118	22118	Phalaroides arundinacea (L.) Rauschert	Phalaris arundinacea L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+22119	22119	Phleum pratense L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22120	22120	Plantago major L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	ACCEPTED	SPECIES
+22121	22121	Poa trivialis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+22122	22122	Pseudopolydora paucibranchiata (Okuda, 1937)		Animalia	Annelida	Polychaeta	Spionida	Spionidae	ACCEPTED	SPECIES
+22123	22123	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+22124	22124	Rumex acetosella L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22125	22125	Rumex crispus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22126	22126	Rumex longifolius DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22127	22127	Rumex obtusifolius L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+22128	22128	Schedonorus pratensis (Huds.) P.Beauv.	Festuca rubra L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+22129	22129	Senecio vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22130	22130	Sinapis arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+22131	22131	Sonchus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22132	22132	Spergula arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+22133	22133	Tanacetum vulgare L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22134	22134	Teredo navalis Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Myida	Teredinidae	ACCEPTED	SPECIES
+22135	22135	Trifolium pratense L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+22136	22136	Trifolium repens L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+22137	22137	Tussilago farfara L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+22138	22138	Urtica dioica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	ACCEPTED	SPECIES
+22139	22139	Veronica arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	ACCEPTED	SPECIES
+22140	22140	Veronica beccabunga L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	ACCEPTED	SPECIES
+22141	22141	Veronica chamaedrys L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	ACCEPTED	SPECIES
+22142	22142	Vicia cracca L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+22143	22143	Vicia sepium L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+22144	22144	Viola tricolor L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Violaceae	ACCEPTED	SPECIES
+22145	22145	Vitrea contracta (Westerlund, 1871)		Animalia	Mollusca	Gastropoda	Stylommatophora	Pristilomatidae	ACCEPTED	SPECIES

@@ -1,0 +1,120 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+180005	180005	Acacia farnesiana (L.) Willd.	Vachellia farnesiana (L.) Wight & Arn.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+180006	180006	Acanthocereus tetragonus (L.) Hummelinck	Cereus fernambucensis subsp. Fernambucensis	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	SYNONYM
+180007	180007	Acromyrmex octospinosus (Reich, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+180008	180008	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180009	180009	Alectoris rufa (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+180010	180010	Aleurites moluccanus Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+180011	180011	Amadina fasciata (Gmelin, 1789)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+180012	180012	Amandava amandava (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+180013	180013	Amazona amazonica (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180014	180014	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+180015	180015	Ara macao (Linnaeus, 1758)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180016	180016	Aratinga chloroptera (Souance, 1856)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180017	180017	Aratinga pertinax (Linnaeus, 1758)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180018	180018	Asystasia gangetica T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+180019	180019	Bambusa vulgaris Schrad. ex J.C.Wendl.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180020	180020	Bemisia tabaci (Gennadius, 1889)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+180021	180021	Brugmansia suaveolens Bercht. & J.Presl		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+180022	180022	Caesalpinia decapetala (Roth) Alston		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180023	180023	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+180024	180024	Castilla elastica SessÃ©		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+180025	180025	Ceratopteris thalictroides (L.) Brongn.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED
+180026	180026	Chaunus marinus (Linnaeus, 1758)	Rhinella marina (Linnaeus, 1758)	Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	SYNONYM
+180027	180027	Chelonoidis carbonaria Bour, 1980	Chelonoidis carbonarius (Spix, 1824)	Animalia	Chordata	Reptilia	Testudines	Testudinidae	SPECIES	SYNONYM
+180028	180028	Chelonoidis denticulata Obst, 1985	Chelonoidis denticulatus (Linnaeus, 1766)	Animalia	Chordata	Reptilia	Testudines	Testudinidae	SPECIES	SYNONYM
+180029	180029	Cinnamomum camphora (L.) J.Presl		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+180030	180030	Cinnamomum verum J.Presl		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+180031	180031	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+180032	180032	Dasyprocta leporina (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Dasyproctidae	SPECIES	ACCEPTED
+180033	180033	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+180034	180034	Dichrostachys cinerea (L.) Wight & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180035	180035	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+180036	180036	Elaeis guineensis Jacq.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+180037	180037	Eleutherodactylus johnstonei Barbour, 1914		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	SPECIES	ACCEPTED
+180038	180038	Eleutherodactylus planirostris (Cope, 1862)		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	SPECIES	ACCEPTED
+180039	180039	Erigeron karvinskianus DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+180040	180040	Estrilda melpoda (Vieillot, 1817)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+180041	180041	Estrilda troglodytes (Lichtenstein, 1823)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+180042	180042	Eugenia uniflora L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+180043	180043	Euplectes afer (Gmelin, 1789)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+180044	180044	Euplectes franciscanus (Isert, 1789)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+180045	180045	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+180046	180046	Flemingia strobilifera (L.) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180047	180047	Funambulus pennantii Wroughton, 1905		Animalia	Chordata	Mammalia	Rodentia	Sciuridae	SPECIES	ACCEPTED
+180048	180048	Gekko gecko (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+180049	180049	Gymnophthalmus underwoodi Grant, 1958		Animalia	Chordata	Reptilia	Squamata	Gymnophthalmidae	SPECIES	ACCEPTED
+180050	180050	Halophila stipulacea Asch.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+180051	180051	Hedychium coccineum Buch.-Ham. ex Sm.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+180052	180052	Hedychium coronarium J.Koenig		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+180053	180053	Hemidactylus mabouia (Moreau De JonnÃ¨s, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+180054	180054	Herpestes javanicus auropunctatus (Hodgson, 1836)		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	SUBSPECIES	ACCEPTED
+180055	180055	Hydrilla verticillata (L.f.) Royle		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+180056	180056	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	SPECIES	ACCEPTED
+180057	180057	Impatiens walleriana Hook.f.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+180058	180058	Indigofera hirsuta L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180059	180059	Indigofera tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180060	180060	Ipomoea cairica (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+180061	180061	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+180062	180062	Kalanchoe pinnata Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+180063	180063	Limnocharis flava Buchenau		Plantae	Tracheophyta	Liliopsida	Alismatales	Alismataceae	SPECIES	ACCEPTED
+180064	180064	Lissachatina fulica (FÃ©russac, 1821)		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	ACCEPTED
+180065	180065	Lonchura maja (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+180066	180066	Lonchura punctulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+180067	180067	Ludwigia repens Forst.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+180068	180068	Macrobrachium rosenbergii (De Man, 1879)		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+180069	180069	Melanoides tuberculata (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED
+180070	180070	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+180071	180071	Melinis minutiflora P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180072	180072	Melopsittacus undulatus (Shaw, 1805)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180073	180073	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180074	180074	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+180075	180075	Myiopsitta monachus (Boddaert, 1783)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180076	180076	Nandayus nenday (Vieillot, 1823)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180077	180077	Oeceoclades maculata Lindl.		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+180078	180078	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+180079	180079	Paspalum urvillei Steud.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180080	180080	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED
+180081	180081	Pelusios castaneus (Schweigger, 1812)		Animalia	Chordata	Reptilia	Testudines	Pelomedusidae	SPECIES	ACCEPTED
+180082	180082	Pennisetum purpureum Schumach.	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+180083	180083	Pennisetum setaceum (Forssk.) Chiov.	Cenchrus setaceus (Forssk.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+180084	180084	Phasianus colchicus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+180085	180085	Pinus caribaea Morelet		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+180086	180086	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+180087	180087	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+180088	180088	Ploceus cucullatus (Statius Muller, 1776)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+180089	180089	Poa annua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180090	180090	Poecilia reticulata Peters, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+180091	180091	Poecilia vivipara Bloch & Schneider, 1801		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+180092	180092	Poicephalus senegalus (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+180093	180093	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+180094	180094	Pterois volitans (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+180095	180095	Ramphotyphlops braminus Daudin, 1803		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	ACCEPTED
+180096	180096	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+180097	180097	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+180098	180098	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	ACCEPTED
+180099	180099	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+180100	180100	Rubus rosifolius Sm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+180101	180101	Sacciolepis indica Chase		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180102	180102	Salvinia molesta D.Mitch.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+180103	180103	Scinax ruber (Laurenti, 1768)		Animalia	Chordata	Amphibia	Anura	Hylidae	SPECIES	ACCEPTED
+180104	180104	Scinax x-signatus (Spix, 1824)		Animalia	Chordata	Amphibia	Anura	Hylidae	SPECIES	ACCEPTED
+180105	180105	Serinus mozambicus (P.L.Statius MÃ¼ller, 1776)	Crithagra mozambica (P.L.Statius Müller, 1776)	Animalia	Chordata	Aves	Passeriformes	Fringillidae	SPECIES	SYNONYM
+180106	180106	Solanum seaforthianum Andrews		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+180107	180107	Sorghum halepense Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180108	180108	Spathodea campanulata P.Beauv.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+180109	180109	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+180110	180110	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+180111	180111	Streptopelia roseogrisea (Sundevall, 1857)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+180112	180112	Swietenia macrophylla King		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+180113	180113	Syzygium cumini (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+180114	180114	Syzygium jambos (L.) Alston		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+180115	180115	Taraxacum officinale F.H.Wigg.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+180116	180116	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+180117	180117	Themeda quadrivalvis Kuntze		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+180118	180118	Thunbergia alata Bojer ex Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+180119	180119	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+180120	180120	Trachemys stejnegeri Schmidt, 1928		Animalia	Chordata	Reptilia	Testudines	Emydidae	SPECIES	ACCEPTED
+180121	180121	Triphasia trifolia P.Wilson		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+180122	180122	Typha domingensis Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Typhaceae	SPECIES	ACCEPTED
+180123	180123	Vidua macroura (Pallas, 1764)		Animalia	Chordata	Aves	Passeriformes	Viduidae	SPECIES	ACCEPTED

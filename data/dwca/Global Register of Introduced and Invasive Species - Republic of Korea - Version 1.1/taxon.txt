@@ -1,0 +1,63 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+120900	120900	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+120901	120901	Achyranthes japonica Nakai		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+120902	120902	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120903	120903	Amaranthus hybridus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+120904	120904	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+120905	120905	Ambrosia artemisiifolia var. elatior (L.) Descourt.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	VARIETY	ACCEPTED
+120906	120906	Ambrosia trifida L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120907	120907	Anthemis arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120908	120908	Artemisia vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120909	120909	Ascidiella aspersa (MÃ¼ller, 1776)		Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED
+120910	120910	Avena fatua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+120911	120911	Balanus amphitrite Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+120912	120912	Balanus eburneus Gould, 1841		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+120913	120913	Balanus improvisus Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+120914	120914	Balanus improvisus Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+120915	120915	Balanus perforatus BruguiÃ¨re, 1789-1792		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+120916	120916	Bantariella bocki (SilÃ©n, 1942)		Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Mimosellidae	SPECIES	ACCEPTED
+120917	120917	Bidens frondosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120918	120918	Bugula neritina (Linnaeus, 1758)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED
+120919	120919	Bursaphelenchus xylophilus (Steiner & Buhrer, 1934), 1970		Animalia	Nematoda	Secernentea	Aphelenchida	Aphelenchidae	SPECIES	ACCEPTED
+120920	120920	Cakile edentula (Bigelow) Hook.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+120921	120921	Carduus crispus Guirao ex Nyman		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120922	120922	Chenopodium album L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+120923	120923	Ciona intestinalis (Linnaeus, 1767)		Animalia	Chordata	Ascidiacea	Phlebobranchia	Cionidae	SPECIES	ACCEPTED
+120924	120924	Clavelina lepadiformis (MÃ¼ller, 1776)		Animalia	Chordata	Ascidiacea	Aplousobranchia	Clavelinidae	SPECIES	ACCEPTED
+120925	120925	Convolvulus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+120926	120926	Crassocephalum crepidioides S.Moore		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120927	120927	Crepidula onyx G.B.Sowerby I, 1824		Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	SPECIES	ACCEPTED
+120928	120928	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+120929	120929	Diplachne fusca (L.) Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+120930	120930	Erechtites hieracifolia (L.) Raf.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120931	120931	Ficopomatus enigmaticus (Fauvel, 1923)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+120932	120932	Halichondria bowerbanki Burton, 1930		Animalia	Porifera	Demospongiae	Suberitida	Halichondriidae	SPECIES	ACCEPTED
+120933	120933	Humulus japonicus Sieb. & Zucc.	Humulopsis scandens (Lour.) Grudz.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	SYNONYM
+120934	120934	Hyphantria cunea (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+120935	120935	Limnoperna fortunei (Dunker, 1857)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+120936	120936	Malva neglecta Wallr		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+120937	120937	Matsucoccus thunbergianae Miller, 1987		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+120938	120938	Molgula manhattensis (De Kay, 1843)		Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED
+120939	120939	Morus bombycis Koidz.	Morus australis Poir.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	SYNONYM
+120940	120940	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+120941	120941	Mytilus galloprovincialis Lamarck, 1819		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+120942	120942	Pectinatella magnifica (Leidy, 1851)		Animalia	Bryozoa	Phylactolaemata	Plumatellida	Pectinatellidae	SPECIES	ACCEPTED
+120943	120943	Pinus thunbergii Parl.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+120944	120944	Polygonum orientale L.	Persicaria orientalis (L.) Spach	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+120945	120945	Rana catesbeiana Shaw, 1802	Lithobates catesbeianus (Shaw, 1802)	Animalia	Chordata	Amphibia	Anura	Ranidae	SPECIES	SYNONYM
+120946	120946	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+120947	120947	Rumex acetosella L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+120948	120948	Rumex obtusifolius L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+120949	120949	Schizoporella unicornis (Johnston, 1844)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED
+120950	120950	Sicyos angulatus L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+120951	120951	Solanum carolinense L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+120952	120952	Solidago canadensis var. scabra (Muhl. ex Willd.) Torr. & A.Gray	Solidago altissima subsp. altissima	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	VARIETY	SYNONYM
+120953	120953	Sonchus asper Hill		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120954	120954	Sonchus oleraceus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120955	120955	Sorghum halepense Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+120956	120956	Styela plicata (Lesueur, 1823)		Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED
+120957	120957	Tagetes minuta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+120958	120958	Thecodiplosis japonensis Uchida & Inouye, 1955		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+120959	120959	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+120960	120960	Vespa velutina nigrithorax Buysson, 1905		Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	SUBSPECIES	ACCEPTED
+120961	120961	Xenostrobus securis (Lamarck, 1819)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED

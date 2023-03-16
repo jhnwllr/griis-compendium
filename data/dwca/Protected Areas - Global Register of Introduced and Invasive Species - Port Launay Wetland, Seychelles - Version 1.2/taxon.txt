@@ -1,0 +1,13 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+2500	2500	Achatina fulica (Férussac, 1821)		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	ACCEPTED
+2501	2501	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+2502	2502	Cinnamomum verum J.Presl		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+2503	2503	Foudia madagascariensis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+2504	2504	Geopelia striata (Linnaeus, 1766)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+2505	2505	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+2506	2506	Oreochromis GÃ¼nther, 1889		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	GENUS	ACCEPTED
+2507	2507	Paraserianthes falcataria		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+2508	2508	Psidium cattleianum Sabine		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+2509	2509	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+2510	2510	Tenrec ecaudatus (Schreber, 1778)		Animalia	Chordata	Mammalia	Afrosoricida	Tenrecidae	SPECIES	ACCEPTED
+2511	2511	Tyto alba (Scopoli, 1769)		Animalia	Chordata	Aves	Strigiformes	Tytonidae	SPECIES	ACCEPTED

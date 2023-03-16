@@ -1,0 +1,852 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+87500	87500	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+87501	87501	Acalypha virginica L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87502	87502	Acanthoscelides obtectus (Say, 1831)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87503	87503	Acer negundo L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+87504	87504	Acer saccharum Marshall		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+87505	87505	Acer tataricum L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+87506	87506	Acipenser baerii Brandt, 1869		Animalia	Chordata	Actinopterygii	Acipenseriformes	Acipenseridae	SPECIES	ACCEPTED
+87507	87507	Acorus calamus L.		Plantae	Tracheophyta	Liliopsida	Acorales	Acoraceae	SPECIES	ACCEPTED
+87508	87508	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+87509	87509	Adelencyrtus aulacaspidis (BrÃ¨thes, 1914)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+87510	87510	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+87511	87511	Aedes japonicus (Theobald, 1901)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+87512	87512	Aegilops biuncialis Vis.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87513	87513	Aegilops cylindrica Host		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87514	87514	Aegilops lorentii Hochst.	Aegilops biuncialis Vis.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+87515	87515	Aesculus hippocastanum L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+87516	87516	Agaricus bernardii QuÃ©l.		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	ACCEPTED
+87517	87517	Agaricus bisporus (J.E.Lange) Pilat	Agaricus bisporus (J.E.Lange) Imbach	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	SYNONYM
+87518	87518	Agrocybe putaminum (Maire) Singer		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	SPECIES	ACCEPTED
+87519	87519	Agrostis castellana Boiss. & Reut.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87520	87520	Ailanthus altissima (Mill.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+87521	87521	Aix galericulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87522	87522	Aix sponsa (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87523	87523	Akebia quinata Decne.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Lardizabalaceae	SPECIES	ACCEPTED
+87524	87524	Albugo candida (Pers.) Roussel		Chromista	Oomycota	Peronosporea	Albuginales	Albuginaceae	SPECIES	ACCEPTED
+87525	87525	Alcea rosea L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+87526	87526	Alectoris chukar (J.E.Gray, 1830)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+87527	87527	Alectoris rufa (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+87528	87528	Alocentron curvirostre (Gyllenhal, 1833)		Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	SPECIES	ACCEPTED
+87529	87529	Alopochen aegyptiaca (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87530	87530	Althaea hirsuta L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+87531	87531	Althaea officinalis L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+87532	87532	Amandava amandava (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+87533	87533	Amaranthus albus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87534	87534	Amaranthus blitoides S.Watson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87535	87535	Amaranthus blitum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87536	87536	Amaranthus bouchonii Thell.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87537	87537	Amaranthus caudatus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87538	87538	Amaranthus cruentus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87539	87539	Amaranthus deflexus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87540	87540	Amaranthus dubius Mart.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87541	87541	Amaranthus hybridus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87542	87542	Amaranthus hypochondriacus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87543	87543	Amaranthus palmeri S.Watson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87544	87544	Amaranthus patulus Bertol.	Amaranthus cruentus L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+87545	87545	Amaranthus powellii subsp. bouchonii (Thell.) Costea & Carretero	Amaranthus bouchonii Thell.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SUBSPECIES	SYNONYM
+87546	87546	Amaranthus retroflexus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87547	87547	Amaranthus rudis J.Sauer	Amaranthus tuberculatus (Moq. ex DC.) J.D.Sauer	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+87548	87548	Amaranthus tricolor L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87549	87549	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87550	87550	Ambrosia artemisiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87551	87551	Ambrosia psilostachya DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87552	87552	Ambrosia trifida L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87553	87553	Ameiurus melas (Rafinesque, 1820)		Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED
+87554	87554	Ameiurus nebulosus (Lesueur, 1819)		Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED
+87555	87555	Amorpha fruticosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+87556	87556	Anadara kagoshimensis (Tokunaga, 1906)		Animalia	Mollusca	Bivalvia	Arcida	Arcidae	SPECIES	ACCEPTED
+87557	87557	Anadara transversa (Say, 1822)		Animalia	Mollusca	Bivalvia	Arcida	Arcidae	SPECIES	ACCEPTED
+87558	87558	Anas bahamensis Linnaeus, 1758		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87559	87559	Anas formosa Georgi, 1775		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87560	87560	Anas hottentota (Eyton, 1838)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87561	87561	Anas sibilatrix Poeppig, 1829		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87562	87562	Anethum graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+87563	87563	Anisomeridium polypori (Ellis & Everh.) M.E.Barr		Fungi	Ascomycota	Eurotiomycetes	Pyrenulales	Monoblastiaceae	SPECIES	ACCEPTED
+87564	87564	Anser cygnoides (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87565	87565	Anser indicus (Latham, 1790)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87566	87566	Antheraea pernyi (Guerin-Meneville, 1855)		Animalia	Arthropoda	Insecta	Lepidoptera	Saturniidae	SPECIES	ACCEPTED
+87567	87567	Antheraea yamamai (Guerin-Meneville, 1861)		Animalia	Arthropoda	Insecta	Lepidoptera	Saturniidae	SPECIES	ACCEPTED
+87568	87568	Antirrhinum majus L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+87569	87569	Aphanomyces astaci Schikora		Chromista	Oomycota	Peronosporea	Saprolegniales	Leptolegniaceae	SPECIES	ACCEPTED
+87570	87570	Aphelinus mali (Haldeman, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Aphelinidae	SPECIES	ACCEPTED
+87571	87571	Aphytis mytilaspidis (Le Baron, 1870)		Animalia	Arthropoda	Insecta	Hymenoptera	Aphelinidae	SPECIES	ACCEPTED
+87572	87572	Apiognomonia errabunda (Roberge ex Desm.) HÃ¶hn.		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	SPECIES	ACCEPTED
+87573	87573	Apiognomonia veneta (Sacc. & Speg.) HÃ¶hn.		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	SPECIES	ACCEPTED
+87574	87574	Apium leptophyllum (Pers.) F.Muell.	Cyclospermum leptophyllum (Pers.) Sprague	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	SYNONYM
+87575	87575	Apomyelois ceratoniae (Zeller, 1839)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+87576	87576	Aproceros leucopoda Takeuchi, 1939		Animalia	Arthropoda	Insecta	Hymenoptera	Argidae	SPECIES	ACCEPTED
+87577	87577	Arcuatula senhousia (Benson, 1842)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+87578	87578	Arcuatula senhousia (Benson, 1842)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+87579	87579	Argyresthia thuiella (Packard, 1871)		Animalia	Arthropoda	Insecta	Lepidoptera	Argyresthiidae	SPECIES	ACCEPTED
+87580	87580	Argyresthia trifasciata Staudinger, 1871		Animalia	Arthropoda	Insecta	Lepidoptera	Argyresthiidae	SPECIES	ACCEPTED
+87581	87581	Aristida longispica Poir.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87582	87582	Artemisia annua L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87583	87583	Artemisia verlotiorum Lamotte		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87584	87584	Arundo donax L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87585	87585	Ascochyta syringae Bres.		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	SPECIES	ACCEPTED
+87586	87586	Ascochyta trifolii Siemaszko		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	SPECIES	ACCEPTED
+87587	87587	Asparagopsis armata Harv.		Plantae	Rhodophyta	Florideophyceae	Bonnemaisoniales	Bonnemaisoniaceae	SPECIES	ACCEPTED
+87588	87588	Aspidapion validum (Germar, 1817)		Animalia	Arthropoda	Insecta	Coleoptera	Apionidae	SPECIES	ACCEPTED
+87589	87589	Aster squamatus Hieron.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87590	87590	Atriplex hortensis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87591	87591	Axis axis (Erxleben, 1777)		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED
+87592	87592	Azolla filiculoides Lam.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+87593	87593	Balanus trigonus Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+87594	87594	Ballota alba L.	Ballota nigra L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+87595	87595	Ballota nigra subsp. foetida (Lam.) Hayek		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SUBSPECIES	ACCEPTED
+87596	87596	Barbarea intermedia Boreau		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87597	87597	Bassia scoparia (L.) A.J.Scott		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87598	87598	Berberis aquifolium Pursh		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED
+87599	87599	Berberis thunbergii DC.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED
+87600	87600	Beroe ovata BruguiÃ¨re, 1789		Animalia	Ctenophora	Nuda	Beroida	Beroidae	SPECIES	ACCEPTED
+87601	87601	Bidens bipinnata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87602	87602	Bidens cernua L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87603	87603	Bidens connata Muhl. ex Willd.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87604	87604	Bidens frondosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87605	87605	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87606	87606	Bidens subalternans DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87607	87607	Bidens vulgata Greene		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87608	87608	Biscogniauxia mediterranea (De Not.) Kuntze, 1891		Fungi	Ascomycota	Sordariomycetes	Xylariales	Xylariaceae	SPECIES	ACCEPTED
+87609	87609	Biscogniauxia nummularia (Bull.) Kuntze		Fungi	Ascomycota	Sordariomycetes	Xylariales	Xylariaceae	SPECIES	ACCEPTED
+87610	87610	Blumeria graminis (DC.) Speer		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87611	87611	Blumeriella jaapii (Rehm) Arx		Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	SPECIES	ACCEPTED
+87612	87612	Bonnemaisonia hamifera Hariot		Plantae	Rhodophyta	Florideophyceae	Bonnemaisoniales	Bonnemaisoniaceae	SPECIES	ACCEPTED
+87613	87613	Borago officinalis L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+87614	87614	Botryosphaeria dothidea (Moug.) Ces. & De Not.		Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	SPECIES	ACCEPTED
+87615	87615	Branta bernicla (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87616	87616	Branta canadensis (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87617	87617	Bremia lactucae Regel	Hyaloperonospora parasitica (Pers.) Constant.	Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	SYNONYM
+87618	87618	Bromus carinatus Hook. & Arn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87619	87619	Bromus catharticus Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87620	87620	Bromus commutatus subsp. neglectus (Parl.) P.M.Sm.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SUBSPECIES	ACCEPTED
+87621	87621	Bromus japonicus subsp. anatolicus (Boiss. & Heldr.) PÃ©nzes		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SUBSPECIES	ACCEPTED
+87622	87622	Bromus lepidus Holmb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87623	87623	Bruchus lentis FrÃ¶lich, 1799		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87624	87624	Bruchus pisorum (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87625	87625	Bruchus rufimanus Boheman, 1833		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87626	87626	Brunnera macrophylla I.M.Johnst.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+87627	87627	Buddleja davidii Franch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+87628	87628	Bursatella leachii Blainville, 1817		Animalia	Mollusca	Gastropoda	Aplysiida	Aplysiidae	SPECIES	ACCEPTED
+87629	87629	Cacyreus marshalli Butler, 1898		Animalia	Arthropoda	Insecta	Lepidoptera	Lycaenidae	SPECIES	ACCEPTED
+87630	87630	Cadra cautella (Walker, 1863)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+87631	87631	Cadra figulilella (Gregson, 1871)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+87632	87632	Caenoscelis subdeplanata Brisout de Barneville, 1882		Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	SPECIES	ACCEPTED
+87633	87633	Cairina moschata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87634	87634	Callonetta leucophrys (Vieillot, 1816)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87635	87635	Callosobruchus chinensis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87636	87636	Caloptilia azaleella (Brants, 1913)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+87637	87637	Cameraria ohridella Deschka & Dimic, 1986		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+87638	87638	Campanula baumgartenii subsp. beckiana (Hayek) Podlech		Plantae	Tracheophyta	Magnoliopsida	Asterales	Campanulaceae	SUBSPECIES	ACCEPTED
+87639	87639	Canis aureus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+87640	87640	Capparis spinosa L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Capparaceae	SPECIES	ACCEPTED
+87641	87641	Capra aegagrus Erxleben, 1777	Capra hircus Linnaeus, 1758	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	SYNONYM
+87642	87642	Capra ibex Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+87643	87643	Capsicum annuum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+87644	87644	Carassius auratus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+87645	87645	Carassius gibelio (Bloch, 1782)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+87646	87646	Carcinops pumilio (Erichson, 1834)		Animalia	Arthropoda	Insecta	Coleoptera	Histeridae	SPECIES	ACCEPTED
+87647	87647	Carex crawfordii Fernald		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+87648	87648	Carpophilus bifenestratus Murray, 1864		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+87649	87649	Carpophilus hemipterus (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+87650	87650	Carpophilus nepos Murray, 1864		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+87651	87651	Carpophilus pilosellus Motschulsky, 1858		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+87652	87652	Carthamus tinctorius L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87653	87653	Cartodere nodifer (Westwood, 1839)	Lathridius nodifer Westwood, 1839	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	SPECIES	SYNONYM
+87654	87654	Catalpa bignonioides Walter		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+87655	87655	Cenchrus incertus M.A.Curtis	Cenchrus spinifex Cav.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+87656	87656	Centaurea diffusa Lam.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87657	87657	Centaurea solstitialis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87658	87658	Cerastium tomentosum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+87659	87659	Ceratitis capitata (Wiedemann, 1824)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+87660	87660	Ceratoperidinium margalefii A.R.Loeblich III		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Warnowiaceae	SPECIES	DOUBTFUL
+87661	87661	Cercospora apii Fresen.		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87662	87662	Cercospora thalictri ThÃ¼m., 1878	Passalora thalictri (Thüm.) U.Braun, 2013	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	SYNONYM
+87663	87663	Cercyon laminatus Sharp, 1873		Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	SPECIES	ACCEPTED
+87664	87664	Cheiracanthium mildei L.Koch, 1864		Animalia	Arthropoda	Arachnida	Araneae	Cheiracanthiidae	SPECIES	ACCEPTED
+87665	87665	Cheiranthus cheiri L.	Erysimum cheiri Crantz	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+87666	87666	Chenonetta jubata (Latham, 1802)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87667	87667	Chenopodium ambrosioides L.	Dysphania ambrosioides (L.) Mosyakin & Clemants	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+87668	87668	Chenopodium botrys L.	Dysphania botrys (L.) Mosyakin & Clemants	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+87669	87669	Chenopodium capitatum Wats. ex Britton		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87670	87670	Chenopodium giganteum D.Don		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87671	87671	Chenopodium hircinum Schrad.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87672	87672	Chenopodium probstii Aell.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87673	87673	Chenopodium quinoa Willd.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87674	87674	Cherax quadricarinatus (von Martins, 1868)		Animalia	Arthropoda	Malacostraca	Decapoda	Parastacidae	SPECIES	ACCEPTED
+87675	87675	Chorispora tenella DC.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87676	87676	Chroogomphus helveticus (Singer) M.M.Moser		Fungi	Basidiomycota	Agaricomycetes	Boletales	Gomphidiaceae	SPECIES	ACCEPTED
+87677	87677	Chrysomyxa abietis (Wallr.) Unger		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Coleosporiaceae	SPECIES	ACCEPTED
+87678	87678	Cicer arietinum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+87679	87679	Cinara curvipes (Patch, 1912)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+87680	87680	Cirsium helenioides (L.) Hill		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87681	87681	Citrullus lanatus (Thunb.) Matsumura & Nakai		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+87682	87682	Cladosporium macrocarpum Preuss		Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	SPECIES	ACCEPTED
+87683	87683	Clarias gariepinus (Burchell, 1822)		Animalia	Chordata	Actinopterygii	Siluriformes	Clariidae	SPECIES	ACCEPTED
+87684	87684	Clathrus archeri (Berk.) Dring		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	ACCEPTED
+87685	87685	Clathrus ruber Mich.		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	DOUBTFUL
+87686	87686	Cleome graveolens Rafin.	Arivela viscosa Raf.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+87687	87687	Coccotrypes dactyliperda Eichhoff, 1878b	Bostrichus dactyliperda Fabricius & J.C., 1801	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	SYNONYM
+87688	87688	Codium fragile subsp. fragile		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SUBSPECIES	ACCEPTED
+87689	87689	Coleophora spiraeella Rebel, 1916		Animalia	Arthropoda	Insecta	Lepidoptera	Coleophoridae	SPECIES	ACCEPTED
+87690	87690	Coleosporium tussilaginis (Pers.) LÃ©v.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Coleosporiaceae	SPECIES	ACCEPTED
+87691	87691	Colinus virginianus (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Odontophoridae	SPECIES	ACCEPTED
+87692	87692	Colletotrichum dematium (Pers.) Grove		Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	SPECIES	ACCEPTED
+87693	87693	Commelina communis L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+87694	87694	Consolida ajacis (L.) Schur		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED
+87695	87695	Consolida orientalis (J.Gay) R.SchrÃ¶dinger		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED
+87696	87696	Contarinia pisi (Winnertz, 1854)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+87697	87697	Contarinia quinquenotata (Low, 1888)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+87698	87698	Coregonus lavaretus Valenciennes, 1848		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+87699	87699	Coriandrum sativum L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+87700	87700	Cornus kousa Bürger ex Hance		Plantae	Tracheophyta	Magnoliopsida	Cornales	Cornaceae	SPECIES	ACCEPTED
+87701	87701	Coronopus didymus (L.) Sm.	Lepidium didymum L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+87702	87702	Cortaderia selloana Asch. & Graebn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87703	87703	Corythucha arcuata (Say, 1832)		Animalia	Arthropoda	Insecta	Hemiptera	Tingidae	SPECIES	ACCEPTED
+87704	87704	Corythucha ciliata (Say, 1832)		Animalia	Arthropoda	Insecta	Hemiptera	Tingidae	SPECIES	ACCEPTED
+87705	87705	Cosmos bipinnatus Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87706	87706	Crassostrea gigas (Thunberg, 1793)	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	SYNONYM
+87707	87707	Crepidotus crocophyllus Berk.	Crepidotus crocophyllus (Berk.) Sacc., 1887	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	SPECIES	SYNONYM
+87708	87708	Cristulariella depraedans (Cooke) HÃ¶hn.		Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	SPECIES	ACCEPTED
+87709	87709	Cronartium flaccidum (Alb. & Schwein.) G.Winter, 1880	Cronartium pini (Willd.) Jørst., 1925	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Cronartiaceae	SPECIES	SYNONYM
+87710	87710	Cronartium ribicola J.C.Fisch.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Cronartiaceae	SPECIES	ACCEPTED
+87711	87711	Cryphonectria parasitica (Murrill) M.E.Barr		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Cryphonectriaceae	SPECIES	ACCEPTED
+87712	87712	Cryptolestes duplicatus (Waltl, 1839)		Animalia	Arthropoda	Insecta	Coleoptera	Laemophloeidae	SPECIES	ACCEPTED
+87713	87713	Cryptolestes ferrugineus (Stephens, 1831)		Animalia	Arthropoda	Insecta	Coleoptera	Laemophloeidae	SPECIES	ACCEPTED
+87714	87714	Cryptolestes pusillus (SchÃ¶nherr, 1817)		Animalia	Arthropoda	Insecta	Coleoptera	Laemophloeidae	SPECIES	ACCEPTED
+87715	87715	Cryptophagus acutangulus Gyllenhal, 1827		Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	SPECIES	ACCEPTED
+87716	87716	Cryptophagus cellaris (Scopoli, 1763)		Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	SPECIES	ACCEPTED
+87717	87717	Cryptophagus fallax Balfour-Browne, 1953		Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	SPECIES	ACCEPTED
+87718	87718	Cryptophagus subfumatus Kraatz, 1856		Animalia	Arthropoda	Insecta	Coleoptera	Cryptophagidae	SPECIES	ACCEPTED
+87719	87719	Cryptopleurum subtile Sharp, 1884		Animalia	Arthropoda	Insecta	Coleoptera	Hydrophilidae	SPECIES	ACCEPTED
+87720	87720	Cryptostroma corticale (Ellis & Everh.) P.H.Greg. & S.Waller		Fungi	Ascomycota	Sordariomycetes	Xylariales	Cryptostroma	SPECIES	ACCEPTED
+87721	87721	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+87722	87722	Cucumis sativus L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+87723	87723	Cucurbita pepo L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+87724	87724	Cucurbitaria laburni (Pers.) De Not., 1862	Camarosporidiella laburni (Pers.) Wanas., Bulgakov, Camporesi & K.D.Hyde, 2017	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Camarosporidiellaceae	SPECIES	SYNONYM
+87725	87725	Cucurbitaria piceae Borthw.		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Cucurbitariaceae	SPECIES	ACCEPTED
+87726	87726	Cumminsiella mirabilissima (Peck) Nannf.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+87727	87727	Cuscuta australis R.Br.	Cuscuta scandens Brot.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+87728	87728	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+87729	87729	Cuscuta scandens Brot.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+87730	87730	Cyathus stercoreus (Schwein.) De Toni		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	ACCEPTED
+87731	87731	Cydalima perspectalis (Walker, 1859)		Animalia	Arthropoda	Insecta	Lepidoptera	Crambidae	SPECIES	ACCEPTED
+87732	87732	Cydonia oblonga Mill.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+87733	87733	Cygnus atratus (Latham, 1790)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87734	87734	Cygnus olor (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87735	87735	Cymadothea trifolii (Pers.) F.A.Wolf, 1935	Polythrincium trifolii Kunze, 1817	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	SYNONYM
+87736	87736	Cyperus eragrostis Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+87737	87737	Cyperus esculentus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+87738	87738	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+87739	87739	Cytisus scoparius (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+87740	87740	Dama dama (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED
+87741	87741	Danae racemosa Moench		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+87742	87742	Daphnia parvula Fordyce, 1901		Animalia	Arthropoda	Branchiopoda	Diplostraca	Daphniidae	SPECIES	ACCEPTED
+87743	87743	Dasineura gleditchiae (Osten Sacken, 1866)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+87744	87744	Dasineura oxycoccana (Johnson, 1899)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+87745	87745	Datura ferox L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+87746	87746	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+87747	87747	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+87748	87748	Dendrocygna bicolor (Vieillot, 1816)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87749	87749	Deutzia scabra Thunb.		Plantae	Tracheophyta	Magnoliopsida	Cornales	Hydrangeaceae	SPECIES	ACCEPTED
+87750	87750	Diabrotica virgifera J.L.LeConte, 1868		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87751	87751	Diaporthe oncostoma (Duby) Fuckel		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Diaporthaceae	SPECIES	ACCEPTED
+87752	87752	Dicarpella dryina Belisario & M.E.Barr		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Melanconidaceae	SPECIES	ACCEPTED
+87753	87753	Didymascella thujina (E.J.Durand) Maire		Fungi	Ascomycota	Leotiomycetes	Helotiales	Hemiphacidiaceae	SPECIES	ACCEPTED
+87754	87754	Diplodia pinea (Desm.) J.Kickx f.	Sphaeropsis sapinea (Fr.) Dyko & B.Sutton	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	SPECIES	SYNONYM
+87755	87755	Discula destructiva Redlin		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	SPECIES	ACCEPTED
+87756	87756	Dittrichia graveolens (L.) Greuter		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87757	87757	Dohrniphora cornuta (Bigot, 1857)		Animalia	Arthropoda	Insecta	Diptera	Phoridae	SPECIES	ACCEPTED
+87758	87758	Dothistroma pini Hulbary		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87759	87759	Dothistroma septosporum (Dorogin) M.Morelet, 1968		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87760	87760	Draba muralis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87761	87761	Draba nemorosa L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87762	87762	Drepanopeziza punctiformis Gremmen		Fungi	Ascomycota	Leotiomycetes	Helotiales	Dermateaceae	SPECIES	ACCEPTED
+87763	87763	Drosophila suzukii (Matsumura, 1931)		Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	SPECIES	ACCEPTED
+87764	87764	Dryocosmus kuriphilus Yasumatsu, 1951		Animalia	Arthropoda	Insecta	Hymenoptera	Cynipidae	SPECIES	ACCEPTED
+87765	87765	Duchesnea indica (Andr.) Focke	Potentilla indica (Andrews) T.Wolf	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+87766	87766	Dysphania ambrosioides (L.) Mosyakin & Clemants		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87767	87767	Dysphania botrys (L.) Mosyakin & Clemants		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+87768	87768	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87769	87769	Echinochloa crus-pavonis Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87770	87770	Echinochloa erecta (Pollacci) Pignatti	Echinochloa oryzoides (Ard.) Fritsch	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+87771	87771	Echinochloa oryzoides (Ard.) Fritsch		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87772	87772	Echinochloa phyllopogon (Stapf) Stapf	Echinochloa oryzoides (Ard.) Fritsch	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+87773	87773	Echinocystis lobata Torr. & A.Gray		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+87774	87774	Eilema caniola (Hubner, 1808)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+87775	87775	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87776	87776	Elodea canadensis Michx.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+87777	87777	Elodea nuttallii St.John		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+87778	87778	Elsinoe ampelina Shear		Fungi	Ascomycota	Dothideomycetes	Myriangiales	Elsinoaceae	SPECIES	ACCEPTED
+87779	87779	Emberiza bruniceps von J.F.Brandt, 1841		Animalia	Chordata	Aves	Passeriformes	Emberizidae	SPECIES	ACCEPTED
+87780	87780	Emberiza rutila Pallas, 1776		Animalia	Chordata	Aves	Passeriformes	Emberizidae	SPECIES	ACCEPTED
+87781	87781	Encarsia berlesei (Howard, 1906)		Animalia	Arthropoda	Insecta	Hymenoptera	Aphelinidae	SPECIES	ACCEPTED
+87782	87782	Entoleuca mammata (Wahlenb.) J.D.Rogers & Y.M.Ju		Fungi	Ascomycota	Sordariomycetes	Xylariales	Xylariaceae	SPECIES	ACCEPTED
+87783	87783	Entyloma calendulae (Oudem.) de Bary		Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomataceae	SPECIES	ACCEPTED
+87784	87784	Entyloma fergussonii (Berk. & Broome) Plowr.		Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomataceae	SPECIES	ACCEPTED
+87785	87785	Entyloma fuscum J.SchrÃ¶t.		Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomataceae	SPECIES	ACCEPTED
+87786	87786	Epauloecus unicolor (Piller & Mitterpacher, 1783)	Tipnus unicolor (Piller & Mitterpacher, 1783)	Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	SPECIES	SYNONYM
+87787	87787	Ephestia elutella (Hubner, 1796)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+87788	87788	Ephestia kuehniella Zeller, 1879		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+87789	87789	Epichloe typhina (Pers.) Tul. & C.Tul.		Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	SPECIES	ACCEPTED
+87790	87790	Epilobium adenocaulon Hausskn.	Epilobium ciliatum Raf.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	SYNONYM
+87791	87791	Epilobium ciliatum Raf.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+87792	87792	Epilobium ciliatum subsp. ciliatum		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SUBSPECIES	ACCEPTED
+87793	87793	Eragrostis frankii Steud.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87794	87794	Eragrostis pectinacea (Michx.) Nees		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87795	87795	Erechtites hieraciifolia (L.) Raf. ex DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87796	87796	Erigeron annuus Pers.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87797	87797	Erigeron bonariensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87798	87798	Erigeron canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87799	87799	Erigeron septentrionalis (Fernald & Wiegand) Holub, 1974	Erigeron strigosus Muhl. ex Willd.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+87800	87800	Erigeron strigosus Muhl. ex Willd.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87801	87801	Erucastrum gallicum O.E.Schulz		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87802	87802	Erucastrum nasturtiifolium O.E.Schulz		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87803	87803	Erysimum cheiri Crantz		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87804	87804	Erysiphe alphitoides (Griffon & Maubl.) U.Braun & S.Takam.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87805	87805	Erysiphe arcuata U.Braun, V.P.Heluta & S.Takam.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87806	87806	Erysiphe azaleae (U.Braun) U.Braun & S.Takam.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87807	87807	Erysiphe cruciferarum Opiz ex L.Junell		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87808	87808	Erysiphe elevata (Burrill) U.Braun & S.Takam.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87809	87809	Erysiphe flexuosa (Peck) U.Braun & S.Takam.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87810	87810	Erysiphe heraclei DC.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87811	87811	Erysiphe lonicerae DC.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87812	87812	Erysiphe necator Schwein.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87813	87813	Erysiphe platani (Howe) U.Braun & S.Takam.		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87814	87814	Eschscholzia californica Cham.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+87815	87815	Estrilda astrild (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+87816	87816	Euophryum confine (Broun, 1880)	Pentarthrum confine Broun, 1881	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	SYNONYM
+87817	87817	Eupatorium maculatum L.	Eutrochium maculatum (L.) E.E.Lamont	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+87818	87818	Euphorbia characias L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87819	87819	Euphorbia humifusa Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87820	87820	Euphorbia lathyris L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87821	87821	Euphorbia maculata L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87822	87822	Euphorbia marginata Pursh		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87823	87823	Euphorbia nutans Lag.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87824	87824	Euphorbia prostrata Aiton		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+87825	87825	Eutypella parasitica R.W.Davidson & R.C.Lorenz		Fungi	Ascomycota	Sordariomycetes	Xylariales	Diatrypaceae	SPECIES	ACCEPTED
+87826	87826	Exobasidium rhododendri (Fuckel) C.E.Cramer		Fungi	Basidiomycota	Exobasidiomycetes	Exobasidiales	Exobasidiaceae	SPECIES	ACCEPTED
+87827	87827	Falco rusticolus Linnaeus, 1758		Animalia	Chordata	Aves	Falconiformes	Falconidae	SPECIES	ACCEPTED
+87828	87828	Fallopia aubertii (Louis Henry) J.Holub	Fallopia baldschuanica (Regel) Holub	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+87829	87829	Fallopia bohemica (Chrtek & ChrtkovÃ¡) J.P.Bailey	Reynoutria bohemica Chrtek & Chrtková	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+87830	87830	Fallopia japonica (Houtt.) Ronse Decraene	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+87831	87831	Ficopomatus enigmaticus (Fauvel, 1923)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+87832	87832	Fragaria ananassa (Weston) Duchesne ex Rozier		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+87833	87833	Galeobdolon argentatum Smejkal	Lamium galeobdolon (L.) L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+87834	87834	Galinsoga ciliata (Rafin.) S.F.Blake	Galinsoga quadriradiata Ruiz & Pav.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+87835	87835	Galinsoga parviflora Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87836	87836	Galinsoga quadriradiata Ruiz & Pav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87837	87837	Galium saxatile L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+87838	87838	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+87839	87839	Ganoderma pfeifferi Bres.		Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	SPECIES	ACCEPTED
+87840	87840	Ganoderma resinaceum Boud.		Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	SPECIES	ACCEPTED
+87841	87841	Geastrum campestre Morgan		Fungi	Basidiomycota	Agaricomycetes	Geastrales	Geastraceae	SPECIES	ACCEPTED
+87842	87842	Geopora sumneriana (Cooke) M.Torre		Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	SPECIES	ACCEPTED
+87843	87843	Geranium sibiricum L.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+87844	87844	Geranium thunbergii Siebold ex Lindl. & Paxton		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+87845	87845	Geum aleppicum Jacq.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+87846	87846	Gibbium psylloides (Czenpinski, 1778)		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	SPECIES	ACCEPTED
+87847	87847	Gleditsia triacanthos L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+87848	87848	Glischrochilus quadrisignatus (Say, 1835)		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+87849	87849	Glomerella cingulata (Stoneman) Spauld. & H.Schrenk, 1903	Colletotrichum gloeosporioides (Penz.) Penz. & Sacc., 1884	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Glomerellaceae	SPECIES	SYNONYM
+87850	87850	Glyceria striata (Lam.) Hitchc.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87851	87851	Gnathotrichus materiarius Wood & Bright, 1992	Tomicus materiarius Fitch, 1858	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	SYNONYM
+87852	87852	Gnomonia leptostyla (Fr.) Ces. & De Not., 1863	Ophiognomonia leptostyla (Fr.) Sogonov, 2008	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	SPECIES	SYNONYM
+87853	87853	Gnomoniopsis smithogilvyi L.A.Shuttlew., E.C.Y.Liew & D.I.Guest, 2012		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	SPECIES	ACCEPTED
+87854	87854	Gomphidius glutinosus (Schaeff.) Fr.		Fungi	Basidiomycota	Agaricomycetes	Boletales	Gomphidiaceae	SPECIES	ACCEPTED
+87855	87855	Gomphidius maculatus (Scop.) Fr.		Fungi	Basidiomycota	Agaricomycetes	Boletales	Gomphidiaceae	SPECIES	ACCEPTED
+87856	87856	Gracilia minuta (Fabricius, 1781)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+87857	87857	Grapholita molesta (Busck, 1916)		Animalia	Arthropoda	Insecta	Lepidoptera	Tortricidae	SPECIES	ACCEPTED
+87858	87858	Guepinia helvelloides (DC.) Fr.		Fungi	Basidiomycota	Agaricomycetes	Auriculariales		SPECIES	ACCEPTED
+87859	87859	Guignardia aesculi (Peck) V.B.Stewart, 1916	Phyllosticta paviae Desm., 1847	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Phyllostictaceae	SPECIES	SYNONYM
+87860	87860	Guignardia philoprina (Berk. & M.A.Curtis) Aa, 1973	Phyllosticta philoprina (Berk. & M.A.Curtis) Wikee & Crous, 2013	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Phyllostictaceae	SPECIES	SYNONYM
+87861	87861	Guizotia abyssinica (L.f.) Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87862	87862	Gymnosporangium clavariiforme (Wulfen) DC.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+87863	87863	Gymnosporangium confusum Plowr.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+87864	87864	Gymnosporangium cornutum Arthur ex F.Kern		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+87865	87865	Gymnosporangium sabinae (Dicks.) G.Winter		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+87866	87866	Gymnosporangium tremelloides Syd.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	DOUBTFUL
+87867	87867	Halyomorpha halys (Stål, 1855)		Animalia	Arthropoda	Insecta	Hemiptera	Pentatomidae	SPECIES	ACCEPTED
+87868	87868	Harmonia axyridis (Pallas, 1773)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+87869	87869	Helianthus annuus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87870	87870	Helianthus pauciflorus subsp. pauciflorus		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SUBSPECIES	ACCEPTED
+87871	87871	Helianthus rigidus (Cass.) Desf.	Helianthus pauciflorus Nutt.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+87872	87872	Helianthus tuberosus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87873	87873	Hemerocallis fulva L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED
+87874	87874	Hermetia illucens (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Diptera	Stratiomyidae	SPECIES	ACCEPTED
+87875	87875	Hibiscus syriacus L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+87876	87876	Humulopsis scandens (Lour.) Grudz.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	ACCEPTED
+87877	87877	Hyacinthoides non-scripta (L.) Chouard ex W.Rothmaler		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+87878	87878	Hyaloperonospora parasitica (Pers.) Constant.		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+87879	87879	Hydnangium carneum Wallr.		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hydnangiaceae	SPECIES	ACCEPTED
+87880	87880	Hydrangea arborescens L.		Plantae	Tracheophyta	Magnoliopsida	Cornales	Hydrangeaceae	SPECIES	ACCEPTED
+87881	87881	Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014		Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	SPECIES	ACCEPTED
+87882	87882	Hypericum androsaemum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED
+87883	87883	Hyphantria cunea (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+87884	87884	Hypophthalmichthys molitrix (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+87885	87885	Hypophthalmichthys nobilis (Richardson, 1845)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+87886	87886	Impatiens balsamina L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+87887	87887	Impatiens glandulifera Royle		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+87888	87888	Impatiens parviflora DC.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+87889	87889	Ipomoea purpurea (L.) Roth		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+87890	87890	Iris foetidissima L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED
+87891	87891	Isatis tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87892	87892	Isodontia mexicana (de Saussure, 1867)		Animalia	Arthropoda	Insecta	Hymenoptera	Sphecidae	SPECIES	ACCEPTED
+87893	87893	Iva xanthifolia Nutt.	Cyclachaena xanthiifolia Fresen.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+87894	87894	Jasminum fruticans L.	Chrysojasminum fruticans (L.) Banfi	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	SYNONYM
+87895	87895	Jasminum officinale L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+87896	87896	Juglans nigra L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Juglandaceae	SPECIES	ACCEPTED
+87897	87897	Juncus tenuis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED
+87898	87898	Kabatina thujae R.Schneid. & Arx		Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	SPECIES	ACCEPTED
+87899	87899	Kerria japonica (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+87900	87900	Korynetes caeruleus (De Geer, 1775)	Clerus caeruleus De Geer, 1775	Animalia	Arthropoda	Insecta	Coleoptera	Cleridae	SPECIES	SYNONYM
+87901	87901	Laccaria fraterna (Sacc.) Pegler		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hydnangiaceae	SPECIES	ACCEPTED
+87902	87902	Lachnellula occidentalis (G.G.Hahn & Ayers) Dharne		Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	SPECIES	ACCEPTED
+87903	87903	Lachnellula willkommii (Hartig) Dennis		Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	SPECIES	ACCEPTED
+87904	87904	Lactarius deterrimus GrÃ¶ger		Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	SPECIES	ACCEPTED
+87905	87905	Larinioides sclopetarius (Clerck, 1757)		Animalia	Arthropoda	Arachnida	Araneae	Araneidae	SPECIES	ACCEPTED
+87906	87906	Lasioderma serricorne (Fabricius, 1792)		Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae	SPECIES	ACCEPTED
+87907	87907	Lavandula angustifolia Mill.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+87908	87908	Lecanosticta acicola (Thüm.) Syd., 1924		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87909	87909	Leiothrix lutea (Scopoli, 1786)		Animalia	Chordata	Aves	Passeriformes	Leiothrichidae	SPECIES	ACCEPTED
+87910	87910	Lentinula edodes (Berk.) Pegler		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Omphalotaceae	SPECIES	ACCEPTED
+87911	87911	Lepidium didymum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87912	87912	Lepidium virginicum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+87913	87913	Lepomis gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+87914	87914	Leptinotarsa decemlineata (Say, 1824)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87915	87915	Leptoglossus occidentalis Heidemann, 1910		Animalia	Arthropoda	Insecta	Hemiptera	Coreidae	SPECIES	ACCEPTED
+87916	87916	Leptosphaerulina trifolii (Rostr.) Petr.		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	SPECIES	ACCEPTED
+87917	87917	Leucoagaricus americanus (Peck) Vellinga		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	ACCEPTED
+87918	87918	Leucoagaricus leucothites (Vittad.) M.M.Moser ex Bon	Leucoagaricus leucothites (Vittad.) Wasser	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	SYNONYM
+87919	87919	Leucocoprinus bresadolae (Schulzer) M.M.Moser	Leucoagaricus americanus (Peck) Vellinga	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	SYNONYM
+87920	87920	Leucocoprinus cepistipes (Sowerby) Pat.		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	ACCEPTED
+87921	87921	Leucocoprinus ianthinus (Cooke) Locq.	Leucocoprinus ianthinus (Cooke) P.Mohr	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	SYNONYM
+87922	87922	Leucocoprinus lilacinogranulosus (Henn.) Locq.	Leucocoprinus ianthinus (Cooke) P.Mohr	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	SYNONYM
+87923	87923	Lindernia dubia (L.) Pennell		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	ACCEPTED
+87924	87924	Liriomyza huidobrensis Blanchard, 1926		Animalia	Arthropoda	Insecta	Diptera	Agromyzidae	SPECIES	ACCEPTED
+87925	87925	Liriomyza trifolii Burgess, 1880		Animalia	Arthropoda	Insecta	Diptera	Agromyzidae	SPECIES	ACCEPTED
+87926	87926	Lobelia erinus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Campanulaceae	SPECIES	ACCEPTED
+87927	87927	Lonchura punctulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+87928	87928	Lonicera nitida E.H.Wilson	Lonicera pileata Oliv.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	SYNONYM
+87929	87929	Lophodermium piceae (Fuckel) HÃ¶hn.		Fungi	Ascomycota	Leotiomycetes	Rhytismatales	Rhytismataceae	SPECIES	ACCEPTED
+87930	87930	Lophodermium pini-excelsae S.Ahmad		Fungi	Ascomycota	Leotiomycetes	Rhytismatales	Rhytismataceae	SPECIES	ACCEPTED
+87931	87931	Lophodytes cucullatus (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87932	87932	Lycium chinense Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+87933	87933	Lyctus brunneus Stephens, 1830		Animalia	Arthropoda	Insecta	Coleoptera	Bostrichidae	SPECIES	DOUBTFUL
+87934	87934	Lysurus cruciatus (Lepr. & Mont.) Henn.		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	ACCEPTED
+87935	87935	Macrophomina phaseolina (Tassi) Goid.		Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	SPECIES	ACCEPTED
+87936	87936	Mallodon downesii Hope, 1843		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+87937	87937	Matricaria discoidea DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+87938	87938	Medicago sativa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+87939	87939	Megabruchidius dorsalis (FÃ¥hraeus, 1839)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+87940	87940	Megaselia gregaria (Wood, 1910)		Animalia	Arthropoda	Insecta	Diptera	Phoridae	SPECIES	ACCEPTED
+87941	87941	Megastigmus wachtli Seitner, 1916		Animalia	Arthropoda	Insecta	Hymenoptera	Torymidae	SPECIES	ACCEPTED
+87942	87942	Melampsora allii-populina Kleb.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87943	87943	Melampsora caprearum ThÃ¼m.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87944	87944	Melampsora euphorbiae (Ficinus & C.Schub.) Castagne		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87945	87945	Melampsora hypericorum (DC.) J.SchrÃ¶t.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87946	87946	Melampsora laricis-pentandrae Kleb.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87947	87947	Melampsora laricis-populina Kleb.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87948	87948	Melampsora populnea (Pers.) P.Karst.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Melampsoraceae	SPECIES	ACCEPTED
+87949	87949	Melampsorella caryophyllacearum (DC.) J.SchrÃ¶t.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	SPECIES	ACCEPTED
+87950	87950	Melampsorella symphyti (DC.) BubÃ¡k, 1903	Pucciniastrum symphyti (DC.) McKenzie & Padamsee, 2014	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	SPECIES	SYNONYM
+87951	87951	Melampsoridium betulinum (Pers.) Kleb.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	SPECIES	ACCEPTED
+87952	87952	Melampsoridium hiratsukanum S.Ito ex Hirats.f.		Fungi	Ascomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	SPECIES	ACCEPTED
+87953	87953	Melanconis modonia Tul. & C.Tul.		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Melanconidaceae	SPECIES	ACCEPTED
+87954	87954	Melanomma rhododendri Rehm		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Melanommataceae	SPECIES	ACCEPTED
+87955	87955	Melopsittacus undulatus (Shaw, 1805)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+87956	87956	Mentha piperita L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+87957	87957	Meria laricis Vuill., 1896	Rhabdocline laricis (Vuill.) Stone, 2014	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hemiphacidiaceae	SPECIES	SYNONYM
+87958	87958	Mespilus germanica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+87959	87959	Metcalfa pruinosa (Say, 1830)		Animalia	Arthropoda	Insecta	Hemiptera	Flatidae	SPECIES	ACCEPTED
+87960	87960	Microbotryum violaceum (Pers.) G.Deml & Oberw.		Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Microbotryaceae	SPECIES	ACCEPTED
+87961	87961	Micropeplus marietti Jacquelin du Val, 1857		Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	SPECIES	ACCEPTED
+87962	87962	Micropterus salmoides (LacepÃ¨de, 1802)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+87963	87963	Microsphaera berberidis (DC.) LÃ©v., 1851	Erysiphe berberidis DC., 1805	Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	SYNONYM
+87964	87964	Microstroma juglandis (BÃ©renger) Sacc., 1886	Pseudomicrostroma juglandis (Bérenger) Kijporn. & Aime, 2017	Fungi	Basidiomycota	Exobasidiomycetes	Microstromatales		SPECIES	SYNONYM
+87965	87965	Mimulus guttatus Fisch.	Erythranthe lutea (L.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Phrymaceae	SPECIES	SYNONYM
+87966	87966	Mimulus moschatus Douglas ex Lindl.	Erythranthe moschata (Douglas ex Lindl.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Phrymaceae	SPECIES	SYNONYM
+87967	87967	Mirabilis jalapa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+87968	87968	Miscanthus sinensis Andersson		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87969	87969	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+87970	87970	Monarda didyma L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+87971	87971	Monarthropalpus flavus (Schrank, 1776)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+87972	87972	Monomorium pharaonis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+87973	87973	Morus alba L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+87974	87974	Morus nigra L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+87975	87975	Muggiaea atlantica Cunningham, 1892		Animalia	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	SPECIES	ACCEPTED
+87976	87976	Muhlenbergia schreberi J.F.Gmel.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+87977	87977	Muhlenbergia vaginiflora		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	
+87978	87978	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+87979	87979	Mutinus elegans (Mont.) E.Fisch.		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	ACCEPTED
+87980	87980	Mutinus ravenelii (Berk. & M.A.Curtis) E.Fisch.		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	ACCEPTED
+87981	87981	Mycosphaerella isariphora (Desm.) Johanson		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87982	87982	Mycosphaerella mori (Fuckel) F.A.Wolf		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87983	87983	Mycosphaerella podagrariae (Fr.) Petr.		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87984	87984	Mycosphaerella ribis (Fuckel) Lindau		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+87985	87985	Mylopharyngodon piceus (Richardson, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+87986	87986	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+87987	87987	Narcissus medioluteus Mill.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+87988	87988	Narcissus pseudonarcissus L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+87989	87989	Nathrius brevipennis (Mulsant, 1839)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+87990	87990	Nattrassia mangiferae (Syd. & P.Syd.) B.Sutton & Dyko	Neofusicoccum mangiferae (Syd. & P.Syd.) Crous, Slippers & A.J.L.Phillips	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Botryosphaeriaceae	SPECIES	SYNONYM
+87991	87991	Necrobia violacea (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Cleridae	SPECIES	ACCEPTED
+87992	87992	Neoclytus acuminatus (Fabricius, 1775)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+87993	87993	Neodryinus typhlocybae (Ashmead, 1893)		Animalia	Arthropoda	Insecta	Hymenoptera	Dryinidae	SPECIES	ACCEPTED
+87994	87994	Neoerysiphe galeopsidis (DC.) U.Braun		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+87995	87995	Neonectria galligena (Bres.) Rossman & Samuels, 1999	Neonectria ditissima (Tul. & C.Tul.) Samuels & Rossman	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	SPECIES	SYNONYM
+87996	87996	Neovison vison (Schreber, 1777)		Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED
+87997	87997	Netta peposaca (Vieillot, 1816)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+87998	87998	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+87999	87999	Nicandra physalodes Scop.	Nicandra physalodes (L.) Gaertn.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+88000	88000	Nicotiana alata Link & Otto		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88001	88001	Nicotiana rustica L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88002	88002	Nicotiana tabacum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88003	88003	Noccaea caerulescens subsp. caerulescens		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SUBSPECIES	ACCEPTED
+88004	88004	Nonea lutea DC.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+88005	88005	Numida meleagris (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Numididae	SPECIES	ACCEPTED
+88006	88006	Nymphicus hollandicus (Kerr, 1792)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+88007	88007	Obolodiplosis robiniae (Haldeman, 1847)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+88008	88008	Oegoconia novimundi (Busck, 1915)		Animalia	Arthropoda	Insecta	Lepidoptera	Autostichidae	SPECIES	ACCEPTED
+88009	88009	Oenothera biennis L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+88010	88010	Oenothera glazioviana Micheli		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+88011	88011	Oenothera pycnocarpa G.F.Atk. & Bartlett		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+88012	88012	Oidium verbenae ThÃ¼m. & P.C.Bolle, 1885	Acrosporium verbenae (Thüm. & P.C.Bolle) J.A.Stev.	Fungi	Ascomycota				SPECIES	SYNONYM
+88013	88013	Omphalotus olearius (DC.) Singer		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Omphalotaceae	SPECIES	ACCEPTED
+88014	88014	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+88015	88015	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+88016	88016	Ophiostoma ulmi (Buisman) Nannf.		Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	SPECIES	ACCEPTED
+88017	88017	Orconectes limosus (Rafinesque, 1817)		Animalia	Arthropoda	Malacostraca	Decapoda	Cambaridae	SPECIES	ACCEPTED
+88018	88018	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+88019	88019	Ornithogalum nutans L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+88020	88020	Oryctolagus cuniculus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SPECIES	ACCEPTED
+88021	88021	Oryzaephilus surinamensis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Silvanidae	SPECIES	ACCEPTED
+88022	88022	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+88023	88023	Oxalis articulata Savign.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+88024	88024	Oxalis dillenii Jacq.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+88025	88025	Oxalis fontana subsp. fontana		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SUBSPECIES	ACCEPTED
+88026	88026	Oxalis pes-caprae L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+88027	88027	Oxyura jamaicensis (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+88028	88028	Pacifastacus leniusculus (Dana, 1852)		Animalia	Arthropoda	Malacostraca	Decapoda	Astacidae	SPECIES	ACCEPTED
+88029	88029	Panicum acuminatum Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88030	88030	Panicum capillare L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88031	88031	Panicum dichotomiflorum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88032	88032	Panicum miliaceum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88033	88033	Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev	Panicum miliaceum L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SUBSPECIES	SYNONYM
+88034	88034	Parabuteo unicinctus (Temminck, 1824)		Animalia	Chordata	Aves	Accipitriformes	Accipitridae	SPECIES	ACCEPTED
+88035	88035	Paralipsa gularis (Zeller, 1877)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+88036	88036	Parectopa robiniella Clemens, 1863		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+88037	88037	Parthenocissus inserta (A.Kerner) Fritsch	Parthenocissus vitacea (Knerr) Hitchc.	Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	SYNONYM
+88038	88038	Parthenocissus quinquefolia (L.) Planch.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+88039	88039	Parthenocissus vitacea (Knerr) Hitchc.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+88040	88040	Paspalum dilatatum Poir.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88041	88041	Paspalum distichum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88042	88042	Passer luteus (Lichtenstein, 1823)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED
+88043	88043	Paysandisia archon (Burmeister, 1880)		Animalia	Arthropoda	Insecta	Lepidoptera	Castniidae	SPECIES	ACCEPTED
+88044	88044	Pelodiscus sinensis (Wiegmann, 1835)		Animalia	Chordata	Reptilia	Testudines	Trionychidae	SPECIES	ACCEPTED
+88045	88045	Perenniporia ochroleuca (Berk.) Ryvarden		Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	SPECIES	ACCEPTED
+88046	88046	Perigona nigriceps (Dejean, 1831)		Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	SPECIES	ACCEPTED
+88047	88047	Peronospora arborescens (Berk.) de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88048	88048	Peronospora chlorae de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88049	88049	Peronospora conglomerata Fuckel		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88050	88050	Peronospora farinosa (Fr.) Fr.		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88051	88051	Peronospora grisea (Unger) de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88052	88052	Peronospora lamii A.Braun		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88053	88053	Peronospora myosotidis de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88054	88054	Peronospora phyteumatis Fuckel		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88055	88055	Peronospora trifoliorum de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88056	88056	Peronospora viciae (Berk.) de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88057	88057	Peronospora violae de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88058	88058	Persicaria orientalis (L.) Spach		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+88059	88059	Petrakia echinata (Peglion) Syd. & P.Syd.		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Melanommataceae	SPECIES	ACCEPTED
+88060	88060	Phacelia tanacetifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Hydrophyllaceae	SPECIES	ACCEPTED
+88061	88061	Phaeocryptopus gaeumannii (T.Rohde) Petr.		Fungi	Ascomycota	Dothideomycetes	Capnodiales	Capnodiaceae	SPECIES	ACCEPTED
+88062	88062	Phalaris canariensis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88063	88063	Phallus impudicus L., 1753		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	ACCEPTED
+88064	88064	Phasianus colchicus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+88065	88065	Phedimus spurius (M.Bieb.) 't Hart		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+88066	88066	Pheucticus ludovicianus (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Cardinalidae	SPECIES	ACCEPTED
+88067	88067	Philadelphus coronarius L.		Plantae	Tracheophyta	Magnoliopsida	Cornales	Hydrangeaceae	SPECIES	ACCEPTED
+88068	88068	Philonthus rectangulus Sharp, 1874		Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	SPECIES	ACCEPTED
+88069	88069	Phloeospora robiniae (Lib.) HÃ¶hn.		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+88070	88070	Pholcus phalangoides	Pholcus phalangioides (Fuesslin, 1775)	Animalia	Arthropoda	Arachnida	Araneae	Pholcidae	SPECIES	SYNONYM
+88071	88071	Phomopsis juniperivora G.Hahn, 1920	Diaporthe juniperivora (G.G.Hahn) Rossman & Udayanga, 2015	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Diaporthaceae	SPECIES	SYNONYM
+88072	88072	Phragmidium fusiforme J.SchrÃ¶t.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Phragmidiaceae	SPECIES	ACCEPTED
+88073	88073	Phragmidium potentillae (Pers.) P.Karst.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Phragmidiaceae	SPECIES	ACCEPTED
+88074	88074	Phragmidium violaceum (Schultz) G.Winter		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Phragmidiaceae	SPECIES	ACCEPTED
+88075	88075	Phtheochroa pulvillana Herrich-Schaffer, 1851		Animalia	Arthropoda	Insecta	Lepidoptera	Tortricidae	SPECIES	ACCEPTED
+88076	88076	Phthorimaea operculella (Zeller, 1873)		Animalia	Arthropoda	Insecta	Lepidoptera	Gelechiidae	SPECIES	ACCEPTED
+88077	88077	Phyllocnistis vitegenella Clemens, 1859		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+88078	88078	Phyllonorycter issikii (Kumata, 1963)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+88079	88079	Phyllonorycter leucographella (Zeller, 1850)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+88080	88080	Phyllonorycter platani (Staudinger, 1870)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+88081	88081	Phyllonorycter robiniella (Clemens, 1859)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+88082	88082	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88083	88083	Physalis peruviana L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88084	88084	Physocarpus opulifolius (L.) Maxim.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+88085	88085	Phytophthora alni Brasier & S.A.Kirk, 2004		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88086	88086	Phytophthora alni Brasier & S.A.Kirk, 2004		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88087	88087	Phytophthora cactorum (Lebert & Cohn) J.SchrÃ¶t.		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88088	88088	Phytophthora cactorum (Lebert & Cohn) J.Schröt.		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88089	88089	Phytophthora cambivora (Petri) Buisman		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88090	88090	Phytophthora cambivora (Petri) Buisman		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88091	88091	Phytophthora cinnamomi Rands		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88092	88092	Phytophthora citricola Sawada		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88093	88093	Phytophthora gonapodyides (H.E.Petersen) Buisman		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88094	88094	Phytophthora gonapodyides (H.E.Petersen) Buisman		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88095	88095	Phytophthora hedraiandra De Cock & Man		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88096	88096	Phytophthora hedraiandra De Cock & Man		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88097	88097	Phytophthora infestans (Mont.) de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88098	88098	Phytophthora infestans (Mont.) de Bary		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88099	88099	Phytophthora kernoviae Brasier, Beales & S.A.Kirk		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88100	88100	Phytophthora kernoviae Brasier, Beales & S.A.Kirk		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88101	88101	Phytophthora plurivora T.Jung & T.I.Burgess		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88102	88102	Phytophthora pseudosyringae T.Jung & Delatour		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88103	88103	Phytophthora pseudosyringae T.Jung & Delatour		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88104	88104	Phytophthora ramorum Werres, De Cock & Man		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88105	88105	Phytophthora ramorum Werres, De Cock & Man		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88106	88106	Pinus halepensis Mill.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+88107	88107	Pinus pinaster Aiton		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+88108	88108	Pinus pinea L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+88109	88109	Pinus strobus L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+88110	88110	Pisolithus arhizus (Scop.) Rauschert		Fungi	Basidiomycota	Agaricomycetes	Boletales	Sclerodermataceae	SPECIES	ACCEPTED
+88111	88111	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+88112	88112	Pithya cupressina Fuckel		Fungi	Ascomycota	Pezizomycetes	Pezizales	Sarcoscyphaceae	SPECIES	ACCEPTED
+88113	88113	Plantago arenaria subsp. arenaria		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SUBSPECIES	ACCEPTED
+88114	88114	Plantago indica L.	Plantago arenaria Waldst. & Kit.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	SYNONYM
+88115	88115	Plasmopara nivea (Unger) J.SchrÃ¶t.		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88116	88116	Plasmopara viticola (Berk. & M.A.Curtis) Berl. & De Toni		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+88117	88117	Platanus hispanica Ten.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Platanaceae	SPECIES	DOUBTFUL
+88118	88118	Platycladus orientalis (L.) Franco		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED
+88119	88119	Pleospora herbarum (Pers.) Rabenh., 1854	Stemphylium vesicarium (Wallr.) E.G.Simmons	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	SPECIES	SYNONYM
+88120	88120	Plodia interpunctella (Hubner, 1813)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+88121	88121	Pluteus variabilicolor Babos		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Pluteaceae	SPECIES	ACCEPTED
+88122	88122	Podosphaera clandestina var. clandestina	Podosphaera clandestina (Wallr.) Lév., 1851	Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	VARIETY	SYNONYM
+88123	88123	Podosphaera leucotricha (Ellis & Everh.) E.S.Salmon		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+88124	88124	Polanisia dodecandra DC.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	ACCEPTED
+88125	88125	Polygonum orientale L.	Persicaria orientalis (L.) Spach	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+88126	88126	Polyodon spathula		Animalia	Chordata	Actinopterygii	Acipenseriformes	Acipenseridae	SPECIES	ACCEPTED
+88127	88127	Ponticola kessleri (GÃ¼nther, 1861)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+88128	88128	Populus balsamifera L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+88129	88129	Populus canadensis Moench		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+88130	88130	Portulaca grandiflora Hook.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	SPECIES	ACCEPTED
+88131	88131	Prunus cerasifera Ehrh.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+88132	88132	Prunus persica Stokes		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+88133	88133	Pseudodidymella fagi C.Z.Wei, Y.Harada & Katum.		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pseudodidymella	SPECIES	ACCEPTED
+88134	88134	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+88135	88135	Pseudotsuga menziesii (Mirb.) Franco		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+88136	88136	Psilochorus simoni (Berland, 1911)		Animalia	Arthropoda	Arachnida	Araneae	Pholcidae	SPECIES	ACCEPTED
+88137	88137	Psilocybe cyanescens Wakef.		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hymenogastraceae	SPECIES	ACCEPTED
+88138	88138	Psittacula eupatria (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+88139	88139	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+88140	88140	Ptilodactyla exotica Chapin, 1927		Animalia	Arthropoda	Insecta	Coleoptera	Ptilodactylidae	SPECIES	ACCEPTED
+88141	88141	Ptinus bicinctus Sturm, 1837		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	SPECIES	ACCEPTED
+88142	88142	Ptinus fur (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	SPECIES	ACCEPTED
+88143	88143	Ptinus latro Fabricius, 1775		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	SPECIES	ACCEPTED
+88144	88144	Ptinus tectus Boieldieu, 1856		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	SPECIES	ACCEPTED
+88145	88145	Puccinia aegopodii (Schumach.) Link		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88146	88146	Puccinia allii (DC.) F.Rudolphi, 1829	Puccinia porri (Sowerby) G.Winter, 1881	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	SYNONYM
+88147	88147	Puccinia arenariae (Schumach.) J.SchrÃ¶t.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88148	88148	Puccinia asarina Kunze		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88149	88149	Puccinia chaerophylli Purton		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88150	88150	Puccinia cnici-oleracei Pers.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88151	88151	Puccinia coronata Corda		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88152	88152	Puccinia difformis Kunze		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88153	88153	Puccinia distincta McAlpine		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88154	88154	Puccinia festucae Plowr.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88155	88155	Puccinia gentianae (F.Strauss) Link		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88156	88156	Puccinia graminis Pers.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88157	88157	Puccinia iridis Wallr.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88158	88158	Puccinia lagenophorae Cooke		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88159	88159	Puccinia malvacearum Bertero ex Mont.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88160	88160	Puccinia menthae Pers.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88161	88161	Puccinia phragmitis (Schumach.) KÃ¶rn.	Puccinia phragmitis Tul	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	SYNONYM
+88162	88162	Puccinia pimpinellae (F.Strauss) Link		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88163	88163	Puccinia poarum E.Nielsen		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88164	88164	Puccinia recondita Roberge ex Desm., 1857		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88165	88165	Puccinia sorghi Schwein.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88166	88166	Puccinia tanaceti DC.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88167	88167	Puccinia violae (Schumach.) DC.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88168	88168	Pucciniastrum areolatum (Fr.) G.H.Otth		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	SPECIES	ACCEPTED
+88169	88169	Pucciniastrum epilobii G.H.Otth		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniastraceae	SPECIES	ACCEPTED
+88170	88170	Punica granatum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+88171	88171	Pycnonotus barbatus (Desfontaines, 1789)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	ACCEPTED
+88172	88172	Pycnoporellus fulgens (Fr.) Donk		Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	SPECIES	ACCEPTED
+88173	88173	Pyracantha coccinea M.Roem.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+88174	88174	Ramularia sambucina f. ebuli Sacc., 1882	Ramularia sambucina Sacc.	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	FORM	SYNONYM
+88175	88175	Rapana venosa (Valenciennes, 1846)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+88176	88176	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+88177	88177	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+88178	88178	Rhabdocline pseudotsugae Syd.		Fungi	Ascomycota	Leotiomycetes	Helotiales	Hemiphacidiaceae	SPECIES	ACCEPTED
+88179	88179	Rhagoletis cingulata (Loew, 1862)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+88180	88180	Rhagoletis completa Cresson, 1929		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+88181	88181	Rhizosphaera kalkhoffii BubÃ¡k		Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	SPECIES	ACCEPTED
+88182	88182	Rhopalapion longirostre (Olivier, 1807)		Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	SPECIES	ACCEPTED
+88183	88183	Rhus radicans L.	Toxicodendron radicans (L.) Kuntze	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	SYNONYM
+88184	88184	Rhus typhina L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+88185	88185	Rhynchophorus ferrugineus Heyne, A.-Taschenberg & O., 1908		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	SPECIES	ACCEPTED
+88186	88186	Rhyzopertha dominica (Fabricius, 1792)		Animalia	Arthropoda	Insecta	Coleoptera	Bostrichidae	SPECIES	ACCEPTED
+88187	88187	Ribes rubrum L.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Grossulariaceae	SPECIES	ACCEPTED
+88188	88188	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+88189	88189	Rodolia cardinalis (Mulsant, 1850)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+88190	88190	Rosa rugosa Thunb.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+88191	88191	Rudbeckia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88192	88192	Rudbeckia laciniata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88193	88193	Rudbeckia triloba L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88194	88194	Rumex longifolius DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+88195	88195	Russula melliolens QuÃ©l.		Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	SPECIES	ACCEPTED
+88196	88196	Rutstroemia echinophila (Bull.) HÃ¶hn.	Lanzia echinophila (Bull.) Korf	Fungi	Ascomycota	Leotiomycetes	Helotiales	Rutstroemiaceae	SPECIES	SYNONYM
+88197	88197	Sagittaria latifolia Willd.		Plantae	Tracheophyta	Liliopsida	Alismatales	Alismataceae	SPECIES	ACCEPTED
+88198	88198	Salix babylonica L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+88199	88199	Salvelinus fontinalis (Mitchill, 1814)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+88200	88200	Salvelinus umbla (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+88201	88201	Salvia sclarea L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+88202	88202	Salvinia natans (L.) All.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+88203	88203	Samia cynthia (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Saturniidae	SPECIES	ACCEPTED
+88204	88204	Sarothamnus scoparius (L.) W.D.J.Koch	Cytisus scoparius (L.) Link	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+88205	88205	Satureja hortensis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+88206	88206	Sawadaea tulasnei (Fuckel) Homma		Fungi	Ascomycota	Leotiomycetes	Erysiphales	Erysiphaceae	SPECIES	ACCEPTED
+88207	88207	Saxifraga granulata L.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Saxifragaceae	SPECIES	ACCEPTED
+88208	88208	Sceliphron caementarium (Drury, 1773)		Animalia	Arthropoda	Insecta	Hymenoptera	Sphecidae	SPECIES	ACCEPTED
+88209	88209	Sceliphron curvatum (F.Smith, 1870)		Animalia	Arthropoda	Insecta	Hymenoptera	Sphecidae	SPECIES	ACCEPTED
+88210	88210	Scirpus georgianus Harper		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+88211	88211	Scrobipalpa ocellatella (Boyd, 1858)		Animalia	Arthropoda	Insecta	Lepidoptera	Gelechiidae	SPECIES	ACCEPTED
+88212	88212	Sedum sarmentosum Bunge		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+88213	88213	Sedum spurium Bieb.	Phedimus spurius (M.Bieb.) 't Hart	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	SYNONYM
+88214	88214	Seiridium cardinale (W.W.Wagener) B.Sutton & I.A.S.Gibson		Fungi	Ascomycota	Sordariomycetes	Amphisphaeriales	Pestalotiopsidaceae	SPECIES	ACCEPTED
+88215	88215	Senecio inaequidens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88216	88216	Septoria betulae Pass., 1867	Sphaerulina betulae (Pass.) Quaedvl., Verkley & Crous, 2013	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	SYNONYM
+88217	88217	Septoria petroselini Desm.		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+88218	88218	Septoria scleranthi Desm.		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+88219	88219	Septoria stellariae Roberge ex Desm.		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+88220	88220	Septotinia podophyllina (Ellis & Everh.) Whetzel	Septotis podophyllina (Ellis & Everh.) Arx, 1970	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	SPECIES	SYNONYM
+88221	88221	Serpula lacrymans (Wulfen) J.SchrÃ¶t.		Fungi	Basidiomycota	Agaricomycetes	Boletales	Serpulaceae	SPECIES	ACCEPTED
+88222	88222	Setaria faberi R.A.W.Herrm.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88223	88223	Setaria macrocarpa Luchnik	Setaria faberi R.A.W.Herrm.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+88224	88224	Sigesbeckia orientalis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88225	88225	Silene armeria L.	Atocion armeria Fourr.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	SYNONYM
+88226	88226	Silybum marianum Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88227	88227	Sisyrinchium bermudiana L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED
+88228	88228	Sitophilus oryzae Linnaeus, 1758		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	SPECIES	DOUBTFUL
+88229	88229	Sitophilus zeamais Motschulsky, 1855		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	SPECIES	ACCEPTED
+88230	88230	Sitotroga cerealella (Olivier, 1789)		Animalia	Arthropoda	Insecta	Lepidoptera	Gelechiidae	SPECIES	ACCEPTED
+88231	88231	Solanum alatum Moench	Solanum villosum Mill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+88232	88232	Solanum chenopodioides Lam.	Solanum nigrum L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+88233	88233	Solanum elaeagnifolium Cav.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88234	88234	Solanum lycopersicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88235	88235	Solanum physalifolium Rusby		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88236	88236	Solanum sarrachoides Sendtn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88237	88237	Solanum tuberosum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88238	88238	Solanum villosum Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+88239	88239	Soleirolia soleirolii (Req.) Dandy		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	ACCEPTED
+88240	88240	Solidago canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88241	88241	Solidago gigantea Aiton		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88242	88242	Sonchus palustris L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88243	88243	Sphacelotheca reiliana (J.G.KÃ¼hn) G.P.Clinton		Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Microbotryaceae	SPECIES	ACCEPTED
+88244	88244	Spiraea ×pseudosalicifolia Silverside	Spiraea ×billardii Hérincq	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+88245	88245	Splanchnonema platani (Ces.) M.E.Barr		Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleomassariaceae	SPECIES	ACCEPTED
+88246	88246	Sporisorium sorghi Ehrenb. ex Link		Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	SPECIES	ACCEPTED
+88247	88247	Sporobolus indicus R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88248	88248	Sporobolus neglectus Nash		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+88249	88249	Stelidota geminata (Say, 1825)		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+88250	88250	Stenodiplosis panici Plotnikov, 1926		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+88251	88251	Stenoscelis submuricata (SchÃ¶nherr, 1832)	Rhyncolus submuricatus Schoenherr, 1832	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	SYNONYM
+88252	88252	Stephanitis pyrioides (Scott, 1874)		Animalia	Arthropoda	Insecta	Hemiptera	Tingidae	SPECIES	ACCEPTED
+88253	88253	Stictocephala bisonia Kopp & Yonke, 1977		Animalia	Arthropoda	Insecta	Hemiptera	Membracidae	SPECIES	ACCEPTED
+88254	88254	Strasseria geniculata (Berk. & Broome) HÃ¶hn.		Fungi	Ascomycota	Leotiomycetes			SPECIES	ACCEPTED
+88255	88255	Streptopelia chinensis (Scopoli, 1786)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+88256	88256	Streptopelia senegalensis (Linnaeus, 1766)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+88257	88257	Strix nebulosa J.R.Forster, 1772		Animalia	Chordata	Aves	Strigiformes	Strigidae	SPECIES	ACCEPTED
+88258	88258	Strobilurus esculentus (Wulfen) Singer		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	SPECIES	ACCEPTED
+88259	88259	Stropharia aurantiaca (Cooke) M.Imai, 1938	Stropholoma aurantiacum (Cooke) Ryman, 2008	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hymenogastraceae	SPECIES	SYNONYM
+88260	88260	Stropharia rugosoannulata Farl. ex Murrill		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hymenogastraceae	SPECIES	ACCEPTED
+88261	88261	Symphoricarpos albus (L.) C.Koch		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED
+88262	88262	Symphyotrichum novi-belgii (L.) G.L.Nesom		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88263	88263	Symphyotrichum tradescantii (L.) G.L.Nesom		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88264	88264	Symphytum asperum Lepech.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+88265	88265	Syringa vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+88266	88266	Tadorna ferruginea (Pallas, 1764)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+88267	88267	Taeniopygia guttata (Vieillot, 1817)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+88268	88268	Tagetes erecta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88269	88269	Tagetes minuta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88270	88270	Tagetes patula L.	Tagetes erecta L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+88271	88271	Tagetes tenuifolia Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88272	88272	Tamarix gallica L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Tamaricaceae	SPECIES	ACCEPTED
+88273	88273	Tanacetum balsamita L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88274	88274	Tanacetum parthenium Sch.Bip.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88275	88275	Taphrina bullata (Berk. & Broome) Tul.		Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	SPECIES	ACCEPTED
+88276	88276	Taphrina cerasi (Fuckel) Sadeb.		Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	SPECIES	ACCEPTED
+88277	88277	Taphrina deformans (Berk.) Tul.		Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	SPECIES	ACCEPTED
+88278	88278	Taphrina pruni Tul.		Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	SPECIES	ACCEPTED
+88279	88279	Tegenaria atrica C.L.Koch, 1843	Eratigena atrica (C.L.Koch, 1843)	Animalia	Arthropoda	Arachnida	Araneae	Agelenidae	SPECIES	SYNONYM
+88280	88280	Tenebroides mauritanicus (Linnaeus)		Animalia	Arthropoda	Insecta	Coleoptera	Trogossitidae	SPECIES	ACCEPTED
+88281	88281	Terapon theraps Cuvier, 1829		Animalia	Chordata	Actinopterygii	Perciformes	Terapontidae	SPECIES	ACCEPTED
+88282	88282	Theresimima ampellophaga (Bayle-Barelle, 1808)		Animalia	Arthropoda	Insecta	Lepidoptera	Zygaenidae	SPECIES	ACCEPTED
+88283	88283	Theridula gonygaster (Simon, 1873)		Animalia	Arthropoda	Arachnida	Araneae	Theridiidae	SPECIES	ACCEPTED
+88284	88284	Thladiantha dubia Bunge		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+88285	88285	Thlaspi caerulescens J.Presl & C.Presl	Noccaea caerulescens (J.Presl & C.Presl) F.K.Mey.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+88286	88286	Thuja occidentalis L.		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED
+88287	88287	Thuja orientalis L.	Platycladus orientalis (L.) Franco	Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	SYNONYM
+88288	88288	Tilletia caries (DC.) Tul. & C.Tul.		Fungi	Basidiomycota	Exobasidiomycetes	Tilletiales	Tilletiaceae	SPECIES	ACCEPTED
+88289	88289	Toxicodendron radicans subsp. radicans		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SUBSPECIES	ACCEPTED
+88290	88290	Trachemys scripta (Thunberg In Schoepff, 1792)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SPECIES	ACCEPTED
+88291	88291	Trachycarpus fortunei H.Wendl.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+88292	88292	Trachyspora intrusa (Grev.) Arthur, 1934	Trachyspora alchemillae (Pers.) Fuckel, 1861	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Phragmidiaceae	SPECIES	SYNONYM
+88293	88293	Tradescantia virginiana L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+88294	88294	Tranzschelia anemones (Pers.) Nannf.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Uropyxidaceae	SPECIES	ACCEPTED
+88295	88295	Tribolium castaneum (Herbst, 1797)		Animalia	Arthropoda	Insecta	Coleoptera	Tenebrionidae	SPECIES	ACCEPTED
+88296	88296	Tribolium confusum Jaquelin Du Val, 1868		Animalia	Arthropoda	Insecta	Coleoptera	Tenebrionidae	SPECIES	ACCEPTED
+88297	88297	Tricholoma caligatum (Viv.) Ricken		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	SPECIES	ACCEPTED
+88298	88298	Tricholoma psammopus (Kalchbr.) QuÃ©l.		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	SPECIES	ACCEPTED
+88299	88299	Trichopoda pennipes (Fabricius, 1781)		Animalia	Arthropoda	Insecta	Diptera	Tachinidae	SPECIES	ACCEPTED
+88300	88300	Trifolium incarnatum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+88301	88301	Trifolium resupinatum var. majus Boiss.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	VARIETY	ACCEPTED
+88302	88302	Trifolium suaveolens Willd.	Trifolium resupinatum L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+88303	88303	Trogoderma angustum (Solier, 1849)		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	SPECIES	ACCEPTED
+88304	88304	Trogoderma glabrum (Herbst, 1783)		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	SPECIES	ACCEPTED
+88305	88305	Trogoderma granarium Everts, 1898		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	SPECIES	ACCEPTED
+88306	88306	Trogoderma versicolor (Creutzer, 1799)		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	SPECIES	ACCEPTED
+88307	88307	Tuta absoluta (Meyrick, 1917)		Animalia	Arthropoda	Insecta	Lepidoptera	Gelechiidae	SPECIES	ACCEPTED
+88308	88308	Typha laxmannii Lepech.		Plantae	Tracheophyta	Liliopsida	Poales	Typhaceae	SPECIES	ACCEPTED
+88309	88309	Ulex europaeus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+88310	88310	Uloborus glomosus (Walckenaer, 1841)		Animalia	Arthropoda	Arachnida	Araneae	Uloboridae	SPECIES	ACCEPTED
+88311	88311	Urocystis cepulae Frost		Fungi	Basidiomycota	Ustilaginomycetes	Urocystidales	Urocystidaceae	SPECIES	ACCEPTED
+88312	88312	Urocystis occulta (Wallr.) Rabenh.	Urocystis occulta (Wallr.) A.A.Fisch.Waldh., 1867	Fungi	Basidiomycota	Ustilaginomycetes	Urocystidales	Urocystidaceae	SPECIES	SYNONYM
+88313	88313	Urocystis syncocca (L.A.Kirchn.) B.Lindeb.		Fungi	Basidiomycota	Ustilaginomycetes	Urocystidales	Urocystidaceae	SPECIES	ACCEPTED
+88314	88314	Uromyces anthyllidis (Grev.) J.SchrÃ¶t.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88315	88315	Uromyces appendiculatus F.Strauss, 1833	Uromyces appendiculatus (Pers.) Link, 1816	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	SYNONYM
+88316	88316	Uromyces dactylidis G.H.Otth		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88317	88317	Uromyces dianthi (Pers.) Niessl		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88318	88318	Uromyces erythronii (DC.) Pass.		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88319	88319	Uromyces pisi-sativi (Pers.) Liro		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88320	88320	Uromyces polygoni-avicularis (Pers.) P.Karst.	Uromyces polygoni-avicularis (Pers.) G.H.Otth, 1864	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	SYNONYM
+88321	88321	Uromyces rumicis (Schumach.) G.Winter		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88322	88322	Uromyces trifolii-repentis (Castagne) Liro		Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	SPECIES	ACCEPTED
+88323	88323	Urophorus humeralis (Fabricius, 1798)		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+88324	88324	Ustilago avenae (Pers.) Rostr.		Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	SPECIES	ACCEPTED
+88325	88325	Ustilago cynodontis (Pass.) Henn.		Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	SPECIES	ACCEPTED
+88326	88326	Ustilago hordei (Pers.) Lagerh.		Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	SPECIES	ACCEPTED
+88327	88327	Ustilago maydis (DC.) Corda		Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	SPECIES	ACCEPTED
+88328	88328	Valsa laurocerasi Tul. & C.Tul.		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Valsaceae	SPECIES	ACCEPTED
+88329	88329	Venerupis philippinarum (Adams & Reeve, 1850)	Ruditapes philippinarum (Adams & Reeve, 1850)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	SYNONYM
+88330	88330	Venturia chlorospora (Ces.) P.Karst.		Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	SPECIES	ACCEPTED
+88331	88331	Venturia inaequalis (Cooke) G.Winter		Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	SPECIES	ACCEPTED
+88332	88332	Venturia populina (Vuill.) Fabric.		Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	SPECIES	ACCEPTED
+88333	88333	Venturia pyrina Aderh.		Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	SPECIES	ACCEPTED
+88334	88334	Venturia saliciperda NÃ¼esch		Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	SPECIES	ACCEPTED
+88335	88335	Veronica filiformis Sm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+88336	88336	Veronica peregrina L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+88337	88337	Veronica persica hort. ex Poir.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+88338	88338	Verticillium dahliae Kleb.		Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	SPECIES	ACCEPTED
+88339	88339	Vespa orientalis Fabricius, 1761		Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	SPECIES	ACCEPTED
+88340	88340	Viola cornuta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Violaceae	SPECIES	ACCEPTED
+88341	88341	Viola cucullata Aiton		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Violaceae	SPECIES	ACCEPTED
+88342	88342	Vitis labrusca L.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+88343	88343	Volutella buxi (DC.) Berk. & Broome, 1850	Pseudonectria buxi (DC.) Seifert, Gräfenhan & Schroers, 2011	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	SPECIES	SYNONYM
+88344	88344	Wisteria sinensis Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+88345	88345	Xanthium italicum Moretti	Xanthium orientale L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+88346	88346	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+88347	88347	Xyleborus pfeilii Ratzeburg, 1837		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+88348	88348	Xylosandrus germanus (Blandford, 1894), 2011	Xyleborus germanus Blandford, 1894d	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	SYNONYM
+88349	88349	Xylotrechus stebbingi Gahan, 1906		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+88350	88350	Zea mays L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED

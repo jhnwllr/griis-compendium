@@ -1,0 +1,37 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+121900	121900	Bidens alba (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+121901	121901	Bothriochloa bladhii (Retz.) S.T.Blake		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121902	121902	Buchnera floridana Gand.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+121903	121903	Caesalpinia bonduc Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+121904	121904	Catharanthus roseus (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+121905	121905	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121906	121906	Conyza canadensis (L.) Cronquist	Erigeron canadensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+121907	121907	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+121908	121908	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+121909	121909	Desmodium incanum (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+121910	121910	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121911	121911	Digitaria violascens Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121912	121912	Eleocharis geniculata (L.) Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+121913	121913	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121914	121914	Eragrostis amabilis (L.) Wight & Arn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121915	121915	Eragrostis scabriflora Swallen		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121916	121916	Euphorbia cyathophora Murray	Euphorbia heterophylla L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+121917	121917	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+121918	121918	Euphorbia thymifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+121919	121919	Eustachys petraea (Sw.) Desv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121920	121920	Heliotropium procumbens Mill.	Euploca procumbens (Mill.) Diane & Hilger	Plantae	Tracheophyta	Magnoliopsida	Boraginales	Heliotropiaceae	SPECIES	SYNONYM
+121921	121921	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+121922	121922	Ludwigia octovalvis (Jacq.) Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+121923	121923	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	SPECIES	ACCEPTED
+121924	121924	Paspalum setaceum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+121925	121925	Phyllanthus amarus Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+121926	121926	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+121927	121927	Pseuderanthemum carruthersii (Seem.) Guill.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+121928	121928	Rattus exulans (Peale, 1848)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+121929	121929	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+121930	121930	Senna occidentalis (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+121931	121931	Spermacoce ovalifolia (M.Martens & Galeotti) Hemsl.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+121932	121932	Tecoma stans (L.) Juss. ex Kunth		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+121933	121933	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+121934	121934	Turnera ulmifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Turneraceae	SPECIES	ACCEPTED
+121935	121935	Urochloa mutica (Forssk.) T.Q.Nguyen	Brachiaria mutica (Forssk.) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM

@@ -1,0 +1,181 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+79500	79500	Acacia hockii De Wild.	Vachellia hockii (De Wild.) Seigler & Ebinger	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+79501	79501	Acacia mearnsii De Wild.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79502	79502	Acacia podalyriifolia Cunn. ex Don		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79503	79503	Achyranthes aspera L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+79504	79504	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79505	79505	Agave americana L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+79506	79506	Agave angustifolia Haw.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+79507	79507	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+79508	79508	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79509	79509	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79510	79510	Aleurothrixus floccosus (Maskell, 1896)		Animalia	Arthropo	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+79511	79511	Anredera cordifolia (Ten.) Steenis		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Basellaceae	SPECIES	ACCEPTED
+79512	79512	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+79513	79513	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+79514	79514	Argemone ochroleuca Sweet		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+79515	79515	Aristolochia littoralis Parodi	Aristolochia elegans Mast.	Plantae	Tracheophyta	Magnoliopsida	Piperales	Aristolochiaceae	SPECIES	SYNONYM
+79516	79516	Artocarpus heterophyllus Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+79517	79517	Arundo donax L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79518	79518	Austrocylindropuntia subulata (Engelm.) Backeb.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+79519	79519	Avena fatua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79520	79520	Avena sterilis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79521	79521	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+79522	79522	Azolla filiculoides Lam.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+79523	79523	Bauhinia monandra Kurz		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79524	79524	Bauhinia variegata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79525	79525	Bemisia tabaci (Gennadius, 1889)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+79526	79526	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79527	79527	Broussonetia papyrifera Vent.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+79528	79528	Brugmansia suaveolens Bercht. & J.Presl		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79529	79529	Bryophyllum delagoense (Eckl. & Zeyh.) Schinz	Kalanchoe delagoensis Eckl. & Zeyh.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	SYNONYM
+79530	79530	Bryophyllum fedtschenkoi (Hamet & Perr.) Lauzac-Marchal	Kalanchoe fedtschenkoi Raym.-Hamet & H.Perrier	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	SYNONYM
+79531	79531	Bryophyllum pinnatum (Lam.) Oken	Kalanchoe pinnata Pers.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	SYNONYM
+79532	79532	Bryophyllum proliferum Bowie ex Hook.	Kalanchoe prolifera Raym.-Hamet	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	SYNONYM
+79533	79533	Buddleja madagascariensis Lam.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+79534	79534	Caesalpinia decapetala (Roth) Alston		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79535	79535	Calliandra houstoniana (Mill.) Standl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79536	79536	Callisia repens L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+79537	79537	Calotropis procera (Aiton) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+79538	79538	Camellia sinensis Kuntze		Plantae	Tracheophyta	Magnoliopsida	Ericales	Theaceae	SPECIES	ACCEPTED
+79539	79539	Canna generalis L.H.Bailey		Plantae	Tracheophyta	Liliopsida	Zingiberales	Cannaceae	SPECIES	ACCEPTED
+79540	79540	Canna indica L.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Cannaceae	SPECIES	ACCEPTED
+79541	79541	Capsicum annuum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79542	79542	Cardiospermum grandiflorum Sw.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+79543	79543	Cascabela thevetia (L.) Lippold		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+79544	79544	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+79545	79545	Catharanthus roseus G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+79546	79546	Cedrela odorata L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+79547	79547	Ceratitis capitata (Wiedemann, 1824)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+79548	79548	Cereus jamacaru DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+79549	79549	Cestrum laevigatum Schltdl.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79550	79550	Cestrum nocturnum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79551	79551	Chromolaena odorata (L.) R.M.King & H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79552	79552	Cinara cupressi (Buckton, 1881)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+79553	79553	Cirsium vulgare (Savi) Ten.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79554	79554	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+79555	79555	Convolvulus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+79556	79556	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+79557	79557	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+79558	79558	Cymbopogon nardus (L.) Rendle		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79559	79559	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79560	79560	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+79561	79561	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79562	79562	Datura quercifolia Kunth		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79563	79563	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79564	79564	Delonix regia (Bojer) Raf.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79565	79565	Dodonaea viscosa Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+79566	79566	Dolichandra unguis-cati (L.) L.G.Lohmann		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+79567	79567	Dovyalis caffra Warb.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+79568	79568	Duranta erecta L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+79569	79569	Egeria densa Planch.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+79570	79570	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+79571	79571	Elaeis guineensis Jacq.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+79572	79572	Esox lucius Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Esociformes	Esocidae	SPECIES	ACCEPTED
+79573	79573	Euphorbia candelabrum Tremaut ex Kotschy		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+79574	79574	Euphorbia tirucalli L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+79575	79575	Euryops chrysanthemoides (DC.) B.Nord.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79576	79576	Furcraea foetida Haw.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+79577	79577	Gonipterus scutellatus Gyllenhal, 1833		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+79578	79578	Grevillea robusta A.Cunn. ex R.Br.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED
+79579	79579	Hevea brasiliensis (Willd. ex A.Juss.) MÃ¼ll.Arg.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+79580	79580	Hylocereus undatus (Haw.) Britton & Rose		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+79581	79581	Hyptis suaveolens (L.) Poit.	Mesosphaerum suaveolens Kuntze	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+79582	79582	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79583	79583	Insignorthezia insignis (Browne, 1887)		Animalia	Arthropoda	Insecta	Hemiptera	Ortheziidae	SPECIES	ACCEPTED
+79584	79584	Ipomoea cairica (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+79585	79585	Ipomoea carnea Jacq.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+79586	79586	Ipomoea hederifolia L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+79587	79587	Ipomoea indica (Burm.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+79588	79588	Ipomoea purpurea (L.) Roth		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+79589	79589	Jacaranda mimosifolia D.Don		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+79590	79590	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+79591	79591	Jatropha gossypiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+79592	79592	Kalanchoe beharensis Drake		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+79593	79593	Kalanchoe delagoensis Eckl. & Zeyh.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+79594	79594	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+79595	79595	Lates niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Latidae	SPECIES	ACCEPTED
+79596	79596	Leptocybe invasa Fisher & La Salle, 2004		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+79597	79597	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79598	79598	Lolium temulentum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+79599	79599	Luffa aegyptiaca Mill.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+79600	79600	Maesopsis eminii Engl.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED
+79601	79601	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+79602	79602	Micropterus salmoides (LacepÃ¨de, 1802)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+79603	79603	Mimosa diplotricha C.Wright ex Sauvalle		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79604	79604	Mimosa pigra L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79605	79605	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79606	79606	Mirabilis jalapa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+79607	79607	Mononychellus tanajoa (Bondar, 1938)		Animalia	Arthropod	Arachnida	Prostigmata	Tetranychidae	SPECIES	ACCEPTED
+79608	79608	Montanoa hibiscifolia (Benth.) C.Koch		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79609	79609	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79610	79610	Nicotiana glauca Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79611	79611	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+79612	79612	Opuntia exaltata A.Berger	Austrocylindropuntia subulata subsp. exaltata (A.Berger) D.R.Hunt	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	SYNONYM
+79613	79613	Opuntia ficus-indica Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+79614	79614	Opuntia monacantha Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+79615	79615	Opuntia stricta var. dillenii L.D.Benson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	VARIETY	ACCEPTED
+79616	79616	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+79617	79617	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+79618	79618	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SUBSPECIES	ACCEPTED
+79619	79619	Oreochromis spilurus (Günther, 1894)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SUBSPECIES	ACCEPTED
+79620	79620	Osphronemus goramy LacÃ©pÃ¨de, 1801		Animalia	Chordata	Actinopterygii	Perciformes	Osphronemidae	SPECIES	ACCEPTED
+79621	79621	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+79622	79622	Parkinsonia aculeata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79623	79623	Parthenium hysterophorus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79624	79624	Passiflora caerulea L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+79625	79625	Passiflora edulis Sims		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+79626	79626	Pereskia aculeata Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+79627	79627	Phenacoccus manihoti Matile-Ferrero, 1977		Animalia	Arthropod	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+79628	79628	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79629	79629	Physalis peruviana L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79630	79630	Pineus pini (Goeze, 1778)		Animalia	Arthropoda	Insecta	Hemiptera	Adelgidae	SPECIES	ACCEPTED
+79631	79631	Pinus patula Schiede & Deppe ex Schltdl.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+79632	79632	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+79633	79633	Poecilia reticulata Peters, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+79634	79634	Pontederia cordata L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+79635	79635	Procambarus clarkii (Girard, 1852)		Animalia	Arthropoda	Malacostraca	Decapoda	Cambaridae	SPECIES	ACCEPTED
+79636	79636	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79637	79637	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+79638	79638	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+79639	79639	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+79640	79640	Rivina humilis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+79641	79641	Rubus rosifolius Sm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+79642	79642	Salvia leucantha Cav.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+79643	79643	Salvinia molesta D.Mitch.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+79644	79644	Sambucus nigra L.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Adoxaceae	SPECIES	ACCEPTED
+79645	79645	Senna alata (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79646	79646	Senna bicapsularis (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79647	79647	Senna didymobotrya (Fresen.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79648	79648	Senna hirsuta (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79649	79649	Senna obtusifolia (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79650	79650	Senna occidentalis (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79651	79651	Senna septemtrionalis (Viv.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79652	79652	Senna siamea (Lamarck) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79653	79653	Senna spectabilis (DC.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79654	79654	Solanum campylacanthum Hochst. ex A.Rich.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79655	79655	Solanum incanum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79656	79656	Solanum mauritianum Scop.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79657	79657	Solanum seaforthianum Andrews		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+79658	79658	Sphagneticola trilobata (L.) Pruski		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79659	79659	Striga asiatica (L.) Kuntze		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+79660	79660	Striga hermonthica (Delile) Benth.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+79661	79661	Tecoma capensis Lindl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+79662	79662	Tecoma stans (L.) Kunth		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+79663	79663	Tectona grandis L.f.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+79664	79664	Tephrosia vogelii Hook.f.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+79665	79665	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+79666	79666	Thevetia peruviana Merr.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+79667	79667	Thunbergia grandiflora Roxb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+79668	79668	Tilapia rendalli (Boulenger, 1897)	Coptodon rendalli (Boulenger, 1897)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+79669	79669	Tithonia diversifolia A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79670	79670	Tithonia rotundifolia S.F.Blake		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79671	79671	Toona ciliata M.Roem.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+79672	79672	Tradescantia pallida (Rose) D.R.Hunt		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+79673	79673	Tradescantia spathacea Sw.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+79674	79674	Tradescantia zebrina Bosse		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+79675	79675	Verbena bonariensis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+79676	79676	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79677	79677	Xanthium strumarium Lour.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+79678	79678	Yersinia pestis (Lehmann & Neumann, 1896) van Loghem, 1944		Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	SPECIES	ACCEPTED
+79679	79679	Zinnia peruviana L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED

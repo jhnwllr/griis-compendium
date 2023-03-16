@@ -1,0 +1,136 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+3000	3000	Abelmoschus esculentus (L.) Moench		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+3001	3001	Acanthospermum hispidum	Acanthospermum hispidum DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3002	3002	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+3003	3003	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3004	3004	Allium cepa L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+3005	3005	Allium chinense G.Don		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+3006	3006	Allium fistulosum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+3007	3007	Amaranthus cruentus Willd. ex Roxb.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+3008	3008	Amaranthus dubius Mart. ex Thell.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+3009	3009	Annona squamosa L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+3010	3010	Aphanius dispar (Rüppell, 1829)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Cyprinodontidae	SPECIES	ACCEPTED
+3011	3011	Apium graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+3012	3012	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+3013	3013	Arivela viscosa	Corynandra viscosa	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+3014	3014	Azadirachta indica A. Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+3015	3015	Bidens biternata (Lour.) Merr. & Sherff		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3016	3016	Bidens pilosa	Bidens pilosa L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3017	3017	Blainvillea gayana	Blainvillea gayana Benth.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3018	3018	Borassus aethiopum Mart.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+3019	3019	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+3020	3020	Bougainvillea spectabilis Willd.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+3021	3021	Brachyponera sennaarensis (Mayr, 1862)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3022	3022	Brassica juncea (L.) Czern.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+3023	3023	Calotropis procera (Ait.) Ait. fil.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+3024	3024	Camelus dromedarius Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Camelidae	SPECIES	ACCEPTED
+3025	3025	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+3026	3026	Capsicum annuum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3027	3027	Cardiocondyla emeryi Forel, 1881		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3028	3028	Cardiocondyla minutior Forel, 1899		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3029	3029	Carica papaya L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Caricaceae	SPECIES	ACCEPTED
+3030	3030	Catha edulis Forsk.		Plantae	Tracheophyta	Magnoliopsida	Celastrales	Celastraceae	SPECIES	ACCEPTED
+3031	3031	Catharanthus roseus (L.) G. Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+3032	3032	Chloris jubaensis Cope		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+3033	3033	Citrullus lanatus (Thunb.) Matsumura & Nakai		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3034	3034	Citrus ×sinensis Pers.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+3035	3035	Citrus aurantiifolia (Christm.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+3036	3036	Citrus aurantium L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+3037	3037	Cocos nucifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+3038	3038	Colocasia esculenta (L.) Schott		Plantae	Tracheophyta	Liliopsida	Araceae	Araceae	SPECIES	ACCEPTED
+3039	3039	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+3040	3040	Corchorus olitorius L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+3041	3041	Cucumis anguria L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3042	3042	Cucumis metuliferus E. Mey. ex Schrad.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3043	3043	Cucumis sativus L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3044	3044	Cucurbita maxima Duchesne		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3045	3045	Cucurbita moschata (Duchesne) Duchesne ex Poir.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3046	3046	Cucurbita pepo L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+3047	3047	Cyanotis cristata (L.) D.Don		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+3048	3048	Datura fastuosa	Datura metel L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+3049	3049	Daucus carota L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+3050	3050	Eleusine floccifolia Spreng.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+3051	3051	Equus africanus subsp. africanus		Animalia	Chordata	Mammalia	Perissodactyla	Equidae	SUBSPECIES	ACCEPTED
+3052	3052	Erodium cicutarium Lange		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+3053	3053	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+3054	3054	Ficus carica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+3055	3055	Galinsoga parviflora	Galinsoga parviflora Cav.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3056	3056	Glycine max (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3057	3057	Gomphrena celosioides Mart.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+3058	3058	Gossypium barbadense Raf.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+3059	3059	Helianthus annuus		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+3060	3060	Hemidactylus flaviviridis Rüppell, 1835		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+3061	3061	Hemidactylus homoeolepis Blanford, 1881		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+3062	3062	Hibiscus sabdariffa L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+3063	3063	Hyphaene thebaica (L.) Mart.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+3064	3064	Hypoponera punctatissima (Roger, 1859)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3065	3065	Indoplanorbis exustus (Deshayes, 1834)		Animalia	Mollusca	Gastropoda	Hygrophila	Planorbidae	SPECIES	ACCEPTED
+3066	3066	Ipomoea aquatica Forsk.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+3067	3067	Ipomoea batatas (L.) Lam.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+3068	3068	Ipomoea cairica (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+3069	3069	Ipomoea nil (L.) Roth		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+3070	3070	Ipomoea pes-caprae Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+3071	3071	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+3072	3072	Lablab purpureus (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3073	3073	Lactuca sativa	Lactuca sativa L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3074	3074	Lawsonia inermis L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+3075	3075	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3076	3076	Lolium temulentum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+3077	3077	Malus sylvestris Mill.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+3078	3078	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+3079	3079	Medicago sativa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3080	3080	Mentha piperita L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+3081	3081	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	SPECIES	ACCEPTED
+3082	3082	Morus nigra L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+3083	3083	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+3084	3084	Musa paradisiaca L.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Musaceae	SPECIES	ACCEPTED
+3085	3085	Nerium oleander L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+3086	3086	Nicandra physalodes (L.) Gaertner		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3087	3087	Nicotiana glauca R. C. Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3088	3088	Nicotiana tabacum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3089	3089	Ocimum basilicum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+3090	3090	Opuntia ficus-indica (L.) Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+3091	3091	Opuntia stricta (Haw.) Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+3092	3092	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+3093	3093	Pancratium maximum Forssk.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+3094	3094	Panicum maximum Jacq.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+3095	3095	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3096	3096	Parkinsonia aculeata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3097	3097	Periscyphis vittatus Omer-Cooper, 1926		Animalia	Arthropoda	Malacostraca	Isopoda	Eubelidae	SPECIES	ACCEPTED
+3098	3098	Phaseolus vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3099	3099	Pheidole indica Mayr, 1879		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3100	3100	Pheidole teneriffana Forel, 1893		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3101	3101	Phoenix dactylifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+3102	3102	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3103	3103	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3104	3104	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+3105	3105	Punica granatum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+3106	3106	Raphanus sativus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+3107	3107	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+3108	3108	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+3109	3109	Sapindus mukorossi Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+3110	3110	Solanum aethiopicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3111	3111	Solanum dulcamara L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3112	3112	Solanum lycopersicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3113	3113	Solanum melongena L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3114	3114	Solanum nigrum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+3115	3115	Sorghum bicolor (L.) Moench		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+3116	3116	Spilanthes acmella A.Chev., 1920		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3117	3117	Suncus etruscus (Savi, 1822)		Animalia	Chordata	Mammalia	Soricomorpha	Soricidae	SPECIES	ACCEPTED
+3118	3118	Tagetes erecta	Tagetes erecta L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3119	3119	Tagetes minuta	Tagetes minuta L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	DOUBTFUL
+3120	3120	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3121	3121	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+3122	3122	Tetramorium caldarium (Roger, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3123	3123	Tetramorium lanuginosum Mayr, 1870		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3124	3124	Tetramorium simillimum (Smith, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3125	3125	Thespesia populnea (L.) Soland. ex Correa		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+3126	3126	Trichomyrmex destructor Jerdon, 1851		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3127	3127	Trichomyrmex mayri Forel, 1902		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+3128	3128	Typha domingensis Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Typhaceae	SPECIES	ACCEPTED
+3129	3129	Vachellia nilotica (L.) P.J.H.Hurter & Mabb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3130	3130	Vigna unguiculata (L.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+3131	3131	Vitis vinifera L.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+3132	3132	Viverricula indica		Animalia	Chordata	Mammalia	Carnivora	Viverridae	SPECIES	ACCEPTED
+3133	3133	Xeroniscus angusticauda Ferrara & Taiti, 1990		Animalia	Arthropoda	Malacostraca	Isopoda	Eubelidae	SPECIES	ACCEPTED
+3134	3134	Zea mays L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED

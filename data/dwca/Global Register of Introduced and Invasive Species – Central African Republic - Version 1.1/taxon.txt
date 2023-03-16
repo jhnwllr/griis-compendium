@@ -1,0 +1,70 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+182000	182000	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+182001	182001	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+182002	182002	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182003	182003	Albizia saman (Jacq.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182004	182004	Annona senegalensis Pers.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+182005	182005	Arthrosamanea eriorhachis (Harms) AubrÃ©v.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	DOUBTFUL
+182006	182006	Astatoreochromis alluaudi Pellegrin, 1904		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+182007	182007	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+182008	182008	Azolla africana Schumach.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+182009	182009	Bactrocera dorsalis (Hendel, 1912)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+182010	182010	Bactrocera invadens Drew, Tsuruta & White, 2005		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+182011	182011	Bixa orellana L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Bixaceae	SPECIES	ACCEPTED
+182012	182012	Brassica juncea (L.) Czern.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+182013	182013	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182014	182014	Caladium bicolor Vent.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+182015	182015	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+182016	182016	Chloris virgata Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+182017	182017	Chromolaena odorata (L.) R.M.King & H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+182018	182018	Cocos nucifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+182019	182019	Colocasia esculenta (L.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+182020	182020	Cymbopogon citratus Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+182021	182021	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+182022	182022	Dichrostachys cinerea (L.) Wight & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182023	182023	Dioscorea alata L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	ACCEPTED
+182024	182024	Drymaria cordata (L.) Roem. & Schult.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+182025	182025	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+182026	182026	Eupatorium africanum Oliv. & Hieron.	Stomatanthes africanus (Oliv. & Hiern) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+182027	182027	Ficus benghalensis L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+182028	182028	Flemingia macrophylla (Willd.) Kuntze ex Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182029	182029	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+182030	182030	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182031	182031	Harungana madagascariensis Poir.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED
+182032	182032	Heterotis niloticus (Cuvier, 1829)		Animalia	Chordata	Actinopterygii	Osteoglossiformes	Arapaimidae	SPECIES	ACCEPTED
+182033	182033	Ipomoea indica Merr.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+182034	182034	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+182035	182035	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+182036	182036	Lemna paucicostata Hegelm.	Lemna aequinoctialis Welw.	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	SYNONYM
+182037	182037	Leucaena diversifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182038	182038	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182039	182039	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+182040	182040	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+182041	182041	Mimosa pigra L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182042	182042	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182043	182043	Monomorium pharaonis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+182044	182044	Nymphaea lotus L.		Plantae	Tracheophyta	Magnoliopsida	Nymphaeales	Nymphaeaceae	SPECIES	ACCEPTED
+182045	182045	Oreochromis macrochir (Boulenger, 1912)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+182046	182046	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+182047	182047	Paspalum paniculatum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+182048	182048	Pennisetum polystachyum (L.) Schult.	Cenchrus polystachios (L.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+182049	182049	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+182050	182050	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+182051	182051	Piliostigma thonningii (Schum.) Milne-Redh.	Bauhinia thonningii Schumach.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+182052	182052	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+182053	182053	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+182054	182054	Ramphotyphlops braminus Daudin, 1803		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	ACCEPTED
+182055	182055	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+182056	182056	Sacciolepis indica Chase		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+182057	182057	Salvinia molesta D.Mitch.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+182058	182058	Senna alata (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182059	182059	Senna hirsuta (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182060	182060	Senna occidentalis (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182061	182061	Senna spectabilis (DC.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+182062	182062	Solanum viarum Dunal		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+182063	182063	Syzygium jambos (L.) Alston		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+182064	182064	Tilapia nilotica (Linnaeus, 1758)	Oreochromis niloticus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+182065	182065	Tilapia rendalli (Boulenger, 1897)	Coptodon rendalli (Boulenger, 1897)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+182066	182066	Tithonia diversifolia A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+182067	182067	West Nile virus		Viruses				Flaviviridae	SPECIES	ACCEPTED
+182068	182068	Xylosandrus compactus Eichhoff, 1875		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED

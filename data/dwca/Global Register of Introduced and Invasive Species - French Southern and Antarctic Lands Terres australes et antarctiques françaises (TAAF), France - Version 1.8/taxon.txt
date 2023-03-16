@@ -1,0 +1,164 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+28147	28147	Achillea millefolium Ledeb.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28148	28148	Achillea ptarmica Richards.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28149	28149	Agrostis canina L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28150	28150	Agrostis capillaris L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28151	28151	Agrostis gigantea Roth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28152	28152	Agrostis stolonifera L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28153	28153	Aira praecox L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28154	28154	Allolobophora chlorotica (Savigny, 1826)		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	ACCEPTED	SPECIES
+28155	28155	Alopecurus geniculatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28156	28156	Alopecurus pratensis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28157	28157	Anthoxanthum odoratum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28158	28158	Apium graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	ACCEPTED	SPECIES
+28159	28159	Apterothrips secticornis (Trybom, 1896)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	ACCEPTED	SPECIES
+28160	28160	Arrhenatherum elatius (L.) J.Presl & C.Presl		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28161	28161	Arrhenatherum elatius f. bulbosum (Willd.) T.Koyama	Arrhenatherum elatius (L.) J.Presl & C.Presl	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	FORM
+28162	28162	Atriplex halimus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+28163	28163	Aulacorthum solani (Kaltenbach, 1843)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	ACCEPTED	SPECIES
+28164	28164	Bellis perennis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28165	28165	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+28166	28166	Brassica napus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28167	28167	Brassica oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28168	28168	Bromus hordeaceus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28169	28169	Bromus secalinus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28170	28170	Calliphora croceipalpis Jaennicke, 1867		Animalia	Arthropoda	Insecta	Diptera	Calliphoridae	ACCEPTED	SPECIES
+28171	28171	Calliphora vicina Robineau-Desvoidy, 1830		Animalia	Arthropoda	Insecta	Diptera	Calliphoridae	ACCEPTED	SPECIES
+28172	28172	Calluna vulgaris (L.) Hull		Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	ACCEPTED	SPECIES
+28173	28173	Capsella bursa-pastoris Medik.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28174	28174	Cartodere nodifer (Westwood, 1839)	Lathridius nodifer Westwood, 1839	Animalia	Arthropoda	Insecta	Coleoptera	Latridiidae	SYNONYM	SPECIES
+28175	28175	Centaurea scabiosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28176	28176	Cerastium fontanum Baumg.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+28177	28177	Cerastium glomeratum Thuill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+28178	28178	Ceratixodes uriae Schulze, 1938	Ixodes uriae White, 1852	Animalia	Arthropoda	Arachnida	Ixodida	Ixodidae	SYNONYM	SPECIES
+28179	28179	Cichorium intybus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28180	28180	Cirsium arvense (L.) Scop.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28181	28181	Cirsium vulgare (Savi) Ten.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28182	28182	Conium maculatum L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	ACCEPTED	SPECIES
+28183	28183	Crepis capillaris (L.) Wallr.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28184	28184	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28185	28185	Cynosurus cristatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28186	28186	Dactylis glomerata L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28187	28187	Dendrodrilus rubidus tenuis (Eisen, 1874)		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	ACCEPTED	SUBSPECIES
+28188	28188	Deroceras invadens Reise, Hutchinson, Schunack & Schlitt, 2011		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	ACCEPTED	SPECIES
+28189	28189	Eiseniella tetraÃ«dra (Savigny, 1826)		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	ACCEPTED	SPECIES
+28190	28190	Elytrigia repens subsp. repens	Elymus repens (L.) Gould	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SUBSPECIES
+28191	28191	Epilobium tetragonum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	ACCEPTED	SPECIES
+28192	28192	Erica scoparia L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	ACCEPTED	SPECIES
+28193	28193	Erigeron canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28194	28194	Estrilda astrild (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	ACCEPTED	SPECIES
+28195	28195	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	ACCEPTED	SPECIES
+28196	28196	Festuca nigrescens Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28197	28197	Festuca ovina L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28198	28198	Festuca rubra var. rubra	Festuca rubra L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	VARIETY
+28199	28199	Forficula auricularia Linnaeus, 1758		Animalia	Arthropoda	Insecta	Dermaptera	Forficulidae	NONE	SPECIES
+28200	28200	Fucellia maritima (Haliday, 1838)	Fucellia tergina (Zetterstedt, 1845)	Animalia	Arthropoda	Insecta	Diptera	Anthomyiidae	SYNONYM	SPECIES
+28201	28201	Fucellia tergina (Zetterstedt, 1845)		Animalia	Arthropoda	Insecta	Diptera	Anthomyiidae	ACCEPTED	SPECIES
+28202	28202	Galium aparine L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+28203	28203	Galium mollugo L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+28204	28204	Galium uliginosum L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+28205	28205	Gaudinia fragilis (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28206	28206	Geranium dissectum L.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	ACCEPTED	SPECIES
+28207	28207	Holcus lanatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28208	28208	Holcus mollis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28209	28209	Hordeum vulgare subsp. distichon (L.) KÃ¶rn.	Hordeum distichon L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SUBSPECIES
+28210	28210	Hypericum humifusum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	ACCEPTED	SPECIES
+28211	28211	Hypochaeris radicata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28212	28212	Jacobaea vulgaris Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28213	28213	Juncus acutiflorus Ehrh. ex Hoffm.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+28214	28214	Juncus bufonius L.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+28215	28215	Juncus conglomeratus L.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+28216	28216	Juncus effusus L.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+28217	28217	Leontodon saxatilis subsp. saxatilis		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SUBSPECIES
+28218	28218	Lepidium campestre (L.) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28219	28219	Lepidium didymum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28220	28220	Leptocera curvinervis (Stenhammar, 1854)	Leptocera nigra Olivier, 1813	Animalia	Arthropoda	Insecta	Diptera	Sphaeroceridae	SYNONYM	SPECIES
+28221	28221	Leptyphantes leprosus (Ohlert, 1865)	Lepthyphantes leprosus (Ohlert, 1865)	Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	SYNONYM	SPECIES
+28222	28222	Leucanthemum vulgare Lam.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28223	28223	Limnophyes minimus (Meigen, 1818)		Animalia	Arthropoda	Insecta	Diptera	Chironomidae	ACCEPTED	SPECIES
+28224	28224	Lolium multiflorum Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28225	28225	Lolium perenne L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28226	28226	Lotus corniculatus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28227	28227	Luzula campestris DC.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+28228	28228	Luzula multiflora (Ehrh.) Lej.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+28229	28229	Lycoriella sativae (Johannsen, 1912)		Animalia	Arthropoda	Insecta	Diptera	Sciaridae	ACCEPTED	SPECIES
+28230	28230	Lysimachia arvensis (L.) U.Manns & Anderb.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Primulaceae	ACCEPTED	SPECIES
+28231	28231	Macrosiphum euphorbiae (Thomas & C., 1878)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	ACCEPTED	SPECIES
+28232	28232	Malva sylvestris L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+28233	28233	Matricaria chamomilla var. recutita (L.) Grierson	Matricaria chamomilla L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SYNONYM	VARIETY
+28234	28234	Matricaria discoidea DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28235	28235	Medicago sativa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28236	28236	Mentha pulegium L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+28237	28237	Merizodus soledadinus (GuÃ©rin-MÃ©neville, 1830)		Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	ACCEPTED	SPECIES
+28238	28238	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+28239	28239	Myosotis discolor Pers.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	ACCEPTED	SPECIES
+28240	28240	Myzus ascalonicus Doncaster, 1946		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	ACCEPTED	SPECIES
+28241	28241	Myzus ornatus Laing, 1932		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	ACCEPTED	SPECIES
+28242	28242	Oncorhynchus kisutch (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	ACCEPTED	SPECIES
+28243	28243	Oryctolagus cuniculus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	ACCEPTED	SPECIES
+28244	28244	Ostearius melanopygius (O.Pickard-Cambridge, 1880)		Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	ACCEPTED	SPECIES
+28245	28245	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+28246	28246	Ovis gmelinii Blyth, 1841		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+28247	28247	Oxybasis rubra (L.) S.Fuentes, Uotila & Borsch		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+28248	28248	Pelargonium zonale L'HÃ©r.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	ACCEPTED	SPECIES
+28249	28249	Phleum nodosum L.	Phleum pratense L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+28250	28250	Phleum pratense L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28251	28251	Pholcus phalangioides (Fuesslin, 1775)		Animalia	Arthropoda	Arachnida	Araneae	Pholcidae	ACCEPTED	SPECIES
+28252	28252	Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28253	28253	Plantago lanceolata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	ACCEPTED	SPECIES
+28254	28254	Poa annua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28255	28255	Poa nemoralis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28256	28256	Poa palustris L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28257	28257	Poa pratensis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28258	28258	Poa trivialis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28259	28259	Porcellio scaber Latreille, 1804		Animalia	Arthropoda	Malacostraca	Isopoda	Porcellionidae	ACCEPTED	SPECIES
+28260	28260	Prunella vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+28261	28261	Psychoda parthenogenetica Tonnoir, 1940		Animalia	Arthropoda	Insecta	Diptera	Psychodidae	ACCEPTED	SPECIES
+28262	28262	Ptinus tectus Boieldieu, 1856		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	ACCEPTED	SPECIES
+28263	28263	Rangifer tarandus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	ACCEPTED	SPECIES
+28264	28264	Ranunculus repens L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	ACCEPTED	SPECIES
+28265	28265	Raphanus raphanistrum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28266	28266	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+28267	28267	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+28268	28268	Rhopalosiphum padi (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	ACCEPTED	SPECIES
+28269	28269	Rorippa austriaca (Crantz) Besser		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28270	28270	Rumex acetosella L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+28271	28271	Rumex conglomeratus Murray		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+28272	28272	Rumex crispus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+28273	28273	Rumex obtusifolius L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+28274	28274	Sagina procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+28275	28275	Salmo salar Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	ACCEPTED	SPECIES
+28276	28276	Salmo trutta Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	ACCEPTED	SPECIES
+28277	28277	Salvelinus alpinus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	ACCEPTED	SPECIES
+28278	28278	Salvelinus fontinalis (Mitchill, 1814)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	ACCEPTED	SPECIES
+28279	28279	Scatopse notata (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Diptera	Scatopsidae	ACCEPTED	SPECIES
+28280	28280	Schedonorus arundinaceus Roem. & Schult.	Scolochloa festucacea Link	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+28281	28281	Senecio vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28282	28282	Sherardia arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+28283	28283	Sinapis arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28284	28284	Solanum nigrum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+28285	28285	Sonchus asper Hill		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28286	28286	Sonchus oleraceus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28287	28287	Steatoda grossa (C.L.Koch, 1838)		Animalia	Arthropoda	Arachnida	Araneae	Theridiidae	ACCEPTED	SPECIES
+28288	28288	Steatoda triangulosa (Walckenaer, 1802)		Animalia	Arthropoda	Arachnida	Araneae	Theridiidae	ACCEPTED	SPECIES
+28289	28289	Stellaria alsine Grimm		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+28290	28290	Stellaria media (L.) Vill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+28291	28291	Tanacetum vulgare L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28292	28292	Taraxacum erythrospermum Andrz. ex Besser		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28293	28293	Taraxacum gr. ruderalia		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	NONE	SPECIES
+28294	28294	Tegenaria domestica (Clerck, 1757)		Animalia	Arthropoda	Arachnida	Araneae	Agelenidae	ACCEPTED	SPECIES
+28295	28295	Tenuiphantes tenuis (Blackwall, 1852)		Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	ACCEPTED	SPECIES
+28296	28296	Trichocera maculipennis Meigen, 1818		Animalia	Arthropoda	Insecta	Diptera	Trichoceridae	ACCEPTED	SPECIES
+28297	28297	Trifolium dubium Sibth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28298	28298	Trifolium glomeratum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28299	28299	Trifolium repens L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28300	28300	Trigonella officinalis (Linnaeus) Coulot & Rabaute	Melilotus officinalis Pall.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SYNONYM	SPECIES
+28301	28301	Tripleurospermum inodorum (L.) Sch.Bip.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28302	28302	Trisetum spicatum (L.) K.Richt.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28303	28303	Tropaeolum majus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Tropaeolaceae	ACCEPTED	SPECIES
+28304	28304	Ulex minor Roth		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28305	28305	Vanessa cardui (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Lepidoptera	Nymphalidae	ACCEPTED	SPECIES
+28306	28306	Verbena officinalis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	ACCEPTED	SPECIES
+28307	28307	Veronica serpyllifolia L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	ACCEPTED	SPECIES
+28308	28308	Vicia sativa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28309	28309	Vulpia bromoides (L.) Gray		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES

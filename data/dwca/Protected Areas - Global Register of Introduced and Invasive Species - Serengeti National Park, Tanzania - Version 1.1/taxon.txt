@@ -1,0 +1,23 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+12374	12374	Agave fourcroydes Lem.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+12375	12375	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+12376	12376	Agave tequilana F.A.C.Weber		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+12377	12377	Amaranthus hybridus var. hybridus	Amaranthus hybridus L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	VARIETY	SYNONYM
+12378	12378	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+12379	12379	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+12380	12380	Cassia occidentalis L.	Senna occidentalis (L.) Link	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+12381	12381	Chromolaena odorata (L.) R.M.King & H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+12382	12382	Cylindropuntia exaltata (A.Berger) Backeb.	Austrocylindropuntia subulata subsp. exaltata (A.Berger) D.R.Hunt	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	SYNONYM
+12383	12383	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+12384	12384	Euphorbia tirucalli L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+12385	12385	Gossypium hirsutum L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+12386	12386	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+12387	12387	Medicago laciniata Mill.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+12388	12388	Opuntia ficus-indica (L.) Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+12389	12389	Opuntia monocantha (Willd.) Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+12390	12390	Opuntia stricta var. dillenii L.D.Benson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	VARIETY	ACCEPTED
+12391	12391	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+12392	12392	Ricinus communis var. africanus MÃ¼ll.Arg.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	VARIETY	
+12393	12393	Rorippa nasturtium-aquaticum (L.) Hayek	Nasturtium officinale W.T.Aiton	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+12394	12394	Tagetes minuta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+12395	12395	Xanthium strumarium L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED

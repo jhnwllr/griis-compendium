@@ -1,0 +1,509 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	vernacularName	taxonomicStatus
+16000	16000	Abelmoschus moschatus Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	English: fautia, musk mallow, musk okra; French: ambrette, gombo musqué, ketmie musquée, graine de musc; Other:  kamang, ka‘mang (Guam); karereon, karereon nikapwerik nik, kareron, likonokon (Chuuk); gongul (Palau); metei, mety, methey (Pohnpei); hathongethong, kamwayang, nikapwerik, setmwechin, sotumo (Yap);  wakiwaki, wakewake, wakeke, vakeke, aukiki, okeoke, o‘e‘e (Fiji); fou ingo (Niue), fau ingo (Wallis and Futuna); ‘aute toga, fau tagaloa, fua samasama (American Samoa and Samoa); loa, fau‘ingo (Tonga)	ACCEPTED
+16001	16001	Abrus precatorius L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	matamoe, matamoho, moho	ACCEPTED
+16002	16002	Acacia auriculiformis A.Cunn. ex Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16003	16003	Acalypha lanceolata Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	hogohogo, hongohongo, ngohongoho	ACCEPTED
+16004	16004	Acanthaster planci (Linnaeus, 1758)		Animalia	Echinodermata	Asteroidea	Valvatida	Acanthasteridae	SPECIES	Crown-of-thorns starfish	ACCEPTED
+16005	16005	Acanthophora spicifera (Vahl) Børgesen		Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES		ACCEPTED
+16006	16006	Achatina fulica (Férussac, 1821)	Lissachatina fulica (Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	Giant African land snail	SYNONYM
+16007	16007	Achyranthes aspera L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	tamatama	ACCEPTED
+16008	16008	Acmella uliginosa Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16009	16009	Acridotheres fuscus (Wagler, 1827)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	Jungle myna	ACCEPTED
+16010	16010	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	Common Indian myna	ACCEPTED
+16011	16011	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: Coral bean tree, red sandalwood tree, red bead tree, lopa, bead tree, false wiliwili, peacock flower-fence; French: bois de condori; Other:  kaikes (Pohnpei); mwetkwem (Kosrae); colales, culalis, kolales, kulales, kulalis (Guam, CNMI); metekam, metkam, metkem, (Kosrae); telengtúngd, telentundalel (Palau); pomea (Fiji, Niue), lera, lere ndamu, vaivai, vaivai ni vavalangi (Fiji), lopa, la‘au lopa (American Samoa, Samoa and Tonga); paina, pitipitio (French Polynesia)	ACCEPTED
+16012	16012	Adenostemma platyphyllum Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16013	16013	Adenostemma viscosum J.R.Forst. & G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16015	16015	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	Yellow fever mosquito	ACCEPTED
+16016	16016	Aedes nocturnus Thoebald, 1903		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	Tiger mosquito	ACCEPTED
+16017	16017	Agave americana L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES		ACCEPTED
+16018	16018	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	te‘ehosi	ACCEPTED
+16019	16019	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	kāsia	ACCEPTED
+16020	16020	Aleurites moluccanus Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	English:  candlenut, Indian walnut; French:  bancoulier, bancoulier, noyer de bancoul, noyer des Moluques; Other:  lumbang (Guam), raguar (Caroline Islands); sakan, shakan (Pohnpei); lama (American Samoa and Samoa); kukui (Hawai’i); tuitui (Cook Islands, Niue, Tonga), 'ama (Marquesas); lauci, lauthe, lauthi, toto, tuitui, tutui, waiwai, sekeci,sikethi, sikeli, nggerenggere (Fiji); tahii tiairi, ti’a’iri, tutui, tahiri (French Polynesia)	ACCEPTED
+16021	16021	Aleurodicus dispersus Russell, 1965		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	Spiralling whitefly	ACCEPTED
+16022	16022	Allamanda cathartica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	English:  yellow trumpet vine, golden trumpet, allamanda, brownbud allamanda, golden allamanda, golden cup; French:  monette jaune, li’ane s’aime; Other:  pua taunofo (American Samoa and Samoa), lani-ali‘i (Hawai‘i)	ACCEPTED
+16023	16023	Alocasia macrorrhizos (L.) G.Don		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	kape	ACCEPTED
+16024	16024	Alpinia purpurata K.Schum.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	English:  red ginger; Other:  thevunga (Fiji); ‘awapuhi ‘ula‘ula (Hawai‘i); teuila (Samoa); teuila, teuila pāpālangi, tevunga (Tonga)	ACCEPTED
+16025	16025	Alternanthera sessilis (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	fisi‘i‘ano	ACCEPTED
+16026	16026	Alysicarpus vaginalis DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	akataha hina	ACCEPTED
+16027	16027	Amaranthus blitum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	tupu‘a	ACCEPTED
+16028	16028	Amaranthus cruentus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES		ACCEPTED
+16029	16029	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	longolongo‘uha, tupu‘a	ACCEPTED
+16030	16030	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	longolongo‘uha, tupu‘a	ACCEPTED
+16031	16031	Amorphophallus paeoniifolius (Dennst.) Nicolson		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES		ACCEPTED
+16032	16032	Anacardium occidentale L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	English:  cashew, cashew nut; French:  anacardier, pomme de cojou, acajou a pommes, pommier d’acajou; Other:  kasoi (Guam), ‘apu ‘initia (Samoa); kesiu (Tonga)	ACCEPTED
+16033	16033	Aniseia martinicensis (Jacq.) Choisy		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16034	16034	Annona muricata L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	English: soursop, prickly custard apple; French:  corossolier, cacheimantier épineux, cachiman épineux, corossol épineux; Other: saasaf, sasaf (Chuuk); tapotapo papaa (French Polynesia); laguana, laguaná, laguanaha, laguanaba, labuanaha (Guam); sosap (Kosrae); jojaab (Marshall Islands); syasyap (Northern Mariana Islands), talapo fotofoto (Niue), sausab (Palau); sei, sae, truka shai (Pohnpei); sasalapa (Samoa); ‘apele ‘initia (Tonga); sausau (Yap)	ACCEPTED
+16035	16035	Annona reticulata L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	‘apele haati, ‘apele pāpālangi	ACCEPTED
+16036	16036	Annona squamosa L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	English: sugar apple, sweetsop, custard apple, sugar apple; French: annone écailleuse, pomme-canelle; Other:  atis, ates (Guam); ngel ra ngebard (Palau), ‘apele papalangi, ‘apele Tonga (Tonga), tapotapo (French Polynesia)	ACCEPTED
+16037	16037	Anoplolepis gracilipes (Smith, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	The Yellow crazy ant	ACCEPTED
+16038	16038	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	English:  Mexican creeper, mountain rose, Confederate vine, chain-of-love, hearts on a chain, love-vine, coral bells, coral vine, queen’s jewels, kadena de amor, corallita; Other: dilngau (Palau); rohsapoak (Pohnpei)	ACCEPTED
+16039	16039	Argyreia nervosa (Burm.f.) Bojer		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16040	16040	Aristolochia elegans Mast.		Plantae	Tracheophyta	Magnoliopsida	Piperales	Aristolochiaceae	SPECIES	fue paipa holani	ACCEPTED
+16041	16041	Arundo donax L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	kaho, kaho lalahi, kaho pāpālangi	ACCEPTED
+16042	16042	Asclepias curassavica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	fisi puna, lou pepe, tulanga pepe, tu‘ula pepe, vavae kona	ACCEPTED
+16043	16043	Asparagus densiflorus (Kunth) Jessop		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES		ACCEPTED
+16044	16044	Asparagus plumosus Baker	Asparagus setaceus (Kunth) Jessop	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES		SYNONYM
+16045	16045	Asystasia gangetica (L.) T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	English: Chinese violet, Philippine violet, coromandel	ACCEPTED
+16046	16046	Atuna racemosa Raf.	Atuna excelsa subsp. racemosa (Raf.) Prance	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Chrysobalanaceae	SPECIES		BASIONYM
+16047	16047	Axonopus compressus (Sw.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16048	16048	Axonopus fissifolius (Raddi) Kuhlm.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: caratao grass,  narrow-leaved carpetgrass	ACCEPTED
+16049	16049	Bambusa Schreb. spp.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	GENUS	English: bamboo; French: bambou; Other: moor (Yap); iich (Chuuk); pehri en sapahn (Pohnpei); bambuu (Palau); bambu (Kosrae); pi‘ao, pi‘ao palaoan (Guam and Northern Marianas-Chamorro); bwai (Guam and Northern Marianas-Carolinian); bae, koba (Marshall Islands); kaho palangi (Niue); ‘ohe (French Polynesia); ofe (French Polynesia, Samoa), ‘ofe fiti, ‘ofe papalagi (Samoa); kofe, pitu (Tonga); koe (Rarotonga, Cook Islands)	ACCEPTED
+16050	16050	Bambusa vulgaris Schrad. ex J.C.Wendl.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: bamboo; French: bambou; Other: moor (Yap); iich (Chuuk); pehri en sapahn (Pohnpei); bambuu (Palau); bambu (Kosrae); pi‘ao, pi‘ao palaoan (Guam and Northern Marianas-Chamorro); bwai (Guam and Northern Marianas-Carolinian); bae, koba (Marshall Islands); kaho palangi (Niue); ‘ohe (French Polynesia); ofe (French Polynesia, Samoa), ‘ofe fiti, ‘ofe papalagi (Samoa); kofe, pitu (Tonga); koe (Rarotonga, Cook Islands)	ACCEPTED
+16051	16051	Banana bunchy top virus		Viruses				Nanoviridae	SPECIES		ACCEPTED
+16052	16052	Barleria cristata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES		ACCEPTED
+16053	16053	Bauhinia monandra Kurz		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  orchid-tree, St. Thomas-tree, Napoleon's plume; flamboyant (Pohnpei), flores mariposa (CNMI); mariposa (Guam); pink butterfly tree (Fiji); Other:  pine fua loloa (Niue), vae povi (American Samoa and Samoa)	ACCEPTED
+16054	16054	Bemisia tabaci (Gennadius, 1889)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	Tobacco whitefly	ACCEPTED
+16055	16055	Benincasa hispida (Thunb.) Cogn.	Benincasa pruriens f. hispida (Thunb.) De Wild. & Duyfjes	Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES		SYNONYM
+16056	16056	Bidens alba (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16057	16057	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	fisi‘uli	ACCEPTED
+16058	16058	Bischofia javanica Blume		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	koka	ACCEPTED
+16059	16059	Bixa orellana L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Bixaceae	SPECIES	koka	ACCEPTED
+16060	16060	Blechum pyramidatum  (Lam.) Urb.	Ruellia blechum L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES		SYNONYM
+16061	16061	Boerhavia acutifolia (Choisy) J.W.Moore	Boerhavia diffusa L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES		SYNONYM
+16062	16062	Boerhavia repens Sieber	Commicarpus plumbagineus (Cav.) Standl.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES		SYNONYM
+16063	16063	Bothriochloa bladhii (Retz.) S.T.Blake		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English:  blue grass, Australian beardgrass, Caucasian bluestem; Other:  desum (Palau); latoka grass, thamboni grass (Fiji)	ACCEPTED
+16064	16064	Bothriochloa pertusa (L.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16065	16065	Brachiaria mutica (Forssk.) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16066	16066	Brachiaria paspaloides (J.Presl) C.E.Hubb.	Urochloa glumaris (Trin.) Veldkamp	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16067	16067	Brachiaria reptans (L.) C.A.Gardner & C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16068	16068	Brachiaria subquadripara (Trin.) Hitchc.	Brachiaria distachya (L.) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16069	16069	Breynia disticha J.R.Forst. & G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	English:  snowbush, snowbush breynia, sweetpea bush, foliage-flower	ACCEPTED
+16070	16070	Brontispa longissima (Gestro, 1885)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	Leaf Beetle	ACCEPTED
+16071	16071	Broussonetia papyrifera Vent.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES		ACCEPTED
+16072	16072	Brugmansia suaveolens (Willd.) Bercht. & C.Presl		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES		ACCEPTED
+16073	16073	Caesalpinia bonduc (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	talatala‘amoa	ACCEPTED
+16074	16074	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	‘ohai, piu	ACCEPTED
+16075	16075	Calliandra calothyrsus Meissner	Calliandra houstoniana Standl.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		SYNONYM
+16076	16076	Calopogonium mucunoides Desv.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: calopo; Other: akankan-guakag (Guam)	ACCEPTED
+16077	16077	Calyptocarpus vialis Less.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16078	16078	Cananga odorata (Lam.) Hook.f. & Thomson		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	English: perfume tree; French: canang odorant; Other: ilang-ilang, alang-ilang (Guam, Philippines); ylang-ylang, lengileng (CNMI); chiráng, irang (Palau); ilanlang, ilahnglahng (Kosrae); pwanang, pwuur, pwalang (Chuuk); pur-n-wai, pwurenwai, sair-n-wai, seirin wai, seir en wai (Pohnpei); ilanilan, ilañlañ (Marshall Islands); motoi (Niue); makasoi, makosoi, makusui, mokohoi, mokosoi (Fiji); moso‘oi (American Samoa and Samoa); mohoki, mohokoi, mohokoi (Tonga); moto‘oi, mata‘oi (Cook Islands, Niue, Tahiti); moto‘i (Tahiti); lanalana (Hawai‘i)	ACCEPTED
+16079	16079	Canis lupus familiaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	SUBSPECIES	Dog	ACCEPTED
+16080	16080	Canna indica L.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Cannaceae	SPECIES	English:  canna, canna lily, Indian shot; French: balisier comestible, tous-les-mois; Other:  mongos halum-tano (Guam); luiuenwai (Pohnpei); apeellap, oruuru (Puluwat); fanamanu, fagamanu, fa‘i masoa (American Samoa and Samoa); gasau ni ga (Fiji); te riti (Kiribati), misimisi (Tonga); fagafaga (Futuna); ali‘ipoe, li'ipoe, poloka (Hawai'i); pia-raroto‘a (French Polynesia)	ACCEPTED
+16081	16081	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	Goat	ACCEPTED
+16082	16082	Capsicum annuum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	polo, polo fifisi	ACCEPTED
+16083	16083	Cardiocondyla emeryi Forel, 1881		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16084	16084	Cardiocondyla nuda (Mayr, 1866)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16085	16085	Cardiospermum halicacabum L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	English:  balloon vine, heart pea, love-in-a-puff; Other:  wa niu, vo niu (Fiji); vinivinio (French Polynesia), poniu, haleakai‘a, ‘inalua, pohuehue uka (Hawai'i)	ACCEPTED
+16086	16086	Carica papaya L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Caricaceae	SPECIES		ACCEPTED
+16087	16087	Cassia barclayana Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		SYNONYM
+16088	16088	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	English:  casuarina, ironwood, Australian pine, she-oak, horsetail tree, beefwood; French:  arbe de fer; Spanish: arbol de hierro; Other: nach (Yap); lach (Ulithi); laash (Woleai); weeku (Chuuk); gagu, gago (Guam, CNMI); weighu (CNMI-Carolinian); pientri (pinetree), nidil, bû ukam (bluegum on some atolls), nidõ (needle" on some atolls) mejinoki (Marshall Islands); toa (American Samoa, French Polynesia, Hawai‘i, Niue, Samoa and Tonga); ‘aito (French Polynesia); nokonoko, nakure, qaro (Fiji); te katurina (from Ecoport, source not given)	ACCEPTED
+16089	16089	Casuarina glauca Sieber		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES		ACCEPTED
+16090	16090	Catharanthus roseus (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	kuinini, lolie, siale, siale vao, valeti	ACCEPTED
+16091	16091	Cedrela odorata L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	sita hina	ACCEPTED
+16092	16092	Ceiba pentandra (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	English: kapok, kapok tree, silk-cotton tree, pacae; French:  kapokier, capoc, bois coton; Spanish: ceibo; Other: koton (Chuuk); algodon de Manila, atgodon di Manila, algidon, atgidon de Manila (Guam); koatoa, atagodon, arughuschel (Saipan), batte ni gan' ken (Yap); bulik, kotin (Marshall Islands); cottin, koatun, koatoa (Pohnpei); kuhtin, cutin (Kosrae); kalngebard, kalngebárd, kerrekar ngebard (Palau); vauvau ni vavalangi, semar (Fiji); vavae (American Samoa, Samoa, Niue, Tonga); vavau ni lokoloko (from Ecoport, source not given)	ACCEPTED
+16093	16093	Cenchrus caliculatus Cav.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16094	16094	Cenchrus ciliaris L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English:  buffelgrass, African foxtail grass, anjan grass; French: cenchrus cilié	ACCEPTED
+16095	16095	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English:  burgrass, sand-bur, southern sandbur, Mossman River grass (Australia); French:  herbe a cateaux (Mauritius); Other: tuitui, vao tuitui, vao papalagi (American Samoa and Samoa); se mbulabula (Fiji); piri-piri, pipiri (French Polynesia); mau‘u kuku, ‘ume‘alu (Hawai'i); te anti, te kateketeke (Kiribati); cram-cram (New Caledonia); motie vihilago, mosie vihilango (Niue); lõklõk, kãlõklõk, lellik, lekelik, liklik, karmwijmwij, karumwij (Marshall Islands); cauit-cauitan (Philippines); hefa (Tonga)	ACCEPTED
+16096	16096	Centella asiatica Urb.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	tono, tono tahi	ACCEPTED
+16097	16097	Centotheca lappacea (L.) Desv.		Plantae	Tracheophyta	Magnoliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16098	16098	Centrosema molle Mart. ex Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16099	16099	Centrosema pubescens Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  centro, butterfly-pea; French: fleur-languette, pois bâtard; Other:  pi ni ndola (Fiji)	ACCEPTED
+16100	16100	Cestrum diurnum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	vaitohi	ACCEPTED
+16101	16101	Cestrum nocturnum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	English: night-flowering cestrum, night-flowering jasmine, queen (or lady) of the night; Other: teine o le po, ali‘i o le po (American Samoa and Samoa); thauthau, thauthau ni mbongi, kara (Fiji); dama-de-noche (Guam); ‘ala aumoe, kupaoa, onaona Iapana (Hawai‘i); joñoul ru awa (Marshall Islands); iki he po (Niue); lakau po‘uli (Tonga)	ACCEPTED
+16102	16102	Chamaecrista mimosoides (L.) Greene		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16103	16103	Chamaecrista nictitans Moench		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: partridge pea, Japanese tea senna; Other:  lauki (Hawai‘i); kobo-cha, nemu-cha (Japan), mateloi vava‘u (Tongan)	ACCEPTED
+16104	16104	Chamaesyce hirta (L.) Millsp.	Euphorbia hirta L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		SYNONYM
+16105	16105	Chamaesyce hypericifolia (L.) Millsp.	Euphorbia hypericifolia L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		SYNONYM
+16106	16106	Chamaesyce hyssopifolia (L.) Small	Euphorbia hyssopifolia L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		SYNONYM
+16107	16107	Chamaesyce prostrata (Aiton) Small	Euphorbia prostrata Aiton	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		SYNONYM
+16108	16108	Chamaesyce thymifolia (L.) Millsp.	Euphorbia thymifolia L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		SYNONYM
+16109	16109	Cheilocostus speciosus (J.Koenig) C.D.Specht	Hellenia speciosa (J.Koenig) S.R.Dutta	Plantae	Tracheophyta	Liliopsida	Zingiberales	Costaceae	SPECIES		SYNONYM
+16110	16110	Chenopodium murale L.	Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES		SYNONYM
+16111	16111	Chloris barbata Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: swollen fingergrass, purpletop chloris (Australia), airport grass (Fiji); Other: mau’u lei (Hawai'i)	ACCEPTED
+16112	16112	Chloris divaricata R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16113	16113	Chloris gayana		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16114	16114	Chloris radiata Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16115	16115	Christella dentata (Forssk.) Brownsey & Jermy		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Thelypteridaceae	SPECIES		ACCEPTED
+16116	16116	Chrysopogon aciculatus (Retz.) Trin.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: Mackie's pest, lovegrass, seed grass, golden beardgrass, seedy grass (Solomon Islands); French: herbe plate, herbe à piquant; Other: papapa (French Polynesia); inifuk, palaii (Guam); manienie ‘ula, pi‘ipi‘i, pilipili ‘ula (Hawai‘i); mosie fisi (Niue); iul (Palau); mutia tai, mutia vao (Samoa); matapekepeke, matapekapeka matapekepeka (Tonga); herbe plate (Vanuatu)	ACCEPTED
+16117	16117	Chrysopogon zizanioides (L.) Roberty		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ahi siaina	ACCEPTED
+16118	16118	Ciclospermum leptophyllum (Pers.) Sprague	Cyclospermum leptophyllum (Pers.) Sprague	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES		SYNONYM
+16119	16119	Clerodendrum buchananii (Roxb.) W.G.Walpers		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	English:  red clerodendrum, pagoda-flower; Other:  talufe (Niue); amo’ula, amo’ule (Tonga), lau'awa (Hawai'i)	ACCEPTED
+16121	16121	Clerodendrum buchananii var. fallax (Lindl.) Bakh.	Clerodendrum speciosissimum Drapiez	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	VARIETY		SYNONYM
+16122	16122	Clerodendrum chinense (Osb.) Mabb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	English:  Honolulu rose, stickbush, glory bower; Other:  losa Honolulu, losa onolulu (American Samoa and Samoa); pikake hohono, pikake wauke (Hawai'i), pitate mama (Cook Islands)	ACCEPTED
+16123	16123	Clidemia hirta D.Don		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Melastomataceae	SPECIES		ACCEPTED
+16124	16124	Clitoria ternatea L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	paipa	ACCEPTED
+16125	16125	Coccinia grandis Voigt		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	kiukamapa ‘ae ‘initia	ACCEPTED
+16126	16126	Coffea arabica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	English: coffee; French: café, caféier d’ Arabie; Spanish: café, cafeto; Other:  kove (Fiji); kofe (Fiji, Niue, Samoa), kofi (Tonga); kafe (Marquesas); taofe (Tahiti)	ACCEPTED
+16127	16127	Coix lacryma-jobi L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	hana, hana tuikahoa	ACCEPTED
+16128	16128	Colocasia esculenta Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	talo, taro	ACCEPTED
+16129	16129	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	Rock Dove or Rock Pigeon	ACCEPTED
+16130	16130	Combretum indicum (L.) Jongkind		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES		ACCEPTED
+16131	16131	Commelina benghalensis L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	kaningi, kanini, musie matala pulu	ACCEPTED
+16132	16132	Commelina diffusa Burm.f.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	English: commelina, dayflower, wandering Jew, spiderwort; Spanish:  chiriyuyo; Other: semprebiban-damalong (Guam); honohono (Hawai‘i); mau‘utoga, mau‘u Tonga (American Samoa and Samoa); mohuku vai, musie matala pulu (Tonga); ai rorongi, ai rongorongo, airogorogo, cobulabula, rongomatailevu, thombulambula, matembulambula, drano,duludauwere, ndrano, ndulandauwere, luna, tho nggalonggalo (Fiji), ma‘apape (French Polynesia)	ACCEPTED
+16133	16133	Conyza bonariensis Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16134	16134	Conyza sumatrensis (S.F.Blake) Pruski & G.Sancho	Erigeron sumatrensis Retz.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	pakaka	SYNONYM
+16135	16135	Cordia alliodora (Ruiz & Pav.) Oken		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	kōtia	ACCEPTED
+16136	16136	Cordia aspera G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Cordiaceae	SPECIES		ACCEPTED
+16137	16137	Cordyline fruticosa (L.) A.Chev.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES		ACCEPTED
+16138	16138	Coronopus didymus (L.) Sm.	Lepidium didymum L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	lesi vao	SYNONYM
+16139	16139	Costus speciosus (J.Koenig) Sm.	Hellenia speciosa (J.Koenig) S.R.Dutta	Plantae	Tracheophyta	Liliopsida	Zingiberales	Costaceae	SPECIES	English:  crepe ginger, crape ginger, wild ginger, Malay ginger, canereed; Other:  isebsab (Palau)	SYNONYM
+16140	16140	Crassocephalum crepidioides (Benth.) S.Moore		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	English:  thickhead, fireweed, redflower ragleaf; Other:  fua lele, pualele (American Samoa and Samoa); maraburubo (Solomon Islands); fisi puna (Tonga); se vuka (Fiji)	ACCEPTED
+16141	16141	Crassostrea gigas (Thunberg, 1793)		Animalia	Mollusca	Bivalvia	Ostreoida	Ostreidae	SPECIES	Japanese Oyster	SYNONYM
+16142	16142	Crinum asiaticum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	sāmoa, talotalo, tolotalo	ACCEPTED
+16143	16143	Crotalaria pallida Aiton		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	pi‘isi	ACCEPTED
+16144	16144	Crotalaria quinquefolia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16145	16145	Crotalaria retusa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	piini?	ACCEPTED
+16146	16146	Crotalaria spectabilis Roth		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ha‘apai	ACCEPTED
+16147	16147	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	southern house mosquito	ACCEPTED
+16149	16149	Cuphea carthagenensis (Jacq.) J.F.Macbr.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES		ACCEPTED
+16150	16150	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	fisi puna	ACCEPTED
+16151	16151	Cyathula prostrata Blume		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	toloma‘unga	ACCEPTED
+16152	16152	Cylas formicarius (Fabricius, 1798)		Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	SPECIES	Sweetpotato weevil	ACCEPTED
+16153	16153	Cymbopogon refractus (R.Br.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16154	16154	Cynodon dactylon Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: Bermuda grass, giant Bermuda grass, bahama grass, devil's grass, couch grass, Indian doab, grama, devilgrass, couchgrass, balama grass; French: chiendent, petit chiendent, chiendent pied-de-poule; Other: manini, manienie (Hawai'i); motie molulu (Niue); kambuta, kabuta (Fiji); mosie molulu (Niue); herbe de couverture (New Caledonia); pasto bermuda, zacate bermuda, grama dulce, gramón, hierba fina, grama-seda, (from Ecoport, no source given)	ACCEPTED
+16155	16155	Cyperus compressus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	pakopako, pakopako ano	ACCEPTED
+16156	16156	Cyperus cyperinus (Retz.) J.V.Suringar		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16157	16157	Cyperus cyperoides Kuntze		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	pakopako	ACCEPTED
+16158	16158	Cyperus gracilis R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16159	16159	Cyperus involucratus Houtt.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16160	16160	Cyperus javanicus Houtt.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16161	16161	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	English: nut grass, nutsedge, purple nutsedge, cocograss; French: souchet rond, souchet à tubercules, herbe à oignon; Other: oni ani (Cook Islands); soro na kambani, sora na kambani, soro ni kabani, ivako, malanga, vucesa, motha, vuthesa mot ha (Fiji); chaguan humatag (Guam); kili'o'opu, mau‘u mokae (Hawai‘i); te mumute (Kiribati); tuteoneon (Marshall Islands); mumuta (Samoa, Tokelau); pakopako (Tonga)	ACCEPTED
+16162	16162	Cyrtococcum oxyphyllum Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16163	16163	Dactyloctenium aegyptium (L.) Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16164	16164	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES		ACCEPTED
+16165	16165	Delonix regia (Bojer) Raf.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16166	16166	Derris malaccensis Prain		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16167	16167	Desmodium heterocarpon DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16168	16168	Desmodium heterophyllum DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16169	16169	Desmodium incanum DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16170	16170	Desmodium scorpiurus Desv.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16171	16171	Desmodium tortuosum DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16172	16172	Desmodium triflorum DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16173	16173	Desmodium uncinatum DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16174	16174	Dicranopteris linearis (Burm.fil.) Underw.		Plantae	Tracheophyta	Polypodiopsida	Gleicheniales	Gleicheniaceae	SPECIES		ACCEPTED
+16175	16175	Dieffenbachia seguine Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES		ACCEPTED
+16176	16176	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16177	16177	Digitaria fuscescens Henrard		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16178	16178	Digitaria horizontalis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16179	16179	Digitaria radicosa (J.Presl) Miq.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16180	16180	Digitaria sanguinalis (L.) Scop.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16181	16181	Digitaria setigera Roth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16182	16182	Digitaria violascens Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: smooth crabgrass, violet crabgrass; Other: sau (Palau)	ACCEPTED
+16183	16183	Dioscorea alata L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES		ACCEPTED
+16184	16184	Dioscorea bulbifera L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	hoi	ACCEPTED
+16185	16185	Dioscorea pentaphylla L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES		ACCEPTED
+16186	16186	Duranta erecta L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	māvaetangi, ‘olive	ACCEPTED
+16187	16187	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	matala‘ulie, muhuku‘apopoa	ACCEPTED
+16188	16188	Eclipta prostrata (L.) L.	Eclipta alba Hassk.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		SYNONYM
+16189	16189	Ehrharta stipoides Labill.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16190	16190	Eleocharis dulcis Trin. ex Henschel.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	kuta	ACCEPTED
+16191	16191	Eleocharis geniculata (L.) Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16192	16192	Elephantopus mollis Kunth		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	lata hina, lau veveli	ACCEPTED
+16193	16193	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: goosegrass, wiregrass, goose foot, crow's foot, bullgrass; French: pied de poule; Other: fahitalo, lau ta‘a ta‘a, ta‘a ta‘a (American Samoa and Samoa); kavoronaisivi, vorovoroisivi, ghoraya (Fiji); tamamau (French Polynesia), umog (Guam); manienie ali‘i (Hawai'i); mahkwekwe (Kosrae); katejukjuk (Marshall Islands); mosie fahitalo (Niue); deskim, keteketarmalk (Palau); reh takai (Pohnpei); takataka, takataka ‘a leala, mohuku siamane (Tonga); te uteute (from Ecoport, source not given)	ACCEPTED
+16194	16194	Eleutheranthera ruderalis (Sw.) Sch.Bip.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	pakaka	ACCEPTED
+16195	16195	Emilia sonchifolia (L.) DC. ex Wight		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	longlongo‘uha	ACCEPTED
+16196	16196	Epipremnum pinnatum (L.) Engl. 'Aureum'		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	English: pothos, money plant; Other: yalu, wa yalu, wa lu, alu, halu, waloa, matha, nanggalanggala, nanggalinggali, tonga, tanga (Fiji); alu (Tonga)	ACCEPTED
+16197	16197	Eragrostis amabilis (L.) Wight & Arn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16198	16198	Eragrostis tenuifolia (A.Rich.) Hochst. ex Steud.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16199	16199	Erechtites valerianaefolia (Wolf ex Rchb.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	fisi puna	ACCEPTED
+16200	16200	Erigeron bellioides DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16201	16201	Erigeron bonariensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16202	16202	Eriobotrya japonica (Thunb.) Lindl.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	loketi	ACCEPTED
+16203	16203	Eriochloa procera (Retz.) C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16204	16204	Erythrina fusca Lour.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16205	16205	Eugenia uniflora L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	English: Surinam cherry, red Brazil cherry; French: cerisier carré, cerisier de Cayenne; Other: kafika, kafika palangi (Niue), pitanga (Brazil)	ACCEPTED
+16206	16206	Euodia hortensis Forst.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES		ACCEPTED
+16207	16207	Euphorbia cyathophora Murray	Euphorbia heterophylla var. cyathophora (Murray) Griseb.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	fe‘ofa‘aki	SYNONYM
+16208	16208	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	sakisi	ACCEPTED
+16209	16209	Euphorbia hypericifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		ACCEPTED
+16210	16210	Euphorbia peplus L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		ACCEPTED
+16211	16211	Euphorbia prostrata Ait.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		ACCEPTED
+16212	16212	Euphorbia thymifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES		ACCEPTED
+16213	16213	Falcataria moluccana (Miq.) Barneby & J.W.Grimes		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  Molucca albizia; Other:  tamaligi palagi (American Samoa); tuhke kerosene, tuhkehn karisihn (Pohnpei); ukall ra ngebard (Palau); tamaligi uliuli (Samoa)	ACCEPTED
+16214	16214	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	Cat	ACCEPTED
+16215	16215	Ficus benjamina L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	‘ovava Fisi	ACCEPTED
+16216	16216	Ficus microcarpa L.f.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES		ACCEPTED
+16217	16217	Fimbristylis autumnalis (Willd.) Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	takataka	ACCEPTED
+16218	16218	Fimbristylis dichotoma (L.) Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16219	16219	Fimbristylis ovata (Burm.f.) J.Kern		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16220	16220	Flacourtia rukam Zoll. & Moritzi		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	filimoto, milo‘uta	ACCEPTED
+16221	16221	Flemingia macrophylla (Willd.) Kuntze ex Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16222	16222	Fleurya interrupta (L.) Wight	Laportea interrupta (L.) Chew	Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	hogohogo, hongohongo, ngohongoho, nogonogo	SYNONYM
+16223	16223	Furcraea foetida Haw.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	English:  Mauritius hemp, sisal, maguey, giant cabuya; French: aloès vert, chanvre de Maurice; Other: malina (Hawai‘i (Ni‘ihau)); toua (Niue); lautalotalo papalagi (Samoa), Tonga -fau malila, faumalila	ACCEPTED
+16224	16224	Galactia tenuiflora Willd. ex Wight & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	kihikihi lanumata	ACCEPTED
+16225	16225	Gamochaeta purpurea Cabrera (L.)	Gnaphalium purpureum L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		SYNONYM
+16226	16226	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: mother of cacao, quickstick; Spanish: madre de cacao	ACCEPTED
+16227	16227	Glycine tabacina Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	kihikihi lanumata	ACCEPTED
+16228	16228	Gmelina arborea Roxb. ex Sm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16229	16229	Gnaphalium purpureum L.	Gamochaeta purpurea (L.) Cabrera	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		SYNONYM
+16230	16230	Gossypium barbadense Raf.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	vavae, vavae tonga	ACCEPTED
+16231	16231	Grevillea robusta A.Cunn. ex R.Br.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	English:  silk oak, silky oak, he oak, silver oak, spider flower; Other: ‘oka kilika, ha‘iku ke‘oke‘o (Hawai'i), oke‘ (Tonga)	ACCEPTED
+16232	16232	Haematoxylum campechianum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16233	16233	Hedychium coronarium J.Koenig		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	teuila, thevunga	ACCEPTED
+16234	16234	Hedychium flavescens Carey ex Rosc.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	English:  yellow ginger, cream ginger; French: longoze; Other: opuhi rea rea (French Polynesia); ‘awapuhi melemele (Hawai'i), teuila (Samoa)	ACCEPTED
+16235	16235	Hedyotis pumila Willd.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES		SYNONYM
+16236	16236	Helianthus argophyllus Torr. & A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	siola‘ā	ACCEPTED
+16237	16237	Hemigraphis alternata (Burm.f) T.Anders.	Strobilanthes alternata (Burm.f.) Moylan ex J.R.I.Wood	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	English: metal leaf; red ivy, cemetery plant (Fiji)	SYNONYM
+16238	16238	Hemigraphis reptans (J.R.Forst.) T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES		ACCEPTED
+16239	16239	Heteropogon contortus (L.) P.Beauv. ex Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16240	16240	Hibiscus abelmoschus L.	Abelmoschus moschatus subsp. Moschatus	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16241	16241	Hibiscus diversifolius Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16242	16242	Hibiscus syriacus L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16243	16243	Hibiscus tiliaceus L	Talipariti tiliaceum (L.) Fryxell	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		SYNONYM
+16244	16244	Hippobroma longiflora (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Asterales	Campanulaceae	SPECIES		ACCEPTED
+16245	16245	Hoya australis R.Br. ex Traill		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	lau matolu	ACCEPTED
+16246	16246	Hypoponera opaciceps (Mayr, 1887)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16247	16247	Hypoponera punctatissima (Roger, 1859)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16248	16248	Hyptis pectinata Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	English:  comb hyptis, comb bushmint, mint weed, purple top; French:  fausse menthe; Other:  mumutun lahe, mumutun palaoan, mumutan ademelon (Guam); tamole ni veikau, tamoli ni vavalangi, timothi ni vavalangi, wavuwavu, ndamoli, ben tulsia (Fiji)	ACCEPTED
+16249	16249	Icerya purchasi Maskell, 1879		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	Cottony cushion scale	ACCEPTED
+16250	16250	Impatiens balsamina L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	polosomo	ACCEPTED
+16251	16251	Imperata conferta (Presl) Ohwi		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16252	16252	Imperata cylindrica P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16253	16253	Indigofera suffruticosa Mill.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: indigo; Other:  aniles (Guam); ‘iniko, inikoa, kolu (Hawai'i); la‘au mageso (Samoa); ‘akau veli (Tonga)	ACCEPTED
+16254	16254	Inocarpus fagifer (Parkinson ex F.A.Zorn) Fosberg		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16255	16255	Ipomoea alba L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16256	16256	Ipomoea aquatica Forssk.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16257	16257	Ipomoea batatas (L.) Lam.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	kumala, kumara	ACCEPTED
+16258	16258	Ipomoea cairica (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	maile miniti	ACCEPTED
+16259	16259	Ipomoea hederifolia L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	fue kula	ACCEPTED
+16260	16260	Ipomoea indica (Burm.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	fue ‘ae puaka	ACCEPTED
+16261	16261	Ipomoea littoralis (L.) Blume		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16262	16262	Ipomoea pes-caprae (L.) R.Br.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16263	16263	Ipomoea violacea L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	fue hina, fue lalahi, pula	ACCEPTED
+16264	16264	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	fiki	ACCEPTED
+16265	16265	Kalanchoe delagoensis Eckl. & Zeyh.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES		ACCEPTED
+16266	16266	Kalanchoe pinnata (Lam.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	pipi vao, ta‘e kosi	ACCEPTED
+16267	16267	Kappaphycus alvarezii (Doty) Doty ex P.C.Silva		Plantae	Rhodophyta	Florideophyceae	Gigartinales	Solieriaceae	SPECIES		ACCEPTED
+16268	16268	Kyllinga brevifolia Nees	Cyperus melanospermus (Wight) J.V.Suringar	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	English: green kyllinga, green water sedge; Other: kili‘o‘opu, kaluha, manunene, mau‘u mokae (Hawai‘i); tuise (Samoa); pakopako (Tonga)	SYNONYM
+16269	16269	Kyllinga nemoralis J.R. & G.Forst.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	English: white kyllinga, whitehead spikesedge, whitewater sedge; Other:  kili‘o‘opu (Hawai‘i), ta‘a ta‘a, ta‘a ta‘a vili taliga, matie upo‘o, matie tahiti, mo‘u upo‘onui, mo‘u upo‘o, tuise (Samoa); pakopako, pakopako ‘ae kuma (Tahiti); tuise (Tonga)	ACCEPTED
+16270	16270	Lablab purpureus Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  hyacinth bean, lablab, bonavist, Egyptian kidney bean, dolichos; French: dolique, dolique d'Egypte, pois nourrice; Other:  ndralawa, natomba, tomba (Fiji); cheribilla apaka, chuchumeko (Guam); papapa, pi (Hawai'i); pini lae puaka (Tonga)	ACCEPTED
+16271	16271	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	English: lantana; Other: latana (American Samoa and Samoa); taramoa (Cook Islands); kauboica, kaumboitha, mbonambulumakau, mbona ra mbulumakau, tokalau, waiwai, lanitana (Fiji); taratara hamoa, taratara moa (French Polynesia); latora moa, tatara moa (French Polynesia (Tahiti)); lakana, la‘au kalakala, lanakana (Ni‘ihau), mikinolia hihiu, mikinolia hohono, mikinolia kuku (Hawai'i); ros fonacni (Kosrae); te kaibuaka, te kaibuaja (Kiribati); migiroa (Nauru), landana, rantana, rahndana, tukasuweth (Pohnpei); talatala, talatala talmoa (Tonga)	ACCEPTED
+16272	16272	Laportea interrupta Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES		DOUBTFUL
+16273	16273	Lemna perpusilla Torr.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES		ACCEPTED
+16274	16274	Leonotis nepetifolia (L.) R.Br.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16275	16275	Leonurus japonicus Houtt.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	English:  lion’s tail, Chinese motherwort	ACCEPTED
+16276	16276	Leonurus sibiricus L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16277	16277	Lepidium bidentatum Montin		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES		ACCEPTED
+16278	16278	Lepidium virginicum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES		ACCEPTED
+16279	16279	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  leucaena, wild tamarind, lead tree; French: graines de lin, faux-acacia, faux mimosa (New Caledonia); Other:  koa haole, lili-koa, ekoa (Hawai'i); tangantangan, tangan-tangan, talantayan (Guam, CNMI, Marshall Islands); talntangan (CNMI); ganitnityuwan tangantan (Yap); tuhngantuhngan, rohbohtin (Kosrae); telentund (Palau); lopa Samoa (American Samoa and Samoa); fua pepe (American Samoa and Samoa); lusina (Samoa); pepe (Niue and Samoa); tavahi kaku (Niue); nito, toromiro (Cook Islands); siale mohemohe (Tonga); vaivai, vaivai ni vavalangi, vaivai dina, balori (Fiji); atiku (Marquesas); cassis (Vanuatu); te kaitetua (Kiribati); namas (from Ecoport, source not given)	ACCEPTED
+16280	16280	Leucas decemdentata (Willd.) Sm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16281	16281	Ligustrum lucidum W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES		ACCEPTED
+16282	16282	Ligustrum sinense Lour.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES		ACCEPTED
+16283	16283	Lindernia antipoda Colsm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES		ACCEPTED
+16284	16284	Lindernia crustacea (L.) F.Muell.	Torenia crustacea (L.) Cham. & Schltdl.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES		SYNONYM
+16285	16285	Lonicera japonica Thunb.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	pua Fisi	ACCEPTED
+16286	16286	Ludwigia octovalvis (Jacq.) P.H.Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	loa ano	ACCEPTED
+16287	16287	Luffa aegyptiaca Mill.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	fangu ‘a kuma, mafa‘i	ACCEPTED
+16288	16288	Luffa cylindrica Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES		ACCEPTED
+16289	16289	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	Pink hibiscus mealybug	ACCEPTED
+16290	16290	Macroptilium atropurpureum Urb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  siratro, purple bushbean	ACCEPTED
+16291	16291	Macroptilium lathyroides Urb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	pini	ACCEPTED
+16292	16292	Malvastrum coromandelianum (L.) Garcke		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	te‘ehoosi, te‘ehosi, te‘ekosi	ACCEPTED
+16293	16293	Malvaviscus arboreus Cav.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16294	16294	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	mango	ACCEPTED
+16295	16295	Manilkara dissecta (L.f.) Dubard		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES		ACCEPTED
+16296	16296	Medicago lupulina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16297	16297	Medicago polymorpha L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16298	16298	Melanoides tuberculata (O.F.Müller, 1774)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	Red-rim melania	ACCEPTED
+16299	16299	Melastoma malabathricum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Melastomataceae	SPECIES		ACCEPTED
+16300	16300	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	English:  Chinaberry, pride-of-India, indian lilac, Persian lilac, white cedar, margosa tree, tira; French:  lilas des Indes, arbre à chapelets; Spanish: jazmin (Galapagos Is.); Other: dake, bakain (Fiji), paraiso, para'isu (Guam); ‘inia, ‘ilinia (Hawai‘i)sili, tili (Niue); lelah (Pohnpei); sita (Tonga); prais (Yap)	ACCEPTED
+16301	16301	Melinis minutiflora P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: melinis, molasses grass; French: herbe molasses, herbe à miel; Other: puakatau (Tonga)	ACCEPTED
+16302	16302	Melinis repens (Willd.) Zizka		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	salāpona	ACCEPTED
+16303	16303	Merremia dissecta (Jacq.) Hall.fil.	Distimake dissectus (Jacq.) A.R.Simões & Staples	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		SYNONYM
+16304	16304	Merremia peltata (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	fue mea, pula	SYNONYM
+16305	16305	Merremia quinquefolia (L.) Hall.fil.	Distimake quinquefolius (L.) A.R.Simões & Staples	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		SYNONYM
+16306	16306	Merremia tuberosa Dammer		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	English:  wood rose, Spanish arborvine, yellow morning-glory; French: liane-à-tonelle, liane-jaune; Other:  pilikai (Hawai'i)	ACCEPTED
+16307	16307	Merremia umbellata (Linnaeus, 1753) Halber		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES		ACCEPTED
+16308	16308	Mikania micrantha Kunth		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	English:  mile-a-minute weed, Chinese creeper, American rope, bittervine; French: liane américaine, liane-serpent; Other: fue saina (American Samoa, Samoa and Niue); fou laina (Niue), teb ‘l yas (Palau); wa mbosuthu, wa mbosuvu, wa mbutako, wa ndamele, ovaova, wa bosucu, usuvanua (Fiji); kwalo koburu, (from Ecoport, no source given)	ACCEPTED
+16309	16309	Mimosa diplotricha C.Wright ex Sauvalle		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: giant sensitive plant, nila grass; French: grande sensitive, sensitive gèante; Other: singbiguin sasa (Saipan); mechiuaiuu (Palau); limemeihr laud (Pohnpei); vao fefe palagi (American Samoa and Samoa), la'au fefe tele, la'au fefe palagi (Samoa); wa ngandrongandro levu, wa ngandrongandro ni wa ngalelevu, co gadrogadro (Fiji)	ACCEPTED
+16310	16310	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: sensitive plant, sleeping grass; French: sensitive; Other: la‘au fefe, vao fefe, vao tuitui, tuitui (American Samoa and Samoa); ra kau pikikaa, rakau pikika (Cook Islands); tho ngandrongandro, tho kandrodandro, cogadrogadro (Fiji); betguen sosa (Guam); pua hilahila (Hawai‘i); memege (Niue); mechiuaiu (Palau); limemeihr (Pohnpei); pohe ha‘avare, pope ha‘avare (Tahiti); mateloi (Tonga)	ACCEPTED
+16311	16311	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	English: balsam-apple, bitter-melon, bitter gourd, balsam pear, squirting cucumber, cerasee, peria; French: momordique, margose (Réunion, Mauritius Islands), margose amère, momordique amère, concombre amer, concombre africain; Spanish: achoccha silvestre; Other: almagosa, atmagosu (Guam); atmagoso (Guam, CNMI); markoso (Palau); kerala (Fiji); lole ‘ae kumā, meleni ‘ae kuma, paini ‘ae kumā, vaine ‘ae kumā, vaine ‘initia (Tonga)	ACCEPTED
+16312	16312	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Bicolored trailing ant or flower ant	ACCEPTED
+16313	16313	Monomorium pharaonis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Pharaoh ant	ACCEPTED
+16314	16314	Monomorium sechellense Emery, 1894		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16315	16315	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	SPECIES	English:  horseradish tree, drumstick tree, ben nut, morango; French: ben ailée, moringa ailée, pois quénique; Other: malungkai, marronggai, marungai, marunggai, malungay, katdes (Guam); sajina (Fiji)	ACCEPTED
+16316	16316	Murdannia nudiflora (L.) Brenan		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES		ACCEPTED
+16317	16317	Murraya paniculata (L.) Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	‘olive	ACCEPTED
+16318	16318	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	House mouse	ACCEPTED
+16319	16319	Neonotonia wightii (Arn.) J.A.Lackey		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: glycine; French: soja pérenne	ACCEPTED
+16320	16320	Nephrolepis biserrata (Sw.) Schott		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Nephrolepidiaceae	SPECIES		ACCEPTED
+16321	16321	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES		ACCEPTED
+16322	16322	Nicotiana tabacum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	laumalila, malila, tapaka, tapaka tonga	ACCEPTED
+16323	16323	Nylanderia vaga (Forel 1901)	Paratrechina vaga (Forel, 1901)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16324	16324	Ocimum basilicum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	akau pāpālangi, sanga, ta‘eta‘e	ACCEPTED
+16325	16325	Ocimum gratissimum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16326	16326	Odontonema tubaeforme (Bertol.) Kuntze	Thyrsacanthus tubaeformis Nees	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES		SYNONYM
+16327	16327	Oldenlandia pumila DC.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES		ACCEPTED
+16328	16328	Olea europaea L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES		ACCEPTED
+16329	16329	Operculina ventricosa Peter (Bertero)	Operculina turpethum (L.) Silva Manso	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	English: paper rose, St. Thomas lidpod; Other: alalag (Guam); palulu (Samoa); fue hina (Tonga)	SYNONYM
+16330	16330	Oplismenus burmanni (Retz.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16331	16331	Oplismenus compositus P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	mohuku ‘apopoa, mohuku laukofe, musie vai	ACCEPTED
+16332	16332	Oplismenus hirtellus (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16333	16333	Opuntia monacantha (Willd.) Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES		ACCEPTED
+16334	16334	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	Tilapia	ACCEPTED
+16335	16335	Orthosiphon aristatus (Blume) Miq.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	kava ‘i pusi	ACCEPTED
+16336	16336	Oryctes rhinoceros (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Dynastidae	SPECIES	Coconut rhinoceros beetle	ACCEPTED
+16337	16337	Ostrea edulis Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Ostreoida	Ostreidae	SPECIES	European flat oyster	ACCEPTED
+16338	16338	Oxalis barrelieri L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES		ACCEPTED
+16339	16339	Oxalis corniculata L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	kihikihi	ACCEPTED
+16340	16340	Panicum decompositum R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16341	16341	Panicum maximum Jacq.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: Guinea grass, green panic, buffalograss; French: herbe de Guinéa, panic élevé, capime guiné, fataque; Other: saafa (Tonga)	ACCEPTED
+16342	16342	Paratrechina bourbonica (Forel, 1886)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Trap-jaw ant	ACCEPTED
+16343	16343	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Crazy ant	ACCEPTED
+16344	16344	Parinari insularum A.Gray		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Chrysobalanaceae	SPECIES		ACCEPTED
+16345	16345	Paspalum conjugatum P.J.Bergius		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: T grass, ti grass, sour grass; sour palpalum, buffalo grass, carabao grass, Hilo grass (Hawai'i); French: herbe sure, herbe créole; herbe de tauère (New Caledonia); Other: fetin wumwune (Chuuk); mau‘u Hilo (Hawai‘i), muhsrasre (Kosrae); moise vailima, motie vailima (Niue and Tonga); udel ra ngebei (Palau); rehn wai (Pohnpei); vao lima (American Samoa and Samoa), vailima matafao (Samoa); vailima, (Samoa, Tonga, Niue)	ACCEPTED
+16346	16346	Paspalum dilatatum Poir.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: paspalum, dallis grass, water grass; French:  paspalum dilaté, herbe sirop, herbe de miel, herbe de dallis, millet bâtard; Other: hiku nua (Niue)	ACCEPTED
+16347	16347	Paspalum fimbriatum Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English:  fimbriate paspalum, winged paspalum, Panama paspalum, Panama crowngrass, Columbia grass	ACCEPTED
+16348	16348	Paspalum paniculatum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: Russell river grass, galmarra grass	ACCEPTED
+16349	16349	Paspalum urvillei Steud.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16350	16350	Paspalum vaginatum Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	mohuku ano	ACCEPTED
+16351	16351	Passiflora caerulea L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES		ACCEPTED
+16352	16352	Passiflora edulis Sims		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	English: passion fruit, yellow passion fruit, purple passion fruit, qarandila, purple granadilla; French: grenadille; Spanish: maracuya (Galapagos Is.); Other:  liliko‘i (Hawai‘i), pompom (Pohnpei); pasio (Samoa); vaine (Tonga)	ACCEPTED
+16353	16353	Passiflora foetida L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	English:  love-in-a-mist, wild passion fruit, passionflower, stinking passionflower; French:  passiflore; Spanish: bedoca (Galapagos Is.); Other: pasio vao (American Samoa and Samoa); bombom (Chuuk), sou, loliloli ni kalavo, qaranidila (Fiji); pohapoha (Hawai‘i); lani wai (Hawai‘i (Ni‘ihau)); tea biku (Kiribati); vine vao (Niue); kudamono (Palau); pompom, pwomwpwomw (Pohnpei); kinahulo‘ atdao, dulce (Saipan); vaine ‘initia (Tonga); tomates (Yap)	ACCEPTED
+16354	16354	Passiflora laurifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	English:  yellow granadilla, belle apple, yellow water-lemon; French: pomme-liane, pomme d'or; Other:  pasio (Samoa); vaine 'ae kuma, vaine tinetina (Tonga)	ACCEPTED
+16355	16355	Passiflora maliformis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	English:  hard-shelled passionfruit, sweet calabash, sweet cup; French: pomme calabas; Other:  pasio (Samoa), vaine Tonga, vaine kai (Tonga)	ACCEPTED
+16356	16356	Passiflora quadrangularis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	English:  granadilla, giant granadilla; French: barbadine; Spanish:  badea (Galapagos Is.); Other: parapotina maata (Cook Islands); para pautini (French Polynesia); palasini, palatini, vine fua lalahi, vine palasini, tinitini (Niue); kudamono (Palau); pasio (Samoa); pasione (Tonga)	ACCEPTED
+16357	16357	Passiflora suberosa L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES		ACCEPTED
+16358	16358	Passiflora subpeltata Ortega		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	vaine ‘ae kuma	ACCEPTED
+16359	16359	Pennisetum gIaucum  (L) R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	tetefa	ACCEPTED
+16360	16360	Persea americana Mill.		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	English:  avocado, alligator pear; French: l’avocat; Spanish:  aguacate; Other: apoka (Cook Islands); pea (Fiji); avoka (Niue, Tonga); aviota (Samoa); avota (Samoa and Tahiti); bata (Palau); alageta (Chamorro, Guam)	ACCEPTED
+16361	16361	Persicaria glabra (Willd.) Gomez de la Maza		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES		ACCEPTED
+16362	16362	Phaseolus adenanthus G.Mey.	Leptospron adenanthum (G.Mey.) A.Delgado	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		SYNONYM
+16363	16363	Phaseolus aureus Zuccagni	Vigna mungo (L.) Hepper	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16364	16364	Phaseolus lunatus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	piini ‘ae puaka, piini tonga	ACCEPTED
+16365	16365	Pheidole fervens Smith, 1858		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16366	16366	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Big-headed ant	ACCEPTED
+16367	16367	Phyllanthus amarus Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES		ACCEPTED
+16368	16368	Phyllanthus virgatus G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES		ACCEPTED
+16369	16369	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	polo pā	ACCEPTED
+16370	16370	Physalis minima L.	Physalis lagascae Roem. & Schult.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	polo pa	SYNONYM
+16371	16371	Physalis peruviana L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ku‘usi	ACCEPTED
+16372	16372	Pilea microphylla Liebm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	limu	ACCEPTED
+16373	16373	Pimenta dioica (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	sipaisi	ACCEPTED
+16374	16374	Pimenta racemosa (Mill.) J.W.Moore		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	sinamoni	ACCEPTED
+16375	16375	Pinus caribaea Morelet		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	English:  Caribbean pine, Bahamas pine; Other:  paina (Samoa), paini (Tonga)	ACCEPTED
+16376	16376	Piper auritum Kunth		Plantae	Tracheophyta	Magnoliopsida	Piperales	Piperaceae	SPECIES	kava Hawai‘i	ACCEPTED
+16377	16377	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16378	16378	Plagiolepis alluaudi Emery, 1894		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Little yellow ant	ACCEPTED
+16379	16379	Plantago debilis R.Br.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES		ACCEPTED
+16380	16380	Plantago lanceolata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	filo, filo hako	ACCEPTED
+16381	16381	Plantago major L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	filo, filomatolu	ACCEPTED
+16382	16382	Platydemus manokwari Beauchamp, 1962		Animalia	Platyhelminthes	Rhabditophora	Seriata	Geoplanidae	SPECIES	New Guinea flatworm	ACCEPTED
+16383	16383	Plectranthus amboinicus (Lour.) Spreng.	Coleus amboinicus Lour.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	kaloni, pasiole	SYNONYM
+16384	16384	Plectranthus scutellarioides (L.) R.Br.	Coleus scutellarioides (L.) Benth.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		SYNONYM
+16385	16385	Pluchea carolinensis G.Don		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16386	16386	Polistes olivaceus (De Geer 1773		Animalia	Arthropoda	Insecta	Hymenoptera	Eumenidae	SPECIES	Yellow Oriental paper wasp	ACCEPTED
+16387	16387	Polygonum dichotomum Bl.	Persicaria dichotoma (Blume) S.K.Dixit, Datt & G.P.Roy	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES		SYNONYM
+16388	16388	Portulaca oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	SPECIES	tamole	ACCEPTED
+16389	16389	Pseudelephantopus spicatus Rohr		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16390	16390	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	English: guava; French: goyavier; Spanish:  guayaba, guayabo; Other: ku‘ava, ku‘avu, tu‘avu (American Samoa and Samoa); kuafa (Chuuk); kuava (Cook Islands, Tonga, Fiji, Samoa); quwawa, nguava, ngguava ni India, amrut (Fiji); tuava, tumu tuava, tuvava (French Polynesia); abas guayaba (Galapagos); (Guam, Saipan-Chamorro, Yap); kuawa, kuawa ke‘oke‘o, kuawa lemi, kuawa momona, pauwa (Hawai‘i); kuhfahfah (Kosrae); te kuawa (Kiribati); kuwawa (Nauru); kautoga, kautonga, kautoga tane, kautonga tane (Niue); guabang, kuabang (Palau); guahva, kuahpa (Pohnpei); apas (Saipan); abwas (Saipan-Carolinian); tu‘ava (Samoa)	ACCEPTED
+16391	16391	Pteria penguin (Röding, 1798)		Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SPECIES	Penguin's wing oyster	ACCEPTED
+16392	16392	Pteris vittata L.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES		ACCEPTED
+16393	16393	Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	VARIETY	English:  kudzu, Japanese arrowroot; Other:  deday (Yap); aka (American Samoa, Tonga, Niue, Wallis and Futuna); a'a (American Samoa and Samoa); yaka , wa yaka, nggariaka (Fiji); akataha, fue’aepuaka (Tonga); acha, nepalem	ACCEPTED
+16394	16394	Pycnonotus cafer (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	Red-vented Bulbul	ACCEPTED
+16395	16395	Pycreus polystachyos (Rottb.) P.Beauv.	Cyperus polystachyos Rottb.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		SYNONYM
+16396	16396	Pyramica membranifera (Emery, 1869)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Pan tropical tramp ant	ACCEPTED
+16397	16397	Pyrostegia venusta Miers		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES		ACCEPTED
+16398	16398	Quadrastichus erythrinae Kim, 2004		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	Erythrina gall wasp	ACCEPTED
+16399	16399	Quisqualis indica L.	Combretum indicum (L.) Jongkind	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	English:  Rangoon creeper	SYNONYM
+16400	16400	Rattus exulans (Peale, 1848)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	Ship rat	ACCEPTED
+16401	16401	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	Norway rat	ACCEPTED
+16402	16402	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	Black rat	ACCEPTED
+16403	16403	Rhynchospora corymbosa (L.) Britton		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16404	16404	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	English: castor bean, castor-oil plant; French: ricin; Spanish: higuerilla; Other: lama palagi, lama papalagi (American Samoa and Samoa); mbele ni vavalagi, toto ni vavalagi, utouto (Fiji); agaliya (Guam); koli, pa‘aila, ka‘apeha, kamakou, la‘au, ‘aila (Hawai‘i); tuitui, tuitui fua ikiiki (Niue); gelug, maskerekur, uluchula skoki (Palau); lepo, lepohina, lepo kula (Tonga)	ACCEPTED
+16405	16405	Rivina humilis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	polo	ACCEPTED
+16406	16406	Rorippa sarmentosa (Sol. ex G.Forst.) J.F.Macbr.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES		ACCEPTED
+16407	16407	Salix babylonica L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	hakoloa‘ani, uilow	ACCEPTED
+16408	16408	Salvia coccinea Buc'hoz ex Etl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	te‘ekosi	ACCEPTED
+16409	16409	Salvia occidentalis Sw.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	te‘ekosi, te‘ekosi totolo	ACCEPTED
+16410	16410	Samanea saman (Jacq.) Merr.	Albizia saman (Jacq.) Merr.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: monkeypod, rain tree, saman; French: arbre de pluie; Other: tronkon mames, trongkon-mames (CNMI-Chamorro); filinganga (CNMI-Carolinian); gumor ni spanis (Yap); 'ohai, pu ‘ohai (Hawai'i); vaivai ni vavalangi, vaivai ni vavalagi (Fiji), malapa (Samoa); kasia (Tonga)	SYNONYM
+16411	16411	Sambucus mexicana C. Presl ex DC.	Sambucus nigra L.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Adoxaceae	SPECIES	English: elderberry, Mexican elder	SYNONYM
+16412	16412	Sanchezia parvibracteata Sprague & Hutch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	moa	ACCEPTED
+16413	16413	Sansevieria trifasciata Prain		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	English: bowstring hemp, mother-in-law’s tongue; French: chanvre d'Afrique; Other: tigre (Guam), kitelel (Palau), ‘alelo, ‘elelo, ngata (Tongan)	ACCEPTED
+16414	16414	Santalum yasi Seem.		Plantae	Tracheophyta	Magnoliopsida	Santalales	Santalaceae	SPECIES		ACCEPTED
+16415	16415	Scaevola taccada (Gaertn.) Roxb.	Scaevola sericea G.Forst.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Goodeniaceae	SPECIES		SYNONYM
+16416	16416	Schefflera actinophylla Harms		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	English: octopus tree, umbrella tree, ivy palm; French: arbre ombelle	ACCEPTED
+16417	16417	Schefflera arboricola (Hayata) Merr.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES		ACCEPTED
+16418	16418	Scleria polycarpa Boeckeler		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		ACCEPTED
+16419	16419	Senna alata (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English:  candle bush; candelabra bush, Roman candle tree, emperor's candlesticks, ringworm bush (Australia), alcapulco; French:  epis d’or, bois dartre, dartres; Other: arakak (Chuuk); akapuku, andadose, candalaria, take-biha (Guam); kerula besokel, yult (Palau); rakau honuki, truke-n-kili-n-wai, tuhkehn kilin wai, tirakahonuki (Pohnpei); flay-n-sabouw (Yap); mulamula (Niue); bakau plant (Solomon Islands); mbai ni thangi (Fiji); fa‘i lafa, la‘au fai lafa (American Samoa, Samoa and Tonga); te‘elango (Tonga)	ACCEPTED
+16420	16420	Senna obtusifolia (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16421	16421	Senna occidentalis (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	pi, te‘epulu, tengafefeka	ACCEPTED
+16422	16422	Senna siamea (Lamarck) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	kasia	ACCEPTED
+16423	16423	Senna sophera (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	lau matui, matui	ACCEPTED
+16424	16424	Senna surattensis (Burm.f.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16425	16425	Senna tora (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	English: foetid cassia, stinking cassia, Java-bean, sickle senna, sicklepod, Chinese senna, peanut weed, sickle senna; French:  cassier sauvage, pois puant, séné; Other: kaumoce, kaumothe, pini, tarota (Fiji); mumutun admelon, mumutun palaoan, amot-tumaga carabao (Guam), vao pinati (Samoa); te’epulu, tengafefeka (Tonga)	ACCEPTED
+16426	16426	Sesbania grandiflora (L.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16427	16427	Setaria barbata (Lam.) Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16428	16428	Setaria glauca Kunth, 1816		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16429	16429	Setaria pallide-fusca (Schumach.) Stapf & C.E.Hubb.	Setaria helvola Roem. & Schult.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16430	16430	Setaria pumila (Poir.) Roem. & Schult.	Setaria helvola Roem. & Schult.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16431	16431	Sida acuta Burm.f.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	te‘ehoosi, te‘ekosi	ACCEPTED
+16432	16432	Sida cordifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16433	16433	Sida parvifolia DC.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16434	16434	Sida rhombifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	matala hoatā, te‘ehoosi, te‘ehosi	ACCEPTED
+16435	16435	Sida spinosa L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16436	16436	Sigesbeckia orientalis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	kakamika	ACCEPTED
+16437	16437	Solanum americanum Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	polo, polo kai	ACCEPTED
+16438	16438	Solanum capsicoides All.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES		ACCEPTED
+16439	16439	Solanum mauritianum Scop.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	pula, to‘uloku, polo kai	ACCEPTED
+16440	16440	Solanum torvum Sw.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	tisaipale	ACCEPTED
+16441	16441	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tropical fire ant	ACCEPTED
+16442	16442	Solenostemon scutellarioides (L.) Codd	Coleus scutellarioides (L.) Benth.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	English:  coleus; Other: lata, lau lata (Fiji); weleweka (Hawai‘i); selevese (Niue); koramahd, koaramahd (Pohnpei); pate, patiale, la‘au fai sei (Samoa)	SYNONYM
+16443	16443	Sonchus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16444	16444	Sonchus oleraceus Wall.	Sonchus asper Hill	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	longolongo‘uha	SYNONYM
+16445	16445	Sorghum arundinaceum (Desv.) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16446	16446	Sorghum bicolor (L.) Moench		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	kola	ACCEPTED
+16447	16447	Sorghum halepense Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: Johnson grass, Aleppo grass, Aleppo milletgrass; French: sorgho d' Alep, sorgo de Alepo, herbe de Cuba; Other: kola (Tonga); gumai (Russia); zacate Johnson, grama China, cañuela, Don Carlos	ACCEPTED
+16448	16448	Sorghum sudanense (Piper) Stapf	Sorghum drummondii (Nees ex Steud.) Millsp. & Chase	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: Sudan grass; French: sorgho du Soudan, sorgho menu; Other: kola (Tonga)	ACCEPTED
+16449	16449	Sorghum verticilliflorum (Steud.) Stapf	Sorghum arundinaceum (Desv.) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16450	16450	Spathodea campanulata P.Beauv.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	English: African tulip tree, fireball, fountain tree; French: tulipier du Gabon, pisse-pisse; Spanish: tulipan africano; Other:  apär (CNMI); rarningobchey (Yap); orsachel kui (Palau); tuhke dulip (Pohnpei); tiulipe (Tonga), taga mimi (Fiji)	ACCEPTED
+16451	16451	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES		ACCEPTED
+16452	16452	Spermacoce assurgens Nees & Mart.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES		SYNONYM
+16453	16453	Spermacoce remota Lam.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES		ACCEPTED
+16454	16454	Sphaerostephanos unitus (L.) Holttum		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Thelypteridaceae	SPECIES	English:  wedelia, trailing daisy, Singapore daisy, creeping ox-eye; Other: ngesil ra ngebard (Palau); dihpw ongohng, tuhke ongohng (Pohnpei); rosrangrang (Kosrae); ut mõkadkad, ut telia (Marshall Islands); atiat (Puluwat); ate, ‘anselmo (Tonga)	ACCEPTED
+16455	16455	Sporobolus diander P. Beauv. (Retz.)	Sporobolus diandrus (Retz.) P.Beauv.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16456	16456	Sporobolus elongatus R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16457	16457	Sporobolus fertilis (Steud.) Clayton		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16458	16458	Sporobolus indicus (L.) R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English: smutgrass, wiregrass, Indian dropseed; Other: fisihina (Tonga)	ACCEPTED
+16459	16459	Stachys arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16460	16460	Stachytarpheta cayennensis (Rich.) Vahl		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	English:  blue rat's tail, dark-blue snakeweed, false verbena, nettleleaf velvetberry; French:  herbe bleue; Other: ouchung, sakura (Chuuk), louch beluu (Palau); mautofu tala, mautofu vao, matofu fualanumanoa (American Samoa and Samoa); te uti (Kiribati); mautofu Samoa, motofu Samoa (Niue); hiku ‘i kuma, hiku‘kuma, ‘iku ‘i kuma, iku ‘ikuma (Tonga); turulakaka, tumbutumbu, serakawa, lavenia, se karakarawa (Fiji)	ACCEPTED
+16461	16461	Stenotaphrum secundatum Kuntze		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	sipilini	ACCEPTED
+16462	16462	Stephania japonica (Thunb.) Miers		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Menispermaceae	SPECIES		ACCEPTED
+16463	16463	Stictocardia tiliifolia Hallier		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	pula vaine	ACCEPTED
+16464	16464	Strumigenys emmae (Emery, 1890)	Pyramica emmae (Emery, 1890)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	SYNONYM
+16465	16465	Strumigenys rogeri Emery, 1890		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16466	16466	Sturnus vulgaris Linnaeus, 1758		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	European starling	ACCEPTED
+16467	16467	Sus scrofa Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	SPECIES	Pig	ACCEPTED
+16468	16468	Synedrella nodiflora Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	kosi, pakaka, pakopako	ACCEPTED
+16469	16469	Syngonium angustatum Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	English:  arrowhead plant, goosefoot plant	ACCEPTED
+16470	16470	Syngonium podophyllum Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES		ACCEPTED
+16471	16471	Syzygium cumini (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	English: Java plum; jambolan plum; French: faux-pistachier, jamelon-guier, jamélongue, jambolanier; Other: duhat (Guam); mesegerak, mesekerrak, mesekerrák, mesigerak (Palau); jamelonguier (New Caledonia); kavika ni India, jammun (Fiji)	ACCEPTED
+16472	16472	Syzygium jambos (L.) Alston		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	English:  malabar plum, rose apple, Malay apple; French:  jambosier, pommier rose; Spanish: pomarrosa; Other: kavika, kavika ni vavalangi, kavika ni India (Fiji), ahi‘a popa‘a (French Polynesia), ‘ohi‘a loke (Hawai‘i); iouen wai, youenwai, apel en wai (Pohnpei); seasea papalagi (Samoa); fekika papalangi, fa palangi, hehea ha‘amoa(Tonga)	ACCEPTED
+16473	16473	Syzygium malaccense (L.) Merr. & L.M.Perry		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	fekika, fekika kai	ACCEPTED
+16474	16474	Talipariti tiliaceum Fryxell (L.)		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16475	16475	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Ghost ant	ACCEPTED
+16476	16476	Taraxacum officinale Weber ex F.H.Wigg. (L.)	Taraxacum croceum Dahlst.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		SYNONYM
+16477	16477	Tecoma stans (L.) Kunth		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	English:  yellow bells, yellow-elder, yellow trumpetbush; Other:  peeal (Puluwat), piti (French Polynesia, Tonga)	ACCEPTED
+16478	16478	Tephrosia purpurea (L.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	kavahuhu	ACCEPTED
+16479	16479	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES		ACCEPTED
+16480	16480	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Guinea ant	ACCEPTED
+16481	16481	Tetramorium lanuginosum Mayr, 1870		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Wooly pavement ant	ACCEPTED
+16482	16482	Tetramorium simillimum (Smith, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Tramp ant	ACCEPTED
+16483	16483	Thevetia peruviana Merr.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	English:  yellow oleander, be-still tree, lucky nut; French: oléandre jaune; Other: koneta (Chuuk); nohomalie (Hawai'i); irelepsech (Yap)	ACCEPTED
+16484	16484	Thunbergia alata Bojer ex Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES		ACCEPTED
+16485	16485	Thunbergia fragrans Roxb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	English:  white lady, white thunbergia, sweet clock-vine; Other:  fue hina (Tonga)	ACCEPTED
+16486	16486	Tillandsia usneoides L.		Plantae	Tracheophyta	Liliopsida	Poales	Bromeliaceae	SPECIES	English: Spanish moss, old man's beard, grandfather’s whiskers, air plant; French: cheveaux du roi, barbe grise, fille de l'air	ACCEPTED
+16487	16487	Tithonia diversifolia A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	English:  tree marigold, shrub sunflower, Mexican sunflower, Japanese sunflower; Other:  matala (Niue)	ACCEPTED
+16488	16488	Toona ciliata M.Roem.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	sita kula	ACCEPTED
+16489	16489	Torulinium odoratum (L.) S.S.Hooper		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES		SYNONYM
+16490	16490	Tradescantia spathacea Sw.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	English: oyster plant, boat plant, boat lily, moses in a boat; Other: talotalo, laupapaki (Niue), fainā fa‘itoka, fainā, fainā kula (Tongan)	ACCEPTED
+16491	16491	Tradescantia zebrina Bosse		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	English:  wandering zebrina, wandering jew, inchplant	ACCEPTED
+16492	16492	Trema orientalis Blume		Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	māgele, mangele	ACCEPTED
+16493	16493	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		ACCEPTED
+16494	16494	Triumfetta rhomboidea Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	English: Chinese burr, paroquet burr, burr bush; Other:  dadangsi, masiksik lahe (Guam); mo‘osipo, mo‘osipo enge‘enga, mo‘osipo hina enge‘enga, mu‘a (Tonga); mosipo (Niue); manutofu, mautofu, mautofu vao (American Samoa and Samoa); qatima (Fiji), urio (French Polynesia)	ACCEPTED
+16495	16495	Triumfetta semitriloba Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16496	16496	Uraria lagopodioides (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	hiku ‘i pusi, iku ‘i pusi	ACCEPTED
+16497	16497	Urena lobata L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	English: hibiscus burr, aramina, caesarweed, pink Chinese burr, urena burr, bur mallow; French: jute africain, cousin urène; Other: dadangsi, dadangsi apaka, dadangsi machingat, dádangse (Guam); chosuched e kui, osuched a rechui (Palau); karap, korop (Pohnpei); nognuk, ocher (Chuuk); motipo, mosipo (Niue); mautofu, manutofu (American Samoa and Samoa); qatima, gataya, nggatima (Fiji); mo'osipo Tonga (Tonga), piripiri (French Polynesia)	ACCEPTED
+16498	16498	Urochloa glumaris (Trin.) Veldkamp		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		ACCEPTED
+16499	16499	Urochloa mutica T.Q.Nguyen (Forssk.)	Brachiaria mutica (Forssk.) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	English:  California grass, para grass, buffalo grass, Mauritius grass, signal grass; French: herbe de Para; Other:  puakatau (Tonga) (Swarbrick, 1997)	SYNONYM
+16500	16500	Urochloa reptans Stapf (L.)	Brachiaria reptans (L.) C.A.Gardner & C.E.Hubb.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES		SYNONYM
+16501	16501	Urochloa subquadripara R.D.Webster (Trin.)	Brachiaria subquadripara (Trin.) Hitchc.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	mohuku'apopoa	SYNONYM
+16502	16502	Vernonia cinerea (L.) Less.	Cyanthillium cinereum (L.) H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES		SYNONYM
+16503	16503	Vigna radiata (L.) R.Wilczek		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED
+16504	16504	Vitex trifolia L		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES		ACCEPTED
+16505	16505	Waltheria indica L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES		ACCEPTED
+16506	16506	Wedelia trilobata (L.) Hitchc.	Sphagneticola trilobata (L.) Pruski	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	English:  wedelia, trailing daisy, Singapore daisy, creeping ox-eye; Other: ngesil ra ngebard (Palau); dihpw ongohng, tuhke ongohng (Pohnpei); rosrangrang (Kosrae); ut mõkadkad, ut telia (Marshall Islands); atiat (Puluwat); ate, ‘anselmo (Tonga)	SYNONYM
+16507	16507	Youngia japonica DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	fisi puna	ACCEPTED
+16508	16508	Zingiber zerumbet (L.) Roscoe ex Sm.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES		ACCEPTED
+16509	16509	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES		ACCEPTED
+16510	16510	Zornia diphylla (L.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES		ACCEPTED

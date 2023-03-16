@@ -1,0 +1,30 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+34592	34592	Aix sponsa Linnaeus, 1758		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+34593	34593	Amazona ochrocephala (Gmelin, 1788)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+34594	34594	Anas platyrhynchos Linnaeus, 1758		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+34595	34595	Anolis carolinensis Voigt, 1832		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+34596	34596	Anolis garmani Stejneger, 1899		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+34597	34597	Anolis sagrei DumÃ©ril & Bibron, 1837		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+34598	34598	Aratinga erythrogenys (Lesson, 1844)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+34599	34599	Canis lupus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+34600	34600	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+34601	34601	Coptotermes gestroi (Wasmann, 1896)		Animalia	Arthropoda	Insecta	Blattodea	Rhinotermitidae	SPECIES	ACCEPTED
+34602	34602	Dasyprocta punctata Gray, 1842		Animalia	Chordata	Mammalia	Rodentia	Dasyproctidae	SPECIES	ACCEPTED
+34603	34603	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+34604	34604	Gallus gallus (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+34605	34605	Gastrophryne carolinensis (Holbrook, 1835)		Animalia	Chordata	Amphibia	Anura	Microhylidae	SPECIES	ACCEPTED
+34606	34606	Gonatodes albogularis (DumÃ©ril & Bibron, 1836)		Animalia	Chordata	Reptilia	Squamata	Sphaerodactylidae	SPECIES	ACCEPTED
+34607	34607	Hemidactylus mabouia (Moreau De JonnÃ¨s, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+34608	34608	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	SPECIES	ACCEPTED
+34609	34609	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+34610	34610	Ophisaurus ventralis (Linnaeus, 1766)		Animalia	Chordata	Reptilia	Squamata	Anguidae	SPECIES	ACCEPTED
+34611	34611	Pantherophis guttatus (Linnaeus, 1766)		Animalia	Chordata	Reptilia	Squamata	Colubridae	SPECIES	ACCEPTED
+34612	34612	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+34613	34613	Ramphotyphlops braminus Daudin, 1803		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	ACCEPTED
+34614	34614	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+34615	34615	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+34616	34616	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	ACCEPTED
+34617	34617	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+34618	34618	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+34619	34619	Trachemys decussata (Gray, 1831)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SPECIES	ACCEPTED
+34620	34620	Trachemys scripta (Thunberg In Schoepff, 1792)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SPECIES	ACCEPTED

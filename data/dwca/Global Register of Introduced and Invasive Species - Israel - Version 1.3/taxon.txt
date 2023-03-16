@@ -1,0 +1,797 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+50341	50341	Abudefduf vaigiensis (Quoy & Gaimard, 1825)		Animalia	Chordata	Actinopterygii	Perciformes	Pomacentridae	SPECIES	ACCEPTED
+50342	50342	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+50343	50343	Acabaria erythraea (Ehrenberg, 1834)	Melithaea erythraea (Ehrenberg, 1834)	Animalia	Cnidaria	Anthozoa	Alcyonacea	Melithaeidae	SPECIES	SYNONYM
+50344	50344	Acacia cyclops A.Cunn. ex Don		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50345	50345	Acacia farnesiana (L.) Willd.	Vachellia farnesiana (L.) Wight & Arn.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+50346	50346	Acacia karroo Hayne	Vachellia karroo (Hayne) Banfi & Galasso	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+50347	50347	Acacia paradoxa DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50348	50348	Acacia salicina Lindl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50349	50349	Acacia saligna (Labill.) H.L.Wendl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50350	50350	Acacia sclerosperma F.Muell.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50351	50351	Acacia victoriae Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50352	50352	Acar plicata (Dillwyn, 1817)		Animalia	Mollusca	Bivalvia	Arcida	Arcidae	SPECIES	ACCEPTED
+50353	50353	Acartia centrura Giesbrecht, 1889		Animalia	Arthropoda	Hexanauplia	Calanoida	Acartiidae	SPECIES	ACCEPTED
+50354	50354	Achatina fulica fulica		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SUBSPECIES	ACCEPTED
+50355	50355	Achyranthes aspera L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50356	50356	Acipenser gueldenstaedtii Brandt & Ratzeburg, 1831		Animalia	Chordata	Actinopterygii	Acipenseriformes	Acipenseridae	SPECIES	ACCEPTED
+50357	50357	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+50358	50358	Actaea savignii (H.Milne Edwards, 1834)		Animalia	Arthropoda	Malacostraca	Decapoda	Xanthidae	SPECIES	ACCEPTED
+50359	50359	Acteocina mucronata (Philippi, 1849)		Animalia	Mollusca	Gastropoda	Cephalaspidea	Tornatinidae	SPECIES	ACCEPTED
+50360	50360	Adelactaeon amoenus (A.Adams, 1853)	Monotygma amoena (A.Adams, 1853)	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+50361	50361	Adelactaeon fulvus (A.Adams, 1853)	Monotygma fulva (A.Adams, 1853)	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+50362	50362	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+50363	50363	Aegopinella nitidula (Draparnaud, 1805)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrodontidae	SPECIES	ACCEPTED
+50364	50364	Afrocardium richardi (Audouin, 1826)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+50365	50365	Agapornis personatus Reichenow, 1887		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50366	50366	Agapornis roseicollis (Vieillot, 1818)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50367	50367	Agave americana L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+50368	50368	Ageniaspis citricola Logvinovskaya, 1983		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50369	50369	Ailanthus altissima (Mill.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+50370	50370	Alepes djedaba (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Carangidae	SPECIES	ACCEPTED
+50371	50371	Aloencyrtus saissetiae (Compere, 1939)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50372	50372	Alopochen aegyptiaca (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+50373	50373	Alpheus audouini CoutiÃ¨re, 1905	Alpheus edwardsii (Audoiun, 1826)	Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	SYNONYM
+50374	50374	Alpheus inopinatus Holthuis & Gottlieb, 1958		Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	ACCEPTED
+50375	50375	Alpheus migrans Lewinsohn & Holthuis, 1978		Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	ACCEPTED
+50376	50376	Alpheus rapacida De Man, 1908		Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	ACCEPTED
+50377	50377	Alvania dorbignyi (Audouin, 1826)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Rissoidae	SPECIES	ACCEPTED
+50378	50378	Amaranthus albus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50379	50379	Amaranthus blitoides S.Watson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50380	50380	Amaranthus blitum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50381	50381	Amaranthus cruentus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50382	50382	Amaranthus graecizans L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50383	50383	Amaranthus muricatus (Moq.) Hieron.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50384	50384	Amaranthus palmeri S.Watson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50385	50385	Amaranthus retroflexus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50386	50386	Amaranthus rudis J.Sauer	Amaranthus tuberculatus (Moq. ex DC.) J.D.Sauer	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+50387	50387	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50388	50388	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50389	50389	Amathina tricarinata (Linnaeus, 1767)		Animalia	Mollusca	Gastropoda		Amathinidae	SPECIES	ACCEPTED
+50390	50390	Ambrosia confertiflora DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50391	50391	Ambrosia tenuifolia Spreng.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50392	50392	Amphibalanus reticulatus Utinomi, 1967		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+50393	50393	Amphioctopus aegina (Gray, 1849)		Animalia	Mollusca	Cephalopoda	Octopoda	Octopodidae	SPECIES	ACCEPTED
+50394	50394	Amphioplus laevis (Lyman, 1874)		Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Amphiuridae	SPECIES	ACCEPTED
+50395	50395	Anacyclus radiatus Loisel.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50396	50396	Anadara natalensis (Krauss, 1848)		Animalia	Mollusca	Bivalvia	Arcida	Arcidae	SPECIES	ACCEPTED
+50397	50397	Anagyrus agraensis Saraswat, 1975		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50398	50398	Anagyrus pseudococci (Girault, 1915)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50399	50399	Anagyrus sawadai Ishii, 1928		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50400	50400	Angiola punctostriata (E.A.Smith, 1872)		Animalia	Mollusca	Gastropoda		Planaxidae	SPECIES	ACCEPTED
+50401	50401	Anguilla anguilla (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Anguilliformes	Anguillidae	SPECIES	ACCEPTED
+50402	50402	Anicetus ceroplastis Ishii, 1928		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50403	50403	Anoda cristata Schltdl.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+50404	50404	Anoplodactylus californicus Hall, 1912		Animalia	Arthropoda	Pycnogonida	Pantopoda	Phoxichilidiidae	SPECIES	ACCEPTED
+50405	50405	Anoplodactylus digitatus (BÃ¶hm, 1879)		Animalia	Arthropoda	Pycnogonida	Pantopoda	Phoxichilidiidae	SPECIES	ACCEPTED
+50406	50406	Antirrhinum siculum Ucria, 1796	Antirrhinum siculum Mill.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	SYNONYM
+50407	50407	Aphanius dispar (RÃ¼ppell, 1829)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Cyprinodontidae	SPECIES	ACCEPTED
+50408	50408	Apis florea Fabricius, 1787		Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED
+50409	50409	Aplysia dactylomela Rang, 1828		Animalia	Mollusca	Gastropoda	Aplysiida	Aplysiidae	SPECIES	ACCEPTED
+50410	50410	Apogon fasciatus (White, 1790)	Ostorhinchus fasciatus (White, 1790)	Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	SYNONYM
+50411	50411	Apogon nigripinnis Cuvier, 1828	Apogonichthyoides nigripinnis (Cuvier, 1828)	Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	SYNONYM
+50412	50412	Apogon pharaonis Bellotti, 1874	Apogonichthyoides pharaonis (Bellotti, 1874)	Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	SYNONYM
+50413	50413	Apogon smithi (Kotthaus, 1970)	Jaydia smithi Kotthaus, 1970	Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	SYNONYM
+50414	50414	Apogonichthyoides nigripinnis (Cuvier, 1828)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+50415	50415	Apogonichthyoides pharaonis (Bellotti, 1874)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+50416	50416	Aquilonastra burtoni (Gray, 1840)		Animalia	Echinodermata	Asteroidea	Valvatida	Asterinidae	SPECIES	ACCEPTED
+50417	50417	Araujia sericifera Brot.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+50418	50418	Arcuatula perfragilis (Dunker, 1857)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+50419	50419	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+50420	50420	Aristichthys nobilis (Richardson, 1845)	Hypophthalmichthys nobilis (Richardson, 1845)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	SYNONYM
+50421	50421	Arius parkii GÃ¼nther, 1864	Sciades parkeri (Traill, 1832)	Animalia	Chordata	Actinopterygii	Siluriformes	Ariidae	SPECIES	SYNONYM
+50422	50422	Artemisia arborescens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50423	50423	Ascidia cannelata Oken, 1820		Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED
+50424	50424	Ascidia sydneiensis Stimpson, 1855		Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED
+50425	50425	Ashtoret lunaris (ForskÃ¥l, 1775)		Animalia	Arthropoda	Malacostraca	Decapoda	Matutidae	SPECIES	ACCEPTED
+50426	50426	Asparagus setaceus (Kunth) Jessop		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+50427	50427	Aspidosiphon elegans (Chamisso & Eysenhardt, 1821)		Animalia	Sipuncula	Phascolosomatidea	Aspidosiphoniformes	Aspidosiphonidae	SPECIES	ACCEPTED
+50428	50428	Aster subulatus Michx.	Symphyotrichum subulatum (Michx.) G.L.Nesom var. squamatum (Spreng.) S.D.Sundb.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+50429	50429	Asterina burtoni Gray, 1840	Aquilonastra burtoni (Gray, 1840)	Animalia	Echinodermata	Asteroidea	Valvatida	Asterinidae	SPECIES	SYNONYM
+50430	50430	Atactodea glabrata (Gmelin, 1791)	Atactodea striata (Gmelin, 1791)	Animalia	Mollusca	Bivalvia	Venerida	Mesodesmatidae	SPECIES	SYNONYM
+50431	50431	Atergatis roseus (RÃ¼ppell, 1830)		Animalia	Arthropoda	Malacostraca	Decapoda	Xanthidae	SPECIES	ACCEPTED
+50432	50432	Atherinomorous lacunosus (Forster, 1801)	Atherinomorus lacunosus (Forster, 1801)	Animalia	Chordata	Actinopterygii	Atheriniformes	Atherinidae	SPECIES	SYNONYM
+50433	50433	Atherinomorus forskalii (RÃ¼ppell, 1838)		Animalia	Chordata	Actinopterygii	Atheriniformes	Atherinidae	SPECIES	ACCEPTED
+50434	50434	Atriplex holocarpa F.Muell.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50435	50435	Atriplex muelleri Benth.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50436	50436	Atriplex semibaccata R.Br.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50437	50437	Atriplex suberecta I.Verd.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50438	50438	Atys angustatus E.A.Smith, 1872		Animalia	Mollusca	Gastropoda	Cephalaspidea	Haminoeidae	SPECIES	ACCEPTED
+50439	50439	Atys cylindrica (Helbling, 1779)	Aliculastrum cylindricum (Helbling, 1779)	Animalia	Mollusca	Gastropoda	Cephalaspidea	Haminoeidae	SPECIES	SYNONYM
+50440	50440	Austropeplea ollula (Gould, 1859)	Orientogalba ollula (Gould, 1859)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	SYNONYM
+50441	50441	Azolla filiculoides Lam.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+50442	50442	Barbatia trapezina (Lamarck, 1819)		Animalia	Mollusca	Bivalvia	Arcida	Arcidae	SPECIES	ACCEPTED
+50443	50443	Bassia scoparia (L.) A.J.Scott		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50444	50444	Batocera rufomaculata (Degeer, 1775)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+50445	50445	Bemisia tabaci (Gennadius, 1889)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+50446	50446	Beroe ovata BruguiÃ¨re, 1789		Animalia	Ctenophora	Nuda	Beroida	Beroidae	SPECIES	ACCEPTED
+50447	50447	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50448	50448	Boninia neotethydis Curini-Galletti & Campus, 2007		Animalia	Platyhelminthes		Polycladida	Boniniidae	SPECIES	ACCEPTED
+50449	50449	Borrichia frutescens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50450	50450	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+50451	50451	Brachidontes pharaonis (P.Fischer, 1870)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+50452	50452	Branchiomma boholense (Grube, 1878)		Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	SPECIES	ACCEPTED
+50453	50453	Bregmaceros atlanticus Goode & Bean, 1886		Animalia	Chordata	Actinopterygii	Gadiformes	Bregmacerotidae	SPECIES	ACCEPTED
+50454	50454	Bromus catharticus Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50455	50455	Bugula neritina (Linnaeus, 1758)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED
+50456	50456	Bulla ampulla Linnaeus, 1758		Animalia	Mollusca	Gastropoda	Cephalaspidea	Bullidae	SPECIES	ACCEPTED
+50457	50457	Bulla arabica Malaquias & Reid, 2008		Animalia	Mollusca	Gastropoda	Cephalaspidea	Bullidae	SPECIES	ACCEPTED
+50458	50458	Bursatella leachii leachii		Animalia	Mollusca	Gastropoda	Aplysiida	Aplysiidae	SUBSPECIES	ACCEPTED
+50459	50459	Cairina moschata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+50460	50460	Calanopia elliptica (Dana, 1849)		Animalia	Arthropoda	Hexanauplia	Calanoida	Pontellidae	SPECIES	ACCEPTED
+50461	50461	Calanopia media Gurney, 1927		Animalia	Arthropoda	Hexanauplia	Calanoida	Pontellidae	SPECIES	ACCEPTED
+50462	50462	Callinectes sapidus Rathbun, 1896		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+50463	50463	Callionymus filamentosus Valenciennes, 1837		Animalia	Chordata	Actinopterygii	Perciformes	Callionymidae	SPECIES	ACCEPTED
+50464	50464	Caloria indica (Bergh, 1896)		Animalia	Mollusca	Gastropoda	Nudibranchia	Facelinidae	SPECIES	ACCEPTED
+50465	50465	Campanularia morgansi Millard, 1957		Animalia	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	SPECIES	ACCEPTED
+50466	50466	Canarium mutabile (Swainson, 1821)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Strombidae	SPECIES	ACCEPTED
+50467	50467	Cantharus tranquebaricus (Gmelin, 1791)		Animalia	Mollusca	Gastropoda	Neogastropoda	Pisaniidae	SPECIES	ACCEPTED
+50468	50468	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+50469	50469	Carassius auratus auratus	Carassius auratus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SUBSPECIES	SYNONYM
+50470	50470	Carpobrotus acinaciformis L.Bolus		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED
+50471	50471	Carpobrotus edulis N.E.Br.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED
+50472	50472	Carupa tenuipes Dana, 1852		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+50473	50473	Cassiopea andromeda (ForsskÃ¥l, 1775)		Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Cassiopeidae	SPECIES	ACCEPTED
+50474	50474	Catla catla (Hamilton, 1822)	Gibelion catla (Hamilton, 1822)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	SYNONYM
+50475	50475	Caulerpa mexicana Sond. ex KÃ¼tz.		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED
+50476	50476	Caulerpa racemosa (Forssk.) J.Agardh		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED
+50477	50477	Caulerpa scalpelliformis (R.Brown ex Turner) C.Agardh	Caulerpa J.V.Lamouroux, 1809	incertae sedis					SPECIES	SYNONYM
+50478	50478	Cellana rota (Gmelin, 1791)		Animalia	Mollusca	Gastropoda		Nacellidae	SPECIES	ACCEPTED
+50479	50479	Celleporaria aperta (Hincks, 1882)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Lepraliellidae	SPECIES	ACCEPTED
+50480	50480	Celleporaria fusca (Busk, 1854)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Lepraliellidae	SPECIES	ACCEPTED
+50481	50481	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50482	50482	Cenchrus incertus M.A.Curtis	Cenchrus spinifex Cav.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+50483	50483	Centranthus ruber var. ruber		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	VARIETY	ACCEPTED
+50484	50484	Cephalopholis taeniops (Valenciennes, 1828)		Animalia	Chordata	Actinopterygii	Perciformes	Serranidae	SPECIES	ACCEPTED
+50485	50485	Ceratitis capitata (Wiedemann, 1824)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+50486	50486	Ceratonereis mirabilis Kinberg, 1865		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+50487	50487	Cerithidium diplax (R.B.Watson, 1886)		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50488	50488	Cerithidium perparvulum (R.B.Watson, 1886)		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50489	50489	Cerithiopsis pulvis (Issel, 1869)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cerithiopsidae	SPECIES	ACCEPTED
+50490	50490	Cerithiopsis tenthrenois (Melvill, 1896)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cerithiopsidae	SPECIES	ACCEPTED
+50491	50491	Cerithium columna G.B.Sowerby I, 1834		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50492	50492	Cerithium egenum Gould, 1849		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50493	50493	Cerithium nesioticum Pilsbry & Vanatta, 1906		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50494	50494	Cerithium nodulosum BruguiÃ¨re, 1789-1792		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50495	50495	Cerithium scabridum Philippi, 1848		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50496	50496	Cernuella virgata (da Costa, 1778)		Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	ACCEPTED
+50497	50497	Chaetanaphothrips orchidii (Moulton, 1907)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+50498	50498	Chaetodon austriacus RÃ¼ppell, 1835-1838		Animalia	Chordata	Actinopterygii	Perciformes	Chaetodontidae	SPECIES	ACCEPTED
+50499	50499	Chaetodon larvatus Cuvier, 1831		Animalia	Chordata	Actinopterygii	Perciformes	Chaetodontidae	SPECIES	ACCEPTED
+50500	50500	Chama asperella Lamarck, 1819		Animalia	Mollusca	Bivalvia	Venerida	Chamidae	SPECIES	ACCEPTED
+50501	50501	Chama aspersa Reeve, 1846		Animalia	Mollusca	Bivalvia	Venerida	Chamidae	SPECIES	DOUBTFUL
+50502	50502	Chama brassica Reeve, 1847		Animalia	Mollusca	Bivalvia	Venerida	Chamidae	SPECIES	ACCEPTED
+50503	50503	Chama pacifica Broderip, 1835		Animalia	Mollusca	Bivalvia	Venerida	Chamidae	SPECIES	ACCEPTED
+50504	50504	Charybdis hellerii (A.Milne-Edwards, 1867)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+50505	50505	Charybdis longicollis Leene, 1938		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+50506	50506	Cheilodipterus novemstriatus (RÃ¼ppell, 1838)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+50507	50507	Chelidonura fulvipunctata Baba, 1938	Biuve fulvipunctata (Baba, 1938)	Animalia	Mollusca	Gastropoda	Cephalaspidea	Aglajidae	SPECIES	SYNONYM
+50508	50508	Chelon labrosus (Risso, 1827)		Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	ACCEPTED
+50509	50509	Chenopodium ambrosioides L.	Dysphania ambrosioides (L.) Mosyakin & Clemants	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+50510	50510	Chenopodium missouriense Aellen	Chenopodium album L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+50511	50511	Chenopodium urbicum L.	Oxybasis urbica (L.) S.Fuentes, Uotila & Borsch	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+50512	50512	Cherax quadricarinatus (von Martins, 1868)		Animalia	Arthropoda	Malacostraca	Decapoda	Parastacidae	SPECIES	ACCEPTED
+50513	50513	Chilomycterus spilostylus Leis & Randall, 1982	Cyclichthys spilostylus (Leis & Randall, 1982)	Animalia	Chordata	Actinopterygii	Tetraodontiformes	Diodontidae	SPECIES	SYNONYM
+50514	50514	Chiton hululensis (E.A.Smith, 1903)	Tegulaplax hululensis (E.A.Smith, 1903)	Animalia	Mollusca	Polyplacophora	Chitonida	Chitonidae	SPECIES	SYNONYM
+50515	50515	Chloris gayana Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50516	50516	Chloris pycnothrix Trin.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50517	50517	Chloris virgata Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50518	50518	Chromodoris annulata Eliot, 1904	Goniobranchus annulatus (Eliot, 1904)	Animalia	Mollusca	Gastropoda	Nudibranchia	Chromodorididae	SPECIES	SYNONYM
+50519	50519	Chromodoris quadricolor (RÃ¼ppell & Leuckart, 1830)		Animalia	Mollusca	Gastropoda	Nudibranchia	Chromodorididae	SPECIES	ACCEPTED
+50520	50520	Chrysallida fischeri (Hornung & Mermod, 1925)	Pyrgulina fischeri Hornung & Mermod, 1925	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+50521	50521	Chrysallida maiae (Hornung & Mermod, 1924)	Pyrgulina pupaeformis (Souverbie, 1865)	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+50522	50522	Chrysallida pirinthella (Melvill, 1910)	Pyrgulina pirinthella Melvill, 1910	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+50523	50523	Cichlasoma nigrofasciatum (GÃ¼nther, 1867)	Amatitlania nigrofasciata (Günther, 1867)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+50524	50524	Ciclospermum leptophyllum (Pers.) Sprague ex Britton & P.Wilson	Cyclospermum leptophyllum (Pers.) Sprague	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	SYNONYM
+50525	50525	Cinara cedri Mimeur, 1936		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+50526	50526	Cinara cupressi (Buckton, 1881)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+50527	50527	Cingulina isseli (Tryon, 1886)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+50528	50528	Circenita callipyga (Born, 1778)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+50529	50529	Cirrospilus ingenuus Gahan, 1932		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+50530	50530	Cirsium vulgare (Savi) Ten.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50531	50531	Citrostichus phyllocnistoides (Narayanan, 1960)		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+50532	50532	Clarias gariepinus (Burchell, 1822)		Animalia	Chordata	Actinopterygii	Siluriformes	Clariidae	SPECIES	ACCEPTED
+50533	50533	Clathrofenella ferruginea (A.Adams, 1860)	Cerithidium diplax (R.B.Watson, 1886)	Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	SYNONYM
+50534	50534	Clausenia purpurea Ishii, 1923		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50535	50535	Clementia papyracea (Gray, 1825)	Clementia papyracea (Gmelin, 1791)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	SYNONYM
+50536	50536	Clorida albolitura Ahyong, S.T. & P.Naiyanetr, 2000		Animalia	Arthropoda	Malacostraca	Stomatopoda	Squillidea	SPECIES	ACCEPTED
+50537	50537	Clypeomorus bifasciata (G.B.Sowerby II, 1855)		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50538	50538	Coccidoxenoides perminutus Girault, 1915		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50539	50539	Codium parvulum (Bory ex Audouin) P.C.Silva		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED
+50540	50540	Codium taylorii P.C.Silva		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED
+50541	50541	Coleusia signata (Paul'son, 1875)		Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	ACCEPTED
+50542	50542	Comperiella bifasciata Howard, 1906		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50543	50543	Comperiella lemniscata Compere & Annecke, 1961		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50544	50544	Conomurex persicus (Swainson, 1821)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Strombidae	SPECIES	ACCEPTED
+50545	50545	Contarinia citri Barnes, 1944		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+50546	50546	Conus arenatus Hwass, 1792		Animalia	Mollusca	Gastropoda	Neogastropoda	Conidae	SPECIES	ACCEPTED
+50547	50547	Conus rattus Hwass, 1792		Animalia	Mollusca	Gastropoda	Neogastropoda	Conidae	SPECIES	ACCEPTED
+50548	50548	Convolvulus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+50549	50549	Conyza albida Willd. ex Spreng.	Erigeron sumatrensis Retz.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+50550	50550	Conyza bonariensis (L.) Cronq.	Erigeron bonariensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+50551	50551	Conyza canadensis (L.) Cronq.	Erigeron canadensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+50552	50552	Corbicula fluminea (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Bivalvia	Venerida	Cyrenidae	SPECIES	ACCEPTED
+50553	50553	Cornu aspersum (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+50554	50554	Cornu aspersum (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+50555	50555	Coronopus didymus (L.) Sm.	Lepidium didymum L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+50556	50556	Corvus splendens Vieillot, 1817		Animalia	Chordata	Aves	Passeriformes	Corvidae	SPECIES	ACCEPTED
+50557	50557	Crassostrea gigas (Thunberg, 1793)	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	SYNONYM
+50558	50558	Crenidens crenidens (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	SPECIES	ACCEPTED
+50559	50559	Cristaria plicata (Leach, 1814)		Animalia	Mollusca	Bivalvia	Unionida	Unionidae	SPECIES	ACCEPTED
+50560	50560	Cryptophlebia leucotreta Meyrick, 1913		Animalia	Arthropoda	Insecta	Lepidoptera	Tortricidae	SPECIES	ACCEPTED
+50561	50561	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+50562	50562	Cucurbitula cymbium (Spengler, 1783)		Animalia	Mollusca	Bivalvia	Gastrochaenida	Gastrochaenidae	SPECIES	ACCEPTED
+50563	50563	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+50564	50564	Cyclichthys spilostylus (Leis & Randall, 1982)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Diodontidae	SPECIES	ACCEPTED
+50565	50565	Cyclotropis bedaliensis (Rensch, 1934)	Taiwanassiminea bedaliensis (Rensch, 1934)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Assimineidae	SPECIES	SYNONYM
+50566	50566	Cynoglossus sinusarabici (Chabanaud, 1931)		Animalia	Chordata	Actinopterygii	Pleuronectiformes	Cynoglossidae	SPECIES	ACCEPTED
+50567	50567	Cyperus imbricatus Retz.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+50568	50568	Cyperus involucratus Rottb.	Cyperus alternifolius L.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+50569	50569	Cyperus odoratus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+50570	50570	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+50571	50571	Cyrtopodion scaber Kluge, 1985	Cyrtopodion scabrum (Heyden, 1827)	Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	SYNONYM
+50572	50572	Dasyatis chrysonota (Smith, 1828)		Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae	SPECIES	ACCEPTED
+50573	50573	Datura ferox L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+50574	50574	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+50575	50575	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+50576	50576	Decapterus russelli (RÃ¼ppell, 1830)		Animalia	Chordata	Actinopterygii	Perciformes	Carangidae	SPECIES	ACCEPTED
+50577	50577	Delavalia minuta Scott A., 1902		Animalia	Arthropoda	Hexanauplia	Harpacticoida	Miraciidae	SPECIES	ACCEPTED
+50578	50578	Dendostrea crenulifera (Sowerby, 1871)	Ostrea crenulifera (Sowerby, 1873)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	SYNONYM
+50579	50579	Dendrodoris fumata (RÃ¼ppell & Leuckart, 1830)		Animalia	Mollusca	Gastropoda	Nudibranchia	Dendrodorididae	SPECIES	ACCEPTED
+50580	50580	Deroceras invadens Reise, Hutchinson, Schunack & Schlitt, 2011		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	ACCEPTED
+50581	50581	Deroceras laeve (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	ACCEPTED
+50582	50582	Deroceras reticulatum (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	ACCEPTED
+50583	50583	Diala semistriata (Philippi, 1849)		Animalia	Mollusca	Gastropoda		Dialidae	SPECIES	ACCEPTED
+50584	50584	Diala varia A.Adams, 1861	Diala semistriata (Philippi, 1849)	Animalia	Mollusca	Gastropoda		Dialidae	SPECIES	SYNONYM
+50585	50585	Dicentrarchus labrax (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Moronidae	SPECIES	ACCEPTED
+50586	50586	Dicentrarchus punctatus (Bloch, 1792)		Animalia	Chordata	Actinopterygii	Perciformes	Moronidae	SPECIES	ACCEPTED
+50587	50587	Diodora funiculata (Reeve, 1850)		Animalia	Mollusca	Gastropoda	Lepetellida	Fissurellidae	SPECIES	ACCEPTED
+50588	50588	Diodora rueppellii	Diodora ruppellii (G.B.Sowerby I, 1835)	Animalia	Mollusca	Gastropoda	Lepetellida	Fissurellidae	SPECIES	SYNONYM
+50589	50589	Diospyros virginiana L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Ebenaceae	SPECIES	ACCEPTED
+50590	50590	Diplodonta bogii van Aartsen, 2004	Transkeia bogii (Van Aartsen, 2004)	Animalia	Mollusca	Bivalvia	Venerida	Ungulinidae	SPECIES	SYNONYM
+50591	50591	Diplodonta subrotunda Issel, 1869	Microstagon subrotunda (Cotton, 1930)	Animalia	Mollusca	Bivalvia	Venerida	Ungulinidae	SPECIES	SYNONYM
+50592	50592	Diplotaxis tenuifolia (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+50593	50593	Discodoris lilacina (Gould, 1852)	Tayuva lilacina (Gould, 1852)	Animalia	Mollusca	Gastropoda	Nudibranchia	Discodorididae	SPECIES	SYNONYM
+50594	50594	Divalinga arabica Dekker & Goud, 1994		Animalia	Mollusca	Bivalvia	Lucinida	Lucinidae	SPECIES	ACCEPTED
+50595	50595	Diversinervus cervantesi (Girault, 1933)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50596	50596	Diversinervus elegans Silvestri, 1915		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50597	50597	Dodonaea viscosa Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+50598	50598	Dorippe quadridens (Fabricius, 1793)		Animalia	Arthropoda	Malacostraca	Decapoda	Dorippidae	SPECIES	ACCEPTED
+50599	50599	Dussumieria elopsoides Bleeker, 1849		Animalia	Chordata	Actinopterygii	Clupeiformes	Dussumieriidae	SPECIES	ACCEPTED
+50600	50600	Eclipta prostrata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50601	50601	Ecteinascidia thurstoni Herdman, 1890		Animalia	Chordata	Ascidiacea	Phlebobranchia	Perophoridae	SPECIES	ACCEPTED
+50602	50602	Ectopleura crocea (Agassiz, 1862)		Animalia	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	SPECIES	ACCEPTED
+50603	50603	Ehrharta erecta Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50604	50604	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+50605	50605	Einadia nutans (R.Br.) A.J.Scott	Chenopodium nutans (R.Br.) S.Fuentes & Borsch	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+50606	50606	Elasmopus pectenicrus (Spence Bate, 1862)		Animalia	Arthropoda	Malacostraca	Amphipoda	Maeridae	SPECIES	ACCEPTED
+50607	50607	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50608	50608	Elia moesta moesta	Elia moesta (Rossmässler, 1836)	Animalia	Mollusca	Gastropoda	Stylommatophora	Clausiliidae	SUBSPECIES	SYNONYM
+50609	50609	Elodea canadensis Michx.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+50610	50610	Elysia grandifolia Kelaart, 1858		Animalia	Mollusca	Gastropoda		Plakobranchidae	SPECIES	ACCEPTED
+50611	50611	Enchylaena tomentosa R.Br.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50612	50612	Encyrtus infelix (Embleton, 1902)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50613	50613	Engina mendicaria (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Neogastropoda	Pisaniidae	SPECIES	ACCEPTED
+50614	50614	Ensiculus cultellus (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED
+50615	50615	Eobania vermiculata (O.F.MÃ¼ller, 1774)	Massylaea vermiculata (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	SYNONYM
+50616	50616	Eocuma rosae Corbera & Galil, 2007		Animalia	Arthropoda	Malacostraca	Cumacea	Bodotriidae	SPECIES	ACCEPTED
+50617	50617	Epinephelus coioides (Hamilton, 1822)		Animalia	Chordata	Actinopterygii	Perciformes	Serranidae	SPECIES	ACCEPTED
+50618	50618	Epinephelus malabaricus (Bloch & Schneider, 1801)		Animalia	Chordata	Actinopterygii	Perciformes	Serranidae	SPECIES	ACCEPTED
+50619	50619	Epinephelus tauvina (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Serranidae	SPECIES	ACCEPTED
+50620	50620	Equulites elongatus (GÃ¼nther, 1874)		Animalia	Chordata	Actinopterygii	Perciformes	Leiognathidae	SPECIES	ACCEPTED
+50621	50621	Eragrostis echinochloidea Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50622	50622	Eragrostis japonica (Thunb.) Trin.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50623	50623	Eragrostis palmeri S.Watson		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50624	50624	Ergalatax contracta (Reeve, 1846)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+50625	50625	Ergalatax obscura Houart, 1996	Ergalatax martensi (Schepman, 1892)	Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	SYNONYM
+50626	50626	Eriosoma lanigerum (Hausemann, 1802)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+50627	50627	Erosaria turdus (Lamarck, 1810)	Naria turdus (Lamarck, 1810)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Cypraeidae	SPECIES	SYNONYM
+50628	50628	Erugosquilla massavensis (Kossmann, 1880)		Animalia	Arthropoda	Malacostraca	Stomatopoda	Squillidea	SPECIES	ACCEPTED
+50629	50629	Ethminolia hemprichii (Issel, 1869)		Animalia	Mollusca	Gastropoda	Trochida	Trochidae	SPECIES	ACCEPTED
+50630	50630	Etrumeus teres (DeKay, 1842)	Etrumeus sadina (Mitchill, 1814)	Animalia	Chordata	Actinopterygii	Clupeiformes	Dussumieriidae	SPECIES	SYNONYM
+50631	50631	Eucalyptus camaldulensis Dehnh.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+50632	50632	Eucrate crenata De Haan, 1835		Animalia	Arthropoda	Malacostraca	Decapoda	Euryplacidae	SPECIES	ACCEPTED
+50633	50633	Euglandina rosea (FÃ©russac, 1821)		Animalia	Mollusca	Gastropoda	Stylommatophora	Spiraxidae	SPECIES	ACCEPTED
+50634	50634	Eunice indica Kinberg, 1865		Animalia	Annelida	Polychaeta	Eunicida	Eunicidae	SPECIES	ACCEPTED
+50635	50635	Euniphysa tubifex (Crossland, 1904)	Eunice tubifex Crossland, 1904	Animalia	Annelida	Polychaeta	Eunicida	Eunicidae	SPECIES	SYNONYM
+50636	50636	Euphorbia graminea Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50637	50637	Euphorbia heterophylla L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50638	50638	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50639	50639	Euphorbia lasiocarpa Klotzsch		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50640	50640	Euphorbia maculata L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50641	50641	Euphorbia prostrata Aiton		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50642	50642	Euphorbia serpens Kunth		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50643	50643	Euphorbia supina Raf.	Euphorbia maculata L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+50644	50644	Fallopia convolvulus (L.) Ã.LÃ¶ve		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+50645	50645	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+50646	50646	Ferrissia clessiniana (Jickeli, 1882)	Pettancylus clessiniana (Jickeli, 1882)	Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	SYNONYM
+50647	50647	Ficopomatus enigmaticus (Fauvel, 1923)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50648	50648	Ficus benghalensis L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+50649	50649	Ficus microcarpa L.f.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+50650	50650	Ficus religiosa L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+50651	50651	Filopaludina martensi martensi	Filopaludina martensi (Frauenfeld, 1865)	Animalia	Mollusca	Gastropoda	Architaenioglossa	Viviparidae	SUBSPECIES	SYNONYM
+50652	50652	Finella pupoides A.Adams, 1860		Animalia	Mollusca	Gastropoda		Scaliolidae	SPECIES	ACCEPTED
+50653	50653	Fistularia commersonii RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Syngnathiformes	Fistulariidae	SPECIES	ACCEPTED
+50654	50654	Flabellina rubrolineata (O'Donoghue, 1929)	Coryphellina rubrolineata O'Donoghue, 1929	Animalia	Mollusca	Gastropoda	Nudibranchia	Flabellinidae	SPECIES	SYNONYM
+50655	50655	Frankliniella occidentalis (Pergande, 1895)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+50656	50656	Fulvia australis (G.B.Sowerby II, 1834)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+50657	50657	Fulvia fragilis (ForsskÃ¥l, 1775)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+50658	50658	Fusinus verrucosus (Gmelin, 1791)		Animalia	Mollusca	Gastropoda	Neogastropoda	Fasciolariidae	SPECIES	ACCEPTED
+50659	50659	Gafrarium pectinatum (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+50660	50660	Galba bulimoides (I.Lea, 1841)		Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	ACCEPTED
+50661	50661	Galenia pubescens (Eckl. & Zeyh.) Druce	Aizoon pubescens Eckl. & Zeyh.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	SYNONYM
+50662	50662	Galinsoga parviflora Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50663	50663	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+50664	50664	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+50665	50665	Gammaropsis togoensis (Schellenberg, 1925)		Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	SPECIES	ACCEPTED
+50666	50666	Gamochaeta pensylvanica (Willd.) Cabrera		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50667	50667	Gastrochaena cymbium Spengler, 1783	Cucurbitula cymbium (Spengler, 1783)	Animalia	Mollusca	Bivalvia	Gastrochaenida	Gastrochaenidae	SPECIES	SYNONYM
+50668	50668	Gastrocopta pellucida (L.Pfeiffer, 1840)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrocoptidae	SPECIES	ACCEPTED
+50669	50669	Gastrocopta procera (Gould, 1840)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrocoptidae	SPECIES	ACCEPTED
+50670	50670	Gastrocopta rupicola (Say, 1821)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrocoptidae	SPECIES	ACCEPTED
+50671	50671	Geodia micropunctata Row, 1911		Animalia	Porifera	Demospongiae	Tetractinellida	Geodiidae	SPECIES	ACCEPTED
+50672	50672	Gibborissoia virgata (Philippi, 1849)		Animalia	Mollusca	Gastropoda		Litiopidae	SPECIES	ACCEPTED
+50673	50673	Glycymeris arabica (H.Adams, 1871)		Animalia	Mollusca	Bivalvia	Arcida	Glycymerididae	SPECIES	ACCEPTED
+50674	50674	Glyphidohaptor plectocirra (Paperna, 1972) Kritsky, Galli & Yang, 2007		Animalia	Platyhelminthes	Monogenea	Dactylogyridea	Ancyrocephalidae	SPECIES	ACCEPTED
+50675	50675	Gynaikothrips ficorum (Marchal, 1908)		Animalia	Arthropoda	Insecta	Thysanoptera	Phlaeothripidae	SPECIES	ACCEPTED
+50676	50676	Gyraulus chinensis (Dunker, 1848)		Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED
+50677	50677	Gyraulus parvus (Say, 1817)		Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED
+50678	50678	Haitia acuta (Draparnaud, 1805)	Physella acuta (Draparnaud, 1805)	Animalia	Mollusca	Gastropoda		Physidae	SPECIES	SYNONYM
+50679	50679	Halimede tyche (Herbst, 1801)		Animalia	Arthropoda	Malacostraca	Decapoda	Galenidae	SPECIES	ACCEPTED
+50680	50680	Haliotis discus Reeve, 1846		Animalia	Mollusca	Gastropoda	Lepetellida	Haliotidae	SPECIES	ACCEPTED
+50681	50681	Haliotis fulgens Philippi, 1845		Animalia	Mollusca	Gastropoda	Lepetellida	Haliotidae	SPECIES	ACCEPTED
+50682	50682	Haliotis pustulata Reeve, 1846	Haliotis rugosa Lamarck, 1822	Animalia	Mollusca	Gastropoda	Lepetellida	Haliotidae	SPECIES	SYNONYM
+50683	50683	Haliotis tuberculata Linnaeus, 1758		Animalia	Mollusca	Gastropoda	Lepetellida	Haliotidae	SPECIES	ACCEPTED
+50684	50684	Hawaiia minuscula (Binney, 1841)		Animalia	Mollusca	Gastropoda	Stylommatophora	Pristilomatidae	SPECIES	ACCEPTED
+50685	50685	Helianthus annuus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50686	50686	Helicella bolenensis (Locard, 1882)		Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	ACCEPTED
+50687	50687	Heliothrips haemorrhoidalis (BouchÃ©, 1833)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+50688	50688	Helix cincta O.F.MÃ¼ller, 1774		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+50689	50689	Helix ligata O.F.MÃ¼ller, 1774		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+50690	50690	Helix xeraethia Kobelt, 1895	Helix asemnis Bourguignat, 1860	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	SYNONYM
+50691	50691	Hemiramphus far (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Beloniformes	Hemiramphidae	SPECIES	ACCEPTED
+50692	50692	Hercinothrips femoralis (Reuter, 1891)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+50693	50693	Herdmania momus (Savigny, 1816)		Animalia	Chordata	Ascidiacea	Stolidobranchia	Pyuridae	SPECIES	ACCEPTED
+50694	50694	Herklotsichthys punctatus (RÃ¼ppell, 1837)		Animalia	Chordata	Actinopterygii	Clupeiformes	Clupeidae	SPECIES	ACCEPTED
+50695	50695	Heterosaccus dollfusi Boschma, 1960		Animalia	Arthropoda	Maxillopoda	Kentrogonida	Sacculinidae	SPECIES	ACCEPTED
+50696	50696	Heterotheca subaxillaris (Lam.) Britton & Rusby		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50697	50697	Hibiscus trionum L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+50698	50698	Himantura uarnak (Gmelin, 1789)		Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae	SPECIES	ACCEPTED
+50699	50699	Hippaliosina acutirostris Canu & Bassler, 1929		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Hippaliosinidae	SPECIES	ACCEPTED
+50700	50700	Hippocampus fuscus RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Syngnathiformes	Syngnathidae	SPECIES	ACCEPTED
+50701	50701	Hippopodina feegeensis (Busk, 1884)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Hippopodinidae	SPECIES	ACCEPTED
+50702	50702	Hippopodina iririkiensis Tilbrook, 1999		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Hippopodinidae	SPECIES	ACCEPTED
+50703	50703	Hyastenus hilgendorfi de Man, 1887		Animalia	Arthropoda	Malacostraca	Decapoda	Epialtidae	SPECIES	ACCEPTED
+50704	50704	Hydroides brachyacantha Rioja, 1941		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50705	50705	Hydroides elegans (Haswell, 1883)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50706	50706	Hydroides heterocera (Grube, 1868)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50707	50707	Hydroides homoceros Pixell, 1913		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50708	50708	Hydroides minax (Grube, 1878)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50709	50709	Hydroides operculata (Treadwell, 1929)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+50710	50710	Hyotissa hyotis (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Ostreida	Gryphaeidae	SPECIES	ACCEPTED
+50711	50711	Hypnea anastomosans Papenf., Lipkin & P.C.Silva		Plantae	Rhodophyta	Florideophyceae	Gigartinales	Cystocloniaceae	SPECIES	ACCEPTED
+50712	50712	Hypophthalmichthys molitrix (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+50713	50713	Hypophthalmichthys nobilis (Richardson, 1845)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+50714	50714	Hypselodoris infucata (RÃ¼ppell & Leuckart, 1830)		Animalia	Mollusca	Gastropoda	Nudibranchia	Chromodorididae	SPECIES	ACCEPTED
+50715	50715	Hyrtios erectus Keller, 1889		Animalia	Porifera	Demospongiae	Dictyoceratida	Thorectidae	SPECIES	ACCEPTED
+50716	50716	Hysterolecitha sigani Manter, 1969	Thulinia microrchis (Yamaguti, 1934) Bray, Cribb & Barker, 1993	Animalia	Platyhelminthes	Trematoda	Plagiorchiida	Lecithasteridae	SPECIES	SYNONYM
+50717	50717	Icerya purchasi Maskell, 1879		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+50718	50718	Ictiobus cyprinellus (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Catostomidae	SPECIES	ACCEPTED
+50719	50719	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	SPECIES	ACCEPTED
+50720	50720	Indothais lacera (Born, 1778)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+50721	50721	Infundibulops erythraeus (Brocchi, 1821)	Trochus erithreus Brocchi, 1821	Animalia	Mollusca	Gastropoda	Trochida	Trochidae	SPECIES	SYNONYM
+50722	50722	Ipomoea aquatica Forssk.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+50723	50723	Ipomoea cairica (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+50724	50724	Ipomoea hederacea Jacq.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+50725	50725	Ipomoea lacunosa L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+50726	50726	Ipomoea triloba L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+50727	50727	Isognomon ephippium (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SPECIES	ACCEPTED
+50728	50728	Ixa monodi Holthuis & Gottlieb, 1956		Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	ACCEPTED
+50729	50729	Labeotropheus fuelleborni Ahl, 1926		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50730	50730	Lagocephalus sceleratus (Gmelin, 1789)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+50731	50731	Lagocephalus spadiceus (Richardson, 1845)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+50732	50732	Lagocephalus suezensis Clark & Gohar, 1953		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+50733	50733	Lamellaxis clavulinus (Potiez & Michaud, 1838)	Allopeas clavulinum (Potiez & Michaud, 1838)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	SYNONYM
+50734	50734	Lamprotornis superbus RÃ¼ppell, 1845		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+50735	50735	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+50736	50736	Laternula anatina (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia		Laternulidae	SPECIES	ACCEPTED
+50737	50737	Lates calcarifer (Bloch, 1790)		Animalia	Chordata	Actinopterygii	Perciformes	Latidae	SPECIES	ACCEPTED
+50738	50738	Lecithochirium magnicaudatum (Fischthal & Kuntz, 1963)		Animalia	Platyhelminthes	Trematoda	Plagiorchiida	Hemiuridae	SPECIES	ACCEPTED
+50739	50739	Lehmannia valentiana (A.FÃ©russac, 1822)	Ambigolimax valentianus (A.Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	SPECIES	SYNONYM
+50740	50740	Leiognathus klunzingeri (Steindachner, 1898)	Equulites klunzingeri (Steindachner, 1898)	Animalia	Chordata	Actinopterygii	Perciformes	Leiognathidae	SPECIES	SYNONYM
+50741	50741	Leiosolenus hanleyanus (Reeve, 1857)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+50742	50742	Leonnates decipiens Fauvel, 1929		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+50743	50743	Leonnates indicus Kinberg, 1865		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+50744	50744	Leonnates persicus Wesenberg-Lund, 1949		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+50745	50745	Lepidium ruderale L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+50746	50746	Lepidium sativum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+50747	50747	Lepidonotus tenuisetosus (Gravier, 1902)	Euphione tenuisetosa Gravier, 1901	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	SPECIES	SYNONYM
+50748	50748	Leptochela pugnax de Man, 1916		Animalia	Arthropoda	Malacostraca	Decapoda	Pasiphaeidae	SPECIES	ACCEPTED
+50749	50749	Leptochloa mucronata Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50750	50750	Leptochloa uninervia (J.Presl) Hitchc. & Chase	Diplachne fusca (L.) Roem. & Schult.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+50751	50751	Leptocybe invasa Fisher & La Salle, 2004		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+50752	50752	Leptomastix dactylopii Howard, 1885		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50753	50753	Lernanthropus callionymicola El-Rashidy & Boxshall, 2012		Animalia	Arthropoda	Hexanauplia	Siphonostomatoida	Lernanthropidae	SPECIES	ACCEPTED
+50754	50754	Leucosia signata Paul'son, 1875	Coleusia signata (Paul'son, 1875)	Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	SYNONYM
+50755	50755	Leucotina natalensis E.A.Smith, 1910		Animalia	Mollusca	Gastropoda		Amathinidae	SPECIES	ACCEPTED
+50756	50756	Limopsis multistriata (ForsskÃ¥l, 1775)		Animalia	Mollusca	Bivalvia	Arcida	Limopsidae	SPECIES	ACCEPTED
+50757	50757	Linopherus incarunculata (Peters, 1854)		Animalia	Annelida	Polychaeta	Amphinomida	Amphinomidae	SPECIES	ACCEPTED
+50758	50758	Liriomyza huidobrensis Blanchard, 1926		Animalia	Arthropoda	Insecta	Diptera	Agromyzidae	SPECIES	ACCEPTED
+50759	50759	Liriomyza trifolii Burgess, 1880		Animalia	Arthropoda	Insecta	Diptera	Agromyzidae	SPECIES	ACCEPTED
+50760	50760	Lissodendoryx schmidti (Ridley, 1884)		Animalia	Porifera	Demospongiae	Poecilosclerida	Coelosphaeridae	SPECIES	ACCEPTED
+50761	50761	Lithobates catesbeianus (Shaw, 1802)		Animalia	Chordata	Amphibia	Anura	Ranidae	SPECIES	ACCEPTED
+50762	50762	Litopenaeus vannamei (Boone, 1931)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50763	50763	Liza aurata (Risso, 1810)	Chelon auratus (Risso, 1810)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+50764	50764	Liza carinata (Valenciennes, 1836)		Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	ACCEPTED
+50765	50765	Liza ramado (Risso, 1827)	Chelon ramada (Risso, 1827)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+50766	50766	Liza saliens (Risso, 1810)	Chelon saliens (Risso, 1810)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+50767	50767	Lonchura malabarica (Linnaeus, 1758)	Euodice malabarica (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	SYNONYM
+50768	50768	Lucifer hanseni Nobili, 1905		Animalia	Arthropoda	Malacostraca	Decapoda	Luciferidae	SPECIES	ACCEPTED
+50769	50769	Lucilla scintilla (R.T.Lowe, 1852)		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicodiscidae	SPECIES	ACCEPTED
+50770	50770	Lutjanus argentimaculatus (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Lutjanidae	SPECIES	ACCEPTED
+50771	50771	Lymantria dispar (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+50772	50772	Macrobrachium rosenbergii (De Man, 1879)		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+50773	50773	Macrophthalmus graeffei A.Milne-Edwards, 1873		Animalia	Arthropoda	Malacostraca	Decapoda	Macrophthalmidae	SPECIES	ACCEPTED
+50774	50774	Macrosiphum euphorbiae (C.Thomas, 1878)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+50775	50775	Mactra lilacea Lamarck, 1818		Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED
+50776	50776	Mactra olorina Philippi, 1846		Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED
+50777	50777	Maireana brevifolia (R.Br.) Paul G.Wilson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+50778	50778	Malvufundus regula (ForsskÃ¥l, 1775)	Malleus regula (Forsskål, 1775)	Animalia	Mollusca	Bivalvia	Ostreida	Malleidae	SPECIES	SYNONYM
+50779	50779	Marisa cornuarietis (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	ACCEPTED
+50780	50780	Marivagia stellata Galil & Gershwin, 2010		Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Cepheidae	SPECIES	ACCEPTED
+50781	50781	Marsupenaeus japonicus (Bate, 1888)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50782	50782	Matthiola incana (L.) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+50783	50783	Matuta victor (Fabricius, 1781)		Animalia	Arthropoda	Malacostraca	Decapoda	Matutidae	SPECIES	ACCEPTED
+50784	50784	Maylandia lombardoi (Burgess, 1977)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50785	50785	Megalobrama amblycephala Yih, 1955		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+50786	50786	Megastigmus wachtli Seitner, 1916		Animalia	Arthropoda	Insecta	Hymenoptera	Torymidae	SPECIES	ACCEPTED
+50787	50787	Melanochromis auratus (Boulenger, 1897)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50788	50788	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+50789	50789	Melicertus hathor Burkenroad, 1959		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50790	50790	Metapenaeopsis aegyptia Galil & Golani, 1990		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50791	50791	Metapenaeopsis mogiensis consobrina (Nobili, 1904)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SUBSPECIES	ACCEPTED
+50792	50792	Metapenaeus monoceros (Fabricius, 1798)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50793	50793	Metapenaeus stebbingi Nobili, 1904		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50794	50794	Metaphycus angustifrons Compere, 1957		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50795	50795	Metaphycus anneckei Guerrieri & Noyes, 2000		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50796	50796	Metaphycus helvolus (Compere, 1926)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50797	50797	Metaphycus inviscus Compere, 1940		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50798	50798	Metaphycus lounsburyi (Howard, 1898)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50799	50799	Metaphycus stanleyi Compere, 1940		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50800	50800	Metaphycus swirskii Annecke & Mynhardt, 1979		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50801	50801	Metasychis gotoi (Izuka, 1902)		Animalia	Annelida	Polychaeta		Maldanidae	SPECIES	ACCEPTED
+50802	50802	Metaxia bacillum (Issel, 1869)		Animalia	Mollusca	Gastropoda		Triphoridae	SPECIES	ACCEPTED
+50803	50803	Microterys clauseni Compere, 1926		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50804	50804	Microterys speciosus Ishii, 1923		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50805	50805	Mimachlamys sanguinea (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Pectinida	Pectinidae	SPECIES	ACCEPTED
+50806	50806	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+50807	50807	Modiolus auriculatus (Krauss, 1848)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+50808	50808	Monilicaecum ventricosum Yamaguti, 1942		Animalia	Platyhelminthes	Trematoda	Plagiorchiida	Didymozoidae	SPECIES	ACCEPTED
+50809	50809	Monomorium pharaonis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+50810	50810	Monotigma lauta (A.Adams, 1853)	Monotygma lauta (A.Adams, 1853)	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+50811	50811	Morone saxatilis (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Perciformes	Moronidae	SPECIES	ACCEPTED
+50812	50812	Muraenesox cinereus (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Anguilliformes	Muraenesocidae	SPECIES	ACCEPTED
+50813	50813	Murchisonella columna (Hedley, 1907)		Animalia	Mollusca	Gastropoda		Murchisonellidae	SPECIES	ACCEPTED
+50814	50814	Murex forskoehlii RÃ¶ding, 1798		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+50815	50815	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+50816	50816	Musculista perfragilis (Dunker, 1857)	Arcuatula perfragilis (Dunker, 1857)	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	SYNONYM
+50817	50817	Musculista senhousia (Benson, 1842)	Arcuatula senhousia (Benson, 1842)	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	SYNONYM
+50818	50818	Mycteroperca fusca (Lowe, 1838)		Animalia	Chordata	Actinopterygii	Perciformes	Serranidae	SPECIES	ACCEPTED
+50819	50819	Myiopsitta monachus (Boddaert, 1783)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50820	50820	Mylopharyngodon piceus (Richardson, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+50821	50821	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+50822	50822	Myra subgranulata Kossmann, 1877		Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	ACCEPTED
+50823	50823	Myriophyllum aquaticum (Vell.) Verdc.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED
+50824	50824	Mytilopsis sallei (RÃ©cluz, 1849)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+50825	50825	Nandayus nenday (Vieillot, 1823)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50826	50826	Nanostrea exigua Harry, 1985	Nanostrea fluctigera (Jousseaume, 1925)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	SYNONYM
+50827	50827	Nanostrea fluctigera (Jousseaume, 1925)		Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED
+50828	50828	Nassa situla (Reeve, 1846)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+50829	50829	Nassarius arcularia plicatus (RÃ¶ding, 1798)		Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	SUBSPECIES	ACCEPTED
+50830	50830	Nassarius concinnus (Powys, 1835)		Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	SPECIES	ACCEPTED
+50831	50831	Nassarius obsoletus (Say, 1822)	Tritia obsoleta (Say, 1822)	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	SPECIES	SYNONYM
+50832	50832	Nemipterus japonicus (Bloch, 1791)		Animalia	Chordata	Actinopterygii	Perciformes	Nemipteridae	SPECIES	ACCEPTED
+50833	50833	Nemipterus randalli Russell, 1986		Animalia	Chordata	Actinopterygii	Perciformes	Nemipteridae	SPECIES	ACCEPTED
+50834	50834	Nereis persica Fauvel, 1911		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+50835	50835	Nicotiana glauca Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+50836	50836	Nosema ceratomyxae I.Paperna & Paperna, 1985		Protozoa	Microsporidia	Microsporea	Dissociodihaplophasida	Nosematidae	SPECIES	ACCEPTED
+50837	50837	Nothoscordum inodorum (Aiton) G.Nicholson	Allium neapolitanum Cirillo	Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	SYNONYM
+50838	50838	Notocochlis gualteriana Recluz, 1844	Notocochlis gualtieriana (Récluz, 1844)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Naticidae	SPECIES	SYNONYM
+50839	50839	Notopus dorsipes Linnaeus, 1758		Animalia	Arthropoda	Malacostraca	Decapoda	Raninidae	SPECIES	ACCEPTED
+50840	50840	Novisuccinea hortensis (Reinhardt, 1877)		Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae		DOUBTFUL
+50841	50841	Novisuccinea horticola (Reinhardt 1877)		Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae		DOUBTFUL
+50842	50842	Novisuccinea ovalis (Say, 1817)	Succinea ovalis Say, 1817	Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	SPECIES	SYNONYM
+50843	50843	Octopus aegina Gray, 1849	Amphioctopus aegina (Gray, 1849)	Animalia	Mollusca	Cephalopoda	Octopoda	Octopodidae	SPECIES	SYNONYM
+50844	50844	Octopus cyanea Gray, 1849		Animalia	Mollusca	Cephalopoda	Octopoda	Octopodidae	SPECIES	ACCEPTED
+50845	50845	Oculina patagonica de Angelis, 1908		Animalia	Cnidaria	Anthozoa	Scleractinia	Oculinidae	SPECIES	ACCEPTED
+50846	50846	Odontesthes bonariensis (Valenciennes, 1835)		Animalia	Chordata	Actinopterygii	Atheriniformes	Atherinopsidae	SPECIES	ACCEPTED
+50847	50847	Odostomia lorioli (Hornung & Mermod, 1924)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+50848	50848	Oenothera drummondii Hook.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+50849	50849	Oenothera rosea Aiton		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+50850	50850	Ogyrides mjoebergi (Balss, 1921)		Animalia	Arthropoda	Malacostraca	Decapoda	Ogyrididae	SPECIES	ACCEPTED
+50851	50851	Omobranchus punctatus (Valenciennes, 1836)		Animalia	Chordata	Actinopterygii	Perciformes	Blenniidae	SPECIES	ACCEPTED
+50852	50852	Oncorhynchus kisutch (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+50853	50853	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+50854	50854	Ophelimus maskelli (Ashmead, 1900)		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+50855	50855	Ophiactis macrolepidota Marktanner-Turneretscher, 1887		Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Ophiactidae	SPECIES	ACCEPTED
+50856	50856	Ophiactis parva Mortensen, 1926	Ophiactis macrolepidota Marktanner-Turneretscher, 1887	Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Ophiactidae	SPECIES	SYNONYM
+50857	50857	Ophiactis savignyi (MÃ¼ller & Troschel, 1842)		Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Ophiactidae	SPECIES	ACCEPTED
+50858	50858	Oreochromis macrochir (Boulenger, 1912)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50859	50859	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50860	50860	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50861	50861	Oscilla jocosa Melvill, 1904		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+50862	50862	Ostrea edulis Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED
+50863	50863	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+50864	50864	Oxalis pes-caprae L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+50865	50865	Oxychilus cyprius L. Pfeiffer, 1847		Animalia	Mollusca	Gastropoda	Stylommatophora	Oxychilidae	SPECIES	
+50866	50866	Oxychilus translucidus (Mortillet, 1853)		Animalia	Mollusca	Gastropoda	Stylommatophora	Oxychilidae	SPECIES	ACCEPTED
+50867	50867	Oxyura jamaicensis (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+50868	50868	Oxyurichthys papuensis (Valenciennes, 1837)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+50869	50869	Oxyurichthys petersii (Klunzinger, 1871)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	DOUBTFUL
+50870	50870	Padina boergesenii Allender & Kraft		Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED
+50871	50871	Palaemonella rotumana (Borradaile, 1898)		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+50872	50872	Palmadusta lentiginosa (J.E.Gray, 1825)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cypraeidae	SPECIES	ACCEPTED
+50873	50873	Palmiothrips palmae (Ramakrishna, 1934)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+50874	50874	Panicum antidotale Retz.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50875	50875	Panicum capillare L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50876	50876	Panicum maximum Jacq.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50877	50877	Panicum miliaceum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50878	50878	Panulirus ornatus (Fabricius, 1798)		Animalia	Arthropoda	Malacostraca	Decapoda	Palinuridae	SPECIES	ACCEPTED
+50879	50879	Papaver somniferum L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+50880	50880	Paphia textile (Gmelin, 1791)	Paratapes textilis (Gmelin, 1791)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	SYNONYM
+50881	50881	Papilloculiceps longiceps (Cuvier, 1829)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Platycephalidae	SPECIES	ACCEPTED
+50882	50882	Parahyotissa imbricata (Lamarck, 1819)	Hyotissa inermis (G.B.Sowerby II, 1871)	Animalia	Mollusca	Bivalvia	Ostreida	Gryphaeidae	SPECIES	SYNONYM
+50883	50883	Parasmittina protecta (Thornely, 1905)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	SPECIES	ACCEPTED
+50884	50884	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+50885	50885	Parexocoetus mento (Valenciennes, 1847)		Animalia	Chordata	Actinopterygii	Beloniformes	Exocoetidae	SPECIES	ACCEPTED
+50886	50886	Parkinsonia aculeata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50887	50887	Parthenium hysterophorus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+50888	50888	Parviturbo dibellai Buzzurro & Cecalupo, 2007	Conradia eutornisca (Melvill, 1918)	Animalia	Mollusca	Gastropoda	Trochida	Conradiidae	SPECIES	SYNONYM
+50889	50889	Paspalum dilatatum Poir.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50890	50890	Paspalum distichum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+50891	50891	Patelloida saccharina (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda		Lottiidae	SPECIES	ACCEPTED
+50892	50892	Pavo cristatus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+50893	50893	Pelates quadrilineatus Cuvier & Valenciennes, 1829		Animalia	Chordata	Actinopterygii	Perciformes	Terapontidae	SPECIES	ACCEPTED
+50894	50894	Pempheris vanicolensis Cuvier, 1831		Animalia	Chordata	Actinopterygii	Perciformes	Pempheridae	SPECIES	ACCEPTED
+50895	50895	Penaeus semisulcatus de Haan, 1844		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+50896	50896	Pennisetum clandestinum Hochst. ex Chiov.	Cenchrus clandestinus (Hochst. ex Chiov.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+50897	50897	Pennisetum purpureum Schumach.	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+50898	50898	Perkinsyllis augeneri (Hartmann-SchrÃ¶der, 1979)		Animalia	Annelida	Polychaeta	Phyllodocida	Syllidae	SPECIES	ACCEPTED
+50899	50899	Petroscirtes ancylodon RÃ¼ppell, 1835		Animalia	Chordata	Actinopterygii	Perciformes	Blenniidae	SPECIES	ACCEPTED
+50900	50900	Pezothrips kellyanus (Bagnall, 1916)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+50901	50901	Phallusia nigra Savigny, 1816		Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED
+50902	50902	Philinopsis speciosa Pease, 1860		Animalia	Mollusca	Gastropoda	Cephalaspidea	Aglajidae	SPECIES	ACCEPTED
+50903	50903	Phoracantha recurva Newman, 1840		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+50904	50904	Photis lamellifera Schellenberg, 1928		Animalia	Arthropoda	Malacostraca	Amphipoda	Photidae	SPECIES	ACCEPTED
+50905	50905	Phyllanthus rotundifolius Klein ex Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+50906	50906	Phyllodoce longifrons Ben-Eliahu, 1972		Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	SPECIES	ACCEPTED
+50907	50907	Phyllorhiza punctata Lendenfeld, 1884		Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	SPECIES	ACCEPTED
+50908	50908	Physa fontinalis (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda		Physidae	SPECIES	ACCEPTED
+50909	50909	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+50910	50910	Physalis peruviana L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+50911	50911	Physella ancillaria (Say, 1825)		Animalia	Mollusca	Gastropoda		Physidae	SPECIES	ACCEPTED
+50912	50912	Physella gyrina (Say, 1821)		Animalia	Mollusca	Gastropoda		Physidae	SPECIES	ACCEPTED
+50913	50913	Phytolacca americana L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+50914	50914	Phytophthora cinnamomi Rands		Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	ACCEPTED
+50915	50915	Pigrogromitus timsanus Calman, 1927		Animalia	Arthropoda	Pycnogonida	Pantopoda		SPECIES	ACCEPTED
+50916	50916	Pilumnopeus vauquelini (Audouin, 1826)		Animalia	Arthropoda	Malacostraca	Decapoda	Pilumnidae	SPECIES	ACCEPTED
+50917	50917	Pinctada margaritifera (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SPECIES	ACCEPTED
+50918	50918	Pinctada radiata (Leach, 1814)	Pinctada imbricata Röding, 1798	Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SPECIES	SYNONYM
+50919	50919	Pinus brutia Ten.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+50920	50920	Pista unibranchia Day, 1963		Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	SPECIES	ACCEPTED
+50921	50921	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+50922	50922	Planaxis griseus (Brocchi, 1821)	Planaxis savignyi Deshayes, 1844	Animalia	Mollusca	Gastropoda		Planaxidae	SPECIES	SYNONYM
+50923	50923	Planorbella duryi (Wetherby, 1879)		Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED
+50924	50924	Planostrea pestigris (Hanley, 1846)		Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED
+50925	50925	Platax teira (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Ephippidae	SPECIES	ACCEPTED
+50926	50926	Platycephalus indicus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Platycephalidae	SPECIES	ACCEPTED
+50927	50927	Pleurobranchus forskalii RÃ¼ppell & Leuckart, 1828		Animalia	Mollusca	Gastropoda	Pleurobranchida	Pleurobranchidae	SPECIES	ACCEPTED
+50928	50928	Plicatula chinensis MÃ¶rch, 1853	Plicatula plicata (Linnaeus, 1767)	Animalia	Mollusca	Bivalvia	Pectinida	Plicatulidae	SPECIES	SYNONYM
+50929	50929	Plocamopherus ocellatus RÃ¼ppell & Leuckart, 1828		Animalia	Mollusca	Gastropoda	Nudibranchia	Polyceridae	SPECIES	ACCEPTED
+50930	50930	Ploceus velatus Vieillot, 1819		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+50931	50931	Plotosus lineatus (Thunberg, 1787)		Animalia	Chordata	Actinopterygii	Siluriformes	Plotosidae	SPECIES	ACCEPTED
+50932	50932	Poecilia velifera (Regan, 1914)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+50933	50933	Poicephalus senegalus (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50934	50934	Polylabris mamaevi Ogawa & Egusa, 1980		Animalia	Platyhelminthes	Monogenea	Mazocraeidea	Microcotylidae	SPECIES	ACCEPTED
+50935	50935	Pomacanthus imperator (Bloch, 1787)		Animalia	Chordata	Actinopterygii	Perciformes	Pomacanthidae	SPECIES	ACCEPTED
+50936	50936	Pomacea bridgesii (Reeve, 1856)		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	ACCEPTED
+50937	50937	Pomacea canaliculata (Lamarck, 1822)		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	ACCEPTED
+50938	50938	Pomacea diffusa Blume, 1957		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	ACCEPTED
+50939	50939	Pomacea insularum (Orbigny, 1835)	Pomacea maculata Perry, 1810	Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	SYNONYM
+50940	50940	Pomacea maculata Perry, 1810		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	ACCEPTED
+50941	50941	Pomacea paludosa (Say, 1829)		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SPECIES	ACCEPTED
+50942	50942	Pomadasys stridens (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Haemulidae	SPECIES	ACCEPTED
+50943	50943	Pomatoleios kraussii (Baird, 1865)	Spirobranchus kraussii (Baird, 1865)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	SYNONYM
+50944	50944	Populus alba L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+50945	50945	Portunus pelagicus (Linnaeus, 1758)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+50946	50946	Priacanthus sagittarius Starnes, 1988		Animalia	Chordata	Actinopterygii	Perciformes	Priacanthidae	SPECIES	ACCEPTED
+50947	50947	Prietocella barbara (Linnaeus, 1758)	Cochlicella barbara (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	SYNONYM
+50948	50948	Prionospio sexoculata Augener, 1918		Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED
+50949	50949	Procambarus clarkii (Girard, 1852)		Animalia	Arthropoda	Malacostraca	Decapoda	Cambaridae	SPECIES	ACCEPTED
+50950	50950	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50951	50951	Pseudaphycus angelicus (Howard, 1898)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50952	50952	Pseudaphycus malinus Gahan, 1946		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50953	50953	Pseudectroma signatum (Prinsloo, 1982)		Animalia	Arthropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+50954	50954	Pseudochama corbierei (Jonas, 1846)		Animalia	Mollusca	Bivalvia	Venerida	Chamidae	SPECIES	ACCEPTED
+50955	50955	Pseudominolia nedyma (Melvill, 1897)		Animalia	Mollusca	Gastropoda	Trochida	Trochidae	SPECIES	ACCEPTED
+50956	50956	Pseudonereis anomala Gravier, 1899		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+50957	50957	Pseudoplotia scabra (O.F.MÃ¼ller, 1774)	Mieniplotia scabra (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	SYNONYM
+50958	50958	Pseudorhaphitoma iodolabiata (Hornung & Mermod, 1929)		Animalia	Mollusca	Gastropoda	Neogastropoda	Mangeliidae	SPECIES	ACCEPTED
+50959	50959	Pseudosuccinea columella (Say, 1817)		Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	ACCEPTED
+50960	50960	Pseudotropheus lombardoi Burgess, 1977	Maylandia lombardoi (Burgess, 1977)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+50961	50961	Pseudotropheus tropheops Regan, 1922	Tropheops tropheops (Regan, 1922)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+50962	50962	Psittacula alexandri (Linnaeus, 1758)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50963	50963	Psittacula eupatria (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50964	50964	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+50965	50965	Pteragogus pelycus Randall, 1981		Animalia	Chordata	Actinopterygii	Perciformes	Labridae	SPECIES	ACCEPTED
+50966	50966	Pterois miles (Bennett, 1828)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+50967	50967	Pterophyllum scalare (Schultze, 1823)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+50968	50968	Purpuradusta gracilis notata (Gill, 1858)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cypraeidae	SUBSPECIES	ACCEPTED
+50969	50969	Pyrgophorus coronatus (Pfeiffer, 1840)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cochliopidae	SPECIES	ACCEPTED
+50970	50970	Pyrunculus fourierii (Audouin, 1826)		Animalia	Mollusca	Gastropoda	Cephalaspidea	Retusidae	SPECIES	ACCEPTED
+50971	50971	Rachycentron canadum (Linnaeus, 1766)		Animalia	Chordata	Actinopterygii	Perciformes	Rachycentridae	SPECIES	ACCEPTED
+50972	50972	Radix auricularia auricularia	Radix auricularia (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SUBSPECIES	SYNONYM
+50973	50973	Radix balthica (Linnaeus, 1758)	Ampullaceana balthica (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	SYNONYM
+50974	50974	Radix luteola (Lamarck, 1822)	Racesina luteola (Lamarck, 1822)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	SYNONYM
+50975	50975	Radix rubiginosa (Michelin, 1831)		Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	ACCEPTED
+50976	50976	Radix viridis (Quoy & Gaimard, 1832)		Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	
+50977	50977	Raoiella indica Hirst, 1924		Animalia	Arthropoda	Arachnida	Prostigmata	Tenuipalpidae	SPECIES	ACCEPTED
+50978	50978	Rapana venosa (Valenciennes, 1846)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+50979	50979	Rastrelliger kanagurta (Cuvier, 1816)		Animalia	Chordata	Actinopterygii	Perciformes	Scombridae	SPECIES	ACCEPTED
+50980	50980	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+50981	50981	Redicirce sulcata (Gray, 1838)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+50982	50982	Reteporella jermanensis (Waters, 1909)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Phidoloporidae	SPECIES	ACCEPTED
+50983	50983	Retusa desgenettii (Audouin, 1826)		Animalia	Mollusca	Gastropoda	Cephalaspidea	Retusidae	SPECIES	ACCEPTED
+50984	50984	Rhabdosargus haffara (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	SPECIES	ACCEPTED
+50985	50985	Rhinoclavis kochi (Philippi, 1848)		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50986	50986	Rhinoclavis sinensis (Gmelin, 1791)		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+50987	50987	Rhopilema nomadica Galil, 1990		Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	SPECIES	ACCEPTED
+50988	50988	Rhynchoconger trewavasae Ben-Tuvia, 1993		Animalia	Chordata	Actinopterygii	Anguilliformes	Congridae	SPECIES	ACCEPTED
+50989	50989	Rhynchophorus ferrugineus Heyne, A.-Taschenberg & O., 1908		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	SPECIES	ACCEPTED
+50990	50990	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+50991	50991	Rissoina bertholleti Issel, 1869		Animalia	Mollusca	Gastropoda	Littorinimorpha	Rissoinidae	SPECIES	ACCEPTED
+50992	50992	Rissoina spirata (I.Sowerby, 1833)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Rissoinidae	SPECIES	ACCEPTED
+50993	50993	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+50994	50994	Ruditapes philippinarum (Adams & Reeve, 1850)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+50995	50995	Rumina decollata (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	ACCEPTED
+50996	50996	Rumina saharica Pallary, 1901		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	ACCEPTED
+50997	50997	Sabia conica (Schumacher, 1817)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Hipponicidae	SPECIES	ACCEPTED
+50998	50998	Salmo salar Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+50999	50999	Salmo trutta Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+51000	51000	Salvinia molesta D.Mitch.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+51001	51001	Salvinia natans (L.) All.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+51002	51002	Sarconema scinaioides BÃ¸rgesen		incertae sedis					SPECIES	ACCEPTED
+51003	51003	Sargocentron praslin (LacepÃ¨de, 1802)		Animalia	Chordata	Actinopterygii	Beryciformes	Holocentridae	SPECIES	ACCEPTED
+51004	51004	Sargocentron rubrum (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Beryciformes	Holocentridae	SPECIES	ACCEPTED
+51005	51005	Sarotherodon galilaeus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+51006	51006	Saurida undosquamis (Richardson, 1848)		Animalia	Chordata	Actinopterygii	Aulopiformes	Synodontidae	SPECIES	ACCEPTED
+51007	51007	Scarus ghobban ForsskÃ¥l, 1775		Animalia	Chordata	Actinopterygii	Perciformes	Scaridae	SPECIES	ACCEPTED
+51008	51008	Scherocumella gurneyi (Calman, 1927)	Nannastacus gurneyi Calman, 1927	Animalia	Arthropoda	Malacostraca	Cumacea	Nannastacidae	SPECIES	SYNONYM
+51009	51009	Schinus molle L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+51010	51010	Schinus terebinthifolia Raddi		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+51011	51011	Schizoporella errata (Waters, 1878)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED
+51012	51012	Sciaenops ocellatus (Linnaeus, 1766)		Animalia	Chordata	Actinopterygii	Perciformes	Sciaenidae	SPECIES	ACCEPTED
+51013	51013	Scomberomorus commerson (LacepÃ¨de, 1800)		Animalia	Chordata	Actinopterygii	Perciformes	Scombridae	SPECIES	ACCEPTED
+51014	51014	Scottolana longipes (Thompson I.C. & Scott A., 1903)		Animalia	Arthropoda	Hexanauplia	Canuelloida	Canuellidae	SPECIES	ACCEPTED
+51015	51015	Scrupocellaria jolloisi (Audouin, 1826)	Licornia jolloisii (Audouin, 1826)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Candidae	SPECIES	SYNONYM
+51016	51016	Semielacher petiolata (Girault, 1915)		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+51017	51017	Sepia gibba Ehrenberg, 1831		Animalia	Mollusca	Cephalopoda	Sepiida	Sepiidae	SPECIES	ACCEPTED
+51018	51018	Sepia pharaonis Ehrenberg, 1831		Animalia	Mollusca	Cephalopoda	Sepiida	Sepiidae	SPECIES	ACCEPTED
+51019	51019	Sepioteuthis lessoniana FÃ©russac, 1831		Animalia	Mollusca	Cephalopoda	Myopsida	Loliginidae	SPECIES	DOUBTFUL
+51020	51020	Septifer bilocularis (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+51021	51021	Seriola fasciata (Bloch, 1793)		Animalia	Chordata	Actinopterygii	Perciformes	Carangidae	SPECIES	ACCEPTED
+51022	51022	Serpula hartmanae Reish, 1968		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+51023	51023	Sesbania sesban (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+51024	51024	Setaria verticillata (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+51025	51025	Setaria viridis (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+51026	51026	Sida acuta Burm.f.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+51027	51027	Siganus luridus (RÃ¼ppell, 1829)		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+51028	51028	Siganus rivulatus ForsskÃ¥l, 1775		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+51029	51029	Silhouetta aegyptia (Chabanaud, 1933)	Silhouettea aegyptia (Chabanaud, 1933)	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	SYNONYM
+51030	51030	Sillago sihama (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Sillaginidae	SPECIES	ACCEPTED
+51031	51031	Siphonaria crenata Blainville, 1827		Animalia	Mollusca	Gastropoda	Siphonariida	Siphonariidae	SPECIES	ACCEPTED
+51032	51032	Sirex cyaneus Fabricius		Animalia	Arthropoda	Insecta	Hymenoptera	Siricidae	SPECIES	ACCEPTED
+51033	51033	Smaragdia souverbiana (Montrouzier, 1863)		Animalia	Mollusca	Gastropoda	Cycloneritida	Neritidae	SPECIES	ACCEPTED
+51034	51034	Smittina malleolus (Hincks, 1884)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	SPECIES	ACCEPTED
+51035	51035	Smittina nitidissima (Hincks, 1880)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	SPECIES	ACCEPTED
+51036	51036	Solanum cornutum Lam.	Solanum angustifolium Mill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+51037	51037	Solanum elaeagnifolium Cav.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+51038	51038	Sorghum virgatum Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+51039	51039	Sorsogona prionota (Sauvage, 1873)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Platycephalidae	SPECIES	ACCEPTED
+51040	51040	Sparus aurata Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	SPECIES	ACCEPTED
+51041	51041	Sphaeroma walkeri Stebbing, 1905		Animalia	Arthropoda	Malacostraca	Isopoda	Sphaeromatidae	SPECIES	ACCEPTED
+51042	51042	Sphenia rueppellii A.Adams, 1851		Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED
+51043	51043	Sphyraena chrysotaenia Klunzinger, 1884		Animalia	Chordata	Actinopterygii	Perciformes	Sphyraenidae	SPECIES	ACCEPTED
+51044	51044	Sphyraena flavicauda RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Perciformes	Sphyraenidae	SPECIES	ACCEPTED
+51045	51045	Sphyraena obtusata Cuvier, 1829		Animalia	Chordata	Actinopterygii	Perciformes	Sphyraenidae	SPECIES	ACCEPTED
+51046	51046	Spirobranchus kraussii (Baird, 1865)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+51047	51047	Spodoptera littoralis (Boisduval, 1833)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	ACCEPTED
+51048	51048	Spondylus groschi Lamprell & Kilburn, 1995		Animalia	Mollusca	Bivalvia	Pectinida	Spondylidae	SPECIES	ACCEPTED
+51049	51049	Spondylus nicobaricus Schreibers, 1793		Animalia	Mollusca	Bivalvia	Pectinida	Spondylidae	SPECIES	ACCEPTED
+51050	51050	Spondylus spinosus Schreibers, 1793		Animalia	Mollusca	Bivalvia	Pectinida	Spondylidae	SPECIES	ACCEPTED
+51051	51051	Sporobolus indicus R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+51052	51052	Spratelloides delicatulus (Bennett, 1832)		Animalia	Chordata	Actinopterygii	Clupeiformes	Clupeidae	SPECIES	ACCEPTED
+51053	51053	Stagnicola turricula (Held, 1836)		Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	ACCEPTED
+51054	51054	Stenophysa marmorata (Guilding, 1828)		Animalia	Mollusca	Gastropoda		Physidae	SPECIES	ACCEPTED
+51055	51055	Stephanolepis diaspros Fraser-Brunner, 1940		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Monacanthidae	SPECIES	ACCEPTED
+51056	51056	Sticteulima lentiginosa (A.Adams, 1861)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Eulimidae	SPECIES	ACCEPTED
+51057	51057	Stolephorus insularis Hardenberg, 1933		Animalia	Chordata	Actinopterygii	Clupeiformes	Engraulidae	SPECIES	ACCEPTED
+51058	51058	Stomega lorioli (Hornung &. Mermod, 1924)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	
+51059	51059	Streptopelia senegalensis (Linnaeus, 1766)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+51060	51060	Strombus mutabilis Swainson, 1821	Canarium mutabile (Swainson, 1821)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Strombidae	SPECIES	SYNONYM
+51061	51061	Sturnus burmannicus (Jerdon, 1862)	Acridotheres burmannicus (Jerdon, 1862)	Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	SYNONYM
+51062	51062	Stypopodium schimperi (Kützing) Verlaque & Boudouresque, 1991		Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED
+51063	51063	Succinea putris (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	SPECIES	ACCEPTED
+51064	51064	Symplegma brakenhielmi (Michaelsen, 1904)		Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED
+51065	51065	Synanceia verrucosa Bloch & Schneider, 1801		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Synanceiidae	SPECIES	ACCEPTED
+51066	51066	Synaptula reciprocans (ForsskÃ¥l, 1775)		Animalia	Echinodermata	Holothuroidea	Apodida	Synaptidae	SPECIES	ACCEPTED
+51067	51067	Syrnola fasciata Jickeli, 1882		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+51068	51068	Syrnola lendix (A.Adams, 1863)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+51069	51069	Tadorna ferruginea (Pallas, 1764)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+51070	51070	Tagetes minuta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+51071	51071	Tarebia granifera (Lamarck, 1816)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED
+51072	51072	Tellina flacca RÃ¶mer, 1871	Nitidotellina lux (Hanley, 1844)	Animalia	Mollusca	Bivalvia	Cardiida	Tellinidae	SPECIES	SYNONYM
+51073	51073	Terapon jarbua (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Terapontidae	SPECIES	ACCEPTED
+51074	51074	Terebella ehrenbergi Gravier, 1906		Animalia	Annelida	Polychaeta	Terebellida	Terebellidae	SPECIES	ACCEPTED
+51075	51075	Tetraclinis articulata Mast.		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED
+51076	51076	Tetragonia tetragonoides Kuntze		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED
+51077	51077	Tetrancistrum polymorphum (Paperna, 1972) Kritsky, Galli & Yang, 2007		Animalia	Platyhelminthes	Monogenea	Dactylogyridea	Ancyrocephalidae	SPECIES	ACCEPTED
+51078	51078	Tetrancistrum strophosolenus Kritsky, Galli & Yang, 2007		Animalia	Platyhelminthes	Monogenea	Dactylogyridea	Ancyrocephalidae	SPECIES	ACCEPTED
+51079	51079	Tetrancistrum suezicum (Paperna, 1972) Kritsky, Galli & Yang, 2007		Animalia	Platyhelminthes	Monogenea	Dactylogyridea	Ancyrocephalidae	SPECIES	ACCEPTED
+51080	51080	Tetrosomus gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Ostraciidae	SPECIES	ACCEPTED
+51081	51081	Thais lacera (Born, 1778)	Indothais lacera (Born, 1778)	Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	SYNONYM
+51082	51082	Thais sacellum (Gmelin, 1791)	Indothais sacellum (Gmelin, 1791)	Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	SYNONYM
+51083	51083	Thalamita poissonii (Audouin, 1826)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+51084	51084	Theba pisana (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+51085	51085	Theora lubrica Gould, 1861		Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	SPECIES	ACCEPTED
+51086	51086	Thiara scabra (O.F.MÃ¼ller, 1774)	Mieniplotia scabra (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	SYNONYM
+51087	51087	Threskiornis aethiopicus (Latham, 1790)		Animalia	Chordata	Aves	Pelecaniformes	Threskiornithidae	SPECIES	ACCEPTED
+51088	51088	Thripobius javae (Girault, 1917)		Animalia	Arthropoda	Insecta	Hymenoptera	Eulophidae	SPECIES	ACCEPTED
+51089	51089	Thrips simplex (Morison, 1930)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+51090	51090	Tilapia zilii (Gervais, 1848)	Coptodon zillii (Gervais, 1848)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+51091	51091	Timoclea marica (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+51092	51092	Timoclea roemeriana (Issel, 1869)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+51093	51093	Tinca tinca (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+51094	51094	Tomicus piniperda (C.Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+51095	51095	Torquigener flavimaculosus Hardy & Randall, 1983		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+51096	51096	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+51097	51097	Trachysalambria palaestinensis (Steinitz, 1932)	Trachysalambria curvirostris (Stimpson, 1860)	Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	SYNONYM
+51098	51098	Trapezium oblongum (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Venerida	Trapezidae	SPECIES	ACCEPTED
+51099	51099	Tretomphaloides clara (Cushman, 1934)	Neoconorbina clara (Cushman, 1934)	Chromista	Foraminifera	Globothalamea	Rotaliida	Rosalinidae	SPECIES	SYNONYM
+51100	51100	Trianthema portulacastrum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED
+51101	51101	Tridentiger trigonocephalus (Gill, 1859)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+51102	51102	Trivirostra triticum Schilder, 1932		Animalia	Mollusca	Gastropoda	Littorinimorpha	Triviidae	SPECIES	ACCEPTED
+51103	51103	Trochus erythraeus Brocchi, 1821	Trochus erithreus Brocchi, 1821	Animalia	Mollusca	Gastropoda	Trochida	Trochidae	SPECIES	SYNONYM
+51104	51104	Tropheops tropheops (Regan, 1922)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+51105	51105	Trypauchen vagina (Bloch & Schneider, 1801)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+51106	51106	Turbonilla edgarii (Melvill, 1896)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+51107	51107	Tylerius spinosissimus (Regan, 1908)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+51108	51108	Tylosurus choram (RÃ¼ppell, 1837)		Animalia	Chordata	Actinopterygii	Beloniformes	Belonidae	SPECIES	ACCEPTED
+51109	51109	Upeneus asymmetricus Lachner, 1954		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+51110	51110	Upeneus moluccensis (Bleeker, 1855)		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+51111	51111	Upeneus pori Ben-Tuvia & Golani, 1989		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+51112	51112	Vallonia costata (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	SPECIES	ACCEPTED
+51113	51113	Vallonia excentrica Sterki, 1893		Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	SPECIES	ACCEPTED
+51114	51114	Vallonia pulchella (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	SPECIES	ACCEPTED
+51115	51115	Varroa destructor Anderson & Trueman, 2000		Animalia	Arthropoda	Arachnida	Mesostigmata	Varroidae	SPECIES	ACCEPTED
+51116	51116	Verbesina encelioides (Cav.) A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+51117	51117	Veronica peregrina L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+51118	51118	Vespula vulgaris (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	SPECIES	ACCEPTED
+51119	51119	Vexillum depexum (Deshayes, 1834)		Animalia	Mollusca	Gastropoda	Neogastropoda	Costellariidae	SPECIES	ACCEPTED
+51120	51120	Vicia benghalensis L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+51121	51121	Voorwindia tiberiana (Issel, 1869)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Rissoidae	SPECIES	ACCEPTED
+51122	51122	Vulpes vulpes (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+51123	51123	Washingtonia filifera (Rafarin) H.Wendl. ex de Bary		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+51124	51124	Washingtonia robusta H.Wendl.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+51125	51125	Wasmannia auropunctata (Roger, 1863)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+51126	51126	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+51127	51127	Xanthium strumarium L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+51128	51128	Xenopus laevis (Daudin, 1802)		Animalia	Chordata	Amphibia	Anura	Pipidae	SPECIES	ACCEPTED
+51129	51129	Xerocrassa meda (Porro, 1840)		Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	ACCEPTED
+51130	51130	Xerotricha conspurcata (Draparnaud, 1801)		Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	ACCEPTED
+51131	51131	Xiphophorus hellerii Heckel, 1848		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+51132	51132	Xystrocera globosa (Olivier, 1795)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+51133	51133	Zafra savignyi (Moazzo, 1939)		Animalia	Mollusca	Gastropoda	Neogastropoda	Columbellidae	SPECIES	ACCEPTED
+51134	51134	Zafra selasphora (Melvill & Standen, 1901)		Animalia	Mollusca	Gastropoda	Neogastropoda	Columbellidae	SPECIES	ACCEPTED
+51135	51135	Zonitoides arboreus (Say, 1817)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrodontidae	SPECIES	ACCEPTED
+51136	51136	Zonitoides nitida (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrodontidae	SPECIES	ACCEPTED

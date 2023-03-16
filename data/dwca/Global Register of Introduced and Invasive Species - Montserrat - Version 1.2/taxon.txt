@@ -1,0 +1,252 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+169000	169000	Abelmoschus esculentus Moench		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+169001	169001	Acacia farnesiana (L.) Willd.	Vachellia farnesiana (L.) Wight & Arn.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+169002	169002	Acacia leptocarpa Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169003	169003	Acacia nilotica Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169004	169004	Acacia polystachya Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169005	169005	Acalypha poiretii Spreng.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169006	169006	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169007	169007	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+169008	169008	Aleurites moluccanus Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169009	169009	Aleurodicus pulvinatus (Maskell, 1896)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+169010	169010	Allamanda cathartica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+169011	169011	Alternanthera bettzichiana (Regel) Voss	Alternanthera ficoidea var. bettzickiana (Regel) Backer	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+169012	169012	Alternanthera flavescens Kunth		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+169013	169013	Alternanthera tenella Colla	Alternanthera sessilis (L.) R.Br. ex DC.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+169014	169014	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+169015	169015	Anethum graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+169016	169016	Annona glabra L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+169017	169017	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+169018	169018	Araucaria heterophylla (Salisb.) Franco		Plantae	Tracheophyta	Pinopsida	Pinales	Araucariaceae	SPECIES	ACCEPTED
+169019	169019	Artabotrys hexapetalus (L.f.) Bhandari		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+169020	169020	Artocarpus altilis (Parkinson) Fosberg		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+169021	169021	Arundo donax L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+169022	169022	Asystasia gangetica T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169023	169023	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+169024	169024	Barleria cristata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169025	169025	Barleria lupulina Lindl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169026	169026	Barringtonia asiatica Kurz		Plantae	Tracheophyta	Magnoliopsida	Ericales	Lecythidaceae	SPECIES	ACCEPTED
+169027	169027	Batrachochytrium dendrobatidis Longcore, Pessier & D.K.Nichols		Fungi	Chytridiomycota	Chytridiomycetes	Rhizophydiales		SPECIES	ACCEPTED
+169028	169028	Bauhinia tomentosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169029	169029	Blighia sapida Kon.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+169030	169030	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+169031	169031	Bougainvillea glabra Choisy		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+169032	169032	Brachychiton acerifolius F.Muell.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+169033	169033	Bryophyllum pinnatum		Chromista	Ciliophora	Gymnostomatea	Spathidiida	Spathidiidae	SPECIES	ACCEPTED
+169034	169034	Cactoblastis cactorum Berg, 1885		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+169035	169035	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169036	169036	Cafius bistriatus (Erichson, 1840)		Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	SPECIES	ACCEPTED
+169037	169037	Cafius subtilis Cameron, 1922		Animalia	Arthropoda	Insecta	Coleoptera	Staphylinidae	SPECIES	ACCEPTED
+169038	169038	Cajanus cajan (L.) Millsp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169039	169039	Calliandra haematocephala Hassk.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169040	169040	Calliandra surinamensis Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169041	169041	Calotropis procera (Aiton) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+169042	169042	Cananga odorata (Lam.) Hook.f. & Thomson		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+169043	169043	Canis familiaris Linnaeus, 1758	Canis lupus familiaris Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	SYNONYM
+169044	169044	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+169045	169045	Carica papaya L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Caricaceae	SPECIES	ACCEPTED
+169046	169046	Cassia javanica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169047	169047	Castilla elastica SessÃ©		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+169048	169048	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+169049	169049	Catharanthus roseus (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+169050	169050	Celosia argentea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+169051	169051	Chenopodium ambrosioides L.	Dysphania ambrosioides (L.) Mosyakin & Clemants	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+169052	169052	Citrus aurantiifolia (Christm.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+169053	169053	Cleome gynandra L.	Gynandropsis gynandra (L.) Briq.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+169054	169054	Cleome rutidosperma DC.	Sieruela rutidosperma (DC.) Roalson & J.C.Hall	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+169055	169055	Cleome viscosa L.	Arivela viscosa Raf.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+169056	169056	Clerodendrum philippinum Schauer	Clerodendrum chinense (Osb.) Mabb.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+169057	169057	Clerodendrum speciosissimum Van Geert ex C.Morren		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	DOUBTFUL
+169058	169058	Clerodendrum umbellatum Poir.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169059	169059	Clitoria ternatea L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169060	169060	Cochlospermum vitifolium Spreng.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Bixaceae	SPECIES	ACCEPTED
+169061	169061	Codiaeum variegatum (L.) A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169062	169062	Coix lacryma-jobi L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+169063	169063	Colocasia esculenta (L.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+169064	169064	Congea tomentosa Roxb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169065	169065	Conotelus conicus (Fabricius, 1801)		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	SPECIES	ACCEPTED
+169066	169066	Conyza bonariensis (L.) Cronq.	Erigeron bonariensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+169067	169067	Cordia obliqua Willd.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Ehretiaceae	SPECIES	ACCEPTED
+169068	169068	Cordia sebestena L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Ehretiaceae	SPECIES	ACCEPTED
+169069	169069	Cosmos sulphureus Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+169070	169070	Crescentia cujete L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+169071	169071	Crinum asiaticum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+169072	169072	Crossandra infundibuliformis Nees		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169073	169073	Crotalaria retusa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169074	169074	Crotalaria verrucosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169075	169075	Cryptostegia grandiflora R.Br.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+169076	169076	Cryptostegia madagascariensis Bojer ex Decne.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	DOUBTFUL
+169077	169077	Cucumis anguria L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+169078	169078	Cyanotis cristata (L.) D.Don		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+169079	169079	Dactyloctenium aegyptium (L.) Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+169080	169080	Dasyprocta antillensis		Animalia	Chordata	Mammalia	Rodentia	Dasyproctidae	SPECIES	
+169081	169081	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+169082	169082	Desmodium scorpiurus (Sw.) Desv.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169083	169083	Desmodium tortuosum (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169084	169084	Dieffenbachia seguine Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+169085	169085	Dioscorea alata L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	ACCEPTED
+169086	169086	Diospyros blancoi A.DC.	Diospyros discolor Willd.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ebenaceae	SPECIES	SYNONYM
+169087	169087	Diospyros malabarica Kostel.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Ebenaceae	SPECIES	ACCEPTED
+169088	169088	Emilia fosbergii Nicolson		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+169089	169089	Emilia sonchifolia (L.) DC. ex Wight		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+169090	169090	Eragrostis ciliaris (L.) R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+169091	169091	Eragrostis tenella (L.) P.Beauv. ex Roem. & Schult.	Eragrostis amabilis (L.) Wight & Arn.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+169092	169092	Eranthemum pulchellum Andrews		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169093	169093	Eriobotrya japonica (Thunb.) Lindl.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+169094	169094	Erythrina poeppigiana O.F.Cook		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169095	169095	Erythrina variegata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169096	169096	Eugenia uniflora L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+169097	169097	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+169098	169098	Ferrissia californica (Rowell, 1863)		Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED
+169099	169099	Ficus benghalensis L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+169100	169100	Ficus carica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+169101	169101	Ficus elastica Roxb. ex Hornem.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	DOUBTFUL
+169102	169102	Ficus microcarpa L.f.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+169103	169103	Ficus pumila L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+169104	169104	Fittonia albivenis (Lindl. ex Veitch) Brummitt		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169105	169105	Flacourtia jangomas (Lour.) Raeusch.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+169106	169106	Flacourtia jangomas (Lour.) Raeusch.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+169107	169107	Flemingia strobilifera (L.) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169108	169108	Garcinia livingstonei T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Clusiaceae	SPECIES	ACCEPTED
+169109	169109	Geochelone carbonaria Pritchard, 1967	Chelonoidis carbonarius (Spix, 1824)	Animalia	Chordata	Reptilia	Testudines	Testudinidae	SPECIES	SYNONYM
+169110	169110	Gigantochloa Kurz ex Munro		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	GENUS	ACCEPTED
+169111	169111	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169112	169112	Glyptolenus chalybaeus Dejean, 1831		Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	SPECIES	ACCEPTED
+169113	169113	Gmelina philippensis Cham.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169114	169114	Gomphrena globosa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+169115	169115	Gossypium barbadense L.	Gossypium hirsutum L.	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+169116	169116	Grevillea banksii R.Br.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED
+169117	169117	Grevillea robusta A.Cunn.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	DOUBTFUL
+169118	169118	Hedychium J.Koenig		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	GENUS	ACCEPTED
+169119	169119	Hedyotis lancifolia Schumach.	Neanotis lancifolia (Hook.f.) W.H.Lewis	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	SYNONYM
+169120	169120	Hemigraphis alternata (Burm.fil.) T.Anders.	Strobilanthes alternata (Burm.fil.) Moylan ex J.R.I.Wood	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+169121	169121	Hevea brasiliensis (Willd. ex A.Juss.) MÃ¼ll.Arg.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169122	169122	Hibiscus rosa-sinensis L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+169123	169123	Holmskioldia sanguinea Retz.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169124	169124	Hymenaea courbaril L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169125	169125	Hyssopus officinalis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169126	169126	Icerya purchasi Maskell, 1879		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+169127	169127	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	SPECIES	ACCEPTED
+169128	169128	Impatiens balsamina L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+169129	169129	Indigofera tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169130	169130	Indotyphlops braminus (Daudin, 1803)		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	ACCEPTED
+169131	169131	Inga vera Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169132	169132	Ixora chinensis Lam.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+169133	169133	Jacaranda mimosifolia D.Don		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+169134	169134	Jacquemontia cumanensis (Kunth) Kuntze		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+169135	169135	Jasminum grandiflorum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+169136	169136	Jasminum laurifolium Roxb. ex Hornem.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+169137	169137	Jasminum multiflorum Andrews		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+169138	169138	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169139	169139	Jatropha gossypiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169140	169140	Jatropha integerrima Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169141	169141	Justicia brandegeeana Wassh. & L.B.Sm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169142	169142	Kalanchoe delagoensis Eckl. & Zeyh.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+169143	169143	Lablab purpureus (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169144	169144	Lagerstroemia indica L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+169145	169145	Lawsonia inermis L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+169146	169146	Leonotis nepetifolia (L.) R.Br.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169147	169147	Leonurus sibiricus L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169148	169148	Lepidium virginicum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+169149	169149	Leucaena diversifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169150	169150	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169151	169151	Lycopersicon esculentum Miller	Solanum lycopersicum L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+169152	169152	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+169153	169153	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+169154	169154	Manihot esculenta Crantz		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169155	169155	Manilkara zapota (L.) P.Royen		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES	ACCEPTED
+169156	169156	Maranta arundinacea L.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Marantaceae	SPECIES	ACCEPTED
+169157	169157	Marsypianthus chamaedrys Bartl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	DOUBTFUL
+169158	169158	Megalobulimus oblongus (O.F.MÃ¼ller, 1774)	Strophocheilus oblongus (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Strophocheilidae	SPECIES	SYNONYM
+169159	169159	Melaleuca quinquenervia (Cav.) S.T.Blake		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+169160	169160	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+169161	169161	Mentha spicata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169162	169162	Mimusops elengi L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES	ACCEPTED
+169163	169163	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+169164	169164	Morinda citrifolia L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+169165	169165	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	SPECIES	ACCEPTED
+169166	169166	Murraya exotica L.	Murraya paniculata (L.) Jacq.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	SYNONYM
+169167	169167	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+169168	169168	Musa acuminata Colla		Plantae	Tracheophyta	Liliopsida	Zingiberales	Musaceae	SPECIES	ACCEPTED
+169169	169169	Musa acuminata Colla		Plantae	Tracheophyta	Liliopsida	Zingiberales	Musaceae	SPECIES	ACCEPTED
+169170	169170	Myristica fragrans Houtt.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Myristicaceae	SPECIES	ACCEPTED
+169171	169171	Nephrolepis multiflora Presl.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Nephrolepidaceae	SPECIES	ACCEPTED
+169172	169172	Nerium oleander L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+169173	169173	Nicotiana tabacum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+169174	169174	Ocimum basilicum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169175	169175	Ocimum gratissimum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169176	169176	Oeceoclades maculata Lindl.		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+169177	169177	Omophoeta albicornis		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	
+169178	169178	Opuntia cochenillifera DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+169179	169179	Panicum maximum Jacq.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+169180	169180	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+169181	169181	Passiflora edulis Sims		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+169182	169182	Pentas lanceolata Schum.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	DOUBTFUL
+169183	169183	Pereskia aculeata Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+169184	169184	Pereskia grandiflora Haw.	Pereskia grandifolia Haw.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	SYNONYM
+169185	169185	Persea americana Mill.		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+169186	169186	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+169187	169187	Phryganocydia corymbosa (Vent.) Bureau ex K.Schum.	Bignonia corymbosa (Vent.) L.G.Lohmann	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	SYNONYM
+169188	169188	Phyllanthus acidus (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+169189	169189	Phyllanthus urinaria L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+169190	169190	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+169191	169191	Plumbago auriculata Lam.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Plumbaginaceae	SPECIES	ACCEPTED
+169192	169192	Pouteria sapota (Jacq.) H.E.Moore & Stearn		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES	ACCEPTED
+169193	169193	Proeces depressus (Wollaston, 1873)		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+169194	169194	Pseuderanthemum carruthersii (Seem.) Guillaumin		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169195	169195	Psidium cattleianum Sabine		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+169196	169196	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+169197	169197	Pteris multifida Poir.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED
+169198	169198	Pteris vittata L.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED
+169199	169199	Punica granatum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+169200	169200	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+169201	169201	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+169202	169202	Ravenala madagascariensis Sonn.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Strelitziaceae	SPECIES	ACCEPTED
+169203	169203	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	ACCEPTED
+169204	169204	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+169205	169205	Rondeletia americana L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+169206	169206	Rubus rosifolius Sm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+169207	169207	Ruellia brittoniana Leonard	Ruellia simplex C.Wright	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+169208	169208	Saccharum officinarum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+169209	169209	Salvia coccinea Buc'hoz ex Etl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169210	169210	Sanchezia speciosa Leonard		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169211	169211	Sansevieria cylindrica Bojer ex Hook.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+169212	169212	Sansevieria trifasciata Prain		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+169213	169213	Senna siamea (Lamarck) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169214	169214	Sesbania bispinosa (Jacq.) W.Wight		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169215	169215	Solanum capsicoides All.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+169216	169216	Solanum seaforthianum Andrews		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+169217	169217	Solanum torvum Sw.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+169218	169218	Solanum tuberosum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+169219	169219	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+169220	169220	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+169221	169221	Sterculia apetala H.Karst.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+169222	169222	Sternochetus mangiferae (Fabricius & J.C., 1775)		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+169223	169223	Stictocardia tiliifolia Hallier		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+169224	169224	Strongylodon macrobotrys A.Gray		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169225	169225	Strumigenys emmae (Emery, 1890)	Pyramica emmae (Emery, 1890)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+169226	169226	Strumigenys membranifera Emery, 1869	Pyramica membranifera (Emery, 1869)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+169227	169227	Sus scrofa Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	SPECIES	ACCEPTED
+169228	169228	Swietenia macrophylla King		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+169229	169229	Syzygium cumini (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+169230	169230	Tabebuia heterophylla Britton		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+169231	169231	Tabernaemontana divaricata R.Br. ex Roem. & Schult.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+169232	169232	Tabernaemontana pandacaqui Poir.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	DOUBTFUL
+169233	169233	Tagetes erecta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+169234	169234	Tamarindus indica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169235	169235	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+169236	169236	Tectona grandis L.f.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+169237	169237	Tephrosia noctiflora Baker		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+169238	169238	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+169239	169239	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+169240	169240	Tetramorium lanuginosum Mayr, 1870		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+169241	169241	Theobroma cacao L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+169242	169242	Thunbergia alata Bojer ex Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169243	169243	Thunbergia erecta T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169244	169244	Thunbergia fragrans Roxb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+169245	169245	Tinospora crispa (L.) Hook.f. & Thomson		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Menispermaceae	SPECIES	ACCEPTED
+169246	169246	Tithonia diversifolia A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+169247	169247	Triphasia trifolia P.Wilson		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+169248	169248	Wedelia trilobata (L.) A.Hitchc.	Sphagneticola trilobata (L.) Pruski	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+169249	169249	Zinnia elegans Jacq.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+169250	169250	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED

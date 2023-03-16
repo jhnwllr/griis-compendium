@@ -1,0 +1,23 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+1000	1000	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+1001	1001	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+1002	1002	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+1003	1003	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+1004	1004	Catharanthus roseus (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+1005	1005	Digitaria horizontalis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+1006	1006	Echidnophaga gallinacea (Westwood, 1875)		Animalia	Arthropoda	Insecta	Siphonaptera	Pulicidae	SPECIES	ACCEPTED
+1007	1007	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+1008	1008	Eumenes maxillosus (De Geer, 1773)		Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	SPECIES	ACCEPTED
+1009	1009	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+1010	1010	Foudia madagascariensis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+1011	1011	Gehyra mutilata (Wiegmann, 1834)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+1012	1012	Icerya seychellarum (Westwood, 1855)		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+1013	1013	Ipomoea obscura (L.) Ker Gawler		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+1014	1014	Oryzaephilus surinamensis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Silvanidae	SPECIES	ACCEPTED
+1015	1015	Passiflora suberosa L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+1016	1016	Pycnonotus jocosus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	ACCEPTED
+1017	1017	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+1018	1018	Stachytarpheta jamaicensis Vahl		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+1019	1019	Synedrella nodiflora Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+1020	1020	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+1021	1021	Turnera ulmifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Turneraceae	SPECIES	ACCEPTED

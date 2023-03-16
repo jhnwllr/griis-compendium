@@ -1,0 +1,41 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+28310	28310	Acridotheres fuscus (Wagler, 1827)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	ACCEPTED	SPECIES
+28311	28311	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	ACCEPTED	SPECIES
+28312	28312	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	ACCEPTED	SPECIES
+28313	28313	Anoplolepis gracilipes (Smith, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+28314	28314	Canis lupus familiaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	ACCEPTED	SUBSPECIES
+28315	28315	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28316	28316	Clerodendrum buchananii var. fallax (Lindl.) Bakh.	Clerodendrum speciosissimum Drapiez	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SYNONYM	VARIETY
+28317	28317	Conyza bonariensis (L.) Cronq.	Erigeron bonariensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SYNONYM	SPECIES
+28318	28318	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	ACCEPTED	SPECIES
+28319	28319	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28320	28320	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	ACCEPTED	SPECIES
+28321	28321	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28322	28322	Eleutheranthera ruderalis (Sw.) Sch.Bip.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28323	28323	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+28324	28324	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	ACCEPTED	SPECIES
+28325	28325	Hibiscus tiliaceus L.	Talipariti tiliaceum (L.) Fryxell	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SYNONYM	SPECIES
+28326	28326	Kyllinga brevifolia		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	NONE	SPECIES
+28327	28327	Kyllinga polyphylla		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	NONE	SPECIES
+28328	28328	Lepidium virginicum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+28329	28329	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28330	28330	Ludwigia octovalvis (Jacq.) P.H.Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	ACCEPTED	SPECIES
+28331	28331	Melastoma malabathricum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Melastomataceae	ACCEPTED	SPECIES
+28332	28332	Mikania micrantha Kunth		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28333	28333	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+28334	28334	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+28335	28335	Oryctes rhinoceros (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Dynastidae	ACCEPTED	SPECIES
+28336	28336	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+28337	28337	Paspalum conjugatum P.J.Bergius		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+28338	28338	Pennisetum purpureum Schumach.	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+28339	28339	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+28340	28340	Portulaca oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	ACCEPTED	SPECIES
+28341	28341	Sida rhombifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+28342	28342	Sonchus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28343	28343	Sphagneticola trilobata (L.) Pruski		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28344	28344	Stachytarpheta cayennensis (Rich.) J.Vahl		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	ACCEPTED	SPECIES
+28345	28345	Synedrella nodiflora Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+28346	28346	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+28347	28347	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+28348	28348	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	ACCEPTED	SPECIES
+28349	28349	Urochloa subquadripara (Trin.) R.D.Webster	Brachiaria distachya Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES

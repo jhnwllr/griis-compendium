@@ -1,0 +1,188 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+49000	49000	Abrus precatorius L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49001	49001	Acacia farnesiana (L.) Willd.	Vachellia farnesiana (L.) Wight & Arn.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+49002	49002	Acacia nilotica (L.) Willd.	Vachellia nilotica (L.) P.J.H.Hurter & Mabb.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49003	49003	Achatina fulica (Férussac, 1821)	Lissachatina fulica (Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	SYNONYM
+49004	49004	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49005	49005	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+49006	49006	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+49007	49007	Agrius cingulata Fabricius, 1775		Animalia	Arthropoda	Insecta	Lepidoptera	Sphingidae	SPECIES	ACCEPTED
+49008	49008	Albizia procera (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49009	49009	Aleurites moluccanus Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+49010	49010	Aleurotrachelus atratus Hempel, 1922		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+49011	49011	Allamanda cathartica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+49012	49012	Alpinia purpurata K.Schum.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+49013	49013	Alysicarpus vaginalis (L.) A.DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49014	49014	Amazona amazonica (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+49015	49015	Amazona ochrocephala (Gmelin, 1788)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+49016	49016	Ameiva ameiva (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Teiidae	SPECIES	ACCEPTED
+49017	49017	Anas platyrhynchos Linnaeus, 1758		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+49018	49018	Anastrepha obliqua (Macquart, 1835)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+49019	49019	Annona reticulata L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+49020	49020	Anolis sagrei DumÃ©ril & Bibron, 1837		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+49021	49021	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+49022	49022	Aphis spiraecola Patch, 1914		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+49023	49023	Artocarpus altilis (Parkinson) Fosberg		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+49024	49024	Arundo donax L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49025	49025	Asystasia gangetica T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+49026	49026	Aulacaspis yasumatsui Takagi, 1977		Animalia	Arthropoda	Insecta	Hemiptera	Diaspididae	SPECIES	ACCEPTED
+49027	49027	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+49028	49028	Bambusa vulgaris Schrad. ex J.C.Wendl.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49029	49029	Bauhinia monandra Kurz		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49030	49030	Bothriochloa pertusa (L.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49031	49031	Caesalpinia decapetala (Roth) Alston		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49032	49032	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49033	49033	Caesalpinia violacea Standl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49034	49034	Callisia fragrans (Lindl.) Woodson		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+49035	49035	Cardiocondyla emeryi Forel, 1881		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49036	49036	Cardiocondyla mauritanica Forel, 1890		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49037	49037	Cardiocondyla minutior Forel, 1899		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49038	49038	Cardiocondyla obscurior Wheeler, 1929		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49039	49039	Cardiocondyla venustula Wheeler, 1908		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49040	49040	Cassia fistula L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49041	49041	Cassia grandis L.f.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49042	49042	Cassia javanica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49043	49043	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+49044	49044	Centratherum punctatum Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+49045	49045	Chlorocebus sabaeus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Primates	Cercopithecidae	SPECIES	ACCEPTED
+49046	49046	Clerodendrum chinense (Osb.) Mabb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+49047	49047	Clerodendrum indicum Kuntze		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+49048	49048	Cocos nucifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+49049	49049	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+49050	49050	Cordia obliqua Willd.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Ehretiaceae	SPECIES	ACCEPTED
+49051	49051	Crotalaria retusa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49052	49052	Cryptostegia madagascariensis Bojer		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+49053	49053	Cryptotermes brevis (Walker, 1853)		Animalia	Arthropoda	Insecta	Blattodea	Kalotermitidae	SPECIES	ACCEPTED
+49054	49054	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+49055	49055	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+49056	49056	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49057	49057	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+49058	49058	Delonix regia (Bojer) Raf.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49059	49059	Dichanthium annulatum Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49060	49060	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49061	49061	Dioscorea bulbifera L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	ACCEPTED
+49062	49062	Dysphania ambrosioides (L.) Mosyakin & Clemants		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+49063	49063	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49064	49064	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+49065	49065	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49066	49066	Eleutherodactylus johnstonei Barbour, 1914		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	SPECIES	ACCEPTED
+49067	49067	Emilia fosbergii Nicolson		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+49068	49068	Eugenia uniflora L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+49069	49069	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+49070	49070	Ficus benjamina L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+49071	49071	Ficus pumila L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+49072	49072	Flacourtia indica (Burm.f.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+49073	49073	Gallus gallus (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+49074	49074	Geochelone carbonaria Williams, 1960	Chelonoidis carbonarius (Spix, 1824)	Animalia	Chordata	Reptilia	Tesstudines	Testudinidae	SPECIES	SYNONYM
+49075	49075	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49076	49076	Gymnophthalmus underwoodi Grant, 1958		Animalia	Chordata	Reptilia	Squamata	Gymnophthalmidae	SPECIES	ACCEPTED
+49077	49077	Haematoxylum campechianum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49078	49078	Hemidactylus mabouia (Moreau De Jonnès, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+49079	49079	Herpestes javanicus (Ã‰.Geoffroy Saint-Hilaire, 1818)		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	SPECIES	ACCEPTED
+49080	49080	Hydrilla verticillata (Roxb.) Royle		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+49081	49081	Hypochaeris radicata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+49082	49082	Hypogeococcus pungens Granara de Willink, 1981		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+49083	49083	Hypoponera punctatissima (Roger, 1859)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49084	49084	Icerya genistae Hempel, 1912		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+49085	49085	Icerya purchasi Maskell, 1879		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+49086	49086	Indigofera spicata Forssk.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49087	49087	Indigofera tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49088	49088	Jasminum fluminense Vell.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+49089	49089	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+49090	49090	Kalanchoe pinnata Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+49091	49091	Lagerstroemia indica L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+49092	49092	Leonurus japonicus Houtt.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+49093	49093	Leptogenys maxillosa (Smith, 1858)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49094	49094	Lepus europaeus Pallas, 1778		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SPECIES	ACCEPTED
+49095	49095	Leucaena diversifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49096	49096	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49097	49097	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+49098	49098	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+49099	49099	Mastigodryas bruesi Barbour, 1914		Animalia	Chordata	Reptilia	Squamata	Colubridae	SPECIES	ACCEPTED
+49100	49100	Megathyrsus maximus (Jacq.) B.K.Simon & S.W.L.Jacobs	Panicum maximum Jacq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+49101	49101	Melaleuca quinquenervia (Cav.) S.T.Blake		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+49102	49102	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+49103	49103	Melicoccus bijugatus Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+49104	49104	Mimosa pigra L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49105	49105	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+49106	49106	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49107	49107	Mucuna pruriens var. pruriens		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49108	49108	Nicotiana glauca Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+49109	49109	Nicotiana tabacum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+49110	49110	Nylanderia bourbonica (Forel, 1886)	Paratrechina bourbonica (Forel, 1886)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+49111	49111	Ocimum tenuiflorum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+49112	49112	Opogona sacchari (Bojer, 1856)		Animalia	Arthropoda	Insecta	Lepidoptera	Tineidae	SPECIES	ACCEPTED
+49113	49113	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+49114	49114	Paracoccus marginatus Williams & Granara de Willink, 1992		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+49115	49115	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49116	49116	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED
+49117	49117	Pennisetum polystachion (L.) Schult.	Cenchrus polystachios (L.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+49118	49118	Pennisetum purpureum Schumach.	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+49119	49119	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49120	49120	Pheidole teneriffana Forel, 1893		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49121	49121	Phyllocnistis citrella Stainton, 1856		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+49122	49122	Pimenta dioica (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+49123	49123	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49124	49124	Plagiolepis alluaudi Emery, 1894		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49125	49125	Plectranthus amboinicus (Lour.) Spreng.	Coleus amboinicus Lour.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+49126	49126	Plectranthus scutellarioides (L.) R.Br.	Coleus scutellarioides (L.) Benth.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+49127	49127	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+49128	49128	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49129	49129	Pseudomyrmex gracilis (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49130	49130	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+49131	49131	Pterois volitans (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+49132	49132	Pygocentrus nattereri Kner, 1858		Animalia	Chordata	Actinopterygii	Characiformes	Serrasalmidae	SPECIES	ACCEPTED
+49133	49133	Ramphotyphlops braminus Daudin, 1803		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	ACCEPTED
+49134	49134	Raoiella indica Hirst, 1924		Animalia	Arthropoda	Arachnida	Prostigmata	Tenuipalpidae	SPECIES	ACCEPTED
+49135	49135	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+49136	49136	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+49137	49137	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	ACCEPTED
+49138	49138	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+49139	49139	Rosmarinus officinalis de NoÃ« ex Lange		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+49140	49140	Rottboellia cochinchinensis (Lour.) Clayton		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+49141	49141	Samanea saman (Jacq.) Merr.	Albizia saman (Jacq.) Merr.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+49142	49142	Sanchezia speciosa Leonard		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+49143	49143	Sansevieria hyacinthoides (L.) Druce		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+49144	49144	Scaevola taccada (Gaertn.) Roxb.	Scaevola sericea G.Forst.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Goodeniaceae	SPECIES	SYNONYM
+49145	49145	Scirtothrips dorsalis Hood, 1919		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	ACCEPTED
+49146	49146	Senna multijuga (Rich.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49147	49147	Senna septemtrionalis (Viv.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49148	49148	Senna siamea (Lamarck) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49149	49149	Senna spectabilis (DC.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49150	49150	Solanum mammosum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+49151	49151	Solanum seaforthianum Andrews		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+49152	49152	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49153	49153	Sonchus oleraceus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+49154	49154	Spathodea campanulata P.Beauv.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+49155	49155	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+49156	49156	Stachys arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+49157	49157	Sternochetus mangiferae (Fabricius & J.C., 1775)		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+49158	49158	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+49159	49159	Strumigenys emmae (Emery, 1890)	Pyramica emmae (Emery, 1890)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+49160	49160	Strumigenys membranifera Emery, 1869	Pyramica membranifera (Emery, 1869)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+49161	49161	Strumigenys rogeri Emery, 1890		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49162	49162	Sturnus vulgaris Linnaeus, 1758		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+49163	49163	Syllophopsis sechellensis (Emery, 1894)	Paratrechina madagascarensis sechellensis (Emery, 1894)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+49164	49164	Syzygium cumini (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+49165	49165	Syzygium jambos (L.) Alston		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+49166	49166	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49167	49167	Tephrosia candida DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+49168	49168	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+49169	49169	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49170	49170	Tetramorium caldarium (Roger, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49171	49171	Tetramorium lanuginosum Mayr, 1870		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49172	49172	Tetramorium simillimum (Smith, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+49173	49173	Thunbergia alata Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+49174	49174	Thunbergia fragrans Roxb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+49175	49175	Thunbergia grandiflora Roxb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+49176	49176	Tiaris bicolor (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Thraupidae	SPECIES	ACCEPTED
+49177	49177	Tithonia diversifolia A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+49178	49178	Trachemys scripta subsp. elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Tesstudines	Emydidae	SUBSPECIES	ACCEPTED
+49179	49179	Tradescantia spathacea Sw.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+49180	49180	Trichomyrmex destructor (Jerdon, 1851)	Monomorium destructor (Jerdon, 1851)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+49181	49181	Triphasia trifolia P.Wilson		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+49182	49182	Urochloa mutica (Forssk.) T.Q.Nguyen	Brachiaria mutica Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+49183	49183	Veronicella cubensis (L.Pfeiffer, 1840)		Animalia	Mollusca	Gastropoda	Systellommatophora	Veronicellidae	SPECIES	ACCEPTED
+49184	49184	Xanthosoma sagittifolium (L.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+49185	49185	Zachrysia provisoria Pfeiffer, 1858,1928		Animalia	Mollusca	Gastropoda	Stylommatophora	Zachrysiidae	SPECIES	ACCEPTED
+49186	49186	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED

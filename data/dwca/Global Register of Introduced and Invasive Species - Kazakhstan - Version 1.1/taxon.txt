@@ -1,0 +1,81 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+162500	162500	Abbottina rivularis (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162501	162501	Abramis brama subsp. orientalis Berg, 1949	Abramis brama (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	SYNONYM
+162502	162502	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+162503	162503	Acer negundo L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+162504	162504	Acinos arvensis (Lam.) Dandy	Clinopodium acinos Kuntze	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+162505	162505	Ambrosia polystachya DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+162506	162506	Aspius aspius (Linnaeus, 1758)	Leuciscus aspius (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	SYNONYM
+162507	162507	Atriplex gardneri var. aptera (A.Nelson) S.L.Welsh & C.Crompton	Atriplex aptera A.Nelson	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	VARIETY	SYNONYM
+162508	162508	Bunias orientalis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+162509	162509	Carabus cumanus Fischer von Waldheim, 1823		Animalia	Arthropoda	Insecta	Coleoptera	Carabidae	SPECIES	ACCEPTED
+162510	162510	Carassius auratus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162511	162511	Carassius auratus var. auratus		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	VARIETY	ACCEPTED
+162512	162512	Cardamine hirsuta L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+162513	162513	Carduus acanthoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+162514	162514	Channa argus (Cantor, 1842)		Animalia	Chordata	Actinopterygii	Perciformes	Channidae	SPECIES	ACCEPTED
+162515	162515	Coregonus albula (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+162516	162516	Coregonus autumnalis (Pallas, 1776)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+162517	162517	Coregonus maraenoides Berg, 1916		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+162518	162518	Coregonus peled (Gmelin, 1789)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+162519	162519	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162520	162520	Cuscuta pentagona Engelm.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+162521	162521	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+162522	162522	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162523	162523	Dendrolimus superans (Butler, 1877)		Animalia	Arthropoda	Insecta	Lepidoptera	Lasiocampidae	SPECIES	ACCEPTED
+162524	162524	Dikerogammarus bispinosus Martynov, 1925		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+162525	162525	Galega orientalis Lam.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+162526	162526	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+162527	162527	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+162528	162528	Harmonia axyridis (Pallas, 1773)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+162529	162529	Hemiculter leucisculus (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162530	162530	Hemiculter lucidus (Dybowski, 1872)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162531	162531	Hyphantria cunea (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+162532	162532	Hypophthalmichthys molitrix (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162533	162533	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+162534	162534	Knipowitschia caucasica (Berg, 1916)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+162535	162535	Leuciscus baicalensis (Dybowski, 1874)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162536	162536	Liza aurata (Risso, 1810)	Chelon auratus (Risso, 1810)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+162537	162537	Liza saliens (Risso, 1810)	Chelon saliens (Risso, 1810)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+162538	162538	Lolium perenne L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+162539	162539	Lumbricus rubellus Hoffmeister, 1843		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	ACCEPTED
+162540	162540	Macrobrachium nipponense (De Haan, 1849)		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+162541	162541	Megabruchidius dorsalis (FÃ¥hraeus, 1839)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+162542	162542	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+162543	162543	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+162544	162544	Morus nigra L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+162545	162545	Mylopharyngodon piceus (Richardson, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162546	162546	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+162547	162547	Neogobius fluviatilis (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+162548	162548	Neogobius melanostomus (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+162549	162549	Neovison vison (Schreber, 1777)		Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED
+162550	162550	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+162551	162551	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+162552	162552	Ophiostoma novo-ulmi Brasier		Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	SPECIES	ACCEPTED
+162553	162553	Oryzias latipes (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Beloniformes	Adrianichthyidae	SPECIES	ACCEPTED
+162554	162554	Oryzias sinensis Chen, Uwa & Chu, 1989		Animalia	Chordata	Actinopterygii	Beloniformes	Adrianichthyidae	SPECIES	ACCEPTED
+162555	162555	Palaemon adspersus Rathke, 1837		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+162556	162556	Palaemon elegans Rathke, 1837		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+162557	162557	Palaemon modestus de Man, 1892	Macrobrachium gracilirostre (Miers, 1875)	Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	SYNONYM
+162558	162558	Parlatoria oleae (ColvÃ©e, 1880)		Animalia	Arthropoda	Insecta	Hemiptera	Diaspididae	SPECIES	ACCEPTED
+162559	162559	Perccottus glenii Dybowski, 1877		Animalia	Chordata	Actinopterygii	Perciformes	Odontobutidae	SPECIES	ACCEPTED
+162560	162560	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+162561	162561	Pseudogobio rivularis (Basilewsky, 1855)	Abbottina rivularis (Basilewsky, 1855)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	SYNONYM
+162562	162562	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162563	162563	Rhaponticum repens (L.) Hidalgo		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+162564	162564	Rhinogobius similis Gill, 1859		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+162565	162565	Rhithropanopeus harrisii (Gould, 1841)		Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED
+162566	162566	Rhodeus ocellatus (Kner, 1866)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162567	162567	Rutilus rutilus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+162568	162568	Salmo ischchan Kessler, 1877		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+162569	162569	Sander lucioperca (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Percidae	SPECIES	ACCEPTED
+162570	162570	Sander volgensis (Gmelin, 1789)		Animalia	Chordata	Actinopterygii	Perciformes	Percidae	SPECIES	ACCEPTED
+162571	162571	Silene cserei Baumg.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+162572	162572	Silurus glanis Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Siluriformes	Siluridae	SPECIES	ACCEPTED
+162573	162573	Sinanodonta lauta		Animalia	Mollusca	Bivalvia	Unionida	Unionidae	SPECIES	ACCEPTED
+162574	162574	Sinanodonta woodiana (I.Lea, 1834)		Animalia	Mollusca	Bivalvia	Unionida	Unionidae	SPECIES	ACCEPTED
+162575	162575	Solanum rostratum Dun.	Solanum angustifolium Mill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+162576	162576	Taraxacum campylodes G.E.Haglund		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+162577	162577	Turcogammarus aralensis (Uljanin, 1875)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+162578	162578	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+162579	162579	Xanthogaleruca luteola (MÃ¼ller, 1766)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED

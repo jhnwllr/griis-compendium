@@ -1,0 +1,38 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+8500	8500	Acacia cyclops A.Cunn. ex Don		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+8501	8501	Acacia longifolia (Andrews) Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+8502	8502	Acacia saligna (Labill.) H.L.Wendl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+8503	8503	Anas platyrhynchos Linnaeus, 1758		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+8504	8504	Antidorcas marsupialis (Zimmermann, 1780)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+8505	8505	Balanus glandula Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+8506	8506	Bostrychia hagedash (Latham, 1790)		Animalia	Chordata	Aves	Pelecaniformes	Threskiornithidae	SPECIES	ACCEPTED
+8507	8507	Ciona intestinalis (Linnaeus, 1767)		Animalia	Chordata	Ascidiacea	Phlebobranchia	Cionidae	SPECIES	ACCEPTED
+8508	8508	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+8509	8509	Connochaetes taurinus (Burchell, 1823)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+8510	8510	Damaliscus pygargus (Pallas, 1767)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+8511	8511	Datura ferox L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+8512	8512	Diplosoma listerianum (Milne Edwards, 1841)		Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED
+8513	8513	Eucalyptus conferruminata D.J.Carr & S.G.M.Carr		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+8514	8514	Eucalyptus globulus Labill.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+8515	8515	Eucalyptus grandis W.Hill ex Maiden		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+8516	8516	Eucalyptus lehmannii (Schauer) Benth.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+8517	8517	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+8518	8518	Littorina saxatilis (Olivi, 1792)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Littorinidae	SPECIES	ACCEPTED
+8519	8519	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+8520	8520	Myoporum insulare R.Br.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+8521	8521	Myoporum montanum R.Br.	Myoporum tenuifolium G.Forst.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	SYNONYM
+8522	8522	Myoporum tenuifolium G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+8523	8523	Mytilus galloprovincialis Lamarck, 1819		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+8524	8524	Nicotiana glauca Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+8525	8525	Numida meleagris (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Numididae	SPECIES	ACCEPTED
+8526	8526	Opuntia monacantha Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+8527	8527	Ornithogalum thyrsoides Jacq.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+8528	8528	Oryctolagus cuniculus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SPECIES	ACCEPTED
+8529	8529	Oryx gazella (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+8530	8530	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED
+8531	8531	Pinus pinaster Aiton		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+8532	8532	Populus canescens Sm.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+8533	8533	Sagartia ornata (Holdsworth, 1855)	Sagartia troglodytes (Price, 1847)	Animalia	Cnidaria	Anthozoa	Actiniaria	Sagartiidae	SPECIES	SYNONYM
+8534	8534	Sturnus vulgaris Linnaeus, 1758		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+8535	8535	Theba pisana (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+8536	8536	Tragelaphus strepsiceros (Pallas, 1766)		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED

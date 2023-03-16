@@ -1,0 +1,121 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+10250	10250	Acaena argentea Ruiz & Pav.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	ACCEPTED	SPECIES
+10251	10251	Agrostis stolonifera L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10252	10252	Ailanthus altissima (Miller) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	ACCEPTED	SPECIES
+10253	10253	Aira caryophyllea L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10254	10254	Aira praecox L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10255	10255	Alcea rosea L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+10256	10256	Amaryllis belladonna L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	ACCEPTED	SPECIES
+10257	10257	Anthemis arvensis Pall. ex M.Bieb.	Cota coelopoda (Boiss.) Boiss.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SYNONYM	SPECIES
+10258	10258	Anthoxanthum odoratum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10259	10259	Apium australe Thouars	Apium prostratum Labill.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SYNONYM	SPECIES
+10260	10260	Arctotis acaulis E.Mey.	Arctotis diffusa Thunb.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SYNONYM	SPECIES
+10261	10261	Argyranthemum frutescens (L.) Sch.Bip.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	DOUBTFUL	SPECIES
+10262	10262	Aristotelia chilensis (Molina) Stuntz		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Elaeocarpaceae	ACCEPTED	SPECIES
+10263	10263	Avena barbata Pott ex Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10264	10264	Beta vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+10265	10265	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+10266	10266	Briza maxima L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10267	10267	Briza minor L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10268	10268	Bromus catharticus Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10269	10269	Bromus diandrus Roth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10270	10270	Bromus hordeaceus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10271	10271	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+10272	10272	Cardamine hirsuta L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+10273	10273	Carduus pycnocephalus Spreng.	Carduus cephalanthus Viv.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SYNONYM	SPECIES
+10274	10274	Carpobrotus edulis (L.) N. E. Br.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	ACCEPTED	SPECIES
+10275	10275	Castanea sativa Mill.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	ACCEPTED	SPECIES
+10276	10276	Centranthus ruber (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	ACCEPTED	SPECIES
+10277	10277	Cestrum parqui (Lam.) L		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+10278	10278	Chenopodium album L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+10279	10279	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	ACCEPTED	SPECIES
+10280	10280	Cupressus goveniana Gordon		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	ACCEPTED	SPECIES
+10281	10281	Cupressus macnabiana		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	ACCEPTED	SPECIES
+10282	10282	Cynosurus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10283	10283	Dactylis glomerata L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10284	10284	Danthonia chilensis var. chilensis	Danthonia chilensis É.Desv.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	VARIETY
+10285	10285	Delairea odorata Lam.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+10286	10286	Digitaria sanguinalis (L.) Scop.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10287	10287	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10288	10288	Erodium moschatum		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	ACCEPTED	SPECIES
+10289	10289	Eucalyptus globulus Labill.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	ACCEPTED	SPECIES
+10290	10290	Euphorbia helioscopia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+10291	10291	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	ACCEPTED	SPECIES
+10292	10292	Ficus carica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	ACCEPTED	SPECIES
+10293	10293	Freesia refracta (Jacq.) Klatt		Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	ACCEPTED	SPECIES
+10294	10294	Fuchsia magellanica Lam.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	ACCEPTED	SPECIES
+10295	10295	Galium aparine L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+10296	10296	Gastridium phleoides (Nees & Meyen) C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10297	10297	Hordeum murinum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10298	10298	Hypochaeris radicata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	DOUBTFUL	SPECIES
+10299	10299	Hypoponera confinis (Roger, 1860)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+10300	10300	Icerya purchasi Maskell, 1878		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	ACCEPTED	SPECIES
+10301	10301	Impatiens sodenii Engl. & Warb. ex Engl.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	ACCEPTED	SPECIES
+10302	10302	Ipomoea indica (J. Burman) Merr.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	ACCEPTED	SPECIES
+10303	10303	Juncus bufonius L.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+10304	10304	Juncus capillaceus Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	ACCEPTED	SPECIES
+10305	10305	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	ACCEPTED	SPECIES
+10306	10306	Lathyrus odoratus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+10307	10307	Lavatera arborea L.	Malva arborea (L.) Webb & Berth.	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SYNONYM	SPECIES
+10308	10308	Leucojum vernum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	ACCEPTED	SPECIES
+10309	10309	Linepithema humile (Mayr, 1868)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+10310	10310	Lobularia maritima (L.) Desv.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+10311	10311	Lolium multiflorum Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10312	10312	Lolium perenne L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10313	10313	Lonicera japonica Thunb.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	ACCEPTED	SPECIES
+10314	10314	Madia sativa Molina		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	DOUBTFUL	SPECIES
+10315	10315	Medicago arabica (L.) Huds.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+10316	10316	Medicago polymorpha var. brevispina (Benth.) Heyn		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	VARIETY
+10317	10317	Medicago polymorpha var. vulgaris (Benth.) Shinners		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	VARIETY
+10318	10318	Mentha suaveolens Ehrh.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+10319	10319	Mirabilis jalapa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	ACCEPTED	SPECIES
+10320	10320	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+10321	10321	Myosotis laxa Lehm.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	ACCEPTED	SPECIES
+10322	10322	Myosotis sylvatica Ehrh. ex Hoffm.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	ACCEPTED	SPECIES
+10323	10323	Nasua nasua (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	ACCEPTED	SPECIES
+10324	10324	Opuntia ficus-indica (L.) Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	ACCEPTED	SPECIES
+10325	10325	Oryctolagus cuniculus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	ACCEPTED	SPECIES
+10326	10326	Oxalis pes-caprae L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	ACCEPTED	SPECIES
+10327	10327	Oxalis purpurea L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	ACCEPTED	SPECIES
+10328	10328	Papaver somniferum L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	ACCEPTED	SPECIES
+10329	10329	Parietaria judaica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	ACCEPTED	SPECIES
+10330	10330	Paspalum dasypleurum Kunze ex É.Desv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10331	10331	Paspalum distichum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10332	10332	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	ACCEPTED	SPECIES
+10333	10333	Pelargonium asperum Ehrh.	Pelargonium graveolens	Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	HOMOTYPIC_SYNONYM	SPECIES
+10334	10334	Pelargonium peltatum		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	ACCEPTED	SPECIES
+10335	10335	Pinus pinaster Aiton		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	ACCEPTED	SPECIES
+10336	10336	Pinus radiata D. Don		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	ACCEPTED	SPECIES
+10337	10337	Pleurodema thaul (Lesson, 1827)		Animalia	Chordata	Amphibia	Anura	Leiuperidae	ACCEPTED	SPECIES
+10338	10338	Poa annua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10339	10339	Poa pratensis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10340	10340	Prunus persica (L.) Stokes		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	ACCEPTED	SPECIES
+10341	10341	Racosperma melanoxylon (R. Br.) Mart.	Acacia melanoxylon R.Br.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SYNONYM	SPECIES
+10342	10342	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+10343	10343	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+10344	10344	Rubus ulmifolius Schott		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	ACCEPTED	SPECIES
+10345	10345	Rumex acetosella L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+10346	10346	Sambucus mexicana Sarg.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Adoxaceae	ACCEPTED	SPECIES
+10347	10347	Setaria parviflora (Poir.) M.Kerguelen		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10348	10348	Setaria viridis (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10349	10349	Solanum marginatum L.f.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+10350	10350	Solanum nigrum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+10351	10351	Solanum pseudocapsicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+10352	10352	Sonchus asper sp. in All.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+10353	10353	Spergularia rubra (L.) J. Presl & C. Presl		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	ACCEPTED	SPECIES
+10354	10354	Tanacetum parthenium (Linnaeus) Schultz-Bipontinus		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+10355	10355	Taraxacum officinale Weber		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+10356	10356	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+10357	10357	Tradescantia fluminensis Vell.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	ACCEPTED	SPECIES
+10358	10358	Trifolium dubium Sibth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+10359	10359	Trifolium glomeratum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+10360	10360	Turdus falcklandii Quoy & Gaimard, 1824		Animalia	Chordata	Aves	Passeriformes	Turdidae	ACCEPTED	SPECIES
+10361	10361	Ugni molinae Turcz.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	ACCEPTED	SPECIES
+10362	10362	Vespula germanica (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	ACCEPTED	SPECIES
+10363	10363	Vinca major L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	ACCEPTED	SPECIES
+10364	10364	Viola odorata L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Violaceae	ACCEPTED	SPECIES
+10365	10365	Vulpia bromoides (L.) Gray		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+10366	10366	Vulpia myuros var. hirsuta Hack.	Vulpia myuros (L.) C.C.Gmel.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	VARIETY
+10367	10367	Vulpia myuros var. myuros	Vulpia myuros (L.) C.C.Gmel.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	VARIETY
+10368	10368	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	DOUBTFUL	SPECIES
+10369	10369	Zantedeschia aethiopica (L.) Spreng.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	ACCEPTED	SPECIES

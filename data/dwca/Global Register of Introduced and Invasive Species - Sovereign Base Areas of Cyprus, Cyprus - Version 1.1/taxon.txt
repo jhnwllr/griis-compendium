@@ -1,0 +1,21 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+120100	120100	Acacia saligna (Labill.) H.L.Wendl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+120101	120101	Casuarina cunninghamiana Miq.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+120102	120102	Dodonaea viscosa Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+120103	120103	Eucalyptus camaldulensis Dehnh.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+120104	120104	Eucalyptus gomphocephala DC.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+120105	120105	Fistularia commersonii RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Syngnathiformes	Fistulariidae	SPECIES	ACCEPTED
+120106	120106	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+120107	120107	Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+120108	120108	Sargocentron rubrum (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Beryciformes	Holocentridae	SPECIES	ACCEPTED
+120109	120109	Siganus luridus (RÃ¼ppell, 1829)		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+120110	120110	Siganus rivulatus ForsskÃ¥l, 1775		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+120111	120111	Symphyotrichum squamatum (Spreng.) G.L.Nesom	Symphyotrichum subulatum var. squamatum (Spreng.) S.D.Sundb.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+120112	120112	Torquigener flavimaculosus Hardy & Randall, 1983		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+120113	120113	Fistularia commersonii RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Syngnathiformes	Fistulariidae	SPECIES	ACCEPTED
+120114	120114	Pterois miles (Bennett, 1828)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+120115	120115	Rhopilema nomadica Galil, 1990		Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	SPECIES	ACCEPTED
+120116	120116	Sargocentron rubrum (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Beryciformes	Holocentridae	SPECIES	ACCEPTED
+120117	120117	Torquigener flavimaculosus Hardy & Randall, 1983		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+120118	120118	Testudo graeca Linnaeus, 1758		Animalia	Chordata	Reptilia	Testudines	Testudinidae	SPECIES	ACCEPTED
+120119	120119	Testudo marginata Schoepff, 1792		Animalia	Chordata	Reptilia	Testudines	Testudinidae	SPECIES	ACCEPTED

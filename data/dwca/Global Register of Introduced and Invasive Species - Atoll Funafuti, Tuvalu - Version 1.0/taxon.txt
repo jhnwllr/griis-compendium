@@ -1,0 +1,41 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+13500	13500	Allium schoenoprasum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+13501	13501	Alternanthera sessilis (L.) R.Br. ex DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+13502	13502	Anoplolepis gracilipes (Smith, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13503	13503	Anoplolepis gracilipes (Smith, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13504	13504	Anoplolepis gracilipes (Smith, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13505	13505	Araucaria columnaris (J.R.Forst.) Hook.		Plantae	Tracheophyta	Pinopsida	Pinales	Araucariaceae	SPECIES	ACCEPTED
+13506	13506	Axonopus compressus (Sw.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+13507	13507	Azolla pinnata R.Br.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+13508	13508	Brachymyrmex sp.		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13509	13509	Centella asiatica (L.) Urb.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+13510	13510	Commelina diffusa Burm.f.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+13511	13511	Cycas rumphii		Plantae	Tracheophyta	Cycadopsida	Cycadales	Cycadaceae	SPECIES	ACCEPTED
+13512	13512	Cyperus compressus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+13513	13513	Cyperus involucratus Poir.	Cyperus imbricatus Retz.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	GENUS	SYNONYM
+13514	13514	Dentella repens J.R.Forst. & G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+13515	13515	Desmodium incanum DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+13516	13516	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+13517	13517	Fimbristylis dichotoma (L.) Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+13518	13518	Fimbristylis dichotoma (L.) Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+13519	13519	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+13520	13520	Ludwigia octovalvis (Jacq.) P.H.Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+13521	13521	Mikania micrantha Kunth		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+13522	13522	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+13523	13523	Monomorium destructor (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13524	13524	Monomorium ebeninum Forel, 1891		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13525	13525	Nylanderia bourbonica (Forel, 1886)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13526	13526	Nylanderia vaga (Forel, 1901)	Paratrechina vaga (Forel, 1901)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+13527	13527	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13528	13528	Pheidole fervens Smith, 1858		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13529	13529	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13530	13530	Pilea microphylla (L.) Liebm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	ACCEPTED
+13531	13531	Rivina humilis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+13532	13532	Rivina humilis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+13533	13533	Sargassum polycystum C.Ag.		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+13534	13534	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13535	13535	Sphaerostephanos invisus (G.Forst.) Holttum		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Thelypteridaceae	SPECIES	ACCEPTED
+13536	13536	Sporobolus fertilis (Steud.) Clayton		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+13537	13537	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13538	13538	Tetramorium caldarium (Roger, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+13539	13539	Tetramorium simillimum (Smith, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED

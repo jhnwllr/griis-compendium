@@ -1,0 +1,166 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+105750	105750	Amphibalanus amphitrite Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+105751	105751	Amphibalanus reticulatus Utinomi, 1967		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+105752	105752	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105753	105753	Solenopsis invicta Buren, 1972		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105754	105754	Lygodium micans Sturm	Lygodium volubile Sw.	Plantae	Tracheophyta	Polypodiopsida	Schizaeales	Lygodiaceae	SPECIES	SYNONYM
+105755	105755	Lygodium venustum Sw.		Plantae	Tracheophyta	Polypodiopsida	Schizaeales	Lygodiaceae	SPECIES	ACCEPTED
+105756	105756	Pterois Oken, 1817		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	GENUS	ACCEPTED
+105757	105757	Cardiocondyla emeryi Forel, 1881		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105758	105758	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105759	105759	Strumigenys emmae (Emery, 1890)	Pyramica emmae (Emery, 1890)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+105760	105760	Strumigenys membranifera Emery, 1869	Pyramica membranifera (Emery, 1869)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+105761	105761	Tetramorium lanuginosum Mayr, 1870		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105762	105762	Zoobotryon verticillatum (Delle Chiaje, 1822)	Amathia verticillata (delle Chiaje, 1822)	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	SPECIES	SYNONYM
+105763	105763	Hoplias malabaricus (Bloch, 1794)		Animalia	Chordata	Actinopterygii	Characiformes	Erythrinidae	SPECIES	ACCEPTED
+105764	105764	Chelonoidis carbonaria Bour, 1980	Chelonoidis carbonarius (Spix, 1824)	Animalia	Chordata	Reptilia	Testudines	Testudinidae	SPECIES	SYNONYM
+105765	105765	Adiantum raddianum C.Presl	Doryopteris raddiana (Pr.) F	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	SYNONYM
+105766	105766	Alternanthera ficoidea R.Br.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+105767	105767	Anolis cristatellus DumÃ©ril & Bibron, 1837		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+105768	105768	Apis mellifera Linnaeus, 1758		Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED
+105769	105769	Asclepias curassavica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+105770	105770	Axonopus compressus (Sw.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105771	105771	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+105772	105772	Blechum pyramidatum (Lam.) Urban	Ruellia blechum L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+105773	105773	Boerhaavia diffusa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+105774	105774	Borreria verticillata (L.) G.Mey.	Spermacoce verticillata L.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	SYNONYM
+105775	105775	Brachiaria mutica Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105776	105776	Brachiaria platyphylla (Munro ex C.Wright) Nash		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105777	105777	Caperonia palustris A.St.-Hil.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+105778	105778	Carica papaya L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Caricaceae	SPECIES	ACCEPTED
+105779	105779	Cherax quadricarinatus (von Martins, 1868)		Animalia	Arthropoda	Malacostraca	Decapoda	Parastacidae	SPECIES	ACCEPTED
+105780	105780	Cichla ocellaris Bloch & Schneider, 1801		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+105781	105781	Cleome ciliata Schum. & Thonn.	Sieruela rutidosperma (DC.) Roalson & J.C.Hall	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+105782	105782	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+105783	105783	Copella arnoldi (Regan, 1912)		Animalia	Chordata	Actinopterygii	Characiformes	Lebiasinidae	SPECIES	ACCEPTED
+105784	105784	Corydoras melanistius Regan, 1912		Animalia	Chordata	Actinopterygii	Siluriformes	Callichthyidae	SPECIES	ACCEPTED
+105785	105785	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+105786	105786	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+105787	105787	Desmodium frutescens Schindl.	Desmodium incanum DC.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+105788	105788	Digitaria horizontalis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105789	105789	Eclipta alba Hassk.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+105790	105790	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+105791	105791	Estrilda astrild (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+105792	105792	Eupatorium odoratum L.	Chromolaena odorata (L.) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+105793	105793	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+105794	105794	Euphorbia hypericifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+105795	105795	Fimbristylis miliacea (L.) Vahl	Fimbristylis quinquangularis subsp. Quinquangularis	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+105796	105796	Heliotropium indicum L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Heliotropiaceae	SPECIES	ACCEPTED
+105797	105797	Hemibrycon ocellifer (Steindachner, 1882)	Hemigrammus ocellifer (Steindachner, 1882)	Animalia	Chordata	Actinopterygii	Characiformes	Characidae	SPECIES	SYNONYM
+105798	105798	Hyptis atrorubens Poit.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+105799	105799	Ictalurus punctatus (Rafinesque, 1818)		Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED
+105800	105800	Inga vera Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105801	105801	Jussiaea linifolia Vahl	Ludwigia hyssopifolia (G.Don) Exell	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	SYNONYM
+105802	105802	Kyllingia monocephala L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	DOUBTFUL
+105803	105803	Leucaena diversifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105804	105804	Macrobrachium rosenbergii (De Man, 1879)		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+105805	105805	Mecardonia dianthera (Sw.) Pennell	Mecardonia procumbens Small	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	SYNONYM
+105806	105806	Melothria guadalupensis (Sprengel) Cogn.	Melothria pendula L.	Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	SYNONYM
+105807	105807	Merremia umbellata Vahl		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+105808	105808	Mycosphaerella fijiensis M.Morelet		Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Mycosphaerellaceae	SPECIES	ACCEPTED
+105809	105809	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+105810	105810	Panicum fasciculatum Sw.	Brachiaria fasciculata (Sw.) D.Parodi	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+105811	105811	Parkia biglobosa (Jacq.) R.Br. ex G.Don		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105812	105812	Parthenium hysterophorus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+105813	105813	Paspalum conjugatum P.J.Bergius		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105814	105814	Peperomia pellucida Kunth		Plantae	Tracheophyta	Magnoliopsida	Piperales	Piperaceae	SPECIES	ACCEPTED
+105815	105815	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+105816	105816	Pomacea bridgesii diffusa Blume, 1957	Pomacea diffusa Blume, 1957	Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	SUBSPECIES	SYNONYM
+105817	105817	Portulaca oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	SPECIES	ACCEPTED
+105818	105818	Setaria poiretiana (Schult.) Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105819	105819	Sida acuta Burm.f.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+105820	105820	Spigelia anthelmia L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Loganiaceae	SPECIES	ACCEPTED
+105821	105821	Spilanthes uliginosa Sw.	Acmella uliginosa Cass.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+105822	105822	Sporobolus indicus (L.) R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105823	105823	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+105824	105824	Swietenia macrophylla King		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+105825	105825	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+105826	105826	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+105827	105827	Varroa jacobsoni Oudemans, 1904		Animalia	Arthropoda	Arachnida	Mesostigmata	Varroidae	SPECIES	ACCEPTED
+105828	105828	Vernonia cinerea (L.) Less.	Cyanthillium cinereum (L.) H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+105829	105829	West Nile virus		Viruses				Flaviviridae	SPECIES	ACCEPTED
+105830	105830	Cleome rutidosperma DC.	Sieruela rutidosperma (DC.) Roalson & J.C.Hall	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+105831	105831	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+105832	105832	Fimbristylis littoralis Gaudich.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+105833	105833	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105834	105834	Megathyrsus maximus (Jacq.) B.K.Simon & S.W.L.Jacobs	Panicum maximum Jacq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+105835	105835	Urochloa mutica (Forssk.) R.D.Webster	Brachiaria mutica Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+105836	105836	Bambusa vulgaris Schrad. ex J.C.Wendl.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105837	105837	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+105838	105838	Herpestes javanicus (Ã‰.Geoffroy Saint-Hilaire, 1818)		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	SPECIES	ACCEPTED
+105839	105839	Perna viridis (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+105840	105840	Tarebia granifera (Lamarck, 1816)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED
+105841	105841	Melanoides tuberculata (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED
+105842	105842	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+105843	105843	Raoiella indica Hirst, 1924		Animalia	Arthropoda	Arachnida	Prostigmata	Tenuipalpidae	SPECIES	ACCEPTED
+105844	105844	Omobranchus punctatus (Valenciennes, 1836)		Animalia	Chordata	Actinopterygii	Perciformes	Blenniidae	SPECIES	ACCEPTED
+105845	105845	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+105846	105846	Eleutherodactylus johnstonei Barbour, 1914		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	SPECIES	ACCEPTED
+105847	105847	Anolis aeneus Gray, 1840		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+105848	105848	Anolis trinitatis Reinhardt & LÃ¼tken, 1862		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+105849	105849	Anolis wattsii Boulenger, 1894		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+105850	105850	Anolis richardii DumÃ©ril & Bibron, 1837		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+105851	105851	Hemidactylus mabouia (Moreau De JonnÃ¨s, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+105852	105852	Nannostomus unifasciatus Steindachner, 1876		Animalia	Chordata	Actinopterygii	Characiformes	Lebiasinidae	SPECIES	ACCEPTED
+105853	105853	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+105854	105854	Poecilia sphenops Valenciennes, 1846		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+105855	105855	Pyrrhulina laeta (Cope, 1872)		Animalia	Chordata	Actinopterygii	Characiformes	Lebiasinidae	SPECIES	ACCEPTED
+105856	105856	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+105857	105857	Achatina fulica (FÃ©russac, 1821)	Lissachatina fulica (Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	SYNONYM
+105858	105858	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+105859	105859	Anolis extremus Garman, 1887		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SPECIES	ACCEPTED
+105860	105860	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+105861	105861	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105862	105862	Puccinia psidii G.Winter, 1884	Austropuccinia psidii (G.Winter) Beenken, 2017	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Sphaerophragmiaceae	SPECIES	SYNONYM
+105863	105863	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+105864	105864	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+105865	105865	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+105866	105866	Acacia auriculiformis Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105867	105867	Acacia mangium Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105868	105868	Albizia procera (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105869	105869	Aleurites moluccanus Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+105870	105870	Amaranthus dubius Mart.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+105871	105871	Artocarpus altilis (Parkinson) Fosberg		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+105872	105872	Averrhoa carambola L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+105873	105873	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+105874	105874	Caladium bicolor (Aiton) Vent.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+105875	105875	Calotropis procera (Aiton) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+105876	105876	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+105877	105877	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105878	105878	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+105879	105879	Drymaria cordata (L.) Roem. & Schult.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+105880	105880	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105881	105881	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105882	105882	Emilia sonchifolia (L.) DC. ex Wight		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+105883	105883	Eriobotrya japonica (Thunb.) Lindl.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+105884	105884	Flacourtia indica (Burm.f.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+105885	105885	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105886	105886	Hibiscus elatus DC.	Talipariti tiliaceum (L.) Fryxell	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+105887	105887	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+105888	105888	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+105889	105889	Lindernia crustacea (L.) F.Muell.	Torenia crustacea (L.) Cham. & Schltdl.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	SYNONYM
+105890	105890	Manilkara zapota (L.) P.Royen		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES	ACCEPTED
+105891	105891	Melaleuca quinquenervia (Cav.) S.T.Blake		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+105892	105892	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+105893	105893	Murdannia nudiflora (L.) Brenan		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+105894	105894	Myroxylon balsamum Harms		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105895	105895	Oldenlandia herbacea (Willd.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+105896	105896	Paspalum fasciculatum Flugge		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105897	105897	Paspalum paniculatum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105898	105898	Persea americana Mill.		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+105899	105899	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105900	105900	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+105901	105901	Pterocarpus indicus Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105902	105902	Pterocarpus macrocarpus Kurz		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105903	105903	Pueraria phaseoloides Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105904	105904	Rottboellia cochinchinensis (Lour.) Clayton		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+105905	105905	Senna multijuga (Rich.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105906	105906	Sesbania bispinosa (Jacq.) W.Wight		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105907	105907	Sterculia apetala H.Karst.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+105908	105908	Syzygium cumini (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+105909	105909	Tabebuia rosea DC.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+105910	105910	Tectona grandis L.f.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+105911	105911	Tephrosia candida DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+105912	105912	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+105913	105913	Urochloa maxima (Jacq.) R.D.Webster	Panicum maximum Jacq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+105914	105914	Commelina diffusa Burm.f.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED

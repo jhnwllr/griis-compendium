@@ -1,0 +1,57 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+51466	51466	Acacia saligna (Labill.) H.L.Wendl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+51467	51467	Acanthobrama lissneri Tortonese, 1952	Tortonese, 1952	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	ACCEPTED	SPECIES
+51468	51468	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	ACCEPTED	SPECIES
+51469	51469	Ailanthus altissima Swingle	Swingle	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	ACCEPTED	SPECIES
+51470	51470	Albizia julibrissin Durazz.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+51471	51471	Alopecurus myosuroides Huds.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+51472	51472	Amaranthus blitum L.	L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+51473	51473	Amaranthus tuberculatus (Moq. ex DC.) J.D.Sauer		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+51474	51474	Apis florea Fabricius, 1787		Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	ACCEPTED	SPECIES
+51475	51475	Artocarpus altilis (Parkinson) Fosberg		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	ACCEPTED	SPECIES
+51476	51476	Atriplex nummularia Lindl.	Lindl.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+51477	51477	Canis lupus familiaris Linnaeus, 1758	Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Canidae	ACCEPTED	SUBSPECIES
+51478	51478	Carasobarbus canis (Valenciennes, 1842)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	ACCEPTED	SPECIES
+51479	51479	Casuarina glauca Sieber	Sieber	Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	ACCEPTED	SPECIES
+51480	51480	Clarias gariepinus (Burchell, 1822)		Animalia	Chordata	Actinopterygii	Siluriformes	Clariidae	ACCEPTED	SPECIES
+51481	51481	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	ACCEPTED	SPECIES
+51482	51482	Corvus splendens Vieillot, 1817	Vieillot, 1817	Animalia	Chordata	Aves	Passeriformes	Corvidae	ACCEPTED	SPECIES
+51483	51483	Cyprinus carpio Linnaeus, 1758	Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	ACCEPTED	SPECIES
+51484	51484	Cyrtopodion scabrum (Heyden, 1827)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	ACCEPTED	SPECIES
+51485	51485	Datura stramonium L.	L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+51486	51486	Dicentrarchus labrax (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Moronidae	ACCEPTED	SPECIES
+51487	51487	Dichrostachys cinerea (L.) Wight & Arn.	Wight & Arn. (L.)	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+51488	51488	Echinochloa colona (L.) Link	Link (L.)	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+51489	51489	Eucalyptus camaldulensis Dehnh.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	ACCEPTED	SPECIES
+51490	51490	Euodice malabarica (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	ACCEPTED	SPECIES
+51491	51491	Euphorbia heterophylla L.	L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+51492	51492	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	ACCEPTED	SPECIES
+51493	51493	Imperata cylindrica (L.) P.Beauv.	P.Beauv. (L.)	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+51494	51494	Melia azedarach L.	L.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	ACCEPTED	SPECIES
+51495	51495	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	ACCEPTED	SPECIES
+51496	51496	Morus alba L.	L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	ACCEPTED	SPECIES
+51497	51497	Mus musculus Linnaeus, 1758	Linnaeus, 1758	Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+51498	51498	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	ACCEPTED	SPECIES
+51499	51499	Nicotiana glauca Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+51500	51500	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	ACCEPTED	SPECIES
+51501	51501	Parkinsonia aculeata L.	L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+51502	51502	Plotosus lineatus (Thunberg, 1787)		Animalia	Chordata	Actinopterygii	Siluriformes	Plotosidae	ACCEPTED	SPECIES
+51503	51503	Poecilia reticulata Peters, 1859	Peters, 1859	Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	ACCEPTED	SPECIES
+51504	51504	Populus alba L.	L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	ACCEPTED	SPECIES
+51505	51505	Portulaca oleracea L.	L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	ACCEPTED	SPECIES
+51506	51506	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+51507	51507	Psidium guajava L.	L.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	ACCEPTED	SPECIES
+51508	51508	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	ACCEPTED	SPECIES
+51509	51509	Pycnonotus leucotis (Gould, 1836)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	ACCEPTED	SPECIES
+51510	51510	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+51511	51511	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+51512	51512	Ricinus communis L.	L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+51513	51513	Robinia pseudoacacia L.	L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+51514	51514	Saccharum spontaneum L.	L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+51515	51515	Schinus molle L.	L.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	ACCEPTED	SPECIES
+51516	51516	Solanum elaeagnifolium Cav.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+51517	51517	Solanum nigrum L.	L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+51518	51518	Sparus aurata Linnaeus, 1758	Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	ACCEPTED	SPECIES
+51519	51519	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	ACCEPTED	SUBSPECIES
+51520	51520	Xanthium spinosum L.	L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+51521	51521	Xanthium strumarium Lour.	Lour.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES

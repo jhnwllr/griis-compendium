@@ -1,0 +1,100 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+11000	11000	Acer platanoides L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+11001	11001	Acer pseudoplatanus L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+11002	11002	Acrochaetium densum (K.M.Drew) Papenfuss	Acrochaetium catenulatum M.A.Howe	Plantae	Rhodophyta	Florideophyceae	Nemaliales	Acrochaetiaceae	SPECIES	SYNONYM
+11003	11003	Alitta virens (M.Sars, 1835)		Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED
+11004	11004	Alopochen aegyptiaca (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+11005	11005	Amelanchier lamarckii F.G.Schroed.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+11006	11006	Amphibalanus improvisus Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+11007	11007	Anguillicoloides crassus (Kuwahara, Niimi & Itagaki, 1974) Moravec & Taraschewski, 1988		Animalia	Nematoda	Secernentea	Spirurida	Anguillicolidae	SPECIES	ACCEPTED
+11008	11008	Antithamnionella spirographidis (Schiffner) E.M.Wollaston		Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED
+11009	11009	Antithamnionella ternifolia (J.D.Hooker & Harvey) Lyle		Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED
+11010	11010	Aphelochaeta marioni (Saint-Joseph, 1894)		Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	SPECIES	ACCEPTED
+11011	11011	Aplidium glabrum (Verrill, 1871)		Animalia	Chordata	Ascidiacea	Aplousobranchia	Polyclinidae	SPECIES	ACCEPTED
+11012	11012	Austrominius modestus (Darwin, 1854)		Animalia	Arthropoda	Maxillopoda	Sessilia	Austrobalanidae	SPECIES	ACCEPTED
+11013	11013	Azolla filiculoides Lam.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+11014	11014	Boccardiella ligerica (FerronniÃ¨re, 1898)		Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED
+11015	11015	Botrylloides violaceus Oka, 1927		Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED
+11016	11016	Botrytella Bory de Saint-Vincent, 1822		Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	GENUS	ACCEPTED
+11017	11017	Branta canadensis (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+11018	11018	Bugula stolonifera Ryland, 1960	Bugulina stolonifera (Ryland, 1960)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	SYNONYM
+11019	11019	Cabomba caroliniana A.Gray		Plantae	Tracheophyta	Magnoliopsida	Nymphaeales	Cabombaceae	SPECIES	ACCEPTED
+11020	11020	Campylopus introflexus Bridel, 1819		Plantae	Bryophyta	Bryopsida	Dicranales	Dicranaceae	SPECIES	ACCEPTED
+11021	11021	Caprella mutica Schurin, 1935		Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED
+11022	11022	Carassius auratus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+11023	11023	Ceramium cimbricum H.E.Petersen		Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED
+11024	11024	Codium fragile subsp. atlanticum (Cotton) P.C.Silva		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SUBSPECIES	ACCEPTED
+11025	11025	Codium fragile subsp. fragile		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SUBSPECIES	ACCEPTED
+11026	11026	Colpomenia peregrina Sauv.		Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED
+11027	11027	Corambe obscura (A.E.Verrill, 1870)		Animalia	Mollusca	Gastropoda	Nudibranchia	Corambidae	SPECIES	ACCEPTED
+11028	11028	Cordylophora caspia (Pallas, 1771)		Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED
+11029	11029	Crassostrea gigas (Thunberg, 1793)	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	SYNONYM
+11030	11030	Crassula helmsii A.Berger		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+11031	11031	Crassula helmsii A.Berger		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+11032	11032	Crepidula fornicata (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	SPECIES	ACCEPTED
+11033	11033	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+11034	11034	Diadumene cincta Stephenson, 1925		Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED
+11035	11035	Diadumene lineata (Verrill, 1869)		Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED
+11036	11036	Didemnum vexillum Kott, 2002		Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED
+11037	11037	Egeria densa Planch.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+11038	11038	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+11039	11039	Elodea nuttallii St.John		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+11040	11040	Ensis directus (Conrad, 1844)		Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED
+11041	11041	Eriocheir sinensis H.Milne Edwards, 1853		Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED
+11042	11042	Fallopia japonica (Houtt.) Ronse Decraene	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+11043	11043	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+11044	11044	Ficopomatus enigmaticus (Fauvel, 1923)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+11045	11045	Gammarus tigrinus Sexton, 1939		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+11046	11046	Gracilaria vermiculophylla (Ohmi) Papenfuss		Plantae	Rhodophyta	Florideophyceae	Gracilariales	Gracilariaceae	SPECIES	ACCEPTED
+11047	11047	Haliclona xena De Weerdt, 1986		Animalia	Porifera	Demospongiae	Haplosclerida	Chalinidae	SPECIES	ACCEPTED
+11048	11048	Hemigrapsus sanguineus (De Haan, 1835)		Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED
+11049	11049	Hemigrapsus takanoi Asakura & Watanabe, 2005		Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED
+11050	11050	Heracleum mantegazzianum Sommier & Levier		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+11051	11051	Hydrilla verticillata (L.f.) Royle		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+11052	11052	Hydrocotyle ranunculoides L.f.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+11053	11053	Jassa marmorata Holmes, 1905		Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED
+11054	11054	Lepomis gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+11055	11055	Ligustrum ovalifolium Hassk.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+11056	11056	Ludwigia grandiflora (Michx.) Greuter & Burdet		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+11057	11057	Ludwigia peploides (Kunth) P.H.Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+11058	11058	Marenzelleria neglecta Sikorski & Bick, 2004		Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED
+11059	11059	Marenzelleria viridis (Verrill, 1873)		Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED
+11060	11060	Microphthalmus similis Bobretzky, 1870		Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	SPECIES	ACCEPTED
+11061	11061	Molgula manhattensis (De Kay, 1843)		Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED
+11062	11062	Monocorophium sextonae (Crawford, 1937)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+11063	11063	Mustela furo Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED
+11064	11064	Mya arenaria Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED
+11065	11065	Myriophyllum aquaticum (Vell.) Verdc.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED
+11066	11066	Myriophyllum heterophyllum Michx.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED
+11067	11067	Mytilicola intestinalis Steuer, 1902		Animalia	Arthropoda	Hexanauplia	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED
+11068	11068	Mytilopsis leucophaeata (Conrad, 1831)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+11069	11069	Nemopsis bachei L.Agassiz, 1849		Animalia	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	SPECIES	ACCEPTED
+11070	11070	Neodexiospira brasiliensis (Grube, 1872)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+11071	11071	Neosiphonia harveyi (J.W.Bailey) M.-S.Kim, H.-G.Choi, Guiry & G.W.Saunders		Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED
+11072	11072	Oryctolagus cuniculus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SPECIES	ACCEPTED
+11073	11073	Petricolaria pholadiformis (Lamarck, 1818)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+11074	11074	Pinus sylvestris L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+11075	11075	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+11076	11076	Platorchestia platensis (KrÃ¸yer, 1845)		Animalia	Arthropoda	Malacostraca	Amphipoda	Talitridae	SPECIES	ACCEPTED
+11077	11077	Populus alba L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+11078	11078	Populus canescens Sm.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+11079	11079	Prunus serotina Ehrh.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+11080	11080	Quercus rubra L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+11081	11081	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+11082	11082	Rhithropanopeus harrisii (Gould, 1841)		Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED
+11083	11083	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+11084	11084	Rosa rugosa Thunb.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+11085	11085	Salvinia molesta D.Mitch.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+11086	11086	Sander lucioperca (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Percidae	SPECIES	ACCEPTED
+11087	11087	Sargassum muticum (Yendo) Fensholt		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+11088	11088	Senecio inaequidens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+11089	11089	Sinelobus vanhaareni Bamber, 2014		Animalia	Arthropoda	Malacostraca	Tanaidacea	Tanaididae	SPECIES	ACCEPTED
+11090	11090	Spartina anglica C.E.Hubb.	Sporobolus anglicus (C.E.Hubb.) P.M.Peterson & Saarela	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+11091	11091	Styela clava Herdman, 1881		Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED
+11092	11092	Symphoricarpos albus (L.) C.Koch		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED
+11093	11093	Telmatogeton japonicus Tokunaga, 1933		Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	ACCEPTED
+11094	11094	Teredo navalis Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Myida	Teredinidae	SPECIES	ACCEPTED
+11095	11095	Tharyx killariensis (Southern, 1914)		Animalia	Annelida	Polychaeta	Terebellida	Cirratulidae	SPECIES	ACCEPTED
+11096	11096	Ulva pertusa Kjellman		Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED
+11097	11097	Undaria pinnatifida (Harv.) Suringar		Chromista	Ochrophyta	Phaeophyceae	Laminariales	Alariaceae	SPECIES	ACCEPTED
+11098	11098	Vaccinium macrocarpum Ait.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED

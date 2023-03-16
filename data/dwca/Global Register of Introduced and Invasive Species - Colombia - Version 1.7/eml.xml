@@ -1,0 +1,798 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="168568e7-eb5f-4ef6-8c59-f73ceaf57e91/v1.7" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>168568e7-eb5f-4ef6-8c59-f73ceaf57e91</alternateIdentifier>
+  <alternateIdentifier>https://cloud.gbif.org/griis/resource?r=griis-colombia</alternateIdentifier>
+  <title xml:lang="eng">Global Register of Introduced and Invasive Species - Colombia</title>
+      <creator>
+    <individualName>
+        <givenName>Maria</givenName>
+      <surName>Piedad Baptiste E</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mpbaptiste@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Lina</givenName>
+      <surName>Marcela García L.</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>lgarcia@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Orlando</givenName>
+      <surName>Acevedo-Charry</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>oacevedo@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Andrés</givenName>
+      <surName>Acosta</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>aacosta@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jairo</givenName>
+      <surName>Alarcón</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jhon.alarcon@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Emilio</givenName>
+      <surName>Arévalo</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>emilio.arevalo@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Ginna</givenName>
+      <surName>Carolina Avella</surName>
+    </individualName>
+    <organizationName>Ministerio de Ambiente y Desarrollo Sostenible</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>gavella@minambiente.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Argelina</givenName>
+      <surName>Blanco</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <electronicMailAddress>ablanco@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jorge</givenName>
+      <surName>E. Botero</surName>
+    </individualName>
+    <organizationName>Sociedad Caldense de Ornitología</organizationName>
+    <electronicMailAddress>jorgebotero1109@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>José</givenName>
+      <surName>Rancés Caicedo-Portilla</surName>
+    </individualName>
+    <organizationName>Instituto Amazónico de Investigaciones Científicas</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Catalina</givenName>
+      <surName>Camelo Martínez</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>catalina.camelo@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Maria Paula</givenName>
+      <surName>Camelo-Calvo</surName>
+    </individualName>
+    <organizationName>Universidad Nacional de Colombia</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>mpcameloc@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Katherine</givenName>
+      <surName>Certuche-Cubillos</surName>
+    </individualName>
+    <organizationName>Universidad del Tolima</organizationName>
+    <electronicMailAddress>katcertuche@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Luis</givenName>
+      <surName>Chasqui</surName>
+    </individualName>
+    <organizationName>Instituto de Investigaciones Marinas y costeras &quot;José Benito Vives de Andréis&quot;</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>luis.chasqui@invemar.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Yanira</givenName>
+      <surName>Cifuentes</surName>
+    </individualName>
+    <organizationName>Asociación Calidris</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ycifuentes@calidris.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Pedro</givenName>
+      <surName>Julián Contreras</surName>
+    </individualName>
+    <organizationName>Autoridad Nacional de Acuicultura y Pesca</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Sergio</givenName>
+      <surName>Córdoba</surName>
+    </individualName>
+    <positionName>Investigador Independiente</positionName>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jaime</givenName>
+      <surName>Correa</surName>
+    </individualName>
+    <organizationName>Autoridad Nacional de Licencias Ambientales (ANLA)</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jcorrea@anla.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Maria</givenName>
+      <surName>Fernanda Díaz</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>maria.diaz@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Carlos</givenName>
+      <surName>DoNascimiento</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>cdonascimiento@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Rosa</givenName>
+      <surName>Alexandra Duque</surName>
+    </individualName>
+    <organizationName>Corporación Autónoma Regional del Valle del Cauca</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>rosa-alexandra.duque@cvc.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Sandra</givenName>
+      <surName>Victoria Flechas</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>sflechas@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Igor</givenName>
+      <surName>Dimitri Forero</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>forero-i@javeriana.edu.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Antonio</givenName>
+      <surName>José Gómez Hoyos</surName>
+    </individualName>
+    <organizationName>Ministerio de Ambiente y Desarrollo Sostenible</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ajgomez@minambiente.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Gustavo</givenName>
+      <surName>González Durán</surName>
+    </individualName>
+    <organizationName>Wildlife Conservation Society</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>ggonzalezduran@wcs.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Sergio</givenName>
+      <surName>Guayara</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>sergio.guayara@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Juan</givenName>
+      <surName>Carlos Guetiva</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>juan.guetiva@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Germán</givenName>
+      <surName>Jiménez</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>german.jimenez@javeriana.edu.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Miriam</givenName>
+      <surName>Larrahondo</surName>
+    </individualName>
+    <organizationName>Autoridad Nacional de Acuicultura y Pesca</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Maldonado Ocampo</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>maldonadoj@javeriana.edu.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>G. F.</givenName>
+      <surName>Medina-Rangel</surName>
+    </individualName>
+    <positionName>Investigador Independiente</positionName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>guidofabianmedina@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Maria Claudia</givenName>
+      <surName>Merino</surName>
+    </individualName>
+    <organizationName>Autoridad Nacional de Acuicultura y Pesca</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Lina María</givenName>
+      <surName>Mesa</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>lmesa@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Mónica Viviana</givenName>
+      <surName>Millán</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>monica.millan@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Hermes</givenName>
+      <surName>Mojica</surName>
+    </individualName>
+    <organizationName>Autoridad Nacional de Acuicultura y Pesca</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jhon</givenName>
+      <surName>César Neita Moreno</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>jneita@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Maria</givenName>
+      <surName>del Pilar Parrado</surName>
+    </individualName>
+    <organizationName>Instituto de Investigaciones Marinas y costeras &quot;José Benito Vives de Andréis&quot;</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>maria.parrado@invemar.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Sebastián</givenName>
+      <surName>Camilo Pérez</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>sperez@humboldt.org.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>W.</givenName>
+      <surName>Ramírez</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Vladimir</givenName>
+      <surName>Rojas</surName>
+    </individualName>
+    <organizationName>Wildlife Conservation Society</organizationName>
+    <electronicMailAddress>vrojas@wcs.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Zulma</givenName>
+      <surName>Rojas</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>zulma.rojas@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Nicolás</givenName>
+      <surName>Urbina-Cardona</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Javeriana</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>urbina-j@javeriana.edu.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Luz</givenName>
+      <surName>Paola Velásquez</surName>
+    </individualName>
+    <organizationName>Instituto Colombiano Agropecuario</organizationName>
+    <address>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>luz.velasquez@ica.gov.co</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Lian Jenna</givenName>
+      <surName>Wong</surName>
+    </individualName>
+    <organizationName>Biodiversity Data Management Ltd</organizationName>
+    <positionName>Research Assistant</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>biodivdatamgt@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-30
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The Global Register of Introduced and Invasive Species (GRIIS) presents validated and verified national checklists of introduced (alien) and invasive alien species at the country, territory, and associated island level. 
+
+Checklists are living entities, especially for biological invasions given the growing nature of the problem. GRIIS checklists are based on a published methodology and supported by the Integrated Publishing Tool that jointly enable ongoing improvements and updates to expand their taxonomic coverage and completeness. 
+
+Phase 1 of the project focused on developing validated and verified checklists of countries that are Party to the Convention on Biological Diversity (CBD). Phase 2 aimed to achieve global coverage including non-party countries and all overseas territories of countries, e.g. those of the Netherlands, France, and the United Kingdom. 
+
+All kingdoms of organisms occurring in all environments and systems are covered.
+
+Checklists are reviewed and verified by networks of country or species experts. Verified checklists/ species records, as well as those under review, are presented on the online GRIIS website (www.griis.org) in addition to being published through the GBIF Integrated Publishing Tool.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Inventorythematic</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Alien</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Invasive</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Validated and Verified</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>country_CO</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>Versioning
+The GRIIS checklists are dynamic and reflect the latest known status of alien and invasive species presence and impacts. 
+
+The original versions of each country checklist (v1.0) undergo two potential types of updates: 
+1. Major updates: These happen when batches of new species or records become available, usually addressing multiple taxonomic groups simultaneously.  Each checklist is assigned a new version number after a major update (e.g. from v1.0 to v2.0). 
+2. Incremental updates: These are smaller ongoing updates involving the addition of new species or records based on new publications as well as taxonomic or other updates. Incremental updates to a checklist are associated with a subversion number, e.g. v1.1.
+The checklist version number is visible/available on the citation.</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://griis.org/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Colombia</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.98</westBoundingCoordinate>
+          <eastBoundingCoordinate>-62.93</eastBoundingCoordinate>
+          <northBoundingCoordinate>11.351</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.916</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Animalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Bacteria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Chromista</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Fungi</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Protozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Viruses</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>The resource will be a support to countries to make progress to achieve Aichi Biodiversity Target 9 -in the development of their National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan, target setting and monitoring.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>Updates with any new data and any revisions of existing data will be made on a biannual basis</para>
+    </description>
+    <maintenanceUpdateFrequency>otherMaintenancePeriod</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Data collation and categorization
+Data filtering and categorization/ classification 
+Taxonomic harmonization and normalization
+Data validation
+Data verification</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>The published methods underpinning GRIIS and each checklist are described in Pagad et al 2018.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>The geographic focus of this checklist is Colombia</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>This annotated checklist is focused on introduced (alien) and invasive species that are known to occur in Colombia
+
+The International Union for Conservation of Nature, (IUCN) describes an Introduced/ Alien and Invasive alien species as follows:  
+
+An Introduced or Alien species means a species, subspecies, or lower taxon occurring outside of its natural range (past or present) and dispersal potential (i.e. outside the range it occupies naturally or could not occupy without direct or indirect introduction or care by humans) and includes any part, gametes or propagule of such species that might survive and subsequently reproduce. 
+
+An Invasive Alien Species is an alien species which becomes established in natural or semi-natural ecosystems or habitat, is an agent of change, and threatens native biological diversity.
+
+In GRIIS, species are recorded as having an impact (as &apos;yes&apos; under &apos;isInvasive&apos;) if there is evidence of the species negatively impacting biodiversity, and including species that are widespread, spreading rapidly or present in high abundance (Pagad et al. 2018). This usage is relevant to the purpose of GRIIS, and consistent with the concept of impact as formulated by Parker et al. (1999) and now widely used (e.g. Didham et al. 2005, Strayer et al. 2006, McGeoch et al. 2010, 2012, Vila et al. 2011), where impact is a function not only of the per capita effect of an individual organism, but is a combined function of the effect, abundance and range size of a species. Impact can of course be defined in different ways, driven by different objectives, such as its usage in EICAT where it is defined as a measurable change to the properties of an ecosystem caused by an alien taxon (Hawkins et al. 2015).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>The draft checklist is compiled by collating data and information through a comprehensive literature overview. Additional steps implemented to control the quality of the data are described below.
+
+Taxonomic harmonization and normalization using the GBIF taxonomic backbone
+To harmonize all species names across countries, species lists are subjected to a normalization process in which taxon rank and taxonomic status are identified and assigned. Spelling and other errors in assigning species authorship are also corrected.
+
+Data validation
+The Project Personnel complete a review and validate all the annotations, especially those on provenance and &apos;invasive&apos; status of the species based on evidence of impact.
+
+Data verification
+The checklist is submitted to a network of country editors for a review of both accuracy of records, annotations, and identification of any significant gaps in the data. Data verification is an iterative process and the activity for a particular version is declared complete on agreement of all relevant country editors (see versioning details below).
+
+One of the key tenets of the GRIIS project has been engagement with country editors in the verification process and as custodians of country checklists. While this has been possible in the majority of countries, for a small number of countries this engagement process has not succeeded in delivering a verified checklist. In these cases, the GRIIS Project Personnel have completed the validation of the species records but continue to work towards identifying country experts.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="GRIIS">
+    <title>Global Register of Introduced and Invasive Species GRIIS</title>
+      <personnel>
+        <individualName>
+            <givenName>Shyama</givenName>
+          <surName>Pagad</surName>
+        </individualName>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>The Global Register of Introduced and Invasive Species (GRIIS) presents validated and verified checklists of introduced (alien) and invasive alien species at the country, territory level.  The development of the GRIIS resource is an initiative supported by the Secretariat of the Convention on Biological Diversity (CBD) and was originally implemented within the framework of the Global Invasive Alien Species Information Partnership (GIASIPartnership). The IUCN SSC Invasive Species Specialist Group (ISSG) is the project lead and includes a dedicated GRIIS unit. 
+
+The resource is designed to support national governments to make progress to achieve invasive alien species targets under the Convention on Biological Diversity and the Sustainable Development Goals; especially in the development of their National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan (NIASAP), target setting and monitoring.</para>
+      </abstract>
+      <funding>
+        <para>The GRIIS initiative was developed within the framework of the GIASIPartnership, with co-funding from the European Union through the Secretariat of the Convention on Biological Diversity. As coordinator of GIASIP, and on behalf of CBD Secretariat, GBIF has supported the development of GRIIS and its integration into the GBIF data infrastructure to ensure interoperability. In July 2019, GBIF provided direct funding from its core budget to support the completion of GRIIS lists for all countries, EU Overseas Territories and selected islands by March 2020.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>GRIIS has global coverage, including overseas territories and regions. Where appropriate, sub-lists have been created for Oceanic Islands- for e.g. Soqotra of Yemen and the Juan Fernandez Islands of Chile. 
+
+Taxonomic coverage includes all kingdoms of organisms: Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses.
+
+The annotations recorded in GRIIS include- Species name and authorship, synonyms if used and authorship, Higher taxonomy (kingdom, phylum, class, order and family), Environment/system in which the species occurs (terrestrial, freshwater, brackish, marine, host), provenance or origin of the species, invasive status of the alien species. The inclusion of additional annotations are planned, including the date of introduction or first record of the alien species, type of introduction (deliberate or accidental), pathways of introduction, impact mechanism and the global EICAT (Environmental Impact Classification of Alien Taxa) category assigned to the species.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>The Global Register of Invasive Species (GRIS) was developed as a concept and prototype by the ISSG in 2006 as part of a project undertaken for the Defenders of Wildlife on the Regulation of Live Animal Imports into the United States. 
+
+Between 2011-2020, the concept was revisited and expanded by the ISSG to address Aichi Biodiversity Target 9 and support its achievement - with the development of the Global Register of Introduced and Invasive Species (GRIIS). GRIIS hosted by the ISSG compiles annotated and verified national checklists of introduced (alien) and invasive alien species. Development and population of the GRIIS was undertaken by the ISSG within the framework of activities of the Information Synthesis and Assessment Working Group of the Global Invasive Alien Species Information Partnership.
+
+The GRIIS checklist is an annotated species catalogue, or inventory, recorded from a country, an island, protected area, or area of high biodiversity value. Following GBIF&apos;s guide to best practices for publishing species checklists (Hanmer et al 2012), the GRIIS checklist includes taxonomic information in a standard way. The checklist is compiled by a team of experts and non-specialists including citizen scientists that have knowledge of species taxonomy, access to reliable and authoritative source information that can be validated and verified (for methods please see Pagad et al. 2018).  
+
+A summary of the process
+•	The ISSG GRIIS unit conducts a comprehensive review of authoritative and credible information sources and develops a draft annotated country checklist of introduced (alien) and invasive alien species. 
+•	Annotations include species name (accepted name and synonym if used by the source), higher taxonomy, environment/system in which the species occurs, biological status (provenance (alien or not) and invasiveness-based on evidence of impact), 
+•	Country editor/editors are identified and consulted for advice, including knowledge of additional key data sources 
+•	Draft checklists are submitted to country editors for a review of both accuracy of information and to identify any significant gaps. Revisions are implemented based on feedback. 
+•	Every species record includes a check (indication) if the status has been verified as such by country editors. In cases where ‘evidence of impact’ information is gathered from peer-reviewed literature or reports for the country in question, the species status is designated as &apos;verified&apos;.
+•	Names of the editors as well as the complete reference list of sources consulted is recorded.  Key references used to develop the GRIIS checklists are provided as part of the metadata. References for every species recorded are available on request.
+•	Incremental updates are implemented on an on-going basis. Bi-annual major updates are planned for all checklists. 
+
+Notes on the annotations
+•	Species names recorded from source information are referred to the GBIF taxonomic editor; if the source species name is a synonym, the accepted name is also recorded. This process contributes to the application of  a consistent taxonomy across all inventories. 
+•	Higher taxonomy - Kingdom, Phylum, Class, Order, Genus and Species with species authority. 
+•	Environment system – terrestrial / freshwater / brackish / marine/ host and combinations thereof
+•	Provenance - a) as recorded by the source information, b) as interpreted by the compiler - three options are applied alien, native/alien (if the species is native in a part of a country and alien in another part), provenance uncertain/cryptogenic 
+•	Invasiveness is based on evidence of impact
+
+Note: In cases where country editors have not been identified, the checklist is published after the GRIIS unit validates the checklist. The GRIIS team members are listed as originators of the checklist. The checklist is reviewed by country editors once they have been identified and the expert’s names are listed as originators of the checklist.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2018-10-14T17:57:03.655+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Piedad Baptiste E M, Marcela García L. L, Acevedo-Charry O, Acosta A, Alarcón J, Arévalo E, Carolina Avella G, Blanco A, E. Botero J, Rancés Caicedo-Portilla J, Camelo Martínez C, Camelo-Calvo M P, Certuche-Cubillos K, Chasqui L, Cifuentes Y, Julián Contreras P, Córdoba S, Correa J, Fernanda Díaz M, DoNascimiento C, Alexandra Duque R, Victoria Flechas S, Dimitri Forero I, José Gómez Hoyos A, González Durán G, Guayara S, Carlos Guetiva J, Jiménez G, Larrahondo M, Maldonado Ocampo J, Medina-Rangel G F, Merino M C, Mesa L M, Millán M V, Mojica H, César Neita Moreno J, del Pilar Parrado M, Camilo Pérez S, Ramírez W, Rojas V, Rojas Z, Urbina-Cardona N, Paola Velásquez L, Wong L J, Pagad S (2022): Global Register of Introduced and Invasive Species - Colombia. v1.7. Invasive Species Specialist Group ISSG. Dataset/Checklist. https://cloud.gbif.org/griis/resource?r=griis-colombia&amp;v=1.7</citation>
+          <bibliography>
+                <citation>Hamer, M., Victor, J., Smith, G.F. (2012). Best Practice Guide for Compiling, Maintaining and Disseminating National Species Checklists, version 1.0, released in October 2012. Copenhagen: Global Biodiversity Information Facility, 40 pp, ISBN: 87-92020-48-8, Accessible at http://www.gbif.org/orc/?doc_id=4752.</citation>
+                <citation>Pagad S, Genovesi P, Carnevali L, Schigel D, McGeoch MA (2018) Introducing the Global Register of Introduced and Invasive Species. Scientific Data, 5, 170202.
+https://www.nature.com/articles/sdata2017202</citation>
+                <citation>Parker I, Simberloff D, Lonsdale W. et al. (1999) Impact: Toward a Framework for Understanding the Ecological Effects of Invaders. Biological Invasions 1, 3–19 (1999). https://doi.org/10.1023/A:1010034312781</citation>
+                <citation>Didham RK, Tylianakis JM, Hutchison MA, Ewers RM, Gemmell NJ. (2005) Are invasive species the drivers of ecological change? Trends Ecol Evol. 2005 Sep;20(9):470-4. Epub 2005 Jul 21.</citation>
+                <citation>Strayer DL, Eviner VT, Jeschke JM, Pace ML. (2006) Understanding the long-term effects of species invasions. Trends in Ecology &amp; Evolution 21(11):645-51</citation>
+                <citation>McGeoch MA, Butchart SHM, Spear D, Marais E. Kleynhans EJ, Symes A, Chanson J, Hoffmann M. (2010) Global indicators of biological invasion: species numbers, biodiversity impact and policy responses. Diversity and Distributions Volume16, Issue1 January 2010.</citation>
+                <citation>McGeoch, M.A., Spear, D., Kleynhans, E.J. &amp; Marais, E. 2012. Uncertainty in invasive alien species listing. Ecological Applications 22, 959-971. 10.1890/11-1252.1</citation>
+                <citation>Vilà M, Espinar JL, Hejda M, Hulme PE, Jarošík V, Maron JL, Pergl J, Schaffner U, Sun Y, Pyšek P. (2011) Ecological impacts of invasive alien plants: a meta‐analysis of their effects on species, communities and ecosystems. Ecology Letters Volume14, Issue7 July 2011 Pages 702-708</citation>
+                <citation>Hawkins CL, Bacher S, Essl F, Hulme PE, Jeschke JM, Kühn I, Kumschick S, Nentwig W, Pergl J, Pyšek P, Rabitsch W, Richardson DM, Vilà  M, Wilson JRU, Genovesi P, Blackburn TM. (2015) Framework and guidelines for implementing the proposed IUCN Environmental Impact Classification for Alien Taxa (EICAT) Diversity and Distributions Volume21, Issue11 November 2015 Pages 1360-1363</citation>
+                <citation>Baptiste, M. P., et al. (2020). &quot;Análisis de riesgo y propuesta de categorización de especies introducidas para Colombia.&quot;</citation>
+                <citation>De La Hoz Aristizábal, M. V. (2008). &quot;Primer registro en Colombia de Corbicula fluminea (Mollusca: Bivalvia: Corbiculidae), una especie invasor.&quot; Boletín de investigaciones marinas y costeras 37(1): 197-202.</citation>
+                <citation>Franco, A., et al. (2015). &quot;Plan Nacional para la Prevención, el Control y Manejo de las Especies Introducidas, Trasplantadas e Invasoras: Diagnóstico y Listado Preliminar de Especies Introducidas, Trasplantadas e Invasoras en Colombia, Bogotá [En linea]: Ministerio de Ambiente y Desarrollo Sostenible; 2011.&quot; Acceso agosto.</citation>
+                <citation>Galvan-Guevara, S. and J. de la Ossa (2011). &quot;Fauna exótica y fauna trasplantada con mayor representatividad en Colombia.&quot; Revista Colombiana de Ciencia Animal-RECIA: 167-179.</citation>
+                <citation>Gómez-Martínez, M. J., et al. (2016). &quot;Presencia de Eleutherodactylus johnstonei (Anura: Eleutherodactylidae) en Ibagué, Tolima, Colombia: El papel de los viveros comerciales.&quot; Boletín Científico. Centro de Museos. Museo de Historia Natural 20(2): 164-170.</citation>
+                <citation>Gracia, A., et al. (2011). &quot;Guía de las especies introducidas marinas y costeras de Colombia.&quot; INVEMAR Serie de Publicaciones Especiales (Colombia) no. 23.</citation>
+                <citation>Guzmán-Maldonado, A. and C. A. Lasso (2014). &quot;Análisis comparativo (1990-2014) de la pesquería de peces ornamentales en el departamento del Amazonas, Colombia.&quot; Biota Colombiana 15(1): 83-108.</citation>
+                <citation>Hausdorf, B. (2002). &quot;Introduced land snails and slugs in Colombia.&quot; Journal of Molluscan Studies 68(2): 127-131.</citation>
+                <citation>Kaiser, H., et al. (2002). &quot;Expansion of Eleutherodactylus johnstonei in northern South America: rapid dispersal through human interactions.&quot; Herpetological Review 33(4): 290-293.</citation>
+                <citation>Lasso, C., et al. (2011). Serie Editorial Recursos Hidrobiológicos y Pesqueros Continentales de Colombia. I Catálogo de los recursos pesqueros continentales de Colombia, instituto de investigación de Recursos biológicos Alexander von Humboldt.</citation>
+                <citation>Lopez, V. and U. Krauss (2006). &quot;Final Report: National and Regional Capacities and Experiences on Marine Invasive Species.&quot; Including Ballast Waters, Management Programme in the Wider Caribbean Region–a Compilation of Current Information. 103p.</citation>
+                <citation>Neotropical, F. F. V. S. &quot;sf-Programa nacional para la conservación de los felinos en Colombia.&quot; Ministerio de Ambiente, Vivienda y Desarrollo Territorial. Dirección de Ecosistemas, República de Colombia, Bogotá.</citation>
+                <citation>Noriega, J. A., et al. (2011). &quot;Quince años del arribo del escarabajo coprófago Digitonthophagus gazella (Fabricius, 1787)(Coleoptera: Scarabaeidae) a Colombia: proceso de invasión y posibles efectos de su establecimiento.&quot; Biota Colombiana 12(2).</citation>
+                <citation>Ortega-Lara, A. (2016). Guía visual de los principales peces ornamentales continentales de Colombia, Autoridad Nacional de Acuicultura y Pesca.</citation>
+                <citation>Ossa, P. A., et al. (2012). &quot;Colecciones biológicas: una alternativa para los estudios de diversidad genética.&quot; Boletín Científico Centro de Museos Museo de Historia Natural 16(1): 143-155.</citation>
+                <citation>Prieto-Guevara, M., et al. (2013). &quot;Efecto de tres tipos de presas vivas en la larvicultura de bagre blanco (Sorubim cuspicaudus).&quot; Revista MVZ Córdoba: 3790-3798.</citation>
+                <citation>Ramírez-Chaves, H. E., et al. (2011). &quot;Historia de las especies de mamíferos exóticos en Colombia.&quot; Boletín Científico, Centro de Museos, Universidad de Caldas 15(2): 139-156.</citation>
+                <citation>Restrepo-Santamaría, D. and R. Álvarez-León (2013). &quot;ALGUNOS ASPECTOS SOBRE LA INTRODUCCIÓN DE ESPECIES, Y ESTADO DEL CONOCIMIENTO SOBRE LOS PECES INTRODUCIDOS EN EL DEPARTAMENTO DE CALDAS, COLOMBIA.&quot; Revista Luna Azul(37): 268-281.</citation>
+                <citation>Schüttler, E. and C. Karez (2008). &quot;Especies exóticas invasoras en las Reservas de Biosfera de América Latina y el Caribe. Un informe técnico para fomentar el intercambio de experiencias entre las Reservas de Biosfera y promover el manejo efectivo de las invasiones biológicas.&quot; Oficina Regional de Ciencia de la UNESCO para América Latina y el Caribe, Montevideo, Uruguay.</citation>
+                <citation>Tobar-Vargas, A., et al. (2013). &quot;New records of plants for San Andres and Old Providence islands (International Biosphere Reserve Seaflower), Caribbean Colombia.&quot; Check List 9(6): 1361-1366.</citation>
+                <citation>Páez, V. P., et al. (2012). V. Biología y conservación de las tortugas continentales de Colombia. Serie Recursos Hidrobiológicos y Pesqueros Continentales de Colombia, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</citation>
+                <citation>Pauler, I. and P. Trebbau (1995). &quot;Erstnachweis von Podocnemis lewyana Duméril, 1852 (Testudines) in Venezuela.&quot; Salamandra 31(3): 181-186.</citation>
+                <citation>Rueda-Almonacid, J. V. (1999). &quot;Situación actual y problemática generada por la introducción de&quot; rana toro&quot; a Colombia.&quot; Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 23: S367-S367.</citation>
+                <citation>Rueda-Almonacid, J. V., et al. (2007). &quot;Las tortugas y los cocodrilianos de los países andinos del trópico.&quot; Serie de guías tropicales de campo 6: 412-423.</citation>
+                <citation>Valencia-Zuleta, A., et al. (2014). &quot;Conservation status of the herpetofauna, protected areas, and current problems in Valle del Cauca, Colombia.&quot; Amphibian &amp; Reptile Conservation 8(2): 1-18.</citation>
+                <citation>Inter American Biodiversity Information Network (IABIN) - Invasive Species Network (13N) (2014) Database of Invasive Species in Colombia</citation>
+                <citation>Ministerio de  Ambiente, Vivienda y Desarrollo Territorial (2008) Resolución 848 de 2008. Por la cual se declaran unas especies exóticas como invasoras y se señalan las especies introducidas irregularmente al país que pueden ser objeto de cría en ciclo cerrado y se adoptan otras determinaciones.</citation>
+                <citation>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2014) Fauna invasora en el territorio continental e insular colombiano. 4100 registros, aportados por: Baptiste, M. (Contacto del recurso), De la cruz Godoy, J. (Creador del recurso, Proveedor de metadatos). Versión 3.0.</citation>
+                <citation>Franco, A., Baptiste, M.P., Díaz, J. &amp; Montoya, M. (2011) Plan Nacional para la Prevención, el Control y Manejo de las Especies Introducidas, Trasplantadas e Invasoras: Diagnóstico y listado preliminar de Especies Introducidas, Trasplantadas e Invasoras en Colombia</citation>
+                <citation>Alvarado-Forero, H. &amp; Gutiérrez-Bonilla, F. D. P. (2002) Especies hidrobiológicas continentales introducidas y trasplantadas y su distribución en Colombia.</citation>
+                <citation>Autoridad Nacional de Licencias Ambientales (2013) Licencia 843 de 2013. Por la cual se ordena la apertura de una investigación ambiental.</citation>
+                <citation>Instituto Colombiano de Desarrollo Rural - INCODER (2007) Normativa de la actividad pesquera comercial ornamental.</citation>
+                <citation>Autoridad Nacional de Acuicultura y Pesca - AUNAP (2015) RESOLUCIÓN 1924 de 2015. Por la cual se autorizan las especies ícticas ornamentales aprovechables comercialmente, se establecen unas prohibiciones, se derogan las Resoluciones número 3532 del 17 de diciembre de 2007 y número 0740 del 4 de mayo de 2015  y se establecen otras disposiciones.</citation>
+                <citation>Ministerio de Comercio, Industria y Turismo (2006) Decreto 4589 de 2006. Por el cual se adopta el Arancel de Aduanas y otras disposiciones.</citation>
+                <citation>Ministerio de Salud y Protección Social	(2012) Decreto 2270 de 2012. Por el cual se modifica el Decreto 1500 de 2007, modificado por los Decretos 2965 de 2008, 2380, 4131, 4974 de 2009, 3961 de 2011, 917 de 2012 y se dictan otras disposiciones.</citation>
+          </bibliography>
+          <resourceLogoUrl>http://www.griis.org/css/img/logo.png</resourceLogoUrl>
+          <dc:replaces>168568e7-eb5f-4ef6-8c59-f73ceaf57e91/v1.7.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

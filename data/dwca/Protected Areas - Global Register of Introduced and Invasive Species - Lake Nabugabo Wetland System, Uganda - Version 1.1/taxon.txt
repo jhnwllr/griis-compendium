@@ -1,0 +1,5 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+12238	12238	Lates niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Latidae	SPECIES	ACCEPTED
+12239	12239	Oreochromis leucostictus (Trewavas, 1933)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+12240	12240	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+12241	12241	Tilapia zilii (Gervais, 1848)	Coptodon zillii (Gervais, 1848)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM

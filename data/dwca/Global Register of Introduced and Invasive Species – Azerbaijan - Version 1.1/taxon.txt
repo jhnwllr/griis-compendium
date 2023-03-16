@@ -1,0 +1,57 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+181750	181750	Abra ovata (Philippi, 1836)	Abra segmentum (Récluz, 1843)	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	SPECIES	SYNONYM
+181751	181751	Abra segmentum (Récluz, 1843)		Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	SPECIES	ACCEPTED
+181752	181752	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+181753	181753	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+181754	181754	Ambrosia artemisiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+181755	181755	Amphibalanus improvisus Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+181756	181756	Anguilla anguilla (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Anguilliformes	Anguillidae	SPECIES	ACCEPTED
+181757	181757	Carassius carassius (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+181758	181758	Carassius gibelio (Bloch, 1782)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+181759	181759	Centella asiatica (L.) Urb.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+181760	181760	Cerastoderma glaucum (Bruguière, 1789)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+181761	181761	Cervus nippon Temminck, 1838		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED
+181762	181762	Chelon auratus (Risso, 1810)		Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	ACCEPTED
+181763	181763	Chelon saliens (Risso, 1810)		Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	ACCEPTED
+181764	181764	Corbicula fluminalis (O.F.Müller, 1774)		Animalia	Mollusca	Bivalvia	Venerida	Cyrenidae	SPECIES	ACCEPTED
+181765	181765	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+181766	181766	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+181767	181767	Dreissena bugensis (Andrusov, 1897)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+181768	181768	Dreissena grimmi Andrusov, 1897	Dreissena rostriformis (Deshayes, 1838)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	SYNONYM
+181769	181769	Dreissena polymorpha (Pallas, 1771)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+181770	181770	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+181771	181771	Eupatorium cannabinum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+181772	181772	Ficopomatus enigmaticus (Fauvel, 1923)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+181773	181773	Galinsoga parviflora Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+181774	181774	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+181775	181775	Glyphodes pyloalis Walker, 1859		Animalia	Arthropoda	Insecta	Lepidoptera	Crambidae	SPECIES	ACCEPTED
+181776	181776	Hemiculter leucisculus (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+181777	181777	Hyphantria cunea (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+181778	181778	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+181779	181779	Ips typographus (Linnaeus & C., 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+181780	181780	Lotus corniculatus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+181781	181781	Lumbricus rubellus Hoffmeister, 1843		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	ACCEPTED
+181782	181782	Microstegium vimineum (Trin.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+181783	181783	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+181784	181784	Monodacna colorata (Eichwald, 1829)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+181785	181785	Mugil cephalus Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	ACCEPTED
+181786	181786	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+181787	181787	Mytilaster lineatus (Gmelin, 1791)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+181788	181788	Mytilopsis leucophaeata (Conrad, 1831)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+181789	181789	Nereis diversicolor O.F.Müller, 1776	Hediste diversicolor (O.F. Müller, 1776)	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	SYNONYM
+181790	181790	Newcastle disease virus (NDV)		Viruses				Paramyxoviridae		
+181791	181791	Nyctereutes procyonoides (Gray, 1834)		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+181792	181792	Ophiostoma novo-ulmi Brasier		Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	SPECIES	ACCEPTED
+181793	181793	Oxyura jamaicensis (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+181794	181794	Palaemon elegans Rathke, 1837		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+181795	181795	Pinus halepensis Mill.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+181796	181796	Potamopyrgus antipodarum (Gray, 1843)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Tateidae	SPECIES	ACCEPTED
+181797	181797	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+181798	181798	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+181799	181799	Pyrrhalta luteola (MÃ¼ller, 1766)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	SYNONYM
+181800	181800	Rhithropanopeus harrisii (Gould, 1841)		Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED
+181801	181801	Solanum elaeagnifolium Cav.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+181802	181802	Solanum rostratum Dun.	Solanum angustifolium Mill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+181803	181803	West Nile virus (WNV)		Viruses				Flaviviridae		
+181804	181804	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+181805	181805	Xanthium strumarium Lour.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED

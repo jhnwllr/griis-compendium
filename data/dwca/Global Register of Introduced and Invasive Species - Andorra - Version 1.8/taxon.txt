@@ -1,0 +1,14 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+20000	20000	Acanthoscelides obtectus (Say, 1831)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+20001	20001	Bruchus pisorum (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+20002	20002	Bruchus rufimanus Boheman, 1833		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+20003	20003	Buddleja davidii Franch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+20004	20004	Callosobruchus chinensis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+20005	20005	Entoleuca mammata (Wahlenb.) J.D.Rogers & Y.M.Ju		Fungi	Ascomycota	Sordariomycetes	Xylariales	Xylariaceae	SPECIES	ACCEPTED
+20006	20006	Euophryum confine (Broun, 1880)	Pentarthrum confine Broun, 1881	Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	SYNONYM
+20007	20007	Impatiens balfourii Hook.f.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+20008	20008	Leptinotarsa decemlineata (Say, 1824)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+20009	20009	Monochamus sutor (LinnÃ©, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	SPECIES	ACCEPTED
+20010	20010	Pseudoperonospora humuli (Miyabe & Takah.) G.W.Wilson	Pseudoperonospora cubensis (Berk. & M.A.Curtis) Rostovzev	Chromista	Oomycota	Peronosporea	Peronosporales	Peronosporaceae	SPECIES	SYNONYM
+20011	20011	Senecio inaequidens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+20012	20012	Trachyopella straminea Rohacek & Marshall, 1985		Animalia	Arthropoda	Insecta	Diptera	Sphaeroceridae	SPECIES	ACCEPTED

@@ -1,0 +1,118 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+90500	90500	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+90501	90501	Aedes japonicus japonicus		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SUBSPECIES	ACCEPTED
+90502	90502	Ailanthus altissima (Mill.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+90503	90503	Aix galericulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+90504	90504	Alopochen aegyptiaca (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+90505	90505	Althaea officinalis L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+90506	90506	Amaranthus cruentus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+90507	90507	Amaranthus hypochondriacus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+90508	90508	Ambrosia artemisiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90509	90509	Arion vulgaris Moquin-Tandon, 1855		Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	SPECIES	ACCEPTED
+90510	90510	Artemisia verlotiorum Lamotte		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90511	90511	Aster lanceolatus Willd.	Symphyotrichum lanceolatum subsp. Lanceolatum	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90512	90512	Aster novae-angliae L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90513	90513	Aster novi-belgii L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90514	90514	Aster tradescantii L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90515	90515	Bergenia crassifolia Fritsch		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Saxifragaceae	SPECIES	ACCEPTED
+90516	90516	Bromus catharticus Vahl		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+90517	90517	Buddleja davidii Franch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+90518	90518	Bunias orientalis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90519	90519	Cameraria ohridella Deschka & Dimic, 1986		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+90520	90520	Campylopus introflexus Bridel, 1819		Plantae	Bryophyta	Bryopsida	Dicranales	Dicranaceae	SPECIES	ACCEPTED
+90521	90521	Carassius auratus var. auratus		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	VARIETY	ACCEPTED
+90522	90522	Carassius gibelio (Bloch, 1782)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+90523	90523	Cardaria draba (L.) Desv.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+90524	90524	Carex vulpinoidea Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+90525	90525	Carthamus tinctorius L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90526	90526	Cerinthe minor L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+90527	90527	Clathrus archeri (Berk.) Dring		Fungi	Basidiomycota	Agaricomycetes	Phallales	Phallaceae	SPECIES	ACCEPTED
+90528	90528	Columba livia f. domestica		Animalia	Chordata	Aves	Columbiformes	Columbidae	FORM	ACCEPTED
+90529	90529	Conyza canadensis (L.) Cronq.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90530	90530	Coronopus didymus (L.) Sm.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+90531	90531	Cotoneaster horizontalis Decne.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+90532	90532	Cygnus olor (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+90533	90533	Cyperus esculentus Liebm		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+90534	90534	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+90535	90535	Drosophila suzukii (Matsumura, 1931)		Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	SPECIES	ACCEPTED
+90536	90536	Elodea canadensis Michx.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+90537	90537	Epilobium adenocaulon Hausskn.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	SYNONYM
+90538	90538	Erigeron annuus Pers.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90539	90539	Erigeron annuus subsp. septentrionalis (Fern. & Wieg.) Wagenitz		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SUBSPECIES	SYNONYM
+90540	90540	Erigeron annuus subsp. strigosus (Muehl. ex Willd.) Wagenitz		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SUBSPECIES	SYNONYM
+90541	90541	Erigeron annuus var. annuus		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	VARIETY	SYNONYM
+90542	90542	Erophila praecox (Steven) DC.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+90543	90543	Euphorbia maculata L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+90544	90544	Fallopia aubertii (Louis Henry) J.Holub		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+90545	90545	Fallopia japonica (Houtt.) Ronse Decraene		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+90546	90546	Galinsoga ciliata (Rafin.) S.F.Blake		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90547	90547	Galinsoga parviflora Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90548	90548	Glyceria striata (Lam.) Hitchc.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+90549	90549	Halyomorpha halys (StÃ¥l, 1855)		Animalia	Arthropoda	Insecta	Hemiptera	Pentatomidae	SPECIES	ACCEPTED
+90550	90550	Harmonia axyridis (Pallas, 1773)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+90551	90551	Helianthus rigidus (Cass.) Desf.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+90552	90552	Helianthus tuberosus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90553	90553	Hemerocallis fulva L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED
+90554	90554	Heracleum mantegazzianum Sommier & Levier		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+90555	90555	Hesperis matronalis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90556	90556	Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014		Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	SPECIES	ACCEPTED
+90557	90557	Hypericum androsaemum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED
+90558	90558	Impatiens glandulifera Royle		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+90559	90559	Impatiens parviflora DC.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+90560	90560	Juncus tenuis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED
+90561	90561	Lepidium densiflorum Schrad.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90562	90562	Lepidium ruderale L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90563	90563	Lepidium sativum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90564	90564	Lepidium virginicum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90565	90565	Leucocoprinus birnbaumii (Corda) Singer		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	SPECIES	ACCEPTED
+90566	90566	Lonicera henryi Hemsl.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	SYNONYM
+90567	90567	Lycium barbarum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+90568	90568	Matricaria discoidea DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90569	90569	Megachile sculpturalis Smith, 1853		Plantae	Arthropoda	Insecta	Hymenoptera	Megachilidae	SPECIES	ACCEPTED
+90570	90570	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+90571	90571	Oenothera biennis L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+90572	90572	Oenothera glazioviana Micheli		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+90573	90573	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+90574	90574	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+90575	90575	Oxalis fontana Bunge		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+90576	90576	Panicum capillare L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+90577	90577	Papaver somniferum L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+90578	90578	Parthenocissus quinquefolia (L.) Planch.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+90579	90579	Paulownia tomentosa Steud.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Paulowniaceae	SPECIES	ACCEPTED
+90580	90580	Pelophylax ridibundus (Pallas, 1771)		Animalia	Chordata	Amphibia	Anura	Ranidae	SPECIES	ACCEPTED
+90581	90581	Phacelia tanacetifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Hydrophyllaceae	SPECIES	ACCEPTED
+90582	90582	Phasianus colchicus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+90583	90583	Physalis alkekengi L.	Alkekengi officinarum Moench	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+90584	90584	Pinus strobus L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+90585	90585	Platanus hispanica Ten.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Platanaceae	SPECIES	DOUBTFUL
+90586	90586	Podarcis muralis (Laurenti, 1768)		Animalia	Chordata	Reptilia	Squamata	Lacertidae	SPECIES	ACCEPTED
+90587	90587	Polygonum polystachyum Meisn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+90588	90588	Populus nigra L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+90589	90589	Potentilla norvegica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+90590	90590	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+90591	90591	Pseudotsuga menziesii (Mirb.) Franco		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+90592	90592	Quercus rubra L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+90593	90593	Rhus typhina L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+90594	90594	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+90595	90595	Rubus phoenicolasius Maxim.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+90596	90596	Rudbeckia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90597	90597	Rudbeckia laciniata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90598	90598	Salix fragilis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+90599	90599	Sedum spurium Bieb.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	SYNONYM
+90600	90600	Senecio inaequidens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90601	90601	Setaria italica P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+90602	90602	Silybum marianum Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90603	90603	Sinapis alba L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90604	90604	Sisymbrium altissimum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+90605	90605	Sisyrinchium bermudiana L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED
+90606	90606	Solidago canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90607	90607	Solidago gigantea Aiton		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90608	90608	Stropharia rugosoannulata Farl.		Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hymenogastraceae	SPECIES	DOUBTFUL
+90609	90609	Symphoricarpos albus (L.) C.Koch		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED
+90610	90610	Tadorna ferruginea (Pallas, 1764)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+90611	90611	Thuja occidentalis L.		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED
+90612	90612	Tilia tomentosa Moench		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+90613	90613	Varroa destructor Anderson & Trueman, 2000		Animalia	Arthropoda	Arachnida	Mesostigmata	Varroidea	SPECIES	ACCEPTED
+90614	90614	Veronica filiformis Sm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+90615	90615	Veronica peregrina L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+90616	90616	Veronica persica hort. ex Poir.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED

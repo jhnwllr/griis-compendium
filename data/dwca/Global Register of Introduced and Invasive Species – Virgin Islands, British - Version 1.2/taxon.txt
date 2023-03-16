@@ -1,0 +1,26 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+170500	170500	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+170501	170501	Calotropis procera (Aiton) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+170502	170502	Canis lupus subsp. familiaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+170503	170503	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+170504	170504	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+170505	170505	Equus asinus Linnaeus, 1758		Animalia	Chordata	Mammalia	Perissodactyla	Equidae	SPECIES	ACCEPTED
+170506	170506	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+170507	170507	Geochelone carbonaria Williams, 1960	Chelonoidis carbonarius (Spix, 1824)	Animalia	Chordata	Reptilia	Tesstudines	Testudinidae	SPECIES	SYNONYM
+170508	170508	Hemidactylus mabouia (Moreau De Jonnès, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+170509	170509	Herpestes javanicus (Ã‰.Geoffroy Saint-Hilaire, 1818)		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	SPECIES	ACCEPTED
+170510	170510	Hypogeococcus pungens Granara de Willink, 1981		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+170511	170511	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	SPECIES	ACCEPTED
+170512	170512	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+170513	170513	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+170514	170514	Osteopilus septentrionalis (Duméril & Bibron, 1841)		Animalia	Chordata	Amphibia	Anura	Hylidae	SPECIES	ACCEPTED
+170515	170515	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+170516	170516	Paracoccus marginatus Williams & Granara de Willink, 1992		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+170517	170517	Pseudemys nelsoni Carr, 1938		Animalia	Chordata	Reptilia	Testudines	Emydidae	SPECIES	ACCEPTED
+170518	170518	Pterois volitans (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	SPECIES	ACCEPTED
+170519	170519	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+170520	170520	Scaevola taccada (Gaertn.) Roxb.	Scaevola sericea G.Forst.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Goodeniaceae	SPECIES	SYNONYM
+170521	170521	Scyphophorus acupunctatus Gyllenhal, 1838		Animalia	Arthropoda	Insecta	Coleoptera	Dynastidae	SPECIES	ACCEPTED
+170522	170522	Solenopsis invicta Buren, 1972		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+170523	170523	Sus scrofa Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	SPECIES	ACCEPTED
+170524	170524	Trachemys scripta subsp. elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Tesstudines	Emydidae	SUBSPECIES	ACCEPTED

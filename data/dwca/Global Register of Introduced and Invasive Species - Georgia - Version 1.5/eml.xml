@@ -1,0 +1,370 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="cbf356f0-f2a3-48ef-9217-5410654bf2d2/v1.5" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>cbf356f0-f2a3-48ef-9217-5410654bf2d2</alternateIdentifier>
+  <alternateIdentifier>https://cloud.gbif.org/griis/resource?r=griis-georgia</alternateIdentifier>
+  <title xml:lang="eng">Global Register of Introduced and Invasive Species - Georgia</title>
+      <creator>
+    <individualName>
+        <givenName>Sandro</givenName>
+      <surName>Kolbaia</surName>
+    </individualName>
+    <organizationName>Institute of Botany, Ilia State University Tbilisi, Georgia</organizationName>
+    <positionName>Botanist</positionName>
+    <address>
+        <country>GE</country>
+    </address>
+    <electronicMailAddress>sandro.kolbaia3@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Bejan</givenName>
+      <surName>Lortkipanidze</surName>
+    </individualName>
+    <organizationName>Centre for Biodiversity Conservation and Research NACRES Tbilisi, Georgia</organizationName>
+    <positionName>Zoologist</positionName>
+    <address>
+        <country>GE</country>
+    </address>
+    <electronicMailAddress>bejan.lortkipanidze@nacres.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>David</givenName>
+      <surName>Kikodze</surName>
+    </individualName>
+    <organizationName>Institute of Botany, Ilia State University Tbilisi, Georgia</organizationName>
+    <positionName>Botanist</positionName>
+    <address>
+        <country>GE</country>
+    </address>
+    <electronicMailAddress>kikodze.david@dzelkva.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Lian Jenna</givenName>
+      <surName>Wong</surName>
+    </individualName>
+    <organizationName>Biodiversity Data Management Ltd</organizationName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>biodivdatamgt@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>Biodiversity Data Management Ltd</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <phone>0210754381</phone>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2020-09-15
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The Global Register of Introduced and Invasive Species (GRIIS) presents validated and verified national checklists of introduced (alien) and invasive alien species at the country, territory, and associated island level. 
+
+Checklists are living entities, especially for biological invasions given the growing nature of the problem. GRIIS checklists are based on a published methodology and supported by the Integrated Publishing Tool that jointly enable ongoing improvements and updates to expand their taxonomic coverage and completeness. 
+
+Phase 1 of the project focused on developing validated and verified checklists of countries that are Party to the Convention on Biological Diversity (CBD). Phase 2 aimed to achieve global coverage including non-party countries and all overseas territories of countries, e.g. those of the Netherlands, France, and the United Kingdom. 
+
+All kingdoms of organisms occurring in all environments and systems are covered.
+
+Checklists are reviewed and verified by networks of country or species experts. Verified checklists/ species records, as well as those under review, are presented on the online GRIIS website (www.griis.org) in addition to being published through the GBIF Integrated Publishing Tool.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Inventorythematic</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Alien</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Invasive</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Validated and verified</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>country_GE</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>Versioning
+The original versions of each country checklist (v1.0) undergo two potential types of updates: 
+1. Major updates: These happen when batches of new species or records become available, usually addressing multiple taxonomic groups simultaneously.  Each checklist is assigned a new version number after a major update (e.g. from v1.0 to v2.0). 
+2. Incremental updates: These are smaller ongoing updates involving the addition of new species or records based on new publications as well as taxonomic or other updates. Incremental updates to a checklist are associated with a subversion number, e.g. v1.1.
+The checklist version number is visible/available on the citation.</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://griis.org/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Georgia</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>39.199</westBoundingCoordinate>
+          <eastBoundingCoordinate>49.395</eastBoundingCoordinate>
+          <northBoundingCoordinate>45.213</northBoundingCoordinate>
+          <southBoundingCoordinate>40.847</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Animalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Bacteria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Chromista</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Fungi</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Protozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Viruses</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>The resource will be a support to countries to make progress to achieve Aichi Biodiversity Target 9 -in the development of their National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan, target setting and monitoring.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>Updates with any new data and any revisions of existing data will be made on an ongoing basis.</para>
+    </description>
+    <maintenanceUpdateFrequency>otherMaintenancePeriod</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Data collation and categorization
+Data filtering and categorization/ classification 
+Taxonomic harmonization and normalization
+Data validation
+Data verification</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>The published methods underpinning GRIIS and each checklist are described in Pagad et al 2018.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>The geographic focus of this checklist is Georgia</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>This annotated checklist is focused on introduced (alien) and invasive species that are known to occur in Georgia
+
+The International Union for Conservation of Nature, (IUCN) describes an Introduced/ Alien and Invasive alien species as follows:  
+
+An Introduced or Alien species means a species, subspecies, or lower taxon occurring outside of its natural range (past or present) and dispersal potential (i.e. outside the range it occupies naturally or could not occupy without direct or indirect introduction or care by humans) and includes any part, gametes or propagule of such species that might survive and subsequently reproduce. 
+
+An Invasive Alien Species is an alien species which becomes established in natural or semi-natural ecosystems or habitat, is an agent of change, and threatens native biological diversity.
+
+In GRIIS, species are recorded as having an impact (as &apos;yes&apos; under &apos;isInvasive&apos;) if there is evidence of the species negatively impacting biodiversity, and including species that are widespread, spreading rapidly or present in high abundance (Pagad et al. 2018). This usage is relevant to the purpose of GRIIS, and consistent with the concept of impact as formulated by Parker et al. (1999) and now widely used (e.g. Didham et al. 2005, Strayer et al. 2006, McGeoch et al. 2010, 2012, Vila et al. 2011), where impact is a function not only of the per capita effect of an individual organism, but is a combined function of the effect, abundance and range size of a species. Impact can of course be defined in different ways, driven by different objectives, such as its usage in EICAT where it is defined as a measurable change to the properties of an ecosystem caused by an alien taxon (Hawkins et al. 2015).</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>The draft checklist is compiled by collating data and information through a comprehensive literature overview. Additional steps implemented to control the quality of the data are described below.
+
+Taxonomic harmonization and normalization using the GBIF taxonomic backbone
+To harmonize all species names across countries, species lists are subjected to a normalization process in which taxon rank and taxonomic status are identified and assigned. Spelling and other errors in assigning species authorship are also corrected.
+
+Data validation
+The Project Personnel complete a review and validate all the annotations, especially those on provenance and &apos;invasive&apos; status of the species based on evidence of impact.
+
+Data verification
+The checklist is submitted to a network of country editors for a review of both accuracy of records, annotations, and identification of any significant gaps in the data. Data verification is an iterative process and the activity for a particular version is declared complete on agreement of all relevant country editors (see versioning details below).
+
+One of the key tenets of the GRIIS project has been engagement with country editors in the verification process and as custodians of country checklists. While this has been possible in the majority of countries, for a small number of countries this engagement process has not succeeded in delivering a verified checklist. In these cases, the GRIIS Project Personnel have completed the validation of the species records but continue to work towards identifying country experts.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="GRIIS">
+    <title>Global Register of Introduced and Invasive Species GRIIS</title>
+      <personnel>
+        <individualName>
+            <givenName>Shyama</givenName>
+          <surName>Pagad</surName>
+        </individualName>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>The Global Register of Introduced and Invasive Species (GRIIS) presents validated and verified checklists of introduced (alien) and invasive alien species at the country, territory level.  The development of the GRIIS resource is an initiative supported by the Secretariat of the Convention on Biological Diversity (CBD) and was originally implemented within the framework of the Global Invasive Alien Species Information Partnership (GIASIPartnership). The IUCN SSC Invasive Species Specialist Group (ISSG) is the project lead and includes a dedicated GRIIS unit. 
+
+The resource is designed to support national governments to make progress to achieve invasive alien species targets under the Convention on Biological Diversity and the Sustainable Development Goals; especially in the development of their National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan (NIASAP), target setting and monitoring.</para>
+      </abstract>
+      <funding>
+        <para>The GRIIS initiative was developed within the framework of the GIASIPartnership, with co-funding from the European Union through the Secretariat of the Convention on Biological Diversity. As coordinator of GIASIP, and on behalf of CBD Secretariat, GBIF has supported the development of GRIIS and its integration into the GBIF data infrastructure to ensure interoperability. In July 2019, GBIF provided direct funding from its core budget to support the completion of GRIIS lists for all countries, EU Overseas Territories and selected islands by March 2020.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>GRIIS has global coverage, including overseas territories and regions. Where appropriate, sub-lists have been created for Oceanic Islands- for e.g. Soqotra of Yemen and the Juan Fernandez Islands of Chile. 
+
+Taxonomic coverage includes all kingdoms of organisms: Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses.
+
+The annotations recorded in GRIIS include- Species name and authorship, synonyms if used and authorship, Higher taxonomy (kingdom, phylum, class, order and family), Environment/system in which the species occurs (terrestrial, freshwater, brackish, marine, host), provenance or origin of the species, invasive status of the alien species. The inclusion of additional annotations are planned, including the date of introduction or first record of the alien species, type of introduction (deliberate or accidental), pathways of introduction, impact mechanism and the global EICAT (Environmental Impact Classification of Alien Taxa) category assigned to the species.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>The Global Register of Invasive Species (GRIS) was developed as a concept and prototype by the ISSG in 2006 as part of a project undertaken for the Defenders of Wildlife on the Regulation of Live Animal Imports into the United States. 
+
+Between 2011-2020, the concept was revisited and expanded by the ISSG to address Aichi Biodiversity Target 9 and support its achievement - with the development of the Global Register of Introduced and Invasive Species (GRIIS). GRIIS hosted by the ISSG compiles annotated and verified national checklists of introduced (alien) and invasive alien species. Development and population of the GRIIS was undertaken by the ISSG within the framework of activities of the Information Synthesis and Assessment Working Group of the Global Invasive Alien Species Information Partnership.
+
+The GRIIS checklist is an annotated species catalogue, or inventory, recorded from a country, an island, protected area, or area of high biodiversity value. Following GBIF&apos;s guide to best practices for publishing species checklists (Hanmer et al 2012), the GRIIS checklist includes taxonomic information in a standard way. The checklist is compiled by a team of experts and non-specialists including citizen scientists that have knowledge of species taxonomy, access to reliable and authoritative source information that can be validated and verified (for methods please see Pagad et al. 2018).  
+
+A summary of the process
+•	The ISSG GRIIS unit conducts a comprehensive review of authoritative and credible information sources and develops a draft annotated country checklist of introduced (alien) and invasive alien species. 
+•	Annotations include species name (accepted name and synonym if used by the source), higher taxonomy, environment/system in which the species occurs, biological status (provenance (alien or not) and invasiveness-based on evidence of impact), 
+•	Country editor/editors are identified and consulted for advice, including knowledge of additional key data sources 
+•	Draft checklists are submitted to country editors for a review of both accuracy of information and to identify any significant gaps. Revisions are implemented based on feedback. 
+•	Every species record includes a check (indication) if the status has been verified as such by country editors. In cases where ‘evidence of impact’ information is gathered from peer-reviewed literature or reports for the country in question, the species status is designated as &apos;verified&apos;.
+•	Names of the editors as well as the complete reference list of sources consulted is recorded.  Key references used to develop the GRIIS checklists are provided as part of the metadata. References for every species recorded are available on request.
+•	Incremental updates are implemented on an on-going basis. Bi-annual major updates are planned for all checklists. 
+
+Notes on the annotations
+•	Species names recorded from source information are referred to the GBIF taxonomic editor; if the source species name is a synonym, the accepted name is also recorded. This process contributes to the application of  a consistent taxonomy across all inventories. 
+•	Higher taxonomy - Kingdom, Phylum, Class, Order, Genus and Species with species authority. 
+•	Environment system – terrestrial / freshwater / brackish / marine/ host and combinations thereof
+•	Provenance - a) as recorded by the source information, b) as interpreted by the compiler - three options are applied alien, native/alien (if the species is native in a part of a country and alien in another part), provenance uncertain/cryptogenic 
+•	Invasiveness is based on evidence of impact
+
+Note: In cases where country editors have not been identified, the checklist is published after the GRIIS unit validates the checklist. The GRIIS team members are listed as originators of the checklist. The checklist is reviewed by country editors once they have been identified and the expert’s names are listed as originators of the checklist.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2019-12-30T00:04:11.278+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Kolbaia S, Lortkipanidze B, Kikodze D, Wong L J, Pagad S (2020): Global Register of Introduced and Invasive Species - Georgia. v1.5. Invasive Species Specialist Group ISSG. Dataset/Checklist. https://cloud.gbif.org/griis/resource?r=griis-georgia&amp;v=1.5</citation>
+          <bibliography>
+                <citation>Hamer, M., Victor, J., Smith, G.F. (2012). Best Practice Guide for Compiling, Maintaining and Disseminating National Species Checklists, version 1.0, released in October 2012. Copenhagen: Global Biodiversity Information Facility, 40 pp, ISBN: 87-92020-48-8, Accessible at http://www.gbif.org/orc/?doc_id=4752.</citation>
+                <citation>Pagad S, Genovesi P, Carnevali L, Schigel D, McGeoch MA (2018) Introducing the Global Register of Introduced and Invasive Species. Scientific Data, 5, 170202.
+https://www.nature.com/articles/sdata2017202</citation>
+                <citation>Parker I, Simberloff D, Lonsdale W. et al. (1999) Impact: Toward a Framework for Understanding the Ecological Effects of Invaders. Biological Invasions 1, 3–19 (1999). https://doi.org/10.1023/A:1010034312781</citation>
+                <citation>Didham RK, Tylianakis JM, Hutchison MA, Ewers RM, Gemmell NJ. (2005) Are invasive species the drivers of ecological change? Trends Ecol Evol. 2005 Sep;20(9):470-4. Epub 2005 Jul 21.</citation>
+                <citation>Strayer DL, Eviner VT, Jeschke JM, Pace ML. (2006) Understanding the long-term effects of species invasions. Trends in Ecology &amp; Evolution 21(11):645-51</citation>
+                <citation>McGeoch MA, Butchart SHM, Spear D, Marais E. Kleynhans EJ, Symes A, Chanson J, Hoffmann M. (2010) Global indicators of biological invasion: species numbers, biodiversity impact and policy responses. Diversity and Distributions Volume16, Issue1 January 2010.</citation>
+                <citation>McGeoch, M.A., Spear, D., Kleynhans, E.J. &amp; Marais, E. 2012. Uncertainty in invasive alien species listing. Ecological Applications 22, 959-971. 10.1890/11-1252.1</citation>
+                <citation>Vilà M, Espinar JL, Hejda M, Hulme PE, Jarošík V, Maron JL, Pergl J, Schaffner U, Sun Y, Pyšek P. (2011) Ecological impacts of invasive alien plants: a meta‐analysis of their effects on species, communities and ecosystems. Ecology Letters Volume14, Issue7 July 2011 Pages 702-708.</citation>
+                <citation>Hawkins CL, Bacher S, Essl F, Hulme PE, Jeschke JM, Kühn I, Kumschick S, Nentwig W, Pergl J, Pyšek P, Rabitsch W, Richardson DM, Vilà  M, Wilson JRU, Genovesi P, Blackburn TM. (2015) Framework and guidelines for implementing the proposed IUCN Environmental Impact Classification for Alien Taxa (EICAT) Diversity and Distributions Volume21, Issue11 November 2015 Pages 1360-1363</citation>
+                <citation>Yankova, M.; Pavlov, D.; Ivanova, P.; Karpova, E.; Boltachev, A.; Bat, L.; Oral, M.; Mgeladze, M. (2013). &quot;Annotated check list of the non˗native fish species (Pisces) of the Black Sea&quot;. J. Black Sea/Mediterranean Environment, 19(2), 247˗255.</citation>
+                <citation>Sharabidze, A.; Mikeladze, I.; Gvarishvili, N.; Davitadze, M. (2018). Invasion of Foreign Origin (Alien) Woody Plants in Seaside Adjara. Biological Forum – An International Journal, 10(2), 109-113.</citation>
+                <citation>Thalmann, D. J. K.; Kikodze, D.; Khutsishvili, M.; Kharazishvili, D.; Guisan, A.; Broennimann, O.;  Muller-Scharer, H. (2015). &quot;Areas of high conservation value in Georgia: present and future threats by invasive alien plants&quot;. Biol Invasions, 17, 1041–1054.</citation>
+                <citation>Japoshvili, B.; Mumladze, L,; Kucuk, F.	(2013).	Invasive Carassius carp in Georgia: Current state of knowledge and future perspectives. Current Zoology, 59(6), 732–739.</citation>
+                <citation>Slodowicz, D.; Kikodze, D.; Khutsishvili, M.;  Kalatozishvili, L.; Muller-Scharer, H. (2018). &quot;Monitoring of Invasive Alien Plants in Protected Areas of Georgia&quot;. Bull. Georg. Natl. Acad. Sci, 12(2).</citation>
+                <citation>Akiner, M. M.; Demirci, B.; Babuadze, G.; Robert, V.; Schaffner, F. (2016). Spread of the Invasive Mosquitoes Aedes aegypti and Aedes albopictus in the Black Sea Region Increases Risk of Chikungunya, Dengue, and Zika Outbreaks in Europe. PLoS Negl Trop Dis, 10(4). e0004664. https://doi.org/10.1371/journal.pntd.0004664</citation>
+                <citation>Kikodze, D., et al. (2010). &quot;The alien flora of Georgia.&quot; Joint SNSF SCOPES and FOEN publication.</citation>
+                <citation>Lortkipanidze, B. (2019). 6th CBD Georgia, Convention on Biological Diversity, 6th National Report.</citation>
+                <citation>Bury, J., et al. (2017). &quot;First records of the invasive box tree moth Cydalima perspectalis (Walker, 1859)(Lepidoptera: Crambidae) in south-eastern Poland.&quot; Fragmenta Faunistica 60(2): 101-106.</citation>
+                <citation>Herbst, P., et al. (2012). Legal aspects of European forest sustainable development. Proceedings of the 14th International Symposium, Minsk, Republic of Belarus, 19-21 September 2012. Legal aspects of European forest sustainable development. Proceedings of the 14th International Symposium, Minsk, Republic of Belarus, 19-21 September 2012., RUE Minsktipproekt.</citation>
+                <citation>Japoshvili, G., et al. (2018). &quot;A new and dangerous pest for the Caucasus–Drosophila suzukii (Matsumura, 1931)(Diptera: Drosophilidae).&quot; Annals of Agrarian Science 16(4): 464-465.</citation>
+                <citation>Jinjolia, L. and N. Shakarishvili (2014). &quot;Grindelia squarrosa (Pursh) Dunal-a New Alien Genus and Species for Flora of Georgia.&quot; Bull. Georg. Natl. Acad. Sci 8(3).</citation>
+                <citation>Kuljanishvili, T., et al. (2018). &quot;Preliminary information about the occurrence of Prussian carp Carassius gibelio (Bloch 1782) in mountainous Lake Devdoraki (Caucasus, Georgia).&quot;</citation>
+                <citation>Kutateladze, T., et al. (2016). &quot;First record of Aedes albopictus in Georgia and updated checklist of reported species.&quot; Journal of the American Mosquito Control Association 32(3): 230-233.</citation>
+                <citation>Matsiakh, I., et al. (2018). &quot;Box tree moth Cydalima perspectalis as a threat to the native populations of Buxus colchica in Republic of Georgia.&quot; Journal of the Entomological Research Society 20(2): 29-42.</citation>
+                <citation>Mikeladze, I., et al. (2015). Sicyos angulatus L. new Alien Species in Souhtern Colkheti Flora (Adjara, Georgia). Biological Forum, Research Trend.</citation>
+                <citation>Mumladze, L., et al. (2019). &quot;New alien species Mytilopsis leucophaeata and Corbicula fluminalis (Mollusca, Bivalvia) recorded in Georgia and notes on other non-indigenous molluscs invaded the South Caucasus.&quot; Vestnik zoologii 53(3): 187-194.</citation>
+                <citation>Murvanidze, M., et al. (2018). &quot;Preliminary data on the biology of brown marmorated stink bug Halyomorpha halys (Hemiptera, Pentatomidae) in Georgia.&quot; Turkish Journal of Zoology 42(6): 617-624.</citation>
+                <citation>Orlova-Bienkowskaja, M. J. (2014). &quot;The outbreak of harlequin ladybird Harmonia axyridis (Pallas, 1773)(Coleoptera, Coccinellidae) in the Caucasus and possible sources of invasion.&quot; Russian Journal of Biological Invasions 5(4): 275-281.</citation>
+                <citation>Patarkalashvili, T. (2017). &quot;Forest biodiversity of Georgia and endangered plant species.&quot; Annals of Agrarian Science 15(3): 349-351.</citation>
+                <citation>Shoniya, L., et al. (2011). &quot;The invasive species Pseudorazbora parva (Teleostei, Cyprinidae) in the ecosystem of Lake Bazalety.&quot; Zoologicheskiĭ Zhurnal 90(10): 1277-1280.</citation>
+                <citation>Verloove, F. (2006). &quot;Verbena brasiliensis (Verbenaceae), a new record for the flora of Georgia (Former USSR).&quot; Systematics and Geography of Plants: 185-189.</citation>
+                <citation>Vinarski, M. V. and D. M. Palatov (2018). &quot;Ferrissia californica (Gastropoda: Planorbidae): the first record of a global invader in a cave habitat.&quot; Journal of Natural History 52(17-18): 1147-1155.</citation>
+          </bibliography>
+          <dc:replaces>cbf356f0-f2a3-48ef-9217-5410654bf2d2/v1.5.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

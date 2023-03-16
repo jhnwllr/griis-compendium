@@ -1,0 +1,541 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+121975	121975	Abelmoschus moschatus (L.) Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+121976	121976	Abutilon indicum (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+121977	121977	Acacia auriculiformis A.Cunn. ex Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+121978	121978	Acalypha amentacea Roxb.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+121979	121979	Acalypha hispida Burm.f.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+121980	121980	Acanthaster planci (Linnaeus, 1758)		Animalia	Echinodermata	Asteroidea	Valvatida	Acanthasteridae	SPECIES	ACCEPTED
+121981	121981	Achatina fulica Bowdich, 1822	Lissachatina fulica (Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	SYNONYM
+121982	121982	Achyranthes aspera L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+121983	121983	Acmella uliginosa (Sw.) Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+121984	121984	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+121985	121985	Adenium coetaneum Stapf	Adenium obesum Roem. & Schult.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	SYNONYM
+121986	121986	Adenostemma lanceolatum Miq.	Adenostemma parviflorum (Blume) DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+121987	121987	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+121988	121988	Aedes albopictus (Skuse, 1894)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+121989	121989	Agapanthus praecox Willd.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+121990	121990	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+121991	121991	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+121992	121992	Aglaonema commutatum Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+121993	121993	Aleurites moluccanus (L.) Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+121994	121994	Allamanda blanchetii A.DC.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+121995	121995	Allamanda cathartica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+121996	121996	Allamanda hendersonii W.Bull ex Tombrain	Allamanda cathartica L.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	SYNONYM
+121997	121997	Allamanda violacea Gardner & Fielding	Allamanda blanchetii A.DC.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	SYNONYM
+121998	121998	Alocasia cucullata (Lour.) G.Don		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+121999	121999	Alocasia macrorrhizos (L.) G.Don		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122000	122000	Aloe arborescens Mill.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED
+122001	122001	Aloe vera (L.) Burm.f.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED
+122002	122002	Alpinia purpurata (Vieill.) K.Schum.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+122003	122003	Alpinia zerumbet (Pers.) B.L.Burtt & R.M.Sm.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+122004	122004	Alternanthera brasiliana (L.) Kuntze		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122005	122005	Alternanthera sessilis (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122006	122006	Alysicarpus vaginalis (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122007	122007	Amaranthus blitum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122008	122008	Amaranthus dubius Mart.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122009	122009	Amaranthus graecizans L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122010	122010	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122011	122011	Amaranthus tricolor L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122012	122012	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122013	122013	Angelonia angustifolia Benth.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+122014	122014	Annona muricata L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+122015	122015	Annona squamosa L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+122016	122016	Anoplolepis gracilipes (Smith, 1857)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122017	122017	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+122018	122018	Araucaria heterophylla (Salisb.) Franco		Plantae	Tracheophyta	Pinopsida	Pinales	Araucariaceae	SPECIES	ACCEPTED
+122019	122019	Areca catechu L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122020	122020	Arundina graminifolia (D.Don) Hochr.		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+122021	122021	Asclepias curassavica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122022	122022	Asparagus densiflorus (Kunth) Jessop		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+122023	122023	Asparagus setaceus (Kunth) Jessop		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+122024	122024	Asystasia gangetica (L.) T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122025	122025	Averrhoa bilimbi L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+122026	122026	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+122027	122027	Azolla pinnata R.Br.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+122028	122028	Bambusa blumeana Schult.f.	Bambusa spinosa Roxb.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122029	122029	Bambusa multiplex (Lour.) Raeusch. ex Schult.f.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122030	122030	Barleria cristata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122031	122031	Bauhinia monandra Kurz		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122032	122032	Begonia semperflorens x cultorum		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Begoniaceae	SPECIES	ACCEPTED
+122033	122033	Bemisia tabaci (Gennadius, 1889)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	SPECIES	ACCEPTED
+122034	122034	Bidens alba (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122035	122035	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122036	122036	Blechum brownei Juss.	Ruellia blechum L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+122037	122037	Boehmeria nivea (L.) Gaudich.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	ACCEPTED
+122038	122038	Boiga irregularis (Bechstein, 1802)		Animalia	Chordata	Reptilia	Squamata	Colubridae	SPECIES	ACCEPTED
+122039	122039	Bombax ellipticum Kunth	Pseudobombax ellipticum (Kunth) Dugand	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+122040	122040	Bothriochloa bladhii (Retz.) S.T.Blake		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122041	122041	Bougainvillea glabra Choisy		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+122042	122042	Bougainvillea spectabilis Willd.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+122043	122043	Brachymyrmex obscurior Forel, 1893		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122044	122044	Brassica juncea (L.) Czern.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+122045	122045	Brassica napus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+122046	122046	Brassica rapa L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+122047	122047	Breynia disticha J.R.Forst. & G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+122048	122048	Brugmansia candida Pers.	Brugmansia arborea Steud.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+122049	122049	Buchnera americana L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+122050	122050	Buchnera floridana Gand.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+122051	122051	Caesalpinia bonduc Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122052	122052	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122053	122053	Caladium bicolor (Aiton) Vent.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122054	122054	Callisia fragrans (Lindl.) Woodson		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+122055	122055	Calophyllum inophyllum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Calophyllaceae	SPECIES	ACCEPTED
+122056	122056	Calotropis gigantea (L.) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122057	122057	Cananga odorata (Lam.) Hook.f. & Thomson		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	SPECIES	ACCEPTED
+122058	122058	Canarium indicum L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Burseraceae	SPECIES	ACCEPTED
+122059	122059	Canavalia ensiformis (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122060	122060	Canis lupus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+122061	122061	Canna indica L.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Cannaceae	SPECIES	ACCEPTED
+122062	122062	Canna generalis L.H.Bailey		Plantae	Tracheophyta	Liliopsida	Zingiberales	Cannaceae	SPECIES	ACCEPTED
+122063	122063	Cannabis sativa L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	ACCEPTED
+122064	122064	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+122065	122065	Capsicum frutescens L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122066	122066	Cardamine hirsuta L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+122067	122067	Cardiocondyla minutior Forel, 1899		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122068	122068	Carludovica palmata Ruiz & Pav.		Plantae	Tracheophyta	Liliopsida	Pandanales	Cyclanthaceae	SPECIES	ACCEPTED
+122069	122069	Caryota mitis Lour.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122070	122070	Caryota urens L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122071	122071	Cassia fistula L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122072	122072	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED
+122073	122073	Casuarina litorea L. ex Fosberg & Sachet	Casuarina equisetifolia L.	Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	SYNONYM
+122074	122074	Catharanthus roseus (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122075	122075	Ceiba pentandra (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122076	122076	Celosia argentea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122077	122077	Cenchrus brownii Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122078	122078	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122079	122079	Cenchrus polystachios (L.) Morrone		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122080	122080	Centella asiatica (L.) Urb.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+122081	122081	Cerbera manghas L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122082	122082	Cestrum nocturnum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122083	122083	Chamaerops excelsa (Thunb.) Baker	Rhapis excelsa (Thunb.) A.Henry	Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	SYNONYM
+122084	122084	Cheilocostus speciosus (J.Koenig) C.D.Specht	Hellenia speciosa (J.Koenig) S.R.Dutta	Plantae	Tracheophyta	Liliopsida	Zingiberales	Costaceae	SPECIES	SYNONYM
+122085	122085	Chloris barbata Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122086	122086	Chloris inflata Link	Chloris barbata Sw.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122087	122087	Chlorophytum comosum (Thunb.) Jacques		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+122088	122088	Chromolaena odorata (L.) R.King & H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122089	122089	Chrysalidocarpus lutescens H.Wendl.	Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.	Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	SYNONYM
+122090	122090	Chrysophyllum cainito L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES	ACCEPTED
+122091	122091	Chrysopogon aciculatus (Retz.) Trin.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122092	122092	Citrullus lanatus (Thunb.) Matsum. & Nakai		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+122093	122093	Citrus aurantiifolia (Christm.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+122094	122094	Citrus limon (L.) Burm.fil.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+122095	122095	Clerodendrum buchananii var. fallax (Lindl.) Bakh.	Clerodendrum speciosissimum Drapiez	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	VARIETY	SYNONYM
+122096	122096	Clerodendrum paniculatum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+122097	122097	Clerodendrum quadriloculare (Blanco) Merr.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+122098	122098	Clitoria ternatea L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122099	122099	Clusia rosea Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Clusiaceae	SPECIES	ACCEPTED
+122100	122100	Coccinia grandis (L.) Voigt		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+122101	122101	Coccoloba uvifera (L.) L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+122102	122102	Codiaeum variegatum (L.) Rumph. ex A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122103	122103	Coffea arabica L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122104	122104	Colocasia esculenta (L.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122105	122105	Columba livia J.F.Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+122106	122106	Commelina diffusa Burm.f.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+122107	122107	Conyza bonariensis (L.) Cronquist	Erigeron bonariensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+122108	122108	Conyza canadensis (L.) Cronquist	Erigeron canadensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+122109	122109	Coptotermes formosanus Shiraki, 1909		Animalia	Arthropoda	Insecta	Blattodea	Rhinotermitidae	SPECIES	ACCEPTED
+122110	122110	Corchorus olitorius L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122111	122111	Cordia sebestena L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Cordiaceae	SPECIES	ACCEPTED
+122112	122112	Cordyline fruticosa (L.) A.Chev.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+122113	122113	Coreopsis basalis (Otto & A.Dietr.) S.F.Blake		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122114	122114	Costus woodsonii Maas		Plantae	Tracheophyta	Liliopsida	Zingiberales	Costaceae	SPECIES	ACCEPTED
+122115	122115	Couroupita guianensis Aubl.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Lecythidaceae	SPECIES	ACCEPTED
+122116	122116	Crinum asiaticum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+122117	122117	Crotalaria incana L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122118	122118	Crotalaria longirostrata Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122119	122119	Crotalaria pallida Aiton		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122120	122120	Crotalaria spectabilis Roth		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122121	122121	Cryptanthus zonatus (Vis.) Beer		Plantae	Tracheophyta	Liliopsida	Poales	Bromeliaceae	SPECIES	ACCEPTED
+122122	122122	Cryptostegia grandiflora (Roxb.) R.Br.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122123	122123	Culex annulirostris Skuse, 1889		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+122124	122124	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+122125	122125	Cuphea hyssopifolia Kunth		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+122126	122126	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+122127	122127	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122128	122128	Cycas circinalis L.		Plantae	Tracheophyta	Cycadopsida	Cycadales	Cycadaceae	SPECIES	ACCEPTED
+122129	122129	Cycas revoluta Thunb.		Plantae	Tracheophyta	Cycadopsida	Cycadales	Cycadaceae	SPECIES	ACCEPTED
+122130	122130	Cymbopogon citratus (DC.) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122131	122131	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122132	122132	Cyperus alternifolius L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122133	122133	Cyperus compressus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122134	122134	Cyperus difformis L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122135	122135	Cyperus ferax Rich.	Cyperus odoratus subsp. Odoratus	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+122136	122136	Cyperus involucratus Poir.	Cyperus imbricatus Retz.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+122137	122137	Cyperus javanicus Houtt.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122138	122138	Cyperus ligularis L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122139	122139	Cyperus polystachys Spreng.	Cyperus polystachys Spreng.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+122140	122140	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122141	122141	Dactyloctenium aegyptium (L.) Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122142	122142	Datura metel L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122143	122143	Delonix regia (Bojer ex Hook.) Raf.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122144	122144	Dentella repens (L.) J.R.Forst. & G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122145	122145	Dentella serpyllifolia Wall. ex Craib	Dentella repens J.R.Forst. & G.Forst.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	SYNONYM
+122146	122146	Desmanthus virgatus (L.) Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122147	122147	Desmodium incanum (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122148	122148	Desmodium adscendens (Sw.) DC.	Grona adscendens (Sw.) H.Ohashi & K.Ohashi	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+122149	122149	Desmodium heterocarpon Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122150	122150	Desmodium triflorum Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122151	122151	Dieffenbachia seguine (Jacq.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122152	122152	Digitaria bicornis (Lam.) Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122153	122153	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122154	122154	Digitaria henryi Rendle	Digitaria ciliaris (Retz.) Koeler	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122155	122155	Digitaria insularis (L.) Mez ex Ekman		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122156	122156	Digitaria setigera Roth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122157	122157	Digitaria timorensis (Kunth) Balansa	Digitaria radicosa Miq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122158	122158	Digitaria violascens Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122159	122159	Dioscorea bulbifera L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	ACCEPTED
+122160	122160	Dolichos lablab L.	Lablab purpureus subsp. Purpureus	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+122161	122161	Duranta repens L.	Duranta erecta L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	SYNONYM
+122162	122162	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122163	122163	Echinochloa crus-galli (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122164	122164	Eclipta prostrata (L.) L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122165	122165	Eichhornia crassipes (Mart.) Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+122166	122166	Elaeis guineensis Jacq.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122167	122167	Eleocharis geniculata (L.) Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122168	122168	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122169	122169	Emilia fosbergii Nicolson		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122170	122170	Epiphyllum oxypetalum (DC.) Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+122171	122171	Epipremnum pinnatum (L.) Engl.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122172	122172	Episcia cupreata (Hook.fil.) Hanst.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Gesneriaceae	SPECIES	ACCEPTED
+122173	122173	Eragrostis amabilis (L.) Wight & Arn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122174	122174	Eragrostis ciliaris (L.) R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122175	122175	Eragrostis minor Host		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122176	122176	Eragrostis pectinacea (Michx.) Nees		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122177	122177	Eragrostis scabriflora Swallen		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122178	122178	Eragrostis tenella Benth., 1861		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122179	122179	Erigeron bellioides DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122180	122180	Erigeron bellioides DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122181	122181	Eriobotrya japonica (Thunb.) Lindl.	Rhaphiolepis loquata B.B.Liu & J.Wen	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+122182	122182	Erythrina variegata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122183	122183	Eucalyptus citriodora Hook.	Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	SYNONYM
+122184	122184	Eugenia uniflora L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+122185	122185	Euphorbia cyathophora Murray	Euphorbia heterophylla L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+122186	122186	Euphorbia glomerifera (Millsp.) L.C.Wheeler	Euphorbia hypericifolia L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+122187	122187	Euphorbia heterophylla L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122188	122188	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122189	122189	Euphorbia hypericifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122190	122190	Euphorbia hyssopifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122191	122191	Euphorbia lactea Haw.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122192	122192	Euphorbia maculata L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122193	122193	Euphorbia milii Des Moul.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122194	122194	Euphorbia neriifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122195	122195	Euphorbia prostrata Aiton		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122196	122196	Euphorbia thymifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122197	122197	Euphorbia tirucalli L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122198	122198	Euphorbia cyathophora Murray	Euphorbia heterophylla L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+122199	122199	Euphorhia pulcherrima		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122200	122200	Euphorbia tirucalli L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122201	122201	Eustachys petraea (Sw.) Desv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122202	122202	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+122203	122203	Ficus benjamina L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+122204	122204	Ficus carica L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+122205	122205	Ficus elastica Roxb.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+122206	122206	Ficus microcarpa L.fil.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+122207	122207	Ficus rubiginosa Desf.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+122208	122208	Ficus tinctoria G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+122209	122209	Fleurya interrupta (L.) Wight	Laportea interrupta (L.) Chew	Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	SYNONYM
+122210	122210	Foeniculum vulgare Mill.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+122211	122211	Fuirena umbellata Rottb.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+122212	122212	Gallus gallus (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+122213	122213	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+122214	122214	Gardenia augusta Merr.	Gardenia jasminoides Ellis	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	SYNONYM
+122215	122215	Gardenia taitensis DC.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122216	122216	Gehyra oceanica (Lesson, 1830)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+122217	122217	Gliricidia sepium (Jacq.) Kunth ex Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	DOUBTFUL
+122218	122218	Gloriosa superba L.		Plantae	Tracheophyta	Liliopsida	Liliales	Colchicaceae	SPECIES	ACCEPTED
+122219	122219	Gomphrena globosa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+122220	122220	Gossypium barbadense L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122221	122221	Graptophyllum pictum (L.) Griff.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122222	122222	Grevillea robusta A.Cunn. ex R.Br.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED
+122223	122223	Gynandropsis speciosa (Kunth) DC.	Cleoserrata speciosa (Raf.) Iltis	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SPECIES	SYNONYM
+122224	122224	Hamelia patens Jacq.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122225	122225	Hedychium coronarium J.Koenig		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+122226	122226	Hedyotis corymbosa (L.) Lam.	Oldenlandia corymbosa L.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	SYNONYM
+122227	122227	Helianthus annuus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122228	122228	Heliconia collinsiana Griggs		Plantae	Tracheophyta	Liliopsida	Zingiberales	Heliconiaceae	SPECIES	ACCEPTED
+122229	122229	Heliotropium curassavicum L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Heliotropiaceae	SPECIES	ACCEPTED
+122230	122230	Heliotropium procumbens Mill.	Euploca procumbens (Mill.) Diane & Hilger	Plantae	Tracheophyta	Magnoliopsida	Boraginales	Heliotropiaceae	SPECIES	SYNONYM
+122231	122231	Hemidactylus frenatus Duméril & Bibron, 1836		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+122232	122232	Hemigraphis alternata (Burm.fil.) T.Anderson	Strobilanthes alternata (Burm.f.) Moylan ex J.R.I.Wood	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+122233	122233	Hemigraphis reptans Engl., 1886		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122234	122234	Hibiscus esculentus L.	Abelmoschus esculentus Moench	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+122235	122235	Hibiscus mutabilis L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122236	122236	Hibiscus rosa-sinensis L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122237	122237	Hibiscus schizopetalus (Dyer) Hook.fil.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122238	122238	Hibiscus syriacus L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122239	122239	Hibiscus tiliaceus L.	Talipariti tiliaceum (L.) Fryxell	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+122240	122240	Hippeastrum puniceum (Lam.) Voss		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+122241	122241	Hippeastrum striatum (Lam.) H.E.Moore		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+122242	122242	Hippobroma longiflora (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Asterales	Campanulaceae	SPECIES	ACCEPTED
+122243	122243	Hippobroma longiflora (L.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Asterales	Campanulaceae	SPECIES	ACCEPTED
+122244	122244	Holmskioldia sanguinea Retz.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+122245	122245	Howea forsteriana (F.Muell.) Becc.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122246	122246	Hoya australis R.Br. ex Traill		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122247	122247	Hymenocallis littoralis (Jacq.) Salisb.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+122248	122248	Hypoponera punctatissima (Roger, 1859)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122249	122249	Icerya purchasi Maskell, 1879		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+122250	122250	Impatiens balsamina L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+122251	122251	Impatiens walleriana Hook.fil.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+122252	122252	Ipomoea aquatica Forssk.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122253	122253	Ipomoea batatas (L.) Lam.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122254	122254	Ipomoea carnea Jacq.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122255	122255	Ipomoea carnea subsp. fistulosa (Mart. ex Choisy) D.F.Austin		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SUBSPECIES	ACCEPTED
+122256	122256	Ipomoea pes-caprae (L.) R.Br.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122257	122257	Ipomoea quamoclit L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122258	122258	Ipomoea triloba L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122259	122259	Ipomoea violacea L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122260	122260	Iridomyrmex anceps (Roger, 1863)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122261	122261	Ixora casei Hance		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122262	122262	Ixora coccinea L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122263	122263	Ixora macrothyrsa (Teijsm. & Binn.) N.E.Br.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122264	122264	Jacaranda acutifolia Humb. & Bonpl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+122265	122265	Jacquinia aurantiaca Aiton	Bonellia macrocarpa subsp. Macrocarpa	Plantae	Tracheophyta	Magnoliopsida	Ericales	Primulaceae	SPECIES	SYNONYM
+122266	122266	Jasminum multiflorum (Burm.f.) Andrews		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+122267	122267	Jasminum sambac (L.) Aiton		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+122268	122268	Jatropha integerrima Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122269	122269	Jatropha multifida L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122270	122270	Justicia brandegeeana Wassh. & L.B.Sm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122271	122271	Justicia carnea Lindl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122272	122272	Kalanchoe daigremontiana Raym.-Hamet & Perrier		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+122273	122273	Kalanchoe delagoensis Eckl. & Zeyh.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+122274	122274	Kalanchoe fedtschenkoi Raym.-Hamet & Perrier		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+122275	122275	Kalanchoe pinnata (Lam.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+122276	122276	Kappaphycus Doty, 1988		Plantae	Rhodophyta	Florideophyceae	Gigartinales	Solieriaceae	GENUS	ACCEPTED
+122277	122277	Kyllinga brevifolia Rottb.	Cyperus brevifolius (Rottb.) Hassk.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+122278	122278	Kyllinga nemoralis (J.R.Forst. & G.Forst.) Dandy ex Hutch. & Dalziel	Cyperus mindorensis (Steud.) Huygh	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+122279	122279	Lablab purpureus (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122280	122280	Lagerstroemia indica L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+122281	122281	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+122282	122282	Leptochloa fusca Linnaeus, 1753		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122283	122283	Leptogenys falcigera Roger, 1861		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122284	122284	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122285	122285	Licuala grandis (T.Moore) H.Wendl.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122286	122286	Lindernia antipoda Linnaeus, 1753		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	ACCEPTED
+122287	122287	Lindernia crustacea (L.) F.Muell.	Torenia crustacea Cham. & Schltdl.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	SYNONYM
+122288	122288	Lippia nodiflora (L.) Michx.	Phyla nodiflora (L.) Greene	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	SYNONYM
+122289	122289	Livistona chinensis (Jacq.) R.Br. ex Mart.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122290	122290	Lobularia maritima (L.) Desv.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+122291	122291	Lonicera japonica Thunb.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED
+122292	122292	Ludwigia hyssopifolia (G.Don) Exell		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+122293	122293	Ludwigia octovalvis (Jacq.) Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+122294	122294	Luffa acutangula (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+122295	122295	Luffa aegyptiaca Mill.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+122296	122296	Macadamia integrifolia Maiden & Betche		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED
+122297	122297	Macaranga tanarius (L.) MÃ¼ll.Arg.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122298	122298	Malvastrum coromandelianum (L.) Garcke		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122299	122299	Malvaviscus arboreus Cav.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122300	122300	Malvaviscus penduliflorus Moc. & Sessé ex DC.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122301	122301	Mammea odorata (Raf.) Kosterm.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Calophyllaceae	SPECIES	ACCEPTED
+122302	122302	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+122303	122303	Manilkara zapota (L.) P.Royen		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	SPECIES	ACCEPTED
+122304	122304	Melastoma malabathricum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Melastomataceae	SPECIES	ACCEPTED
+122305	122305	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+122306	122306	Melinis repens (Willd.) Zizka		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122307	122307	Merremia peltata (L.) Merr.	Decalobanthus peltatus (L.) A.R.Simões & Staples	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+122308	122308	Merremia Dennst. ex Endl.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+122309	122309	Metroxylon amicarum (H.Wendl.) Hook.f.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122310	122310	Mikania micrantha Kunth		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122311	122311	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122312	122312	Mirabilis jalapa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+122313	122313	Miscanthus sinensis Andersson		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122314	122314	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+122315	122315	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122316	122316	Monomorium pharaonis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122317	122317	Morinda citrifolia L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122318	122318	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	SPECIES	ACCEPTED
+122319	122319	Murraya paniculata (L.) Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SPECIES	ACCEPTED
+122320	122320	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+122321	122321	Mussaenda philippica f. aurorae (Sulit) Jayaw.	Mussaenda philippica A.Rich.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	FORM	SYNONYM
+122322	122322	Myroxylon balsamum (L.) Harms		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122323	122323	Nerium indicum Mill.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122324	122324	Nerium oleander L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122325	122325	Nicotiana glauca Graham		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122326	122326	Nicotiana tabacum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122327	122327	Nylanderia clandestina		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	
+122328	122328	Ocimum basilicum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+122329	122329	Odontomachus simillimus Smith, 1858		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122330	122330	Odontonema cuspidatum (Nees) Kuntze		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122331	122331	Oenanthe stolonifera Wall.	Pimpinella javana DC.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	SYNONYM
+122332	122332	Oldenlandia corymbosa L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122333	122333	Ooceraea biroi (Forel, 1907)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122334	122334	Oplismenus compositus (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122335	122335	Oplismenus hirtellus (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122336	122336	Opuntia monacantha (Willd.) Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+122337	122337	Osteomeles anthyllidifolia (Sm.) Lindl.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+122338	122338	Oxalis corniculata L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+122339	122339	Pandanus sanderi Sander ex Mast., 1898		Plantae	Tracheophyta	Liliopsida	Pandanales	Pandanaceae	SPECIES	ACCEPTED
+122340	122340	Panicum muticum Link, 1827		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122341	122341	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122342	122342	Paropeas achatinaceum (L.Pfeiffer, 1846)		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	SPECIES	ACCEPTED
+122343	122343	Paspalum conjugatum P.J.Bergius		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122344	122344	Paspalum distichum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122345	122345	Paspalum fimbriatum Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122346	122346	Paspalum scrobiculatum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122347	122347	Paspalum setaceum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122348	122348	Paspalum setaceum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122349	122349	Paspalum vaginatum Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122350	122350	Passer montanus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED
+122351	122351	Passiflora edulis Sims		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+122352	122352	Passiflora foetida L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+122353	122353	Passiflora laurifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED
+122354	122354	Pavo cristatus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED
+122355	122355	Pennisetum purpureum Schumach.	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122356	122356	Pentas lanceolata (Forssk.) Deflers		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122357	122357	Peperomia obtusifolia (L.) A.Dietr.		Plantae	Tracheophyta	Magnoliopsida	Piperales	Piperaceae	SPECIES	ACCEPTED
+122358	122358	Peperomia pellucida (L.) Kunth		Plantae	Tracheophyta	Magnoliopsida	Piperales	Piperaceae	SPECIES	ACCEPTED
+122359	122359	Persea americana Mill.		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+122360	122360	Petrea volubilis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+122361	122361	Petroselinum crispum (Mill.) Fuss		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+122362	122362	Phaseolus lunatus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122363	122363	Pheidole fervens Smith, 1858		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122364	122364	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122365	122365	Philodendron scandens K.Koch & Sello	Philodendron hederaceum var. hederaceum	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	SYNONYM
+122366	122366	Philodendron undulatum Engl.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122367	122367	Phoenix canariensis H.Wildpret		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122368	122368	Phoenix dactylifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122369	122369	Phyla nodiflora (L.) Greene		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+122370	122370	Phyllanthus amarus Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+122371	122371	Phyllanthus debilis J.G.Klein ex Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	SPECIES	ACCEPTED
+122372	122372	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122373	122373	Pilea microphylla (L.) Liebm.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	ACCEPTED
+122374	122374	Pilea nummulariifolia (Sw.) Wedd.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	ACCEPTED
+122375	122375	Pimenta dioica (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+122376	122376	Pinctada fucata martensii (Dunker, 1880)	Pinctada imbricata Röding, 1798	Animalia	Mollusca	Bivalvia	Ostreida	Margaritidae	SUBSPECIES	SYNONYM
+122377	122377	Pinus thunbergiana Franco	Pinus thunbergii Parl.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	SYNONYM
+122378	122378	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122379	122379	Plantago major L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+122380	122380	Plectranthus amboinicus (Lour.) Spreng.	Coleus amboinicus Lour.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+122381	122381	Plectranthus graveolens R.Br.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+122382	122382	Plectranthus scutellarioides (L.) R.Br.	Coleus scutellarioides (L.) Benth.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+122383	122383	Plotosus lineatus (Thunberg, 1787)		Animalia	Chordata	Actinopterygii	Siluriformes	Plotosidae	SPECIES	ACCEPTED
+122384	122384	Pluchea carolinensis (Jacq.) G.Don		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122385	122385	Pluchea indica (L.) Less.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122386	122386	Pluchea odorata (L.) Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122387	122387	Pluchea symphytifolia (Mill.) Gillis	Neurolaena lobata (L.) R.Br.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+122388	122388	Pluchea ×fosbergii Cooperr. & Galang Cooperr. & Galang		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122389	122389	Plumeria rubra L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122390	122390	Poecilia reticulata Peters, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+122391	122391	Poecilia sphenops Valenciennes, 1846		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+122392	122392	Polypremum procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Tetrachondraceae	SPECIES	ACCEPTED
+122393	122393	Polyscias cumingiana (C.Presl) Fern.-Vill.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+122394	122394	Polyscias filicifolia (C.Moore ex E.Fourn.) L.H.Bailey		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+122395	122395	Polyscias fruticosa (L.) Harms		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+122396	122396	Polyscias guilfoylei (W.Bull) L.H.Bailey		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+122397	122397	Polyscias tricochleata (Miq.) Fosberg	Polyscias scutellaria (Burm.f.) Fosberg	Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	SYNONYM
+122398	122398	Polytrias indica (Houtt.) Veldkamp		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122399	122399	Pometia pinnata J.R.Forst. & G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+122400	122400	Portulaca grandiflora Hook.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	SPECIES	ACCEPTED
+122401	122401	Portulaca oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	SPECIES	ACCEPTED
+122402	122402	Pritchardia pacifica Seem. & H.Wendl.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122403	122403	Pseuderanthemum atropurpureum L.H.Bailey	Pseuderanthemum carruthersii var. atropurpureum (Bull) Fosberg	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+122404	122404	Pseuderanthemum carruthersii (Seem.) Guill.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122405	122405	Pseuderanthemum reticulatum (hort. ex Hook.fil.) Radlk.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122406	122406	Pseudogynoxys chenopodioides (Kunth) Cabrera		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122407	122407	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+122408	122408	Ptychosperma macarthurii (H.Wendl. ex H.J.Veitch) H.Wendl. ex Hook.f.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+122409	122409	Punica granatum L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+122410	122410	Pycnonotus cafer (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	ACCEPTED
+122411	122411	Quisqualis indica L.	Combretum indicum (L.) Jongkind	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	SYNONYM
+122412	122412	Ramphotyphlops braminus (Daudin, 1803)	Indotyphlops braminus (Daudin, 1803)	Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	SYNONYM
+122413	122413	Raphanus sativus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+122414	122414	Rattus exulans (Peale, 1848)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+122415	122415	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+122416	122416	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+122417	122417	Ravenala madagascariensis Sonn.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Strelitziaceae	SPECIES	ACCEPTED
+122418	122418	Rhaphiolepis umbellata (Thunb.) C.K.Schneid.	Rhaphiolepis indica (L.) Lindl.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+122419	122419	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	SPECIES	ACCEPTED
+122420	122420	Rhoeo spathacea (Sw.) Stearn	Tradescantia spathacea Sw.	Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	SYNONYM
+122421	122421	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+122422	122422	Ruellia blechum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122423	122423	Ruellia brittoniana Leonard	Ruellia simplex C.Wright	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	SYNONYM
+122424	122424	Russelia equisetiformis Schltdl. & Cham.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+122425	122425	Samanea saman (Jacq.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122426	122426	Sambucus mexicana C.Presl	Sambucus nigra L.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Adoxaceae	SPECIES	SYNONYM
+122427	122427	Sansevieria metallica GÃ©rÃ´me & Labroy		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+122428	122428	Sansevieria trifasciata Prain		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+122429	122429	Schefflera actinophylla (Endl.) Harms		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+122430	122430	Schefflera arboricola (Hayata) Merr.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+122431	122431	Schinus terebinthifolia Raddi		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+122432	122432	Scoparia dulcis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+122433	122433	Senna alata (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122434	122434	Senna obtusifolia (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122435	122435	Senna occidentalis (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122436	122436	Senna sophera (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122437	122437	Senna surattensis (Burm.f.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+122438	122438	Sesbania grandiflora (L.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	DOUBTFUL
+122439	122439	Setaria geniculata P.Brauv., 1812	Setaria parviflora (Poir.) Kerguélen	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122440	122440	Setaria pallide-fusca (Schumach.) Stapf & C.E.Hubb.	Setaria helvola (L.f.) Roem. & Schult.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122441	122441	Setaria parviflora (Poir.) KerguÃ©len		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122442	122442	Setaria pumila (Poir.) Roem. & Schult.	Setaria helvola Roem. & Schult.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122443	122443	Setaria verticillata (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122444	122444	Setcreasea purpurea Boom		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	SYNONYM
+122445	122445	Sida acuta Burm.fil.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122446	122446	Sida rhombifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122447	122447	Siganus spinus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+122448	122448	Solanum americanum Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122449	122449	Solanum lycopersicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122450	122450	Solanum torvum Sw.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+122451	122451	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122452	122452	Sonchus oleraceus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122453	122453	Sorghum bicolor (L.) Moench		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122454	122454	Spathodea campanulata Beauv.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+122455	122455	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+122456	122456	Spermacoce ernstii Fosberg & D.Powell	Spermacoce ovalifolia Hemsl.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	SYNONYM
+122457	122457	Spermacoce ovalifolia (M.Martens & Galeotti) Hemsl.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122458	122458	Spermacoce remota Lam.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	SPECIES	ACCEPTED
+122459	122459	Sphagneticola trilobata (L.) Pruski		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122460	122460	Sporobolus indicus (L.) R.Br.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122461	122461	Stachytarpheta cayennensis (Rich.) Vahl		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+122462	122462	Stachytarpheta jamaicensis (L.) Vahl		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+122463	122463	Stachytarpheta urticifolia Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+122464	122464	Stenotaphrum secundatum (Walter) Kuntze		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122465	122465	Strelitzia reginae Banks		Plantae	Tracheophyta	Liliopsida	Zingiberales	Strelitziaceae	SPECIES	ACCEPTED
+122466	122466	Strelitzia reginae Banks		Plantae	Tracheophyta	Liliopsida	Zingiberales	Strelitziaceae	SPECIES	ACCEPTED
+122467	122467	Strumigenys emmae (Emery, 1890)	Pyramica emmae (Emery, 1890)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+122468	122468	Strumigenys membranifera Emery, 1869	Pyramica membranifera (Emery, 1869)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	SYNONYM
+122469	122469	Strumigenys rogeri Emery, 1890		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122470	122470	Suncus murinus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Soricomorpha	Soricidae	SPECIES	ACCEPTED
+122471	122471	Sus scrofa Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	SPECIES	ACCEPTED
+122472	122472	Synedrella nodiflora (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122473	122473	Syngonium angustatum Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122474	122474	Syzygium malaccense (L.) Merr. & L.M.Perry		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+122475	122475	Tabebuia heterophylla (DC.) Britton		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+122476	122476	Tabebuia pallida (Lindl.) Miers		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+122477	122477	Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122478	122478	Tacca leontopetaloides (L.) Kuntze		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	ACCEPTED
+122479	122479	Tagetes erecta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122480	122480	Technomyrmex albipes (Smith, 1861)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122481	122481	Tecoma stans (L.) Juss. ex Kunth		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+122482	122482	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	SPECIES	ACCEPTED
+122483	122483	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122484	122484	Tetramorium lanuginosum Mayr, 1870		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122485	122485	Tetramorium simillimum (Smith, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+122486	122486	Thespesia populnea (L.) Sol. ex CorrÃªa		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122487	122487	Thevetia peruviana Pers.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+122488	122488	Thuarea involuta (G.Forst.) R.Br. ex Sm.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+122489	122489	Thuja orientalis L.	Platycladus orientalis (L.) Franco	Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	SYNONYM
+122490	122490	Thunbergia erecta (Benth.) T.Anderson		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED
+122491	122491	Tradescantia spathacea Sw.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+122492	122492	Tradescantia zebrina Bosse		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+122493	122493	Tribulus cistoides L.		Plantae	Tracheophyta	Magnoliopsida	Zygophyllales	Zygophyllaceae	SPECIES	ACCEPTED
+122494	122494	Tricholaena rosea Nees	Melinis repens (Willd.) Zizka	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122495	122495	Tridacna derasa (RÃ¶ding, 1798)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+122496	122496	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122497	122497	Tristellateia australasiae A.Rich.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Malpighiaceae	SPECIES	ACCEPTED
+122498	122498	Trochus niloticus Linnaeus, 1767	Rochia nilotica (Linnaeus, 1767)	Animalia	Mollusca	Gastropoda	Trochida	Tegulidae	SPECIES	SYNONYM
+122499	122499	Tropaeolum majus L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Tropaeolaceae	SPECIES	ACCEPTED
+122500	122500	Tubastraea coccinea Lesson, 1830		Animalia	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	SPECIES	ACCEPTED
+122501	122501	Turnera subulata J.E.Sm.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Turneraceae	SPECIES	ACCEPTED
+122502	122502	Turnera ulmifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Turneraceae	SPECIES	ACCEPTED
+122503	122503	Urochloa mutica (Forssk.) T.Q.Nguyen	Brachiaria mutica (Forssk.) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+122504	122504	Varanus indicus (Daudin, 1802)		Animalia	Chordata	Reptilia	Squamata	Varanidae	SPECIES	ACCEPTED
+122505	122505	Varanus indicus (Daudin, 1802)		Animalia	Chordata	Reptilia	Squamata	Varanidae	SPECIES	ACCEPTED
+122506	122506	Vernonia cinerea (L.) Less.	Cyanthillium cinereum (L.) H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+122507	122507	Vitex trifolia var. subtrisecta (Kuntze) Moldenke	Vitex trifolia subsp. Trifolia	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	VARIETY	SYNONYM
+122508	122508	Waltheria indica L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+122509	122509	Xanthosoma nigrum Stellfeld	Xanthosoma sagittifolium (L.) Schott	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	SYNONYM
+122510	122510	Xanthosoma sagittifolium (L.) Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+122511	122511	Youngia japonica (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+122512	122512	Zephyranthes rosea Lindl.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+122513	122513	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED
+122514	122514	Zoysia matrella (L.) Merr.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED

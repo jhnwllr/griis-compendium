@@ -1,0 +1,12 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+8250	8250	Acacia mearnsii De Wild.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+8251	8251	Cirsium vulgare (Savi) Ten.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+8252	8252	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+8253	8253	Eucalyptus L'HÃ©r.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	GENUS	ACCEPTED
+8254	8254	Malus Mill.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	GENUS	ACCEPTED
+8255	8255	Myriophyllum spicatum L.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED
+8256	8256	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+8257	8257	Pinus L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	GENUS	ACCEPTED
+8258	8258	Prunus persica Stokes		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+8259	8259	Tilapia sparrmanii Smith, 1840		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+8260	8260	Tinca tinca (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED

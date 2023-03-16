@@ -1,0 +1,110 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+49525	49525	Abutilon pseudocleistogamum Hochr.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49526	49526	Acalypha indica L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+49527	49527	Acanthocereus tetragonus (L.) Hummelinck	Cereus fernambucensis Lem.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SYNONYM	SPECIES
+49528	49528	Agave sisalana Perrine		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	ACCEPTED	SPECIES
+49529	49529	Ageratum conyzoides L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+49530	49530	Alternanthera pungens Kunth		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+49531	49531	Amaranthus graecizans L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+49532	49532	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+49533	49533	Amaranthus viridis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+49534	49534	Annona muricata L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	ACCEPTED	SPECIES
+49535	49535	Annona squamosa L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	ACCEPTED	SPECIES
+49536	49536	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+49537	49537	Boerhavia diffusa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	ACCEPTED	SPECIES
+49538	49538	Boerhavia erecta L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	ACCEPTED	SPECIES
+49539	49539	Bothriochloa pertusa (L.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49540	49540	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+49541	49541	Capsicum frutescens L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+49542	49542	Carica papaya L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Caricaceae	ACCEPTED	SPECIES
+49543	49543	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	ACCEPTED	SPECIES
+49544	49544	Catharanthus roseus G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	ACCEPTED	SPECIES
+49545	49545	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49546	49546	Cenchrus polystachios (L.) Morrone		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49547	49547	Chloris barbata Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49548	49548	Cocos nucifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	ACCEPTED	SPECIES
+49549	49549	Commelina benghalensis L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	ACCEPTED	SPECIES
+49550	49550	Commelina forskalaei Vahl		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	ACCEPTED	SPECIES
+49551	49551	Consolea falcata (Ekman & Werderm.) F.M.Knuth	Consolea macracantha A.Berger	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SYNONYM	SPECIES
+49552	49552	Corchorus aestuans L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49553	49553	Corchorus trilocularis L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49554	49554	Corvus albus Statius Muller, 1776		Animalia	Chordata	Aves	Passeriformes	Corvidae	ACCEPTED	SPECIES
+49555	49555	Crotalaria edmundi-bakeri R.Vig.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49556	49556	Cucumis melo L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	ACCEPTED	SPECIES
+49557	49557	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+49558	49558	Cyperus dubius Rottb.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	ACCEPTED	SPECIES
+49559	49559	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	ACCEPTED	SPECIES
+49560	49560	Dactyloctenium aegyptium (L.) Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49561	49561	Dactyloctenium aristatum Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49562	49562	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+49563	49563	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49564	49564	Digitaria horizontalis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49565	49565	Digitaria setigera Roth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49566	49566	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49567	49567	Enteropogon sechellensis (Baker) T.Durand & Schinz		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49568	49568	Eragrostis cilianensis (All.) Vignolo ex Janch.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49569	49569	Eragrostis minor Host		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49570	49570	Eriochloa fatmensis (Hochst. & Steud.) Clayton	Eriochloa barbatus (Trin.) S.Yadav & M.R.Almeida	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+49571	49571	Estrilda astrild (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	ACCEPTED	SPECIES
+49572	49572	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+49573	49573	Euphorbia prostrata Ait.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+49574	49574	Euphorbia thymifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+49575	49575	Euphorbia tithymaloides L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+49576	49576	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	ACCEPTED	SPECIES
+49577	49577	Flacourtia indica (Burm.f.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	ACCEPTED	SPECIES
+49578	49578	Flueggea virosa (Willd.) Royle		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	ACCEPTED	SPECIES
+49579	49579	Foudia madagascariensis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	ACCEPTED	SPECIES
+49580	49580	Furcraea foetida Haw.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	ACCEPTED	SPECIES
+49581	49581	Gehyra mutilata (Wiegmann, 1834)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	ACCEPTED	SPECIES
+49582	49582	Geopelia striata (Linnaeus, 1766)		Animalia	Chordata	Aves	Columbiformes	Columbidae	ACCEPTED	SPECIES
+49583	49583	Gossypium hirsutum L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49584	49584	Gynandropsis gynandra Briq.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	ACCEPTED	SPECIES
+49585	49585	Hemidactylus frenatus DumÃ©ril & Bibron, 1836		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	ACCEPTED	SPECIES
+49586	49586	Hemidactylus mercatorius Gray, 1842		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	ACCEPTED	SPECIES
+49587	49587	Hemidactylus platycephalus Peters, 1854		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	ACCEPTED	SPECIES
+49588	49588	Heteropogon contortus Beauv. ex Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49589	49589	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49590	49590	Indigofera tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49591	49591	Ipomoea coptica (L.) Roth		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	ACCEPTED	SPECIES
+49592	49592	Lantana strigocamara R.W.Sanders		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	ACCEPTED	SPECIES
+49593	49593	Lepidium englerianum (Muschl.) Al-Shehbaz		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	ACCEPTED	SPECIES
+49594	49594	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49595	49595	Malvastrum coromandelianum (L.) Garcke		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49596	49596	Marsdenia verrucosa Decne.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	ACCEPTED	SPECIES
+49597	49597	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	ACCEPTED	SPECIES
+49598	49598	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+49599	49599	Numida meleagris (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Numididae	ACCEPTED	SPECIES
+49600	49600	Oldenlandia corymbosa L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+49601	49601	Oldenlandia fastigiata Bremek.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+49602	49602	Oxalis corniculata L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	ACCEPTED	SPECIES
+49603	49603	Panicum pseudowoeltzkowii A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49604	49604	Passiflora suberosa L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	ACCEPTED	SPECIES
+49605	49605	Phyllanthus amarus Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	ACCEPTED	SPECIES
+49606	49606	Phyllanthus coluteoides MÃ¼ll.Arg.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Phyllanthaceae	ACCEPTED	SPECIES
+49607	49607	Physalis lagascae Roem. & Schult.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+49608	49608	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49609	49609	Pseudoconyza viscosa (Mill.) D Arcy		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+49610	49610	Pycnonotus jocosus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	ACCEPTED	SPECIES
+49611	49611	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+49612	49612	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+49613	49613	Senna occidentalis (L.) Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49614	49614	Sida acuta Burm.f.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49615	49615	Sida cordifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49616	49616	Sida rhombifolia L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+49617	49617	Solanum americanum Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+49618	49618	Solanum lycopersicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+49619	49619	Stachytarpheta jamaicensis (L.) Vahl		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	ACCEPTED	SPECIES
+49620	49620	Stachytarpheta urticifolia Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	ACCEPTED	SPECIES
+49621	49621	Stenotaphrum micranthum (Desv.) C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49622	49622	Tamarindus indica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49623	49623	Trianthema portulacastrum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	ACCEPTED	SPECIES
+49624	49624	Tribulus cistoides L.		Plantae	Tracheophyta	Magnoliopsida	Zygophyllales	Zygophyllaceae	ACCEPTED	SPECIES
+49625	49625	Tribulus parvispinus C.Presl		Plantae	Tracheophyta	Magnoliopsida	Zygophyllales	Zygophyllaceae	ACCEPTED	SPECIES
+49626	49626	Tricholaena monachne Stapf & C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+49627	49627	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+49628	49628	Turnix nigricollis (Gmelin, 1789)		Animalia	Chordata	Aves	Charadriiformes	Turnicidae	ACCEPTED	SPECIES
+49629	49629	Tyto alba (Scopoli, 1769)		Animalia	Chordata	Aves	Strigiformes	Tytonidae	ACCEPTED	SPECIES
+49630	49630	Urochloa deflexa (Schumach.) H.Scholz	Brachiaria deflexa (Schum.) C.E.Hubb. ex Robyns	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+49631	49631	Urochloa maxima (Jacq.) R.D.Webster	Panicum maximum	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+49632	49632	Vachellia farnesiana (L.) Wight & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+49633	49633	Zaleya camillii (Cordem.) H.E.K.Hartmann		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	ACCEPTED	SPECIES

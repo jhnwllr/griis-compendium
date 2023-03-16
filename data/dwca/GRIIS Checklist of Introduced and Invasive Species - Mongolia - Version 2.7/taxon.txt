@@ -1,0 +1,78 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+6222	6222	Abbottina rivularis (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6223	6223	Abramis brama subsp. orientalis Berg, 1949	Abramis brama (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	subspecies	SYNONYM
+6224	6224	Arachis hypogaea L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6225	6225	Bruchus pisorum (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	species	ACCEPTED
+6226	6226	Bunias orientalis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	species	ACCEPTED
+6227	6227	Callistephus chinensis (L.) Nees		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6228	6228	Cannabis sativa L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	species	ACCEPTED
+6229	6229	Chenopodium album L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Chenopodiaceae	species	ACCEPTED
+6230	6230	Conium maculatum Linnaeus		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	species	ACCEPTED
+6231	6231	Coregonus autumnalis subsp. migratorius (Georgi, 1775)	Coregonus migratorius (Georgi, 1775)	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	subspecies	SYNONYM
+6232	6232	Coregonus peled (Gmelin, 1789)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	species	ACCEPTED
+6233	6233	Coriandrum sativum L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	species	ACCEPTED
+6234	6234	Cosmos bipinnatus Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6235	6235	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6236	6236	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6237	6237	Dahlia pinnata Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6238	6238	Dendrolimus sibiricus Tschetverikov, 1908	Dendrolimus superans Butler, 1877	Animalia	Arthropoda	Insecta	Lepidoptera	Lasiocampidae	species	SYNONYM
+6239	6239	Ephestia kuehniella Zeller, 1879		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	species	ACCEPTED
+6240	6240	Epilachna vigintioctopunctata Fabricius, 1775		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	species	ACCEPTED
+6241	6241	Esox lucius Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Esociformes	Esocidae	species	ACCEPTED
+6242	6242	Euphorbia esula L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	species	ACCEPTED
+6243	6243	Foeniculum vulgare Mill.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	species	ACCEPTED
+6244	6244	Glycine max (L.) Merr.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6245	6245	Glycyphagus destructor (Schrank, 1781)		Animalia	Arthropoda	Arachnida	Astigmata	Glycyphagidae	species	ACCEPTED
+6246	6246	Gnathopogon strigatus (Regan, 1908)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6247	6247	Hyphantria cunea Drury, 1770		Animalia	Arthropoda	Insecta	Lepidoptera	Arctiidae	species	ACCEPTED
+6248	6248	Hypophthalmichthys molitrix (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6249	6249	Lactuca sativa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6250	6250	Laemophloeus Laporte in Brullé, 1840		Animalia	Arthropoda	Insecta	Coleoptera	Cucujidae	species	ACCEPTED
+6251	6251	Lens culinaris Medik.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6252	6252	Leptinotarsa decemlineata (Say, 1824)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	species	ACCEPTED
+6253	6253	Lonicera tatarica L.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	species	ACCEPTED
+6254	6254	Lymantria dispar Linnaeus, 1758		Animalia	Arthropoda	Insecta	Lepidoptera	Lymantriidae	species	ACCEPTED
+6255	6255	Melilotus albus Medik.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6256	6256	Metatetranychus ulmi (Koch, 1836)	Panonychus ulmi (Koch, 1836)	Animalia	Arthropoda	Arachnida	Prostigmata	Tetranychidae	species	SYNONYM
+6257	6257	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+6258	6258	Mustela vison Schreber, 1777	Neovison vison (Schreber, 1777)	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	species	SYNONYM
+6259	6259	Niptus hololeucus (Falderman, 1836)		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	species	ACCEPTED
+6260	6260	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+6261	6261	Ornithopus perpusillus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6262	6262	Ornithopus sativus Brot.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6263	6263	Orobanche cernua Loefl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	species	ACCEPTED
+6264	6264	Oryza sativa L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6265	6265	Oryzaephilus surinamensis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Silvanidae	species	ACCEPTED
+6266	6266	Parasilurus asotus (Linnaeus, 1758)	Silurus asotus Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Siluriformes	Siluridae	species	SYNONYM
+6267	6267	Pastinaca sativa L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	species	ACCEPTED
+6268	6268	Perccottus glenii Dybowski, 1877		Animalia	Chordata	Actinopterygii	Perciformes	Odontobutidae	species	ACCEPTED
+6269	6269	Petroselinum crispum (Mill.) Nyman ex A. W. Hill		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	species	ACCEPTED
+6270	6270	Polygonum aviculare L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	species	ACCEPTED
+6271	6271	Polygonum convolvulus L.	Fallopia convolvulus (L.) A. Löve	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	species	SYNONYM
+6272	6272	Ptinus fur (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Ptinidae	species	ACCEPTED
+6273	6273	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+6274	6274	Rhinogobius lindbergi Berg, 1933		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	species	ACCEPTED
+6275	6275	Rumex acetosella L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	species	ACCEPTED
+6276	6276	Satureja hortensis L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	species	ACCEPTED
+6277	6277	Secale cereale L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6278	6278	Senecio vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6279	6279	Setaria viridis (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6280	6280	Sitophilus granarius (Linnaeus, 1758) Linnaeus, 1758		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	species	ACCEPTED
+6281	6281	Sitophilus oryzae (Linnaeus, 1763) Linnaeus, 1763		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	species	ACCEPTED
+6282	6282	Sitotroga cerealella Olivier, 1789		Animalia	Arthropoda	Insecta	Lepidoptera	Gelechiidae	species	ACCEPTED
+6283	6283	Sorghum bicolor (L.) Moench		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6284	6284	Sorghum sudanense (Piper) Stapf	Sorghum drummondii (Nees ex Steud.) Millsp. & Chase	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	SYNONYM
+6285	6285	Spinacia oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Chenopodiaceae	species	ACCEPTED
+6286	6286	Squalidus chankaensis Dybowski, 1872		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6287	6287	Stegobium paniceum (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae	species	ACCEPTED
+6288	6288	Taraxacum officinale Weber		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	ACCEPTED
+6289	6289	Tenebrio molitor Linnaeus, 1758		Animalia	Arthropoda	Insecta	Coleoptera	Tenebrionidae	species	ACCEPTED
+6290	6290	Tetranychus urticae Koch, 1836		Animalia	Arthropoda	Arachnida	Prostigmata	Tetranychidae	species	ACCEPTED
+6291	6291	Thlaspi arvense L.	Sinapis arvensis L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	species	SYNONYM
+6292	6292	Tineola bisselliella (Hummel, 1823)		Animalia	Arthropoda	Insecta	Lepidoptera	Tineidae	species	ACCEPTED
+6293	6293	Trialeurodes vaporariorum (Westwood, 1856)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	species	ACCEPTED
+6294	6294	Tribolium confusum Jaquelin Du Val, 1868		Animalia	Arthropoda	Insecta	Coleoptera	Tenebrionidae	species	ACCEPTED
+6295	6295	Troctes divinatorius (Müller, O. F., 1776)	Liposcelis divinatoria (Müller, O. F., 1776)	Animalia	Arthropoda	Insecta	Psocoptera	Liposcelididae	species	SYNONYM
+6296	6296	Tyroglyphus farinae DeG.	Acarus siro L.	Animalia	Arthropoda	Arachnida	Astigmata	Acaridae	species	SYNONYM
+6297	6297	Tyrophagus putrescentiae (Schrank, 1781)		Animalia	Arthropoda	Arachnida	Astigmata	Acaridae	species	ACCEPTED
+6298	6298	Verbascum thapsus L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	species	ACCEPTED

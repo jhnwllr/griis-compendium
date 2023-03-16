@@ -1,0 +1,498 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+150500	150500	Abutilon megapotamicum (A.Spreng.) St.-Hil. & Naud.	Callianthe megapotamica (A.Spreng.) Dorr	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+150501	150501	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+150502	150502	Acacia dealbata Link		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150503	150503	Acacia melanoxylon R.Br.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150504	150504	Acalypha australis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150505	150505	Acalypha indica L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150506	150506	Acer negundo L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+150507	150507	Acer palmatum Thunb.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+150508	150508	Achillea biebersteinii C.Afan.	Achillea arabica Kotschy.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150509	150509	Acorus calamus L.		Plantae	Tracheophyta	Liliopsida	Acorales	Acoraceae	SPECIES	ACCEPTED
+150510	150510	Adiantum cuneatum Langsd. & Fisch.	Adiantum abscissum Schrad.	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	SYNONYM
+150511	150511	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+150512	150512	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+150513	150513	Aegilops cylindrica Host		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150514	150514	Ageratum houstonianum Mill.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150515	150515	Ailanthus altissima (Mill.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+150516	150516	Aira elegans Willd. ex Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150517	150517	Akebia quinata Decne.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Lardizabalaceae	SPECIES	ACCEPTED
+150518	150518	Albizia julibrissin Durazz.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150519	150519	Aleurites cordatus (Thunb.) R.Br.	Vernicia cordata (Thunb.) Airy Shaw	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+150520	150520	Aleurites fordii Hemsl.	Vernicia fordii Airy Shaw	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	SYNONYM
+150521	150521	Althaea hirsuta L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+150522	150522	Amaranthus albus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150523	150523	Amaranthus blitoides S.Watson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150524	150524	Amaranthus caudatus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150525	150525	Amaranthus cruentus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150526	150526	Amaranthus deflexus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150527	150527	Amaranthus graecizans L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150528	150528	Amaranthus hybridus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150529	150529	Amaranthus lividus L.	Amaranthus blitum L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+150530	150530	Amaranthus retroflexus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150531	150531	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150532	150532	Ambrosia artemisiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150533	150533	Ambrosia trifida L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150534	150534	Ammannia auriculata Willd.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+150535	150535	Ammannia verticillata (Ard.) Lam.	Ammannia baccifera L.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	SYNONYM
+150536	150536	Ammi visnaga (L.) Lam.	Visnaga daucoides Gaertn.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	SYNONYM
+150537	150537	Amorpha fruticosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150538	150538	Anchusa italica Retz.	Anchusa azurea Mill.	Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	SYNONYM
+150539	150539	Andropogon virginicus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150540	150540	Anethum graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150541	150541	Anisantha tectorum (L.) Nevski	Bromus tectorum L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150542	150542	Anthemis cotula L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150543	150543	Anthoxanthum amarum Brot.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150544	150544	Anthriscus cerefolium Hoffm.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150545	150545	Antirrhinum majus L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+150546	150546	Aphis spiraecola Patch, 1914		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	ACCEPTED
+150547	150547	Apium graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150548	150548	Apium leptophyllum (Pers.) F.MÃ¼ll. ex Benth.	Cyclospermum leptophyllum (Pers.) Sprague	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	SYNONYM
+150549	150549	Araujia sericifera Brot.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+150550	150550	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+150551	150551	Arisarum vulgare Targ.Tozz.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+150552	150552	Aristolochia fimbriata Cham.		Plantae	Tracheophyta	Magnoliopsida	Piperales	Aristolochiaceae	SPECIES	ACCEPTED
+150553	150553	Armoracia rusticana P.Gaertn., B.Mey. & Scherb.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150554	150554	Artemisia absinthium L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150555	150555	Artemisia annua L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150556	150556	Artemisia verlotiorum Lamotte		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150557	150557	Artemisia vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150558	150558	Arthraxon hispidus (Thunb.) Makino		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150559	150559	Aster novae-angliae L.	Symphyotrichum novae-angliae (L.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150560	150560	Aster novi-belgii L.	Symphyotrichum novi-belgii (L.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150561	150561	Atriplex patula L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150562	150562	Atriplex tatarica L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150563	150563	Avena ludoviciana Durieu	Avena sterilis subsp. ludoviciana (Durieu) M.Gillet & Magne	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150564	150564	Avena sativa L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150565	150565	Baccharis halimifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150566	150566	Berberis levis Franch.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED
+150567	150567	Berberis thunbergii DC.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED
+150568	150568	Berteroa incana DC.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150569	150569	Bidens bipinnata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150570	150570	Boehmeria nivea (L.) Gaudich.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	SPECIES	ACCEPTED
+150571	150571	Brassica juncea (L.) Czern.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150572	150572	Brassica nigra (L.) W.D.J.Koch		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150573	150573	Briza maxima L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150574	150574	Bromopsis inermis (Leyss.) Holub	Bromus inermis Leyss.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150575	150575	Bromus hordeaceus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150576	150576	Bromus japonicus Thunb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150577	150577	Bromus secalinus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150578	150578	Bromus tectorum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150579	150579	Bubulcus ibis (Linnaeus, 1758)		Animalia	Chordata	Aves	Pelecaniformes	Ardeidae	SPECIES	ACCEPTED
+150580	150580	Buddleja davidii Franch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+150581	150581	Calonectria pseudonaviculata (Crous, J.Z.Groenew. & C.F.Hill) L.Lombard, M.J.Wingf. & Crous, 2010		Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	SPECIES	ACCEPTED
+150582	150582	Cannabis sativa L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	ACCEPTED
+150583	150583	Carassius gibelio (Bloch, 1782)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+150584	150584	Carya cordiformis (Wangenh.) C.Koch		Plantae	Tracheophyta	Magnoliopsida	Fagales	Juglandaceae	SPECIES	ACCEPTED
+150585	150585	Catalpa speciosa Warder ex Engelm.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+150586	150586	Cedrus deodara Loudon		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	DOUBTFUL
+150587	150587	Cenchrus pauciflorus Benth.	Cenchrus spinifex Cav.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150588	150588	Centaurea diffusa Lam.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150589	150589	Centaurea oxylepis Hayek		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150590	150590	Centella asiatica (L.) Urb.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150591	150591	Ceratochloa unioloides (Willd.) P.Beauv.	Bromus catharticus Vahl	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150592	150592	Cercis siliquastrum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150593	150593	Chamaecrista nictitans Moench		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150594	150594	Chamaerops humilis L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+150595	150595	Chenopodium album L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+150596	150596	Chenopodium ambrosioides L.	Dysphania ambrosioides (L.) Mosyakin & Clemants	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	SYNONYM
+150597	150597	Cinnamomum glanduliferum (Wall.) Meisn.	Cinnamomum glanduliferum (Wall.) Nees	Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	SYNONYM
+150598	150598	Cinnamomum japonicum Siebold ex Nakai	Cinnamomum tenuifolium J.Sugimoto	Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	SYNONYM
+150599	150599	Cleistogenes bulgarica (Bornm.) Keng	Cleistogenes serotina (L.) Keng	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150600	150600	Clerodendrum bungei Steud.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150601	150601	Coix lacryma-jobi L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150602	150602	Commelina benghalensis L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+150603	150603	Commelina communis L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+150604	150604	Conyza bonariensis (L.) Cronq.	Erigeron bonariensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150605	150605	Conyza canadensis (L.) Cronq.	Erigeron canadensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150606	150606	Conyza graminifolia Spreng.	Symphyotrichum graminifolium (Spreng.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150607	150607	Corbicula fluminalis (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Bivalvia	Venerida	Cyrenidae	SPECIES	ACCEPTED
+150608	150608	Coriandrum sativum L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150609	150609	Coronopus didymus (L.) Sm.	Lepidium didymum L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+150610	150610	Crassocephalum crepidioides (Benth.) S.Moore		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150611	150611	Cryphonectria parasitica (Murrill) M.E.Barr		Fungi	Ascomycota	Sordariomycetes	Diaporthales	Cryphonectriaceae	SPECIES	ACCEPTED
+150612	150612	Cryptococcus fagisuga Lindinger, 1936		Animalia	Arthropoda	Insecta	Hemiptera	Eriococcidae	SPECIES	ACCEPTED
+150613	150613	Cryptomeria japonica D.Don		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED
+150614	150614	Cudrania tricuspidata Bureau ex LavallÃ©e		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+150615	150615	Cupressus lusitanica Mill.		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED
+150616	150616	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+150617	150617	Cuscuta cesatiana Bertol.	Cuscuta australis subsp. cesatiana (Bertol.) O. Schwarz	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+150618	150618	Cydalima perspectalis (Walker, 1859)		Animalia	Arthropoda	Insecta	Lepidoptera	Crambidae	SPECIES	ACCEPTED
+150619	150619	Cylindrocladium buxicola Henricot		Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	SPECIES	ACCEPTED
+150620	150620	Cymbalaria muralis P.Gaertner, B.Meyer & Scherb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+150621	150621	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150622	150622	Cynoglossum creticum Mill.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+150623	150623	Cyperus badius Desf.	Cyperus longus subsp. badius (Desf.) Bonnier & Layens	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+150624	150624	Cyperus difformis L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+150625	150625	Cyperus esculentus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+150626	150626	Cyperus glaber L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+150627	150627	Cyperus glomeratus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+150628	150628	Cyrtomium falcatum (L.f.) C.Presl		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Dryopteridaceae	SPECIES	ACCEPTED
+150629	150629	Daphniphyllum macropodum Miq.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Daphniphyllaceae	SPECIES	ACCEPTED
+150630	150630	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150631	150631	Datura stramonium L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150632	150632	Dendrobaena octaedra (Savigny, 1826)		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	ACCEPTED
+150633	150633	Dendroctonus micans Erichson, 1836		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	DOUBTFUL
+150634	150634	Dendrodrilus rubidus (Savigny, 1826)	Bimastos rubidus (Savigny, 1826)	Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	SYNONYM
+150635	150635	Deutzia scabra Thunb.		Plantae	Tracheophyta	Magnoliopsida	Cornales	Hydrangeaceae	SPECIES	ACCEPTED
+150636	150636	Dianthus barbatus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+150637	150637	Dichrocephala integrifolia Kuntze		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150638	150638	Digitalis purpurea L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+150639	150639	Digitaria horizontalis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150640	150640	Digitaria violascens Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150641	150641	Dioscorea japonica Thunb.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	SPECIES	ACCEPTED
+150642	150642	Dracocephalum moldavica L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150643	150643	Drosophila suzukii (Matsumura, 1931)		Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	SPECIES	ACCEPTED
+150644	150644	Dryopteris atrata (Wall) Ching		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Dryopteridaceae	SPECIES	ACCEPTED
+150645	150645	Duchesnea indica (Andr.) Focke	Potentilla indica (Andrews) Th.Wolf	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+150646	150646	Echium biebersteinii Lacaita	Echium italicum (Lacaita) Greuter & Burdet	Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+150647	150647	Echium plantagineum L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+150648	150648	Elaeagnus pungens Thunb.	Elaeagnus pungens C.P.Thunb. ex A.Murray	Plantae	Tracheophyta	Magnoliopsida	Rosales	Elaeagnaceae	SPECIES	SYNONYM
+150649	150649	Elaeagnus umbellata C.P.Thunb. ex A.Murray		Plantae	Tracheophyta	Magnoliopsida	Rosales	Elaeagnaceae	SPECIES	ACCEPTED
+150650	150650	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150651	150651	Eleusine tristachya (Lam.) Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150652	150652	Elodea canadensis Michx.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+150653	150653	Elodea densa (Planch.) Casp.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+150654	150654	Elsholtzia ciliata (Thunb.) Hylander		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150655	150655	Eobania vermiculata (O.F.MÃ¼ller, 1774)	Massylaea vermiculata (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	SYNONYM
+150656	150656	Eragrostis cilianensis (All.) Vignolo ex Janch.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150657	150657	Eragrostis pilosa P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150658	150658	Erechtites valerianaefolia (Wolf ex Rchb.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150659	150659	Erianthus ravennae (L.) P.Beauv.	Tripidium ravennae (L.) H. Scholz	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150660	150660	Erigeron canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150661	150661	Erigeron crispus Pourr.	Erigeron bonariensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150662	150662	Eriobotrya japonica (Thunb.) Lindl.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+150663	150663	Eriochloa villosa Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150664	150664	Erodium cicutarium (L.) L'HÃ©r.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+150665	150665	Eucalyptus cinerea F.Muell. ex Benth.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+150666	150666	Eucalyptus globulus Labill.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+150667	150667	Eucalyptus viminalis Labill.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED
+150668	150668	Eupatorium cannabinum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150669	150669	Euphorbia forskaolii J.Gay		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150670	150670	Euphorbia humifusa Willd.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150671	150671	Euphorbia indica Lam.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150672	150672	Euphorbia lathyris L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150673	150673	Euphorbia maculata L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150674	150674	Euphorbia nutans Lag.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150675	150675	Euphorbia peplis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150676	150676	Fagopyrum esculentum Moench		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+150677	150677	Fallopia japonica (Houtt.) Ronse Decraene	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150678	150678	Fatsia japonica Decne. & Planch.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+150679	150679	Ferrissia californica (Rowell, 1863)		Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED
+150680	150680	Festuca heterophylla Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150681	150681	Ficopomatus enigmaticus (Fauvel, 1923)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+150682	150682	Filago gallica L.	Logfia gallica (L.) Coss. & Germ.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150683	150683	Fimbristylis bisumbellata Bubani		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED
+150684	150684	Foeniculum vulgare Mill.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150685	150685	Galinsoga ciliata (Rafin.) S.F.Blake	Galinsoga quadriradiata Ruiz & Pav.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150686	150686	Galinsoga parviflora Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150687	150687	Galinsoga quadriradiata Ruiz & Pav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150688	150688	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+150689	150689	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+150690	150690	Geranium molle L.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+150691	150691	Geranium robertianum L.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+150692	150692	Geranium sibiricum L.		Plantae	Tracheophyta	Magnoliopsida	Geraniales	Geraniaceae	SPECIES	ACCEPTED
+150693	150693	Gleditschia triacanthos L.	Gleditsia triacanthos L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+150694	150694	Gleditsia triacanthos L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150695	150695	Gnaphalium affine D.Don	Pseudognaphalium affine (D.Don) Anderb.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150696	150696	Gobius xanthocephalus Heymer & Zander, 1992		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+150697	150697	Gomphocarpus fruticosus (L.) Ait.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+150698	150698	Grindelia squarrosa (Pursh) Dunal		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150699	150699	Halyomorpha halys (StÃ¥l, 1855)		Animalia	Arthropoda	Insecta	Hemiptera	Pentatomidae	SPECIES	ACCEPTED
+150700	150700	Harmonia axyridis (Pallas, 1773)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+150701	150701	Hedera helix L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED
+150702	150702	Helianthus tuberosus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150703	150703	Heliotropium ellipticum Ledeb.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Heliotropiaceae	SPECIES	ACCEPTED
+150704	150704	Hemarthria altissima (Poir.) Stapf & C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150705	150705	Hemerocallis fulva L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED
+150706	150706	Hibiscus syriacus L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+150707	150707	Hibiscus trionum L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+150708	150708	Holcus lanatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150709	150709	Houttuynia cordata Thunb.		Plantae	Tracheophyta	Magnoliopsida	Piperales	Saururaceae	SPECIES	ACCEPTED
+150710	150710	Hovenia dulcis Thunb.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED
+150711	150711	Hydrangea macrophylla Thunb.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Saxifragaceae	SPECIES	DOUBTFUL
+150712	150712	Hydrocotyle maritima Honda		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150713	150713	Hydrocotyle ramiflora Maxim.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150714	150714	Hydrocotyle ranunculoides L.f.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150715	150715	Hydrocotyle vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150716	150716	Hypericum calycinum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED
+150717	150717	Hypericum mutilum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED
+150718	150718	Hyphantria cunea (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+150719	150719	Icerya purchasi Maskell, 1879		Animalia	Arthropoda	Insecta	Hemiptera	Margarodidae	SPECIES	ACCEPTED
+150720	150720	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150721	150721	Indigofera tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150722	150722	Inula britannica M.Bieb.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150723	150723	Ipomoea purpurea (L.) Roth		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED
+150724	150724	Ips typographus (C.Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+150725	150725	Ixeridium dentatum (Thunb.) Tzvelev		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150726	150726	Juglans ailanthifolia CarriÃ¨re		Plantae	Tracheophyta	Magnoliopsida	Fagales	Juglandaceae	SPECIES	ACCEPTED
+150727	150727	Juglans ailantifolia var. cordiformis (Makino) Rehder		Plantae	Tracheophyta	Magnoliopsida	Fagales	Juglandaceae	VARIETY	ACCEPTED
+150728	150728	Juncus tenuis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED
+150729	150729	Kummerowia striata (Thunb. ex Murray) Schindl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150730	150730	Kyllinga gracillima Miq.	Cyperus brevifolioides	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+150731	150731	Kyllinga squamulata Vahl	Cyperus metzii (Hochst. ex Steud.) Mattf. & Kuk.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+150732	150732	Lamium purpureum L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150733	150733	Lasius neglectus van Loon, Boomsma & AndrÃ¡sfalvy, 1990		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+150734	150734	Lathyrus aphaca L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150735	150735	Laurus nobilis L.		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+150736	150736	Lens culinaris Medik.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150737	150737	Lepidium sativum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150738	150738	Lepidium texanum Buckley	Lepidium ruderale L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+150739	150739	Lepomis gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+150740	150740	Lespedeza bicolor Turcz.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150741	150741	Lespedeza juncea (L.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150742	150742	Lespedeza sericea Miq.	Lespedeza cuneata var. cuneata	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	GENUS	ACCEPTED
+150743	150743	Ligustrum japonicum Thunb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+150744	150744	Ligustrum lucidum Buch.-Ham. ex Wall.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	DOUBTFUL
+150745	150745	Ligustrum sinense Lour.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+150746	150746	Lindernia procumbens (Krock.) Philcox		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	ACCEPTED
+150747	150747	Lindernia pyxidaria L.	Lindernia dubia (L.) Pennell	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	SYNONYM
+150748	150748	Linum usitatissimum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Linaceae	SPECIES	ACCEPTED
+150749	150749	Liquidambar styraciflua L.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Altingiaceae	SPECIES	ACCEPTED
+150750	150750	Liriodendron chinense Sarg.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Magnoliaceae	SPECIES	ACCEPTED
+150751	150751	Liriodendron tulipifera L.		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Magnoliaceae	SPECIES	ACCEPTED
+150752	150752	Liza haematocheila (Temminck & Schlegel, 1845)	Planiliza haematocheila (Temminck & Schlegel, 1845)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+150753	150753	Lobularia maritima (L.) Desv.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150754	150754	Lolium multiflorum Lam.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150755	150755	Lolium perenne L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150756	150756	Lolium rigidum Gaudin		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150757	150757	Lonicera japonica Thunb.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED
+150758	150758	Ludwigia palustris (L.) Elliott		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+150759	150759	Lumbricus rubellus Hoffmeister, 1843		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	ACCEPTED
+150760	150760	Lunaria annua L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150761	150761	Lupinus albus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150762	150762	Lycium barbarum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150763	150763	Lysimachia fortunei Maxim.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Primulaceae	SPECIES	ACCEPTED
+150764	150764	Lysimachia japonica C.P.Thunberg ex A.Murray		Plantae	Tracheophyta	Magnoliopsida	Ericales	Primulaceae	SPECIES	ACCEPTED
+150765	150765	Lythrum salicaria L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED
+150766	150766	Malcolmia africana (L.) R.Br.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150767	150767	Mallota japonica Matsumura, 1916		Animalia	Arthropoda	Insecta	Diptera	Syrphidae	SPECIES	ACCEPTED
+150768	150768	Malva ambigua Guss.	Malva sylvestris L.	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	SYNONYM
+150769	150769	Malva neglecta Wallr		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+150770	150770	Matricaria suaveolens (Pursh) Buchenau	Matricaria discoidea DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150771	150771	Medicago orbicularis (L.) Bartal.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150772	150772	Mentha pulegium L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150773	150773	Mercurialis annua L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150774	150774	Microstegium japonicum Koidz.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150775	150775	Microstegium vimineum (Trin.) A.Camus	Microstegium imberbe (Nees ex Steud.) Tzvelev	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150776	150776	Miscanthus sinensis Andersson		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150777	150777	Miscanthus sinensis Gruppe		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	DOUBTFUL
+150778	150778	Miyamayomena savatieri (Makino) S.Kitam.	Aster savatieri Makino	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150779	150779	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+150780	150780	Morone saxatilis (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Perciformes	Moronidae	SPECIES	ACCEPTED
+150781	150781	Muhlenbergia schreberi J.F.Gmel.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150782	150782	Mya arenaria Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED
+150783	150783	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+150784	150784	Myosotis discolor Pers.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED
+150785	150785	Mytilopsis leucophaeta (Conrad, 1831)	Mytilopsis leucophaeata (Conrad, 1831)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	SYNONYM
+150786	150786	Narcissus poeticus L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+150787	150787	Narcissus tazetta L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED
+150788	150788	Neogobius fluviatilis (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+150789	150789	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150790	150790	Nyctereutes procyonoides (Gray, 1834)		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+150791	150791	Odontites vulgaris Moench		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+150792	150792	Oenothera biennis L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+150793	150793	Oenothera odorata Jacq.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+150794	150794	Omphalodes linifolia (L.) Moench	Iberodes linifolia (L.)  M. Serrano	Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	SYNONYM
+150795	150795	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+150796	150796	Onoclea sensibilis L.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Onocleaceae	SPECIES	ACCEPTED
+150797	150797	Onopordum acanthium L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150798	150798	Ophiopogon japonicus (L.f.) Ker Gawl.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED
+150799	150799	Ophiostoma novo-ulmi Brasier		Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	SPECIES	ACCEPTED
+150800	150800	Oplismenus burmanni P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150801	150801	Oplismenus undulatifolius (Ard.) Roemer & Schultes		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150802	150802	Opuntia humifusa Raf.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+150803	150803	Opuntia phaeacantha Engelm.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+150804	150804	Ornithopus perpusillus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150805	150805	Ornithopus sativus Brot.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150806	150806	Otanthus maritimus (L.) Hoffmanns. & Link	Achillea maritima subsp. maritima	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150807	150807	Oxalis corniculata L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+150808	150808	Oxalis pes-caprae L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+150809	150809	Oxalis stricta L.	Oxalis corniculata L.	Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	SYNONYM
+150810	150810	Oxalis violacea L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+150811	150811	Palaemon elegans Rathke, 1837		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+150812	150812	Panicum capillare L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150813	150813	Panicum dichotomiflorum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150814	150814	Panicum lindheimeri Nash	Dichanthelium lindheimeri (Nash) Gould	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150815	150815	Panicum maximum Jacq.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150816	150816	Panicum miliaceum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150817	150817	Panicum sumatrense Roth ex Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150818	150818	Papaver macrostomum Boiss. & A.Huet		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+150819	150819	Papaver rhoeas L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+150820	150820	Papaver somniferum L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+150821	150821	Parapholis incurva (L.) C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150822	150822	Paspalum chinense Nees ex Hook. & Arn.	Digitaria violascens Link	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150823	150823	Paspalum dilatatum Poir.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150824	150824	Paspalum paspaloides (Michx.) Scribn.	Paspalum distichum L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150825	150825	Paspalum setaceum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150826	150826	Paspalum thunbergii Kunth ex Steud.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150827	150827	Paulownia fortunei Hemsl.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Paulowniaceae	SPECIES	ACCEPTED
+150828	150828	Paulownia tomentosa Steud.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Paulowniaceae	SPECIES	ACCEPTED
+150829	150829	Pennisetum alopecuroides (L.) Spreng.	Cenchrus alopecuroides (L.) Spreng.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150830	150830	Perilla frutescens Britton.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150831	150831	Perilla nankinensis (Lour.) Decne.	Perilla frutescens var. crispa (Thunb.) H.Deane	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+150832	150832	Petroselinum crispum (Mill.) A.W.Hill		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150833	150833	Phalaris minor Retz.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150834	150834	Phoenicolacerta laevis (Gray, 1838)		Animalia	Chordata	Reptilia	Squamata	Lacertidae	SPECIES	ACCEPTED
+150835	150835	Phoenix canariensis hort. ex Chabaud		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	DOUBTFUL
+150836	150836	Phyllostachys bambusoides Siebold & Zucc.	Phyllostachys reticulata K.Koch	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150837	150837	Phyllostachys edulis Lehaie		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150838	150838	Phyllostachys pubescens (Pradelle) Mazel ex J.Houz.	Phyllostachys edulis J. Houz.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150839	150839	Physalis ixocarpa Brot. ex Hornem.	Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+150840	150840	Physalis peruviana L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150841	150841	Physella acuta (Draparnaud, 1805)		Animalia	Mollusca	Gastropoda		Physidae	SPECIES	ACCEPTED
+150842	150842	Phytolacca americana L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+150843	150843	Pinus halepensis Mill.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+150844	150844	Pinus nigra J.F.Arnold		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+150845	150845	Pinus pinaster Aiton		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+150846	150846	Pinus taeda L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+150847	150847	Pisum elatius M.Bieb.	Pisum sativum L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+150848	150848	Pisum sativum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150849	150849	Pleioblastus argenteostriatus (Regel) Nakai		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150850	150850	Pleioblastus distichus (Mitford) Nakai		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150851	150851	Pleioblastus humilis (Mitford) Nakai	Pseudosasa humilis (Mitf.) T.Q. Nguyen	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150852	150852	Pleioblastus pumilus (Mitford) Nakai	Pleioblastus argenteostriatus (Regel) Nakai	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150853	150853	Poa annua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150854	150854	Polycarpon tetraphyllum L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+150855	150855	Polygonum alatum Buch.-Ham. ex Spreng.	Persicaria nepalensis (Meisn.) H.Gross	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150856	150856	Polygonum aviculare L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+150857	150857	Polygonum convolvulus L.	Fallopia convolvulus (L.) A.Love	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150858	150858	Polygonum cuspidatum Sieb. & Zucc.	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150859	150859	Polygonum linicola Sutul.	Persicaria lapathifolia (L.) Delarbre	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150860	150860	Polygonum minus Hudson	Persicaria minor (Huds.) Opiz	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150861	150861	Polygonum multiflorum Thunb.	Reynoutria multiflorum (Thunb.) Moldenke	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150862	150862	Polygonum nepalense Meisn.	Persicaria nepalensis (Meisn.) H.Gross	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150863	150863	Polygonum orientale L.	Persicaria orientalis (L.) Spach	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150864	150864	Polygonum perfoliatum (L.) L.	Persicaria perfoliata (L.) H.Gross	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150865	150865	Polygonum posumbu Buch.-Ham. ex D. Don		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+150866	150866	Polygonum runcinatum Buch.-Ham. ex D.Don	Persicaria runcinata (Buch.-Ham. ex D.Don) Masam.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150867	150867	Polygonum thunbergii Sieb. & Zucc.	Persicaria thunbergii (Siebold & Zucc.) H.Gross	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+150868	150868	Portulaca oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	SPECIES	ACCEPTED
+150869	150869	Potamogeton crispus L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Potamogetonaceae	SPECIES	ACCEPTED
+150870	150870	Procambarus clarkii (Girard, 1852)		Animalia	Arthropoda	Malacostraca	Decapoda	Cambaridae	SPECIES	ACCEPTED
+150871	150871	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+150872	150872	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+150873	150873	Pseudosasa hindsii (Munro) C.D.Chu & C.S.Chao	Pseudosasa hindsii (Munro) S.L.Chen & G.Y.Sheng ex T.G.Liang	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150874	150874	Pseudosasa humilis (Mitf.) T.Q.Nguyen		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150875	150875	Pseudosasa japonica Makino		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	DOUBTFUL
+150876	150876	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+150877	150877	Pteris vittata L.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED
+150878	150878	Pueraria hirsuta (Thunb.) Matsum.	Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+150879	150879	Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	VARIETY	ACCEPTED
+150880	150880	Pycreus korshinskyi (Meinsh.) V.I.Krecz.	Cyperus sanguinolentus Vahl	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+150881	150881	Pycreus sanguinolentus (Vahl) Nees	Cyperus sanguinolentus Vahl	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	SYNONYM
+150882	150882	Quercus acuta Thunb.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+150883	150883	Quercus acutissima Carruth.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+150884	150884	Quercus falcata Michx.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+150885	150885	Quercus glauca Thunb.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+150886	150886	Quercus myrsinaefolia Blume		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	DOUBTFUL
+150887	150887	Quercus palustris Münchh.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+150888	150888	Ranunculus chius DC.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED
+150889	150889	Ranunculus muricatus L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED
+150890	150890	Ranunculus sceleratus L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED
+150891	150891	Ranunculus trachycarpus Fisch. & C.A.Mey.	Ranunculus marginatus var. trachycarpus (Fisch. & C.A.Mey.) Aznav.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	SYNONYM
+150892	150892	Rapana venosa (Valenciennes, 1846)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+150893	150893	Raphanus raphanistrum L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150894	150894	Reynoutria japonica Houtt.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+150895	150895	Rhizophagus grandis Gyllenhal, 1827		Animalia	Arthropoda	Insecta	Coleoptera	Monotomidae	SPECIES	ACCEPTED
+150896	150896	Rhus javanica L.	Brucea javanica Merr.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	SYNONYM
+150897	150897	Rhus radicans L.	Toxicodendron radicans (L.) Kuntze	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	SYNONYM
+150898	150898	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150899	150899	Rosa multiflora Thunb.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+150900	150900	Rudbeckia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150901	150901	Rumex patientia L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+150902	150902	Sagittaria platyphylla (Engelm.) J.G.Sm.		Plantae	Tracheophyta	Liliopsida	Alismatales	Alismataceae	SPECIES	ACCEPTED
+150903	150903	Salpichroa rhomboidea (Gillies & Hook.) Miers	Salpichroa organifolia (Lam.) Baill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+150904	150904	Santolina chamaecyparissus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150905	150905	Sasa palmata E.G.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150906	150906	Saururus cernuus L.		Plantae	Tracheophyta	Magnoliopsida	Piperales	Saururaceae	SPECIES	ACCEPTED
+150907	150907	Saxifraga sarmentosa L.fil.	Saxifraga stolonifera Curtis	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Saxifragaceae	SPECIES	SYNONYM
+150908	150908	Scandix pecten-veneris L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150909	150909	Sciurus vulgaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Sciuridae	SPECIES	ACCEPTED
+150910	150910	Scleranthus annuus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+150911	150911	Secale cereale L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150912	150912	Seiridium cardinale (W.W.Wagener) B.Sutton & I.A.S.Gibson		Fungi	Ascomycota	Sordariomycetes	Amphisphaeriales	Pestalotiopsidaceae	SPECIES	ACCEPTED
+150913	150913	Senecio sylvaticus L.	Senecio ovatus subsp. ovatus	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150914	150914	Setaria faberi R.A.W.Herrm.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150915	150915	Setaria intermedia Roem. & Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150916	150916	Setaria italica P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150917	150917	Sicyos angulatus L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+150918	150918	Sida spinosa L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+150919	150919	Sieglingia decumbens (L.) Bernh.	Danthonia decumbens (L.) DC.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM
+150920	150920	Silene gallica L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+150921	150921	Silene graminea Rchb.	Silene vallesia subsp. graminea (Rchb.) Nym.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	SYNONYM
+150922	150922	Sinapis alba L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150923	150923	Sisyrinchium septentrionale E.P.Bicknell		Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED
+150924	150924	Solanum aviculare G.Forst.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150925	150925	Solanum capsicastrum Link	Solanum pseudocapsicum L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+150926	150926	Solanum carolinense L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150927	150927	Solanum decipiens Opiz	Solanum nigrum L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150928	150928	Solanum myriacanthum Dunal		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150929	150929	Solanum persicum Willd. ex Roem. & Schult.	Solanum dulcamara L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	DOUBTFUL
+150930	150930	Solanum pseudocapsicum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150931	150931	Solanum rostratum Dun.	Solanum angustifolium Mill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+150932	150932	Solanum sisymbriifolium Lam.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150933	150933	Solanum tectum Pers.	Solanum fructu-tecto Cav.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	SYNONYM
+150934	150934	Solanum viarum Dunal		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+150935	150935	Solidago arguta Ait.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150936	150936	Solidago canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150937	150937	Solidago juncea Ait.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150938	150938	Sonchus asper Hill		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150939	150939	Sonchus oleraceus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150940	150940	Sorghum halepense Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150941	150941	Spartium junceum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150942	150942	Spergula arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED
+150943	150943	Spergularia marginata (DC.) Kitt.	Spergularia media (L.) C.Presl	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	SYNONYM
+150944	150944	Spergularia marina (L.) Griseb.	Spergularia marina (L.) Besser	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	SYNONYM
+150945	150945	Spiraea cantoniensis Lour.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+150946	150946	Spiraea japonica L.f.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+150947	150947	Sporobolus fertilis (Steud.) Clayton		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150948	150948	Stachys annua L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150949	150949	Stenactis annua (L.) Nees	Erigeron annuus (L.) Pers.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150950	150950	Steveniella satyrioides Schltr.		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	SPECIES	ACCEPTED
+150951	150951	Tagetes minuta L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150952	150952	Taxodium distichum Kunth	Taxodium mucronatum Ten.	Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	SYNONYM
+150953	150953	Tephrosia candida DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150954	150954	Thea sinensis L.	Camellia sinensis subsp. Sinensis	Plantae	Tracheophyta	Magnoliopsida	Ericales	Theaceae	SPECIES	SYNONYM
+150955	150955	Thlaspi huetii Boiss.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+150956	150956	Tordylium maximum L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150957	150957	Torilis arvensis Link		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150958	150958	Torilis japonica DC.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150959	150959	Torilis leptophylla Rchb.f.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+150960	150960	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+150961	150961	Trachycarpus fortunei H.Wendl.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED
+150962	150962	Tradescantia fluminensis Vell.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+150963	150963	Tradescantia virginiana L.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED
+150964	150964	Triadica sebifera Small		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150965	150965	Tribulus terrestris L.		Plantae	Tracheophyta	Magnoliopsida	Zygophyllales	Zygophyllaceae	SPECIES	ACCEPTED
+150966	150966	Trifolium incarnatum L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150967	150967	Trigonella coerulea (Desr.) Ser.	Trigonella caerulea Ser.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+150968	150968	Trigonella procumbens Rchb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150969	150969	Tritonia crocosmiiflora (Lemoine) G.Nicholson	Crocosmia x Crocosmiiflora (Lemoine) N.E.Br.	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	SYNONYM
+150970	150970	Ulex europaeus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150971	150971	Vandellia diffusa L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Linderniaceae	SPECIES	ACCEPTED
+150972	150972	Verbena brasiliensis Velloso		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+150973	150973	Verbena hastata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+150974	150974	Verbena rigida Spreng.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+150975	150975	Vernicia fordii Airy Shaw		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED
+150976	150976	Veronica persica hort. ex Poir.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+150977	150977	Veronica polita Fries		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+150978	150978	Vicia angustifolia Clos		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	DOUBTFUL
+150979	150979	Vicia faba L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150980	150980	Vicia narbonensis L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150981	150981	Vicia sativa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150982	150982	Vicia tetrasperma (L.) Schreb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150983	150983	Vicia villosa Roth		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150984	150984	Viola mandshurica W.Becker		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Violaceae	SPECIES	ACCEPTED
+150985	150985	Viola prionantha Bunge		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Violaceae	SPECIES	ACCEPTED
+150986	150986	Vitex rotundifolia L.f.	Vitex trifolia subsp. litoralis Steenis	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	SYNONYM
+150987	150987	Vitex trifolia L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED
+150988	150988	Vitex trifolia subsp. litoralis Steenis		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SUBSPECIES	ACCEPTED
+150989	150989	Vitis labrusca L.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+150990	150990	Vulpia bromoides (L.) Gray	Festuca bromoides L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+150991	150991	Wisteria sinensis Sweet		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+150992	150992	Xanthium californicum Greene	Xanthium strumarium subsp. strumarium	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150993	150993	Xanthium italicum Moretti	Xanthium strumarium subsp. strumarium	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150994	150994	Xanthium occidentale Bertol., 1822	Xanthium strumarium L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+150995	150995	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+150996	150996	Xanthium strumarium L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED

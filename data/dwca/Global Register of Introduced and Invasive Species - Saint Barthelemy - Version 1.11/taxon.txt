@@ -1,0 +1,182 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+20278	20278	Abrus precatorius L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20279	20279	Abutilon indicum (L.) Sweet		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+20280	20280	Acacia retusa (Jacq.) R.A.Howard		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20281	20281	Acacia tortuosa (L.) Willd.	Vachellia tortuosa (L.) Seigler & Ebinger	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SYNONYM	SPECIES
+20282	20282	Acalypha chamaedrifolia (Lam.) MÃ¼ll.Arg.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+20283	20283	Acalypha indica L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+20284	20284	Acanthospermum hispidum DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+20285	20285	Achroia grisella (Fabricius, 1794)		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	ACCEPTED	SPECIES
+20286	20286	Achyranthes aspera L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+20287	20287	Acromyrmex octospinosus (Reich, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20288	20288	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20289	20289	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	ACCEPTED	SPECIES
+20290	20290	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20291	20291	Alysicarpus vaginalis (L.) A.DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20292	20292	Amaranthus crassipes Schltdl.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+20293	20293	Ambrosia hispida Pursh		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+20294	20294	Ambrosia peruviana Willd.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+20295	20295	Anolis carolinensis Voigt, 1832		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	ACCEPTED	SPECIES
+20296	20296	Antigonon leptopus Hook. & Arn.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	ACCEPTED	SPECIES
+20297	20297	Apis mellifera Linnaeus, 1758		Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	ACCEPTED	SPECIES
+20298	20298	Artemia franciscana Kellogg, 1906		Animalia	Arthropoda	Branchiopoda	Anostraca	Artemiidae	ACCEPTED	SPECIES
+20299	20299	Artocarpus altilis (Parkinson) Fosberg		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	ACCEPTED	SPECIES
+20300	20300	Bambusa vulgaris Schrad. ex J.C.Wendl.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+20301	20301	Bipalium vagum Jones & Sterrer, 2005		Animalia	Platyhelminthes	Rhabditophora	Tricladida	Geoplanidae	ACCEPTED	SPECIES
+20302	20302	Blattella germanica (Linnaeus, 1767)		Animalia	Arthropoda	Insecta	Blattodea	Ectobiidae	ACCEPTED	SPECIES
+20303	20303	Bos taurus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+20304	20304	Bothriochloa pertusa (L.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+20305	20305	Cactoblastis cactorum Berg, 1885		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	ACCEPTED	SPECIES
+20306	20306	Cairina moschata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	ACCEPTED	SPECIES
+20307	20307	Calotropis procera (Aiton) W.T.Aiton		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	ACCEPTED	SPECIES
+20308	20308	Canis lupus familiaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	ACCEPTED	SUBSPECIES
+20309	20309	Capra aegagrus Erxleben, 1777		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	NONE	SPECIES
+20310	20310	Carpophilus dimidiatus (Fabricius, 1792)		Animalia	Arthropoda	Insecta	Coleoptera	Nitidulidae	ACCEPTED	SPECIES
+20311	20311	Catharanthus roseus G.Don		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	ACCEPTED	SPECIES
+20312	20312	Cetonia carthami Gory & Percheron, 1833		Animalia	Arthropoda	Insecta	Coleoptera	Cetoniidae	ACCEPTED	SPECIES
+20313	20313	Charybdis hellerii (A.Milne-Edwards, 1867)		Animalia	Arthropoda	Malacostraca	Decapoda	Potamidae	ACCEPTED	SPECIES
+20314	20314	Chelonoidis carbonarius (Spix, 1824)		Animalia	Chordata	Reptilia	Testudines	Testudinidae	ACCEPTED	SPECIES
+20315	20315	Chilocorus cacti (Linnaeus, 1767)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	ACCEPTED	SPECIES
+20316	20316	Chilocorus nigritus (Fabricius, 1798)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	ACCEPTED	SPECIES
+20317	20317	Chrysomya rufifacies (Macquart, 1843)		Animalia	Arthropoda	Insecta	Diptera	Calliphoridae	ACCEPTED	SPECIES
+20318	20318	Cleome gynandra L.	Gynandropsis gynandra Briq.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SYNONYM	SPECIES
+20319	20319	Cleome viscosa L.	Arivela viscosa Raf.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Cleomaceae	SYNONYM	SPECIES
+20320	20320	Clitoria ternatea L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20321	20321	Cocos nucifera L.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	ACCEPTED	SPECIES
+20322	20322	Cordia obliqua Willd.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Ehretiaceae	ACCEPTED	SPECIES
+20323	20323	Crescentia cujete L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	ACCEPTED	SPECIES
+20324	20324	Crinum latifolium L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	ACCEPTED	SPECIES
+20325	20325	Crinum zeylanicum L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	ACCEPTED	SPECIES
+20326	20326	Crotalaria verrucosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20327	20327	Cryptocephalus irroratus Suffrian, 1852		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	ACCEPTED	SPECIES
+20328	20328	Cryptolaemus montrouzieri Mulsant, 1853		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	ACCEPTED	SPECIES
+20329	20329	Ctenonotus distichus Nicholson Et Al., 2012	Anolis distichus Cope, 1861	Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SYNONYM	SPECIES
+20330	20330	Cucumis anguria L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	ACCEPTED	SPECIES
+20331	20331	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	ACCEPTED	SPECIES
+20332	20332	Cyanthillium cinereum (L.) H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	ACCEPTED	SPECIES
+20333	20333	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	ACCEPTED	SPECIES
+20334	20334	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	ACCEPTED	SPECIES
+20335	20335	Deiroptyx equestris Nicholson Et Al., 2012	Anolis equestris Merrem, 1820	Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SYNONYM	SPECIES
+20336	20336	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+20337	20337	Dryophytes squirellus (Daudin, 1800)		Animalia	Chordata	Amphibia			NONE	SPECIES
+20338	20338	Dysphania ambrosioides (L.) Mosyakin & Clemants		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	ACCEPTED	SPECIES
+20339	20339	Eleutherodactylus johnstonei Barbour, 1914		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	ACCEPTED	SPECIES
+20340	20340	Eleutherodactylus martinicensis (Tschudi, 1838)		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	ACCEPTED	SPECIES
+20341	20341	Eleutherodactylus planirostris (Cope, 1862)		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	ACCEPTED	SPECIES
+20342	20342	Eragrostis amabilis (L.) Wight & Arn. ex Nees, 1838	Eragrostis amabilis (L.) Wight & Arn.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+20343	20343	Evania appendigaster (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hymenoptera	Evaniidae	ACCEPTED	SPECIES
+20344	20344	Exelastis pumilio (Zeller, 1873)		Animalia	Arthropoda	Insecta	Lepidoptera	Pterophoridae	ACCEPTED	SPECIES
+20345	20345	Felis silvestris catus Linnaeus, 1758	Felis catus Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Felidae	SYNONYM	SUBSPECIES
+20346	20346	Gallus gallus domesticus (Linnaeus, 1758)	Gallus gallus (Linnaeus, 1758)	Animalia	Chordata	Aves	Galliformes	Phasianidae	SYNONYM	SUBSPECIES
+20347	20347	Gryllodes sigillatus (Walker & F., 1869)		Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	ACCEPTED	SPECIES
+20348	20348	Gymnophthalmus underwoodi Grant, 1958		Animalia	Chordata	Reptilia	Squamata	Gymnophthalmidae	ACCEPTED	SPECIES
+20349	20349	Halophila stipulacea Asch.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	ACCEPTED	SPECIES
+20350	20350	Hemidactylus mabouia (Moreau De JonnÃ¨s, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	ACCEPTED	SPECIES
+20351	20351	Hermetia illucens (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Diptera	Stratiomyidae	ACCEPTED	SPECIES
+20352	20352	Hibiscus phoeniceus Jacq.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+20353	20353	Hibiscus vitifolius L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	ACCEPTED	SPECIES
+20354	20354	Huttonella bicolor (Hutton, 1834)	Gulella bicolor (Hutton, 1834)	Animalia	Mollusca	Gastropoda	Stylommatophora	Streptaxidae	SYNONYM	SPECIES
+20355	20355	Hyblaea puera Cramer, 1777		Animalia	Arthropoda	Insecta	Lepidoptera	Hyblaeidae	ACCEPTED	SPECIES
+20356	20356	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	ACCEPTED	SPECIES
+20357	20357	Indigofera suffruticosa Mill.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20358	20358	Indigofera tinctoria L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20359	20359	Indotyphlops braminus (Daudin, 1803)		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	ACCEPTED	SPECIES
+20360	20360	Isometrus maculatus (DeGeer, 1778)		Animalia	Arthropoda	Arachnida	Scorpiones	Buthidae	ACCEPTED	SPECIES
+20361	20361	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+20362	20362	Kalanchoe pinnata Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	ACCEPTED	SPECIES
+20363	20363	Latrodectus geometricus Koch, 1841		Animalia	Arthropoda	Arachnida	Araneae	Theridiidae	ACCEPTED	SPECIES
+20364	20364	Leidyula floridana Leidy, 1851		Animalia	Mollusca	Gastropoda	Systellommatophora	Veronicellidae	ACCEPTED	SPECIES
+20365	20365	Leonurus sibiricus L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	ACCEPTED	SPECIES
+20366	20366	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20367	20367	Lissachatina fulica (FÃ©russac, 1821)		Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	ACCEPTED	SPECIES
+20368	20368	Malpighia emarginata DC.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Malpighiaceae	ACCEPTED	SPECIES
+20369	20369	Mangifera indica L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	ACCEPTED	SPECIES
+20370	20370	Manilkara zapota (L.) P.Royen		Plantae	Tracheophyta	Magnoliopsida	Ericales	Sapotaceae	ACCEPTED	SPECIES
+20371	20371	Megachile concinna Smith, 1879		Animalia	Arthropoda	Insecta	Hymenoptera	Megachilidae	ACCEPTED	SPECIES
+20372	20372	Megachile lanata (Fabricius, 1775)		Animalia	Arthropoda	Insecta	Hymenoptera	Megachilidae	ACCEPTED	SPECIES
+20373	20373	Megalorhipida leucodactylus (Fabricius, 1794)		Animalia	Arthropoda	Insecta	Lepidoptera	Pterophoridae	ACCEPTED	SPECIES
+20374	20374	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	ACCEPTED	SPECIES
+20375	20375	Melicoccus bijugatus Jacq.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	ACCEPTED	SPECIES
+20376	20376	Menemerus bivittatus (Dufour, 1831)		Animalia	Arthropoda	Arachnida	Araneae	Salticidae	ACCEPTED	SPECIES
+20377	20377	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20378	20378	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	ACCEPTED	SPECIES
+20379	20379	Monanus concinnulus (Walker, 1858)		Animalia	Arthropoda	Insecta	Coleoptera	Silvanidae	ACCEPTED	SPECIES
+20380	20380	Monomorium carbonarium (Smith, 1858)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20381	20381	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20382	20382	Moringa oleifera Lam.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Moringaceae	ACCEPTED	SPECIES
+20383	20383	Murraya paniculata (L.) Jack	Murraya paniculata (L.) Jacq.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	SYNONYM	SPECIES
+20384	20384	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+20385	20385	Myllocerus undecimpustulatus Faust, 1891		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	ACCEPTED	SPECIES
+20386	20386	Nabis capsiformis Germar, 1838		Animalia	Arthropoda	Insecta	Hemiptera	Nabidae	ACCEPTED	SPECIES
+20387	20387	Nesticodes rufipes (Lucas, 1846)		Animalia	Arthropoda	Arachnida	Araneae	Theridiidae	ACCEPTED	SPECIES
+20388	20388	Nezara viridula (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hemiptera	Pentatomidae	ACCEPTED	SPECIES
+20389	20389	Norops sagrei Schwartz & Henderson, 1988	Anolis sagrei Duméril & Bibron, 1837	Animalia	Chordata	Reptilia	Squamata	Dactyloidae	SYNONYM	SPECIES
+20390	20390	Numida meleagris (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Numididae	ACCEPTED	SPECIES
+20391	20391	Oldenlandia corymbosa L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+20392	20392	Operculina turpethum (L.) Silva Manso		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	ACCEPTED	SPECIES
+20393	20393	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	ACCEPTED	SPECIES
+20394	20394	Orthomorpha coarctata (Saussure, 1860)		Animalia	Arthropoda	Diplopoda	Polydesmida	Paradoxosomatidae	ACCEPTED	SPECIES
+20395	20395	Oryctolagus cuniculus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	ACCEPTED	SPECIES
+20396	20396	Oscarella lobularis (Schmidt, 1862)		Animalia	Porifera	Homoscleromorpha	Homosclerophorida	Oscarellidae	ACCEPTED	SPECIES
+20397	20397	Osteopilus septentrionalis (DumÃ©ril & Bibron, 1841)		Animalia	Chordata	Amphibia	Anura	Hylidae	ACCEPTED	SPECIES
+20398	20398	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	ACCEPTED	SPECIES
+20399	20399	Oxalis debilis Kunth		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	ACCEPTED	SPECIES
+20400	20400	Pantherophis guttatus (Linnaeus, 1766)		Animalia	Chordata	Reptilia	Squamata	Colubridae	ACCEPTED	SPECIES
+20401	20401	Papilio demoleus Linnaeus, 1758		Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	ACCEPTED	SPECIES
+20402	20402	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20403	20403	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	ACCEPTED	SPECIES
+20404	20404	Pavo cristatus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	ACCEPTED	SPECIES
+20405	20405	Periplaneta americana (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Blattodea	Blattidae	ACCEPTED	SPECIES
+20406	20406	Periplaneta australasiae (Fabricius, 1775)		Animalia	Arthropoda	Insecta	Blattodea	Blattidae	ACCEPTED	SPECIES
+20407	20407	Peucetia viridis (Blackwall, 1858)		Animalia	Arthropoda	Arachnida	Araneae	Oxyopidae	ACCEPTED	SPECIES
+20408	20408	Phasianus colchicus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	ACCEPTED	SPECIES
+20409	20409	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20410	20410	Phenax sonneratii Wedd.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Urticaceae	ACCEPTED	SPECIES
+20411	20411	Phidippus regius C.L.Koch, 1846		Animalia	Arthropoda	Arachnida	Araneae	Salticidae	ACCEPTED	SPECIES
+20412	20412	Physocyclus globosus (Taczanowski, 1874)		Animalia	Arthropoda	Arachnida	Araneae	Pholcidae	ACCEPTED	SPECIES
+20413	20413	Poecilia reticulata Peters, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	ACCEPTED	SPECIES
+20414	20414	Porcellionides pruinosus (Brandt, 1833)		Animalia	Arthropoda	Malacostraca	Isopoda	Porcellionidae	ACCEPTED	SPECIES
+20415	20415	Protaetia fusca (Herbst, 1790)		Animalia	Arthropoda	Insecta	Coleoptera	Cetoniidae	ACCEPTED	SPECIES
+20416	20416	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	ACCEPTED	SPECIES
+20417	20417	Pterois volitans (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Scorpaenidae	ACCEPTED	SPECIES
+20418	20418	Pycnoscelus surinamensis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Blattodea	Blaberidae	ACCEPTED	SPECIES
+20419	20419	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+20420	20420	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	ACCEPTED	SPECIES
+20421	20421	Rhysida longipes Newport, 1845		Animalia	Arthropoda	Chilopoda	Scolopendromorpha	Scolopendridae	ACCEPTED	SPECIES
+20422	20422	Ricinus communis L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	ACCEPTED	SPECIES
+20423	20423	Rottboellia cochinchinensis (Lour.) Clayton		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	ACCEPTED	SPECIES
+20424	20424	Sabal causiarum Becc.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	ACCEPTED	SPECIES
+20425	20425	Sambucus canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Adoxaceae	ACCEPTED	SPECIES
+20426	20426	Sansevieria hyacinthoides (L.) Druce		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	ACCEPTED	SPECIES
+20427	20427	Scolopendra morsitans Linnaeus, 1758		Animalia	Arthropoda	Chilopoda	Scolopendromorpha	Scolopendridae	ACCEPTED	SPECIES
+20428	20428	Scolopendra subspinipes Leach, 1815		Animalia	Arthropoda	Chilopoda	Scolopendromorpha	Scolopendridae	ACCEPTED	SPECIES
+20429	20429	Sitophilus linearis Hustache & A., 1930		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	ACCEPTED	SPECIES
+20430	20430	Solenopsis invicta Buren, 1972		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20431	20431	Steatoda erigoniformis (O.Pickard-Cambridge, 1872)		Animalia	Arthropoda	Arachnida	Araneae	Theridiidae	ACCEPTED	SPECIES
+20432	20432	Storeria dekayi (Holbrook, 1839)		Animalia	Chordata	Reptilia	Squamata	Natricidae	ACCEPTED	SPECIES
+20433	20433	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	ACCEPTED	SPECIES
+20434	20434	Supella longipalpa (Fabricius, 1798)		Animalia	Arthropoda	Insecta	Blattodea	Ectobiidae	ACCEPTED	SPECIES
+20435	20435	Symploce pallens (Stephens, 1835)		Animalia	Arthropoda	Insecta	Blattodea	Ectobiidae	ACCEPTED	SPECIES
+20436	20436	Tamarindus indica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20437	20437	Tamarix gallica L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Tamaricaceae	ACCEPTED	SPECIES
+20438	20438	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20439	20439	Technomyrmex difficilis Forel, 1892		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	ACCEPTED	SPECIES
+20440	20440	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	ACCEPTED	SPECIES
+20441	20441	Tetragnatha nitens (Audouin, 1826)		Animalia	Arthropoda	Arachnida	Araneae	Tetragnathidae	ACCEPTED	SPECIES
+20442	20442	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	ACCEPTED	SUBSPECIES
+20443	20443	Trachyscelis aphodioides Latreille, 1809		Animalia	Arthropoda	Insecta	Coleoptera	Tenebrionidae	ACCEPTED	SPECIES
+20444	20444	Trigoniulus corallinus (Eydoux & Souleyet, 1842)		Animalia	Arthropoda	Diplopoda	Spirobolida	Trigoniulidae	ACCEPTED	SPECIES
+20445	20445	Triphasia trifolia P.Wilson		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	ACCEPTED	SPECIES
+20446	20446	Tubastraea coccinea Lesson, 1829-1830		Animalia	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	ACCEPTED	SPECIES
+20447	20447	Typhaea stercorea (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Mycetophagidae	ACCEPTED	SPECIES
+20448	20448	Urochloa maxima (Jacq.) R.D.Webster	Panicum maximum Jacq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SYNONYM	SPECIES
+20449	20449	Vachellia farnesiana (L.) Wight & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20450	20450	Vachellia nilotica (L.) P.J.H.Hurter & Mabb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	ACCEPTED	SPECIES
+20451	20451	Vangueria madagascariensis J.F.Gmel.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	ACCEPTED	SPECIES
+20452	20452	Veronicella cubensis (L.Pfeiffer, 1840)		Animalia	Mollusca	Gastropoda	Systellommatophora	Veronicellidae	ACCEPTED	SPECIES
+20453	20453	Vespula germanica (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	ACCEPTED	SPECIES
+20454	20454	Yucca aloifolia L.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	ACCEPTED	SPECIES
+20455	20455	Zabrotes subfasciatus (Boheman, 1833)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	ACCEPTED	SPECIES
+20456	20456	Zachrysia provisoria Pfeiffer, 1858,1928		Animalia	Mollusca	Gastropoda	Stylommatophora	Zachrysiidae	ACCEPTED	SPECIES
+20457	20457	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	ACCEPTED	SPECIES
+20458	20458	Zosis geniculata (Olivier, 1789)		Animalia	Arthropoda	Arachnida	Araneae	Uloboridae	ACCEPTED	SPECIES

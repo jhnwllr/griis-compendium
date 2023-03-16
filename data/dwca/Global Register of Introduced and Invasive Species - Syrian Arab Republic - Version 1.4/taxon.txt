@@ -1,0 +1,211 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+90700	90700	Ablennes hians (Valenciennes, 1846)		Animalia	Chordata	Actinopterygii	Beloniformes	Belonidae	SPECIES	ACCEPTED
+90701	90701	Acacia farnesiana (L.) Willd.	Vachellia farnesiana (L.) Wight & Arn.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+90702	90702	Acacia saligna (Labill.) H.L.Wendl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+90703	90703	Acer pseudoplatanus L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+90704	90704	Acteocina mucronata (Philippi, 1849)		Animalia	Mollusca	Gastropoda	Cephalaspidea	Tornatinidae	SPECIES	ACCEPTED
+90705	90705	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+90706	90706	Afrocardium richardi (Audouin, 1826)		Animalia	Mollusca	Bivalvia	Cardiida	Cardiidae	SPECIES	ACCEPTED
+90707	90707	Agelas linnaei De Voogd, Parra-Velandia & van Soest, 2008		Animalia	Porifera	Demospongiae	Agelasida	Agelasidae	SPECIES	ACCEPTED
+90708	90708	Albizia julibrissin Durazz.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+90709	90709	Alepes djedaba (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Carangidae	SPECIES	ACCEPTED
+90710	90710	Alpheus edwardsii  (Audouin, 1826)		Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	ACCEPTED
+90711	90711	Alpheus inopinatus Holthuis & Gottlieb, 1958		Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	ACCEPTED
+90712	90712	Alpheus migrans Lewinsohn & Holthuis, 1978		Animalia	Arthropoda	Malacostraca	Decapoda	Alpheidae	SPECIES	ACCEPTED
+90713	90713	Alvania dorbignyi (Audouin, 1826)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Rissoidae	SPECIES	ACCEPTED
+90714	90714	Anethum graveolens L.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+90715	90715	Aphanius dispar (RÃ¼ppell, 1829)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Cyprinodontidae	SPECIES	ACCEPTED
+90716	90716	Aplysia dactylomela Rang, 1828		Animalia	Mollusca	Gastropoda	Aplysiida	Aplysiidae	SPECIES	ACCEPTED
+90717	90717	Apogon atradorsatus Heller & Snodgrass, 1903		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+90718	90718	Apogonichthyoides pharaonis (Bellotti, 1874)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+90719	90719	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+90720	90720	Ascidiella aspersa (MÃ¼ller, 1776)		Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED
+90721	90721	Ashtoret lunaris (ForskÃ¥l, 1775)		Animalia	Arthropoda	Malacostraca	Decapoda	Matutidae	SPECIES	ACCEPTED
+90722	90722	Asparagopsis taxiformis (Delile) Trevis.		Plantae	Rhodophyta	Florideophyceae	Bonnemaisoniales	Bonnemaisoniaceae	SPECIES	ACCEPTED
+90723	90723	Asphodelus microcarpus Rchb.	Asphodelus tenuifolius Cav.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	SYNONYM
+90724	90724	Atergatis roseus (RÃ¼ppell, 1830)		Animalia	Arthropoda	Malacostraca	Decapoda	Xanthidae	SPECIES	ACCEPTED
+90725	90725	Atherinomorus forskalii (RÃ¼ppell, 1838)		Animalia	Chordata	Actinopterygii	Atheriniformes	Atherinidae	SPECIES	ACCEPTED
+90726	90726	Brachidontes pharaonis (P.Fischer, 1870)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+90727	90727	Brachynotus atlanticus Forest, 1957		Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED
+90728	90728	Bulla arabica Malaquias & D. Reid, 2008		Animalia	Mollusca	Gastropoda	Cephalaspidea	Bullidae	SPECIES	ACCEPTED
+90729	90729	Calcinus tubularis (Linnaeus, 1767		Animalia	Arthropoda	Malacostraca	Decapoda	Diogenidae	SPECIES	ACCEPTED
+90730	90730	Callinectes sapidus Rathbun, 1896		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+90731	90731	Callionymus filamentosus Valenciennes, 1837		Animalia	Chordata	Actinopterygii	Perciformes	Callionymidae	SPECIES	ACCEPTED
+90732	90732	Caulerpa racemosa (Forssk.) J.Agardh		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED
+90733	90733	Caulerpa taxifolia (M.Vahl) C.Agardh		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED
+90734	90734	Centaurea diffusa Lam.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90735	90735	Centaurea pallescens Delile		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90736	90736	Ceratitis capitata (Wiedemann, 1824)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+90737	90737	Cerithiopsis pulvis (Issel, 1869)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cerithiopsidae	SPECIES	ACCEPTED
+90738	90738	Cerithiopsis tenthrenois (Melvill, 1896)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Cerithiopsidae	SPECIES	ACCEPTED
+90739	90739	Cerithium scabridum Philippi, 1848		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+90740	90740	Chaetodon larvatus Cuvier, 1831		Animalia	Chordata	Actinopterygii	Perciformes	Chaetodontidae	SPECIES	ACCEPTED
+90741	90741	Chama pacifica Broderip, 1835		Animalia	Mollusca	Bivalvia	Venerida	Chamidae	SPECIES	ACCEPTED
+90742	90742	Champsodon nudivittis (Ogilby, 1895)		Animalia	Chordata	Actinopterygii	Perciformes	Champsodontidae 	SPECIES	ACCEPTED
+90743	90743	Charybdis hellerii (A.Milne-Edwards, 1867)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+90744	90744	Charybdis longicollis Leene, 1938		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+90745	90745	Cheilodipterus novemstriatus (Rüppell, 1838)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+90746	90746	Cinnamomum camphora (L.) J.Presl		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED
+90747	90747	Circenita varia  (Born, 1778)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+90748	90748	Clathrofenella ferruginea (A.Adams, 1860)	Cerithidium diplax (R.B.Watson, 1886)	Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	SYNONYM
+90749	90749	Codium arabicum Kuetz.		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED
+90750	90750	Codium parvulum (Bory ex Audouin) P.C.Silva		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED
+90751	90751	Codium taylorii P.C.Silva		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED
+90752	90752	Coleusia signata (Paul'son, 1875)		Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	ACCEPTED
+90753	90753	Colpomenia peregrina Sauv.		Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED
+90754	90754	Conomurex persicus (Swainson, 1821)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Strombidae	SPECIES	ACCEPTED
+90755	90755	Conus fumigatus Hwass, 1792		Animalia	Mollusca	Gastropoda	Neogastropoda	Conidae	SPECIES	ACCEPTED
+90756	90756	Coptodon zillii (Gervais, 1848)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+90757	90757	Crassostrea gigas (Thunberg, 1793)	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	SYNONYM
+90758	90758	Crenidens crenidens (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	SPECIES	ACCEPTED
+90759	90759	Cynara cardunculus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90760	90760	Cynoglossus sinusarabici (Chabanaud, 1931)		Animalia	Chordata	Actinopterygii	Pleuronectiformes	Cynoglossidae	SPECIES	ACCEPTED
+90761	90761	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+90762	90762	Cystoseira elegans Sauv., 1912		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+90763	90763	Diodora ruppellii (G.B.Sowerby I, 1835)		Animalia	Mollusca	Gastropoda	Lepetellida	Fissurellidae	SPECIES	ACCEPTED
+90764	90764	Dussumieria elopsoides Bleeker, 1849		Animalia	Chordata	Actinopterygii	Clupeiformes	Dussumieriidae	SPECIES	ACCEPTED
+90765	90765	Echinolittorina punctata (Gmelin, 1791)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Littorinidae	SPECIES	ACCEPTED
+90766	90766	Echinops polyceras Boiss.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90767	90767	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+90768	90768	Equulites klunzingeri (Steindachner, 1898)		Animalia	Chordata	Actinopterygii	Perciformes	Leiognathidae	SPECIES	ACCEPTED
+90769	90769	Ergalatax junionae Houart, 2008		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+90770	90770	Erosaria turdus (Lamarck, 1810)	Naria turdus (Lamarck, 1810)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Cypraeidae	SPECIES	SYNONYM
+90771	90771	Erugosquilla massavensis (Kossmann, 1880)		Animalia	Arthropoda	Malacostraca	Stomatopoda	Squillidea	SPECIES	ACCEPTED
+90772	90772	Etrumeus golanii DiBattista, Randall & Bowen, 2012		Animalia	Chordata	Actinopterygii	Clupeiformes	Dussumieriidae	SPECIES	ACCEPTED
+90773	90773	Eupatorium cannabinum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90774	90774	Finella pupoides A.Adams, 1860		Animalia	Mollusca	Gastropoda		Scaliolidae	SPECIES	ACCEPTED
+90775	90775	Fistularia commersonii RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Syngnathiformes	Fistulariidae	SPECIES	ACCEPTED
+90776	90776	Fistularia petimba Lacepède, 1803		Animalia	Chordata	Actinopterygii	Syngnathiformes	Fistulariidae	SPECIES	ACCEPTED
+90777	90777	Fusinus verrucosus (Gmelin, 1791)		Animalia	Mollusca	Gastropoda	Neogastropoda	Fasciolariidae	SPECIES	ACCEPTED
+90778	90778	Gafrarium savignyi (Jonas, 1846)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+90779	90779	Galaxaura lapidescence		Plantae	Rhodophyta	Florideophyceae	Nemaliales	Galaxauraceae	SPECIES	
+90780	90780	Galaxaura rugosa (J.Ellis & Sol.) J.V.Lamour.		Plantae	Rhodophyta	Florideophyceae	Nemaliales	Galaxauraceae	SPECIES	ACCEPTED
+90781	90781	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+90782	90782	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+90783	90783	Ganonema farinosum (J.V.Lamour.) K.C.Fan & Y.C.Wang		Plantae	Rhodophyta				SPECIES	ACCEPTED
+90784	90784	Glabropilumnus laevis Dana, 1852		Animalia	Arthropoda	Malacostraca	Decapoda	Pilumnidae	SPECIES	ACCEPTED
+90785	90785	Goniobranchus annulatus (Eliot, 1904)		Animalia	Mollusca	Gastropoda	Nudibranchia	Chromodorididae	SPECIES	ACCEPTED
+90786	90786	Halicystis boergesenii Iyengar & Ramanathan, 1954	Derbesia boergesenii (M.O.P.Iyengar & Ramanathan) Mayhoub, 1976	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Derbesiaceae	SPECIES	SYNONYM
+90787	90787	Hemiramphus far (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Beloniformes	Hemiramphidae	SPECIES	ACCEPTED
+90788	90788	Herdmania momus (Savigny, 1816)		Animalia	Chordata	Ascidiacea	Stolidobranchia	Pyuridae	SPECIES	ACCEPTED
+90789	90789	Herklotsichthys punctatus (RÃ¼ppell, 1837)		Animalia	Chordata	Actinopterygii	Clupeiformes	Clupeidae	SPECIES	ACCEPTED
+90790	90790	Himantura uarnak (Gmelin, 1789)		Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae	SPECIES	ACCEPTED
+90791	90791	Hydrocotyle ranunculoides L.f.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+90792	90792	Hyporhamphus affinis (GÃ¼nther, 1866)		Animalia	Chordata	Actinopterygii	Beloniformes	Hemiramphidae	SPECIES	ACCEPTED
+90793	90793	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+90794	90794	Indothais lacera (Born, 1778)		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+90795	90795	Ixa monodi Holthuis & Gottlieb, 1956		Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	ACCEPTED
+90796	90796	Jaydia queketti (Gilchrist, 1903)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+90797	90797	Jaydia smithi Kotthaus, 1970		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+90798	90798	Lagocephalus lagocephalus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+90799	90799	Lagocephalus spadiceus (Richardson, 1845)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+90800	90800	Lagocephalus suezensis Clark & Gohar, 1953		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+90801	90801	Leiognathus berbis Valenciennes, 1835		Animalia	Chordata	Actinopterygii	Perciformes	Leiognathidae	SPECIES	ACCEPTED
+90802	90802	Leptochela aculeocaudata Paul'son, 1875		Animalia	Arthropoda	Malacostraca	Decapoda	Pasiphaeidae	SPECIES	ACCEPTED
+90803	90803	Leptochela pugnax de Man, 1916		Animalia	Arthropoda	Malacostraca	Decapoda	Pasiphaeidae	SPECIES	ACCEPTED
+90804	90804	Lophocladia lallemandii (Mont.) F.Schmitz, 1893		Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED
+90805	90805	Lotus corniculatus L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+90806	90806	Macrophthalmus indicus Davie, 2012		Animalia	Arthropoda	Malacostraca	Decapoda	Macrophthalmidae	SPECIES	ACCEPTED
+90807	90807	Macrorhynchia philippina Kirchenpauer, 1872		Animalia	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	SPECIES	ACCEPTED
+90808	90808	Malleus regula (ForsskÃ¥l, 1775)		Animalia	Mollusca	Bivalvia	Ostreida	Malleidae	SPECIES	ACCEPTED
+90809	90809	Marsupenaeus japonicus (Bate, 1888)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+90810	90810	Matuta victor (Fabricius, 1781)		Animalia	Arthropoda	Malacostraca	Decapoda	Matutidae	SUBSPECIES	ACCEPTED
+90811	90811	Melia azedarach L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+90812	90812	Metapenaeopsis mogiensis consobrina (Nobili, 1904)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SUBSPECIES	ACCEPTED
+90813	90813	Metapenaeus monoceros (Fabricius, 1798)		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+90814	90814	Metapenaeus stebbingi Nobili, 1904		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+90815	90815	Micippa thalia Herbst, 1803		Animalia	Arthropoda	Malacostraca	Decapoda	Majidae	SPECIES	ACCEPTED
+90816	90816	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+90817	90817	Mnestia girardi  (Audouin, 1826)	Mnestia girardi (Audouin, 1826)	Animalia	Mollusca	Gastropoda	Cephalaspidea	Mnestiidae	SPECIES	SYNONYM
+90818	90818	Mnestia girardi (Audouin, 1826)		Animalia	Mollusca	Gastropoda	Cephalaspidea	Mnestiidae 	SPECIES	ACCEPTED
+90819	90819	Murex forskoehlii RÃ¶ding, 1798		Animalia	Mollusca	Gastropoda	Neogastropoda	Muricidae	SPECIES	ACCEPTED
+90820	90820	Myra subgranulata Kossmann, 1877		Animalia	Arthropoda	Malacostraca	Decapoda	Leucosiidae	SPECIES	ACCEPTED
+90821	90821	Nemipterus randalli Russell, 1986		Animalia	Chordata	Actinopterygii	Perciformes	Nemipteridae	SPECIES	ACCEPTED
+90822	90822	Neomeris annulata Dickie		Plantae	Chlorophyta	Ulvophyceae	Dasycladales	Dasycladaceae	SPECIES	ACCEPTED
+90823	90823	Noaea mucronata Forssk.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	DOUBTFUL
+90824	90824	Notobasis syriaca Cass.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+90825	90825	Odostomia lorioli (Hornung & Mermod, 1924)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+90826	90826	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+90827	90827	Ophiactis macrolepidota Marktanner-Turneretscher, 1887		Animalia	Echinodermata	Ophiuroidea	Amphilepidida	Ophiactidae	SPECIES	ACCEPTED
+90828	90828	Opuntia monacantha Haw.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+90829	90829	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+90830	90830	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+90831	90831	Ostorhinchus fasciatus (White, 1790)		Animalia	Chordata	Actinopterygii	Perciformes	Apogonidae	SPECIES	ACCEPTED
+90832	90832	Oxyurichthys petersii (Klunzinger, 1871)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	DOUBTFUL
+90833	90833	Padina boryana Thivy, 1966		Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED
+90834	90834	Padina tetrastromatica Hauck	Padina antillarum (Kütz.) Picc.	Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	SYNONYM
+90835	90835	Paphia textile (Gmelin, 1791)	Paratapes textilis (Gmelin, 1791)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	SYNONYM
+90836	90836	Paratapes textilis (Gmelin, 1791)		Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED
+90837	90837	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+90838	90838	Parexocoetus mento (Valenciennes, 1847)		Animalia	Chordata	Actinopterygii	Beloniformes	Exocoetidae	SPECIES	ACCEPTED
+90839	90839	Parkinsonia aculeata L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+90840	90840	Parupeneus forsskali (Fourmanoir & Guézé, 1976)		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+90841	90841	Pelates quadrilineatus Cuvier & Valenciennes, 1829		Animalia	Chordata	Actinopterygii	Perciformes	Terapontidae	SPECIES	ACCEPTED
+90842	90842	Pempheris mangula Cuvier, 1829		Animalia	Chordata	Actinopterygii	Perciformes	Pempheridae	SPECIES	ACCEPTED
+90843	90843	Penaeus pulchricaudatus Stebbing, 1914		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+90844	90844	Penaeus semisulcatus de Haan, 1844		Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED
+90845	90845	Petroscirtes ancylodon RÃ¼ppell, 1835		Animalia	Chordata	Actinopterygii	Perciformes	Blenniidae	SPECIES	ACCEPTED
+90846	90846	Phallusia nigra Savigny, 1816		Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED
+90847	90847	Pinctada imbricata radiata (Leach, 1814)		Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SUBSPECIES	ACCEPTED
+90848	90848	Pinctada radiata (Leach, 1814)	Pinctada imbricata radiata (Leach, 1814)	Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SPECIES	SYNONYM
+90849	90849	Platycephalus indicus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Scorpaeniformes	Platycephalidae	SPECIES	ACCEPTED
+90850	90850	Plotosus lineatus(Thunberg, 1787)		Animalia	Chordata	Actinopterygii	 Siluriformes 	Plotosidae	SPECIES	ACCEPTED
+90851	90851	Pomacanthus imperator (Bloch, 1787)		Animalia	Chordata	Actinopterygii	Perciformes	Pomacanthidae	SPECIES	ACCEPTED
+90852	90852	Pomadasys stridens (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Haemulidae	SPECIES	ACCEPTED
+90853	90853	Pomadasys stridens (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Haemulidae	SPECIES	ACCEPTED
+90854	90854	Portunus pelagicus (Linnaeus, 1758)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+90855	90855	Portunus segnis (ForskÃ¥l, 1775)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+90856	90856	Priacanthus sagittarius  Starnes, 1988		Animalia	Chordata	Actinopterygii	Perciformes	Priacanthidae 	SPECIES	ACCEPTED
+90857	90857	Pseudominolia nedyma (Melvill, 1897)		Animalia	Mollusca	Gastropoda	Trochida	Trochidae	SPECIES	ACCEPTED
+90858	90858	Pterois miles (Bennett, 1828)		Animalia	Chordata	Actinopterygii	Perciformes	Scorpaenidae	SPECIES	ACCEPTED
+90859	90859	Punctaria latifolia Grev.		Plantae	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED
+90860	90860	Pyrgulina pupaeformis (Souverbie, 1865)	Pyrgulina maiae Hornung &  Mermod, 1924	Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	SYNONYM
+90861	90861	Pyrunculus fourierii (Audouin, 1826)		Animalia	Mollusca	Gastropoda	Cephalaspidea	Retusidae	SPECIES	ACCEPTED
+90862	90862	Rhabdosargus haffara (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	SPECIES	ACCEPTED
+90863	90863	Rhinoclavis kochi (Philippi, 1848)		Animalia	Mollusca	Gastropoda		Cerithiidae	SPECIES	ACCEPTED
+90864	90864	Rhopilema nomadica Galil, 1990		Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	SPECIES	ACCEPTED
+90865	90865	Rissoina bertholleti Issel, 1869		Animalia	Mollusca	Gastropoda	Littorinimorpha	Rissoinidae	SPECIES	ACCEPTED
+90866	90866	Saccostrea cuccullata (Born, 1778)		Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED
+90867	90867	Sarcopoterium spinosum Spach		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+90868	90868	Sargocentron rubrum (ForsskÃ¥l, 1775)		Animalia	Chordata	Actinopterygii	Beryciformes	Holocentridae	SPECIES	ACCEPTED
+90869	90869	Saron marmoratus (Olivier, 1811)		Animalia	Arthropoda	Malacostraca	Decapoda	Hippolytidae	SPECIES	ACCEPTED
+90870	90870	Scarus ghobban Forsskål, 1775		Animalia	Chordata	Actinopterygii	Perciformes	 Scaridae	SPECIES	ACCEPTED
+90871	90871	Sepioteuthis Lessoniana Férussac, 1831		Animalia	Mollusca	Cephalopoda	Myopsida	Loliginidae	SPECIES	ACCEPTED
+90872	90872	Septifer cumingii RÃ©cluz, 1849		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+90873	90873	Siganus javus (Linnaeus, 1766)		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+110900	110900	Siganus luridus (RÃ¼ppell, 1829)		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+110901	110901	Siganus rivulatus ForsskÃ¥l, 1775		Animalia	Chordata	Actinopterygii	Perciformes	Siganidae	SPECIES	ACCEPTED
+110902	110902	Silhouettea aegyptia (Chabanaud, 1933)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+110903	110903	Silurus glanis Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Siluriformes	Siluridae	SPECIES	ACCEPTED
+110904	110904	Smaragdia souverbiana (Montrouzier, 1863)		Animalia	Mollusca	Gastropoda	Cycloneritida	Neritidae	SPECIES	ACCEPTED
+110905	110905	Spatoglossum schroederi (C.Agardh) Kützing		Plantae	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED
+110906	110906	Sphyraena chrysotaenia Klunzinger, 1884		Animalia	Chordata	Actinopterygii	Perciformes	Sphyraenidae	SPECIES	ACCEPTED
+110907	110907	Sphyraena flavicauda RÃ¼ppell, 1838		Animalia	Chordata	Actinopterygii	Perciformes	Sphyraenidae	SPECIES	ACCEPTED
+110908	110908	Spirobranchus tetraceros (Schmarda, 1861)		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+110909	110909	Spirorbis marioni Caullery & Mesnil, 1897		Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED
+110910	110910	Spondylus spinosus Schreibers, 1793		Animalia	Mollusca	Bivalvia	Pectinida	Spondylidae	SPECIES	ACCEPTED
+110911	110911	Stephanolepis diaspros Fraser-Brunner, 1940		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Monacanthidae	SPECIES	ACCEPTED
+110912	110912	Sticteulima lentiginosa (A.Adams, 1861)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Eulimidae	SPECIES	ACCEPTED
+110913	110913	Stypopodium zonale (J.V.Lamour.) Papenf.		Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED
+110914	110914	Synaptula reciprocans (ForsskÃ¥l, 1775)		Animalia	Echinodermata	Holothuroidea	Apodida	Synaptidae	SPECIES	ACCEPTED
+110915	110915	Syrnola cinctella A.Adams, 1860		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+110916	110916	Syrnola fasciata Jickeli, 1882		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+110917	110917	Syrnola lendix  (A. Adams, 1863)		Animalia	Mollusca	Gastropoda		Pyramidellidae	SPECIES	ACCEPTED
+110918	110918	Terapon puta Cuvier, 1829		Animalia	Chordata	Actinopterygii	Perciformes	Terapontidae	SPECIES	ACCEPTED
+110919	110919	Tetrosomus gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Ostraciidae	SPECIES	ACCEPTED
+110920	110920	Thalamita indistincta Apel & Spiridonov, 1998		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+110921	110921	Thalamita poissonii (Audouin, 1826)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED
+110922	110922	Thecacera pennigera (Montagu, 1813)		Animalia	Mollusca	Gastropoda	Nudibranchia	Polyceridae	SPECIES	ACCEPTED
+110923	110923	Tilapia zilii (Gervais, 1848)	Coptodon zillii (Gervais, 1848)	Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	SYNONYM
+110924	110924	Torpedo sinuspersici Olfers, 1831		Animalia	Chordata	Elasmobranchii	Torpediniformes	Torpedinidae	SPECIES	ACCEPTED
+110925	110925	Torquigener flavimaculosus Hardy & Randall, 1983		Animalia	Chordata	Actinopterygii	Tetraodontiformes	Tetraodontidae	SPECIES	ACCEPTED
+110926	110926	Trachysalambria palaestinensis ( Steinitz, 1932 )	Trachysalambria curvirostris (Stimpson, 1860)	Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SUBSPECIES	SYNONYM
+110927	110927	Trochus erithreus Brocchi, 1821		Animalia	Mollusca	Gastropoda	Trochida	Trochidae	SPECIES	ACCEPTED
+110928	110928	Trogoderma granarium Everts, 1898		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	SPECIES	ACCEPTED
+110929	110929	Upeneus moluccensis (Bleeker, 1855)		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+110930	110930	Upeneus pori Ben-Tuvia & Golani, 1989		Animalia	Chordata	Actinopterygii	Perciformes	Mullidae	SPECIES	ACCEPTED
+110931	110931	Verbascum gaillardotii Boiss.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+110932	110932	Verbascum jordanicum Murb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+110933	110933	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+110934	110934	Zafra selasphora (Melvill & Standen, 1901)		Animalia	Mollusca	Gastropoda	Neogastropoda	Columbellidae	SPECIES	ACCEPTED
+110935	110935	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED

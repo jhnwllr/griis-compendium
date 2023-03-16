@@ -1,0 +1,112 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+161000	161000	Acer negundo L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+161001	161001	Aedes japonicus (Theobald, 1901)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+161002	161002	Ailanthus altissima Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+161003	161003	Alopochen aegyptiaca (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+161004	161004	Ambrosia artemisiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161005	161005	Ameiurus nebulosus (Lesueur, 1819)		Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED
+161006	161006	Amelanchier lamarckii F.G.Schroed.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161007	161007	Argiope bruennichi (Scopoli, 1772)		Animalia	Arthropoda	Arachnida	Araneae	Araneidae	SPECIES	ACCEPTED
+161008	161008	Aster lanceolatus (Hook.) Kuntze	Symphyotrichum lanceolatum (Willd.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+161009	161009	Aster novi-belgii L.	Symphyotrichum novi-belgii (L.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+161010	161010	Azolla filiculoides Lam.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+161011	161011	Berberis aquifolium Pursh		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED
+161012	161012	Bidens frondosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161013	161013	Branta canadensis (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+161014	161014	Brigittea civica (Lucas, 1850)		Animalia	Arthropoda	Arachnida	Araneae	Dictynidae	SPECIES	ACCEPTED
+161015	161015	Buddleja davidii Franch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+161016	161016	Bunias orientalis L.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+161017	161017	Cameraria ohridella Deschka & Dimic, 1986		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+161018	161018	Carassius gibelio (Bloch, 1782)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+161019	161019	Castor canadensis Kuhl, 1820		Animalia	Chordata	Mammalia	Rodentia	Castoridae	SPECIES	ACCEPTED
+161020	161020	Cervus nippon Temminck, 1838		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED
+161021	161021	Cheiracanthium punctorium (Villers, 1789)		Animalia	Arthropoda	Arachnida	Araneae	Eutichuridae	SPECIES	ACCEPTED
+161022	161022	Chelicorophium curvispinum (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+161023	161023	Claytonia perfoliata Donn ex Willd.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Montiaceae	SPECIES	ACCEPTED
+161024	161024	Conyza canadensis (L.) Cronq.	Erigeron canadensis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+161025	161025	Corbicula fluminea (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Bivalvia	Venerida	Cyrenidae	SPECIES	ACCEPTED
+161026	161026	Cornus sericea L.		Plantae	Tracheophyta	Magnoliopsida	Cornales	Cornaceae	SPECIES	ACCEPTED
+161027	161027	Corythucha ciliata (Say, 1832)		Animalia	Arthropoda	Insecta	Hemiptera	Tingidae	SPECIES	ACCEPTED
+161028	161028	Cotoneaster horizontalis Decne.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161029	161029	Cydalima perspectalis (Walker, 1859)		Animalia	Arthropoda	Insecta	Lepidoptera	Crambidae	SPECIES	ACCEPTED
+161030	161030	Dama dama (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED
+161031	161031	Dermacentor marginatus Sulzer, 1776		Animalia	Arthropoda	Arachnida	Ixodida	Ixodidae	SPECIES	ACCEPTED
+161032	161032	Dicranopalpus ramosus (E.Simon, 1909)		Animalia	Arthropoda	Arachnida	Opiliones	Phalangiidae	SPECIES	ACCEPTED
+161033	161033	Dreissena polymorpha (Pallas, 1771)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+161034	161034	Drosophila suzukii (Matsumura, 1931)		Animalia	Arthropoda	Insecta	Diptera	Lauxaniidae	SPECIES	ACCEPTED
+161035	161035	Duchesnea indica (Andr.) Focke	Potentilla indica (Andrews) T.Wolf	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+161036	161036	Elodea canadensis Michx.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+161037	161037	Elodea nuttallii St.John		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+161038	161038	Epilobium ciliatum Raf.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+161039	161039	Epimedium alpinum L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED
+161040	161040	Erigeron annuus Pers.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161041	161041	Fallopia ×bohemica	Reynoutria bohemica Chrtek & Chrtková	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+161042	161042	Fallopia japonica (Houtt.) Ronse Decraene	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+161043	161043	Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene	Reynoutria sachalinensis Nakai	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM
+161044	161044	Gammarus tigrinus Sexton, 1939		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+161045	161045	Graphocephala fennahi Young, 1977		Animalia	Arthropoda	Insecta	Hemiptera	Cicadellidae	SPECIES	ACCEPTED
+161046	161046	Harmonia axyridis (Pallas, 1773)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+161047	161047	Helianthus tuberosus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161048	161048	Heracleum mantegazzianum Sommier & Levier		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+161049	161049	Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014		Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	SPECIES	ACCEPTED
+161050	161050	Hyphantria cunea (Drury, 1773)		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	ACCEPTED
+161051	161051	Impatiens balfourii Hook.f.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+161052	161052	Impatiens glandulifera Royle		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+161053	161053	Impatiens parviflora DC.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+161054	161054	Leiobunum Koch, 1839		Animalia	Arthropoda	Arachnida	Opiliones	Sclerosomatidae	GENUS	ACCEPTED
+161055	161055	Lemna minuta Kunth		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+161056	161056	Lepomis gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+161057	161057	Leptinotarsa decemlineata (Say, 1824)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+161058	161058	Leptoglossus occidentalis Heidemann, 1910		Animalia	Arthropoda	Insecta	Hemiptera	Coreidae	SPECIES	ACCEPTED
+161059	161059	Lupinus polyphyllus Lindl.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+161060	161060	Mahonia aquifolium (Pursh) Nutt.	Berberis aquifolium Pursh	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	SYNONYM
+161061	161061	Meconema meridionale Costa & A., 1860		Animalia	Arthropoda	Insecta	Orthoptera	Tettigoniidae	SPECIES	ACCEPTED
+161062	161062	Mimulus guttatus DC.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Phrymaceae	GENUS	ACCEPTED
+161063	161063	Myriophyllum aquaticum Verdc.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED
+161064	161064	Neogobius kessleri (GÃ¼nther, 1861)	Ponticola kessleri (Günther, 1861)	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	SYNONYM
+161065	161065	Neogobius melanostomus (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+161066	161066	Obolodiplosis robiniae (Haldeman, 1847)		Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	SPECIES	ACCEPTED
+161067	161067	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+161068	161068	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+161069	161069	Opilio canestrinii (Thorell, 1876)		Animalia	Arthropoda	Arachnida	Opiliones	Phalangiidae	SPECIES	ACCEPTED
+161070	161070	Orconectes limosus (Rafinesque, 1817)		Animalia	Arthropoda	Malacostraca	Decapoda	Cambaridae	SPECIES	ACCEPTED
+161071	161071	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED
+161072	161072	Pacifastacus leniusculus (Dana, 1852)		Animalia	Arthropoda	Malacostraca	Decapoda	Astacidae	SPECIES	ACCEPTED
+161073	161073	Parthenocissus inserta (A.Kerner) Fritsch	Parthenocissus vitacea (Knerr) Hitchc.	Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	SYNONYM
+161074	161074	Parthenocissus quinquefolia (L.) Planch.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+161075	161075	Pectinatella magnifica (Leidy, 1851)		Animalia	Bryozoa	Phylactolaemata	Plumatellida	Pectinatellidae	SPECIES	ACCEPTED
+161076	161076	Phyllonorycter leucographella (Zeller, 1850)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+161077	161077	Phyllonorycter medicaginella (Gerasimov, 1930)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+161078	161078	Phyllonorycter platani (Staudinger, 1870)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+161079	161079	Phyllonorycter robiniella (Clemens, 1859)		Animalia	Arthropoda	Insecta	Lepidoptera	Gracillariidae	SPECIES	ACCEPTED
+161080	161080	Pinus nigra J.F.Arnold		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED
+161081	161081	Populus canadensis Moench		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED
+161082	161082	Potamopyrgus antipodarum (Gray, 1843)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Tateidae	SPECIES	ACCEPTED
+161083	161083	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+161084	161084	Prunus laurocerasus L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161085	161085	Prunus serotina Ehrh.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161086	161086	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+161087	161087	Pulvinaria regalis Canard, 1968		Animalia	Arthropoda	Insecta	Hemiptera	Coccidae	SPECIES	ACCEPTED
+161088	161088	Quercus rubra L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED
+161089	161089	Reynoutria × bohemica Chrtek & Chrtková		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+161090	161090	Reynoutria japonica Houtt.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+161091	161091	Reynoutria sachalinensis (F.Schmidt) Nakai		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+161092	161092	Rhus typhina L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED
+161093	161093	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+161094	161094	Rosa rugosa Thunb.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161095	161095	Rudbeckia laciniata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161096	161096	Salvelinus fontinalis (Mitchill, 1814)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+161097	161097	Sander lucioperca (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Percidae	SPECIES	ACCEPTED
+161098	161098	Sceliphron curvatum (F.Smith, 1870)		Animalia	Arthropoda	Insecta	Hymenoptera	Sphecidae	SPECIES	ACCEPTED
+161099	161099	Senecio inaequidens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161100	161100	Solidago canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161101	161101	Solidago gigantea Aiton		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+161102	161102	Spiraea × billiardii H‚rincq		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161103	161103	Spiraea alba Duroi		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161104	161104	Spiraea douglasii Hook.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+161105	161105	Spirodela polyrhiza (L.) Schleid.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+161106	161106	Stictocephala bisonia Kopp & Yonke, 1977		Animalia	Arthropoda	Insecta	Hemiptera	Membracidae	SPECIES	ACCEPTED
+161107	161107	Syringa vulgaris L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+161108	161108	Trachemys scripta elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+161109	161109	Trachemys scripta scripta		Animalia	Chordata	Reptilia	Testudines	Emydidae	SUBSPECIES	ACCEPTED
+161110	161110	Varroa destructor Anderson & Trueman, 2000		Animalia	Arthropoda	Arachnida	Mesostigmata	Varroidae	SPECIES	ACCEPTED

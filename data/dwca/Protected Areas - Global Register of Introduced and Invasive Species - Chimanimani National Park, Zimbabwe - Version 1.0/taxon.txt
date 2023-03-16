@@ -1,0 +1,7 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+12343	12343	Acacia Mill.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	GENUS	ACCEPTED
+12344	12344	Caesalpinia decapetala (Roth) Alston		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+12345	12345	Eucalyptus L'HÃ©r.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	GENUS	ACCEPTED
+12346	12346	Hedychium gardnerianum Ker Gawl.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED
+12347	12347	Jacaranda mimosifolia D.Don		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED
+12348	12348	Pinus L.		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	GENUS	ACCEPTED

@@ -1,0 +1,192 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+42717	42717	Abutilon theophrasti Medik.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+42718	42718	Acer negundo L.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED
+42719	42719	Ailanthus altissima Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+42720	42720	Amaranthus hybridus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+42721	42721	Amaranthus powellii S.Watson		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+42722	42722	Amaranthus retroflexus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+42723	42723	Amathillina cristata G.O.Sars, 1894		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42724	42724	Ambrosia artemisiifolia L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42725	42725	Ameiurus melas (Rafinesque, 1820)		Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED
+42726	42726	Ameiurus nebulosus (Lesueur, 1819)		Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED
+42727	42727	Amorpha fruticosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+42728	42728	Anguillicoloides crassus (Kuwahara, Niimi & Itagaki, 1974) Moravec & Taraschewski, 1988		Animalia	Nematoda	Secernentea	Spirurida	Anguillicolidae	SPECIES	ACCEPTED
+42729	42729	Anodonta woodiana (I.Lea, 1834)	Sinanodonta woodiana (I.Lea, 1834)	Animalia	Mollusca	Bivalvia	Unionida	Unionidae	SPECIES	SYNONYM
+42730	42730	Asclepias syriaca L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+42731	42731	Avena L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	GENUS	ACCEPTED
+42732	42732	Azolla filiculoides Lam.		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED
+42733	42733	Azolla Lamarck		Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	GENUS	ACCEPTED
+42734	42734	Babka gymnotrachelus (Kessler, 1857)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+42735	42735	Bidens frondosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42736	42736	Buddleja davidii Franch.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED
+42737	42737	Cabomba caroliniana A.Gray		Plantae	Tracheophyta	Magnoliopsida	Nymphaeales	Cabombaceae	SPECIES	ACCEPTED
+42738	42738	Carassius gibelio (Bloch, 1782)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+42739	42739	Cardiophilus marisnigrae Miloslawskaya, 1931		Animalia	Arthropoda	Malacostraca	Amphipoda	Behningiellidae	SPECIES	ACCEPTED
+42740	42740	Caspiocuma campylaspoides (Sars, 1897)		Animalia	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	SPECIES	ACCEPTED
+42741	42741	Celtis occidentalis L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	ACCEPTED
+42742	42742	Cervus nippon Temminck, 1838		Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED
+42743	42743	Chaetogammarus placidus (G.O.Sars, 1896)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42744	42744	Chaetogammarus warpachowskyi Sars, 1897		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42745	42745	Chelicorophium chelicorne (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42746	42746	Chelicorophium curvispinum (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42747	42747	Chelicorophium maeoticum (Sowinsky, 1898)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42748	42748	Chelicorophium mucronatum (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42749	42749	Chelicorophium nobile (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42750	42750	Chelicorophium robustum (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42751	42751	Chelicorophium sowinskyi (Martynov, 1924)		Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED
+42752	42752	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+42753	42753	Compactogammarus compactus (G.O.Sars, 1895)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42754	42754	Corbicula fluminalis (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Bivalvia	Venerida	Cyrenidae	SPECIES	ACCEPTED
+42755	42755	Corbicula fluminea (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Bivalvia	Venerida	Cyrenidae	SPECIES	ACCEPTED
+42756	42756	Cordylophora caspia (Pallas, 1771)		Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED
+42757	42757	Coregonus albula (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+42758	42758	Cornu aspersum (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	ACCEPTED
+42759	42759	Corvus splendens Vieillot, 1817		Animalia	Chordata	Aves	Passeriformes	Corvidae	SPECIES	ACCEPTED
+42760	42760	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+42761	42761	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	SYNONYM
+42762	42762	Cydalima perspectalis (Walker, 1859)		Animalia	Arthropoda	Insecta	Lepidoptera	Crambidae	SPECIES	ACCEPTED
+42763	42763	Cyperus esculentus var. leptostachyus Boeckeler	Cyperus esculentus L.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	VARIETY	SYNONYM
+42764	42764	Diamysis pengoi (Czerniavsky, 1882)		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42765	42765	Dikerogammarus bispinosus Martynov, 1925		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42766	42766	Dikerogammarus haemobaphes (Eichwald, 1841)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42767	42767	Dikerogammarus villosus (Sowinsky, 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42768	42768	Dreissena polymorpha (Pallas, 1771)		Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED
+42769	42769	Dreissena rostriformis bugensis Andrusov, 1897	Dreissena bugensis (Andrusov, 1897)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SUBSPECIES	SYNONYM
+42770	42770	Duchesnea indica (Andr.) Focke	Potentilla indica (Andrews) T.Wolf	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	SYNONYM
+42771	42771	Dysphania aristata (L.) Mosyakin & Clemants		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+42772	42772	Echinocystis lobata Torr. & A.Gray		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED
+42773	42773	Echinogammarus ischnus (Stebbing, 1899)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42774	42774	Echinogammarus trichiatus (Martynov, 1932)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42775	42775	Elaeagnus angustifolia L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Elaeagnaceae	SPECIES	ACCEPTED
+42776	42776	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+42777	42777	Elodea canadensis Michx.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+42778	42778	Elodea nuttallii St.John		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+42779	42779	Epilobium ciliatum Raf.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+42780	42780	Erechtites hieracifolia (L.) Raf.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42781	42781	Erigeron annuus Pers.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42782	42782	Erigeron canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42783	42783	Eriocheir sinensis H.Milne Edwards, 1853		Animalia	Arthropoda	Malacostraca	Decapoda	Pseudothelphusidae	SPECIES	ACCEPTED
+42784	42784	Euxinia sarsi (Sowinsky, 1898)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42785	42785	Euxinia weidemanni (G.O.Sars, 1896)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42786	42786	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED
+42787	42787	Ferrissia californica (Rowell, 1863)		Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED
+42788	42788	Fraxinus pennsylvanica Marshall		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED
+42789	42789	Galinsoga parviflora Cav.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42790	42790	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+42791	42791	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+42792	42792	Gasterosteus aculeatus Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Gasterosteiformes	Gasterosteidae	SPECIES	ACCEPTED
+42793	42793	Gasterosteus gymnurus Cuvier, 1829	Gasterosteus aculeatus Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Gasterosteiformes	Gasterosteidae	SPECIES	SYNONYM
+42794	42794	Gmelina aestuarica Carausu, 1943		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42795	42795	Harmonia axyridis (Pallas, 1773)		Animalia	Arthropoda	Insecta	Coleoptera	Coccinellidae	SPECIES	ACCEPTED
+42796	42796	Helianthus tuberosus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42797	42797	Hemimysis anomala G.O.Sars, 1907		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42798	42798	Heracleum mantegazzianum Sommier & Levier		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+42799	42799	Heracleum sosnowskyi Manden.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+42800	42800	Humulus japonicus Sieb. & Zucc.	Humulopsis scandens (Lour.) Grudz.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	SYNONYM
+42801	42801	Hydrocotyle ranunculoides L.f.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED
+42802	42802	Hypophthalmichthys molitrix (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+42803	42803	Hypophthalmichthys nobilis (Richardson, 1845)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+42804	42804	Impatiens glandulifera Royle		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+42805	42805	Impatiens parviflora DC.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED
+42806	42806	Iphigenella acanthopoda G.O.Sars, 1896		Animalia	Arthropoda	Malacostraca	Amphipoda	Iphigenellidae	SPECIES	ACCEPTED
+42807	42807	Iva xanthifolia Nutt.	Cyclachaena xanthiifolia Fresen.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+42808	42808	Jaera sarsi Valkanov, 1936		Animalia	Arthropoda	Malacostraca	Isopoda	Janiridae	SPECIES	ACCEPTED
+42809	42809	Juncus tenuis Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED
+42810	42810	Katamysis warpachowskyi G.O.Sars, 1893		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42811	42811	Lanceogammarus andrussowi (G.O.Sars, 1896)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42812	42812	Lasius neglectus van Loon, Boomsma & AndrÃ¡sfalvy, 1990		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED
+42813	42813	Lemna minuta Kunth		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+42814	42814	Lepomis gibbosus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+42815	42815	Limnomysis benedeni Czerniavsky, 1882		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42816	42816	Lithoglyphus naticoides (C.Pfeiffer, 1828)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Lithoglyphidae	SPECIES	ACCEPTED
+42817	42817	Lumbricus rubellus Hoffmeister, 1843		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	ACCEPTED
+42818	42818	Melanoides tuberculata (O.F.MÃ¼ller, 1774)		Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED
+42819	42819	Micropterus salmoides (LacepÃ¨de, 1802)		Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED
+42820	42820	Monochoria korsakowii Regel & Maack		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+42821	42821	Mylopharyngodon piceus (Richardson, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+42822	42822	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+42823	42823	Neogobius fluviatilis (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+42824	42824	Neogobius melanostomus (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+42825	42825	Neovison vison (Schreber, 1777)		Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED
+42826	42826	Niphargogammarus intermedius (Carausu, 1943)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42827	42827	Niphargoides corpulentus G.O.Sars, 1895		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42828	42828	Nyctereutes procyonoides (Gray, 1834)		Animalia	Chordata	Mammalia	Carnivora	Canidae	SPECIES	ACCEPTED
+42829	42829	Obesogammarus crassus (Sars G.O., 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42830	42830	Obesogammarus obesus (Sars G.O., 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42831	42831	Oenothera biennis L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED
+42832	42832	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED
+42833	42833	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+42834	42834	Orconectes limosus (Rafinesque, 1817)		Animalia	Arthropoda	Malacostraca	Decapoda	Cambaridae	SPECIES	ACCEPTED
+42835	42835	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+42836	42836	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+42837	42837	Oxalis corniculata L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+42838	42838	Oxalis dillenii Jacq.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	SPECIES	ACCEPTED
+42839	42839	Oxalis L.		Plantae	Tracheophyta	Magnoliopsida	Oxalidales	Oxalidaceae	GENUS	ACCEPTED
+42840	42840	Oxyura jamaicensis (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED
+42841	42841	Pacifastacus leniusculus (Dana, 1852)		Animalia	Arthropoda	Malacostraca	Decapoda	Astacidae	SPECIES	ACCEPTED
+42842	42842	Panicum capillare L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+42843	42843	Panicum dichotomiflorum Michx.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+42844	42844	Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev	Panicum miliaceum L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SUBSPECIES	SYNONYM
+42845	42845	Paramysis bakuensis G.O.Sars, 1895		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42846	42846	Paramysis intermedia (Czerniavsky, 1882)		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42847	42847	Paramysis kessleri sarsi (Derzhavin, 1925)		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SUBSPECIES	ACCEPTED
+42848	42848	Paramysis lacustris (Czerniavsky, 1882)		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42849	42849	Paramysis ullskyi (Czerniavsky, 1882)		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+42850	42850	Paraniphargoides motasi (Carausu, 1943)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42851	42851	Parthenocissus inserta (A.Kerner) Fritsch	Parthenocissus vitacea (Knerr) Hitchc.	Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	SYNONYM
+42852	42852	Parthenocissus inserta (A.Kerner) Fritsch	Parthenocissus vitacea (Knerr) Hitchc.	Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	SYNONYM
+42853	42853	Physella acuta (Draparnaud, 1805)		Animalia	Mollusca	Gastropoda	Stylommatophora	Spiraxidae	SPECIES	ACCEPTED
+42854	42854	Phytolacca americana L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED
+42855	42855	Phytolacca esculenta Van Houtte	Phytolacca acinosa Roxb.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	SYNONYM
+42856	42856	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED
+42857	42857	Ponticola kessleri (GÃ¼nther, 1861)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+42858	42858	Pontogammarus aestuarius (Derzhavin, 1924)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42859	42859	Pontogammarus borceae Carausu, 1943		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42860	42860	Pontogammarus maeoticus (Sovinskij, 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42861	42861	Pontogammarus robustoides (Sars, 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42862	42862	Potamopyrgus antipodarum (Gray, 1843)		Animalia	Mollusca	Gastropoda	Littorinimorpha	Tateidae	SPECIES	ACCEPTED
+42863	42863	Procyon lotor (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Carnivora	Procyonidae	SPECIES	ACCEPTED
+42864	42864	Proterorhinus semilunaris (Heckel, 1837)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+42865	42865	Prunus serotina Ehrh.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED
+42866	42866	Pseudocuma cercarioides Sars, 1894		Animalia	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	SPECIES	ACCEPTED
+42867	42867	Pseudocuma graciloides Sars, 1894		Animalia	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	SPECIES	ACCEPTED
+42868	42868	Pseudocuma laeve Sars, 1914		Animalia	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	SPECIES	ACCEPTED
+42869	42869	Pseudocuma tenuicauda Sars, 1894		Animalia	Arthropoda	Malacostraca	Cumacea	Pseudocumatidae	SPECIES	ACCEPTED
+42870	42870	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+42871	42871	Reynoutria bohemica Chrtek & ChrtkovÃ¡		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+42872	42872	Reynoutria bohemica Chrtek & ChrtkovÃ¡		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+42873	42873	Reynoutria japonica Houtt.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+42874	42874	Reynoutria sachalinensis Nakai		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+42875	42875	Reynoutria sachalinensis Nakai		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED
+42876	42876	Ribes aureum Pursh		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Grossulariaceae	SPECIES	ACCEPTED
+42877	42877	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+42878	42878	Rudbeckia laciniata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42879	42879	Senecio inaequidens DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42880	42880	Shablogammarus chablensis (Carausu, 1943)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42881	42881	Shablogammarus subnudus (G.O.Sars, 1896)		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED
+42882	42882	Sinanodonta woodiana (I.Lea, 1834)		Animalia	Mollusca	Bivalvia	Unionida	Unionidae	SPECIES	ACCEPTED
+42883	42883	Solidago canadensis L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42884	42884	Solidago gigantea Aiton		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42885	42885	Sorghum halepense Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+42886	42886	Stenogammarus carausui Derzhavin & Pjatakova, 1962		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42887	42887	Stenogammarus compressus (Sars G.O., 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42888	42888	Stenogammarus macrurus (Sars, 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42889	42889	Stenogammarus Martynov, 1924		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	GENUS	ACCEPTED
+42890	42890	Stenogammarus similis (Sars, 1894)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42891	42891	Symphyotrichum lanceolatum (Willd.) G.L.Nesom		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42892	42892	Symphyotrichum novi-belgii (L.) G.L.Nesom		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42893	42893	Symphyotrichum salignum (Willd.) G.L.Nesom		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42894	42894	Theodoxus fluviatilis (Linnaeus, 1758)		Animalia	Mollusca	Gastropoda	Cycloneritida	Neritidae	SPECIES	ACCEPTED
+42895	42895	Trachemys scripta (Thunberg In Schoepff, 1792)		Animalia	Chordata	Reptilia	Testudines	Emydidae	SPECIES	ACCEPTED
+42896	42896	Tragus racemosus (L.) All.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+42897	42897	Ulmus pumila L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Ulmaceae	SPECIES	ACCEPTED
+42898	42898	Uroniphargoides spinicaudatus (Carausu, 1943)		Animalia	Arthropoda	Malacostraca	Amphipoda	Pontogammaridae	SPECIES	ACCEPTED
+42899	42899	Vallisneria spiralis L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED
+42900	42900	Veronica persica Poir.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED
+42901	42901	Vitis vulpina L.		Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED
+42902	42902	Xanthium albinum subsp. riparium (Celak.) Widd. & Wagenitz	Xanthium orientale L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SUBSPECIES	SYNONYM
+42903	42903	Xanthium orientale subsp. italicum (Moretti) Greuter		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SUBSPECIES	ACCEPTED
+42904	42904	Xanthium saccharatum Wallr.	Xanthium orientale L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	SYNONYM
+42905	42905	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42906	42906	Xanthium strumarium Lour.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+42907	42907	Yogmelina limana Karaman & Barnard, 1979		Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED

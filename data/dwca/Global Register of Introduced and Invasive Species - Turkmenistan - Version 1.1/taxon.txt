@@ -1,0 +1,72 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+167000	167000	Abbottina rivularis (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167001	167001	Abra ovata (Philippi, 1836)	Abra segmentum (R?cluz, 1843)	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	SPECIES	SYNONYM
+167002	167002	Acartia tonsa Dana, 1849		Animalia	Arthropoda	Crustacea	Calanoida	Acartiidae	SPECIES	ACCEPTED
+167003	167003	Ailanthus altissima (Mill.) Swingle		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED
+167004	167004	Allotropa  burrelli Muesebeck, 1942		Animalia	Artropoda	Insecta	Hymenoptere	Platygastridae	SPECIES	ACCEPTED
+167005	167005	Allotropa  convexifrons Muesebeck, 1943		Animalia	Artropoda	Insecta	Hymenoptera	Platygastridae	SPECIES	ACCEPTED
+167006	167006	Amorpha fruticosa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+167007	167007	Amphibalanus improvisus Darwin, 1854		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+167008	167008	Arboridia hussaini Ghauri, 1963		Animalia	Artropoda	Insecta	Homoptera	Cicadelliidae	SPECIES	ACCEPTED
+167009	167009	Aristichthys nobilis (Richardson, 1845)	Hypophthalmichthys nobilis (Richardson, 1845)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	SYNONYM
+167010	167010	Atractosteus spatula (Lacep??de, 1803)		Animalia	Chordata	Actinopterygii	Lepisosteiformes	Lepisosteidae	SPECIES	ACCEPTED
+167011	167011	Ballerus sapa (Pallas, 1814)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167012	167012	Barentsia benedeni (Foettinger, 1887)		Animalia	Entoprocta			Barentsiidae	SPECIES	ACCEPTED
+167013	167013	Bemisia tabaci Gennadius, 1889		Animalia	Artropoda	Insecta	Homoptera	Aleyrodidae	SPECIES	ACCEPTED
+167014	167014	Beroe ovata Brugui??re, 1789		Animalia	Ctenophora	Nuda	Beroida	Beroidae	SPECIES	ACCEPTED
+167015	167015	Carpomia pardalina (Bigot, 1891)		Animalia	Artropoda	Insecta	Diptera	Tephritidae	SPECIES	ACCEPTED
+167016	167016	Channa argus (Cantor, 1842)		Animalia	Chordata	Actinopterygii	Perciformes	Channidae	SPECIES	ACCEPTED
+167017	167017	Conopeum seurati (Canu, 1928)		Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	SPECIES	ACCEPTED
+167018	167018	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167019	167019	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+167020	167020	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167021	167021	Dialeurodes citri  (Ashmed, 1885)		Animalia	Artropoda	Insecta	Homoptera	Aleyrodidae	SPECIES	ACCEPTED
+167022	167022	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+167023	167023	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+167024	167024	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+167025	167025	Gasterosteus aculeatus Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Gasterosteiformes	Gasterosteidae	SPECIES	ACCEPTED
+167026	167026	Gleditsia triacanthos L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+167027	167027	Glyphodes pyloalis  (Walker,1859)		Animalia	Artropoda	Insecta	Lepidoptera	Pyralidae	SPECIES	ACCEPTED
+167028	167028	Helminthotheca echioides (L.) Holub		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+167029	167029	Hemiculter leucisculus (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167030	167030	Holcothorax testaceipes (Ratzeburg, 1848)		Animalia	Artropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+167031	167031	Hypophthalmichthys molitrix (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167032	167032	Leptinotarsa decemlineata (Say,1824)		Animalia	Artropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	ACCEPTED
+167033	167033	Leptomastidea abnormis (Girault,1915)		Animalia	Artropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+167034	167034	Leptomastix dactylopii Howard, 1885		Animalia	Artropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+167035	167035	Limnomysis benedeni Czerniavsky, 1882		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+167036	167036	Liriomyza sativae Blanchard, 1938		Animalia	Artropoda	Insecta	Diptera	Agromyzidae	SPECIES	ACCEPTED
+167037	167037	Liza aurata (Risso, 1810)	Chelon auratus (Risso, 1810)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+167038	167038	Liza saliens (Risso, 1810)	Chelon saliens (Risso, 1810)	Animalia	Chordata	Actinopterygii	Mugiliformes	Mugilidae	SPECIES	SYNONYM
+167039	167039	Lolium perenne L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+167040	167040	Lumbricus rubellus Hoffmeister, 1843		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	ACCEPTED
+167041	167041	Maclura pomifera (Raf.) C.K.Schneid.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED
+167042	167042	Medicago lupulina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+167043	167043	Mercierella enigmatica Fauvel, 1923	Ficopomatus enigmaticus (Fauvel, 1923)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	SYNONYM
+167044	167044	Misgurnus anguillicaudatus (Cantor, 1842)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cobitidae	SPECIES	ACCEPTED
+167045	167045	Mnemiopsis leidyi A.Agassiz, 1865		Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED
+167046	167046	Mylopharyngodon piceus (Richardson, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167047	167047	Myocastor coypus (Molina, 1782)		Animalia	Chordata	Mammalia	Rodentia	Myocastoridae	SPECIES	ACCEPTED
+167048	167048	Mytilaster lineatus (Gmelin, 1791)		Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED
+167049	167049	Neodiscodes sp.		Animalia	Artropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	
+167050	167050	Nereis diversicolor (Miiller,1776)		Animalia	Annelida	Polychaeta	Errantia	Nereidae	SPECIES	ACCEPTED
+167051	167051	Ondatra zibethicus (Linnaeus, 1766)		Animalia	Chordata	Mammalia	Rodentia	Cricetidae	SPECIES	ACCEPTED
+167052	167052	Orobanche cumana Wallr.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	ACCEPTED
+167053	167053	Oryzias latipes (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Beloniformes	Adrianichthyidae	SPECIES	ACCEPTED
+167054	167054	Palaemon elegans Rathke, 1837		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED
+167055	167055	Parabramis pekinensis (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167056	167056	Paramysis lacustris (Czerniavsky, 1882)		Animalia	Artropoda	Crustacea	Mysidacea	Mysidae	SPECIES	ACCEPTED
+167057	167057	Phyllocnistis citrella Stainton, 1856		Animalia	Artropoda	Insecta	Lepidoptera	Phyllocnistidae	SPECIES	ACCEPTED
+167058	167058	Pleuronectes flesus luscus Pallas, 1814	Platichthys flesus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Pleuronectiformes	Pleuronectidae	SUBSPECIES	SYNONYM
+167059	167059	Pseudaphycus malinus Gahan		Animalia	Artropoda	Insecta	Hymenoptera	Encyrtidae	SPECIES	ACCEPTED
+167060	167060	Pseudococcus comstocki (Kuwana, 1902)		Animalia	Artropoda	Insecta	Homoptera	Pseudococcidae	Species	ACCEPTED
+167061	167061	Pseudorasbora parva (Temminck & Schlegel, 1846)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED
+167062	167062	Pyrrhalta luteola (M??ller, 1766)	Xanthogaleruca luteola (M?ller, 1766)	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	SYNONYM
+167063	167063	Rhinogobius brunneus (Temminck & Schlegel, 1845)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+167064	167064	Rhinogobius similis Gill, 1859		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+167065	167065	Rhithropanopeus harrisii (Gould, 1841)		Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED
+167066	167066	Rhodeus ocellatus ocellatus	Rhodeus ocellatus (Kner, 1866)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SUBSPECIES	SYNONYM
+167067	167067	Sympherobius sanctus Tjeder, 1940		Animalia	Artropoda	Insecta	Neuroptera	Hemerobiidae	Species	ACCEPTED
+167068	167068	Symphyotrichum novi-belgii (L.) G.L.Nesom		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+167069	167069	Trialeurodes vaporariorum (Westwood,1856)		Animalia	Artropoda	Insecta	Homoptera	Aleyrodidae	Species	ACCEPTED
+167070	167070	Xanthium spinosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED

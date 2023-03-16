@@ -1,0 +1,7 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+93000	93000	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+93001	93001	Cursorius cursor (Latham, 1787)		Animalia	Chordata	Aves	Charadriiformes	Glareolidae	SPECIES	ACCEPTED
+93002	93002	Eichhornia crassipes Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	ACCEPTED
+93003	93003	Falco fasciinucha Reichenow & Neumann, 1895		Animalia	Chordata	Aves	Falconiformes	Falconidae	SPECIES	ACCEPTED
+93004	93004	Hippolais olivetorum (Strickland, 1837)		Animalia	Chordata	Aves	Passeriformes	Acrocephalidae	SPECIES	ACCEPTED
+93005	93005	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED

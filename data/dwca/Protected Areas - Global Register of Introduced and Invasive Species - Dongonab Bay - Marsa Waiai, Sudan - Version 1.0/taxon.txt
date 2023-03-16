@@ -1,0 +1,4 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+12001	12001	Corvus splendens Vieillot, 1817		Animalia	Chordata	Aves	Passeriformes	Corvidae	SPECIES	ACCEPTED
+12002	12002	Pinctada margaritifera (Linnaeus, 1758)		Animalia	Mollusca	Bivalvia	Ostreida	Pteriidae	SPECIES	ACCEPTED
+12003	12003	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED

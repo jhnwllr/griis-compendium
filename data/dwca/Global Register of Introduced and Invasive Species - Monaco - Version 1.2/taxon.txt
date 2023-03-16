@@ -1,0 +1,12 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+74010	74010	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED
+74011	74011	Caulerpa taxifolia (M.Vahl) C.Agardh		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED
+74012	74012	Caulerpa racemosa (Forssk.) J.Agardh		Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED
+74013	74013	Acanthoscelides pallidipennis (Motschulsky, 1874)	Dactylispa pallidipennis (Motschulsky, 1861)	Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	SPECIES	SYNONYM
+74014	74014	Trachyphloeosoma advena Zimmerman, 1956		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+74015	74015	Crisicoccus pini (Kuwana, 1902)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+74016	74016	Leptoglossus occidentalis Heidemann, 1910		Animalia	Arthropoda	Insecta	Hemiptera	Coreidae	SPECIES	ACCEPTED
+74017	74017	Phenacoccus peruvianus Granara de Willink, 2007		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	SPECIES	ACCEPTED
+74018	74018	Xylosandrus compactus Eichhoff, 1875		Animalia	Arthropoda	Insecta	Coleoptera	Curculionidae	SPECIES	ACCEPTED
+74019	74019	Corythauma ayyari (Drake, 1933)		Animalia	Arthropoda	Insecta	Hemiptera	Tingidae	SPECIES	ACCEPTED
+74020	74020	Phasianus colchicus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED

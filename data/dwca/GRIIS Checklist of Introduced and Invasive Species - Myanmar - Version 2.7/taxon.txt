@@ -1,0 +1,163 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+6060	6060	Abbottina rivularis (Basilewsky, 1855)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6061	6061	Acacia auriculiformis A.Cunn. ex Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6062	6062	Acacia mangium Willd.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6063	6063	Acacia nilotica Schumach. & Thonn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6064	6064	Acanthospermum hispidum DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6065	6065	Achatina fulica (Férussac, 1821)	Lissachatina fulica (Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	species	SYNONYM
+6066	6066	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6067	6067	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	species	ACCEPTED
+6068	6068	Aedes albopictus Skuse, 1894		Animalia	Arthropoda	Insecta	Diptera	Culicidae	species	ACCEPTED
+6069	6069	Aeschynomene indica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6070	6070	Ageratum conyzoides Sieber ex Sieber ex Steudel	Chromolaena corymbosa (Aubl.) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	SYNONYM
+6071	6071	Alternanthera philoxeroides (Mart.) Griseb.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	species	ACCEPTED
+6072	6072	Alternanthera sessilis (L.) R. Br. ex DC.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	species	ACCEPTED
+6073	6073	Amaranthus spinosus L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	species	ACCEPTED
+6074	6074	Anguilla anguilla (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Anguilliformes	Anguillidae	species	ACCEPTED
+6075	6075	Anoplophora chinensis (Forster, 1771)		Animalia	Arthropoda	Insecta	Coleoptera	Cerambycidae	species	ACCEPTED
+6076	6076	Anser indicus (Latham, 1790)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+6077	6077	Apis mellifera Linnaeus, 1758		Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	species	ACCEPTED
+6078	6078	Avipoxvirus		Viruses				Poxviridae	species	ACCEPTED
+6079	6079	Axonopus compressus (Sw.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6080	6080	Axonopus fissifolius (Raddi) Kuhlm.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6081	6081	Azolla filiculoides Lam.		Plantae	Pteridophyta	Polypodiopsida	Salviniales	Azollaceae	species	ACCEPTED
+6082	6082	Bambusa bambos (L.) Voss		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6083	6083	Bambusa vulgaris Schrad.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6084	6084	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6085	6085	Boerhavia diffusa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctagineceae	species	ACCEPTED
+6086	6086	Brontispa longissima (Gestro, 1885)		Animalia	Arthropoda	Insecta	Coleoptera	Chrysomelidae	species	ACCEPTED
+6087	6087	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6088	6088	Calophyllum inophyllum L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Calophyllaceae	species	ACCEPTED
+6089	6089	Cardamine flexuosa With.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	species	ACCEPTED
+6090	6090	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	species	ACCEPTED
+6091	6091	Casuarina glauca Sieber ex Spreng.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	species	ACCEPTED
+6092	6092	Ceratophyllum demersum L.		Plantae	Tracheophyta	Magnoliopsida	Ceratophyllales	Ceratophyllaceae	species	ACCEPTED
+6093	6093	Chitala chitala (Hamilton, 1822)		Animalia	Chordata	Actinopterygii	Osteoglossiformes	Notopteridae	species	ACCEPTED
+6094	6094	Chromolaena odorata (L.) R.M.King & H.Rob.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6095	6095	Chrysopogon aciculatus (Retz.) Trin.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6096	6096	Cinnamomum camphora (L.) J. Presl		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	species	ACCEPTED
+6097	6097	Cinnamomum verum J. S. Presl		Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	species	ACCEPTED
+6098	6098	Clarias gariepinus (Burchell, 1822)		Animalia	Chordata	Actinopterygii	Siluriformes	Clariidae	species	ACCEPTED
+6099	6099	Clarias macrocephalus Günther, 1864		Animalia	Chordata	Actinopterygii	Siluriformes	Clariidae	species	ACCEPTED
+6100	6100	Cleome rutidosperma DC.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Capparaceae	species	ACCEPTED
+6101	6101	Commelina benghalensis L.		Plantae	Tracheophyta	Magnoliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+6102	6102	Commelina diffusa Burm. f.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+6103	6103	Convolvulus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	species	ACCEPTED
+6104	6104	Cordyline fruticosa (L.) A.Chev.		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	species	ACCEPTED
+6105	6105	Crassocephalum crepidioides (Benth.) S.Moore		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6106	6106	Crassostrea ariakensis (Fujita, 1913)		Animalia	Mollusca	Bivalvia	Ostreoida	Ostreidae	species	ACCEPTED
+6107	6107	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6108	6108	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	species	ACCEPTED
+6109	6109	Cymbopogon citratus (DC.) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6110	6110	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6111	6111	Cyperus compressus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	species	ACCEPTED
+6112	6112	Cyperus difformis L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	species	ACCEPTED
+6113	6113	Cyperus iria L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	species	ACCEPTED
+6114	6114	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	species	ACCEPTED
+6115	6115	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6116	6116	Dactyloctenium aegyptium (L.) Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6117	6117	Dendrocalamus strictus (Roxb.) Nees		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6118	6118	Desmostachya bipinnata (L.) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6119	6119	Devario malabaricus (Jerdon, 1849)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+6120	6120	Dichrostachys cinerea (L.) Wight & Arn.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6121	6121	Digitaria ciliaris (Retz.) Koeler		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6122	6122	Digitaria sanguinalis (L.) Scop.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6123	6123	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6124	6124	Echinochloa crus-galli (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6125	6125	Eichhornia crassipes (Mart.) Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	species	ACCEPTED
+6126	6126	Elaeagnus umbellata C.P. Thunb. ex A. Murray		Plantae	Tracheophyta	Magnoliopsida	Rosales	Elaeagnaceae	species	ACCEPTED
+6127	6127	Elaeis guineensis Jacq.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	species	ACCEPTED
+6128	6128	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6129	6129	Emilia sonchifolia (L.) DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	ACCEPTED
+6130	6130	Erigeron karvinskianus DC.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6131	6131	Eucalyptus camaldulensis Dehnh.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	species	ACCEPTED
+6132	6132	Eucalyptus citriodora Hook.	Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	species	SYNONYM
+6133	6133	Euphorbia heterophylla L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	species	ACCEPTED
+6134	6134	Euphorbia hirta L.		Plantae	Tracheophyta	Liliopsida	Malpighiales	Euphorbiaceae	species	ACCEPTED
+6135	6135	Ficus religiosa L.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	species	ACCEPTED
+6136	6136	Foot-and-mouth disease virus		Viruses			Picornavirales	Picornaviridae	species	ACCEPTED
+6137	6137	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	species	ACCEPTED
+6138	6138	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	species	ACCEPTED
+6139	6139	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6140	6140	Grevillea robusta A. Cunn. ex R. Br.		Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	species	ACCEPTED
+6141	6141	Heliotropium indicum L.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	species	ACCEPTED
+6142	6142	Hibiscus tiliaceus L.	Talipariti tiliaceum (L.) Fryxell	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	species	SYNONYM
+6143	6143	Hydrilla verticillata (L.f.) Royle		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	species	ACCEPTED
+6144	6144	Hyparrhenia rufa (Nees) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6145	6145	Hyptis suaveolens (L.) Poit.	Mesosphaerum suaveolens (L.) Kuntze	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	species	SYNONYM
+6146	6146	Imperata cylindrica (L.) Raeusch.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6147	6147	Ipomoea triloba L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	species	ACCEPTED
+6148	6148	Ischaemum rugosum Salisb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6149	6149	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	species	ACCEPTED
+6150	6150	Kalanchoe pinnata (Lam.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	species	ACCEPTED
+6151	6151	Lantana camara L.		Plantae	Tracheophyta	Liliopsida	Lamiales	Verbenaceae	species	ACCEPTED
+6152	6152	Leersia hexandra Sw.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6153	6153	Lemna perpusilla Torr.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	species	ACCEPTED
+6154	6154	Leptochloa chinensis (L.) Nees		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6155	6155	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6156	6156	Limnocharis flava (L.) Buchenau		Plantae	Tracheophyta	Liliopsida	Alismatales	Alismataceae	species	ACCEPTED
+6157	6157	Loranthus pulverulentus Wall.	Scurrula pulverulenta (Wall.) G. Don	Plantae	Tracheophyta	Magnoliopsida	Santalales	Loranthaceae	species	SYNONYM
+6158	6158	Loranthus scurrula L.	Scurrula parasitica L.	Plantae	Tracheophyta	Magnoliopsida	Santalales	Loranthaceae	species	SYNONYM
+6159	6159	Ludwigia octovalvis (Jacq.) Raven		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	species	ACCEPTED
+6160	6160	Megathyrsus maximus (Jacq.) B.K.Simon & S.W.L.Jacobs	Panicum maximum Jacq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	SYNONYM
+6161	6161	Melinis minutiflora P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6162	6162	Metanastria Hübner, 1820		Animalia	Arthropoda	Insecta	Lepidoptera	Lasiocampidae	species	ACCEPTED
+6163	6163	Mikania micrantha (Hieron.) B.L.Rob.	Mikania cynanchifolia (Baker) Malme	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	SYNONYM
+6164	6164	Mimosa diplotricha Sauvalle		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6165	6165	Mimosa pigra L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6166	6166	Mimosa pudica L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6167	6167	Monochoria vaginalis (Burm. f.) C.Presl		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	species	ACCEPTED
+6168	6168	Murdannia nudiflora (L.) Brenan		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+6169	6169	Newcastle disease virus		Viruses			Mononegavirales	Paramyxoviridae	species	ACCEPTED
+6170	6170	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+6171	6171	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+6172	6172	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+6173	6173	Oryctes rhinoceros (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Dynastidae	species	ACCEPTED
+6174	6174	Oryza rufipogon Griff.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6175	6175	Osphronemus goramy Lacepède, 1801		Animalia	Chordata	Actinopterygii	Perciformes	Osphronemidae	species	ACCEPTED
+6176	6176	Pangasius hypophthalmus (Sauvage, 1878)	Pangasianodon hypophthalmus (Sauvage, 1878)	Animalia	Chordata	Actinopterygii	Siluriformes	Pangasiidae	species	SYNONYM
+6177	6177	Panicum repens L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6178	6178	Papilio demoleus Linnaeus, 1758		Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	species	ACCEPTED
+6179	6179	Paspalum conjugatum P.J.Bergius		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6180	6180	Paspalum distichum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6181	6181	Passiflora foetida L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	species	ACCEPTED
+6182	6182	Penaeus stylirostris Stimpson, 1874	Litopenaeus stylirostris (Stimpson, 1874)	Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	species	SYNONYM
+6183	6183	Penaeus vannamei Boone, 1931	Litopenaeus vannamei (Boone, 1931)	Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	species	SYNONYM
+6184	6184	Pennisetum polystachion (L.) Schult.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6185	6185	Pennisetum purpureum Schumach.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6186	6186	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+6187	6187	Phellinus noxius (Corner) G. Cunn., 1965		Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	species	ACCEPTED
+6188	6188	Physalis angulata L.		Plantae	Tracheophyta	Liliopsida	Solanales	Solanaceae	species	ACCEPTED
+6189	6189	Piaractus brachypomus (Cuvier, 1818)		Animalia	Chordata	Actinopterygii	Characiformes	Serrasalmidae	species	ACCEPTED
+6190	6190	Pistia stratiotes L.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	species	ACCEPTED
+6191	6191	Plantago major L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	species	ACCEPTED
+6192	6192	Pomacea canaliculata Lamarck, 1828		Animalia	Mollusca	Gastropoda	Architaenioglossa	Ampullariidae	species	ACCEPTED
+6193	6193	Portulaca oleracea L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Portulacaceae	species	ACCEPTED
+6194	6194	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Liliopsida	Fabales	Fabaceae	species	ACCEPTED
+6195	6195	Psidium guajava L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	species	ACCEPTED
+6196	6196	Puntius gonionotus (Bleeker, 1849)	Barbonymus gonionotus (Bleeker, 1849)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	SYNONYM
+6197	6197	Rattus exulans (Peale, 1848)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+6198	6198	Rhynchophorus ferrugineus Herbst		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	species	DOUBTFUL
+6199	6199	Robinia pseudoacacia L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6200	6200	Saccharum spontaneum L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6201	6201	Samanea saman (Jacq.) Merr.	Albizia saman (Jacq.) Merr.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	SYNONYM
+6202	6202	Sansevieria trifasciata Prain		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	species	ACCEPTED
+6203	6203	Senna obtusifolia (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+6204	6204	Setaria parviflora (Poir.) M.Kerguelen		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6205	6205	Sida acuta Burm. fil.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	species	ACCEPTED
+6206	6206	Solanum nigrum L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	species	ACCEPTED
+6207	6207	Solanum viarum Dunal		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	species	ACCEPTED
+6208	6208	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+6209	6209	Sorghum halepense (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+6210	6210	Sphenoclea zeylanica Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Sphenocleaceae	species	ACCEPTED
+6211	6211	Syzygium jambos (L.) Alston		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	species	ACCEPTED
+6212	6212	Teredo Linnaeus, 1758		Animalia	Mollusca	Bivalvia	Myoida	Teredinidae	species	ACCEPTED
+6213	6213	Terminalia catappa L.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	species	ACCEPTED
+6214	6214	Tithonia diversifolia (Hemsl.) A.Gray		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6215	6215	Tradescantia pallida (Rose) D.R.Hunt		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+6216	6216	Trichogaster pectoralis (Regan, 1910)	Trichopodus pectoralis Regan, 1910	Animalia	Chordata	Actinopterygii	Perciformes	Osphronemidae	species	SYNONYM
+6217	6217	Tridax procumbens L.		Plantae	Tracheophyta	Liliopsida	Asterales	Asteraceae	species	DOUBTFUL
+6218	6218	Trogoderma granarium Everts, 1899		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	species	ACCEPTED
+6219	6219	Tubastraea coccinea Lesson, 1829		Animalia	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	species	ACCEPTED
+6220	6220	Urena lobata L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	species	ACCEPTED
+6221	6221	Varroa jacobsoni Oudemans, 1904		Animalia	Arthropoda	Arachnida	Mesostigmata	Varroidae	species	ACCEPTED

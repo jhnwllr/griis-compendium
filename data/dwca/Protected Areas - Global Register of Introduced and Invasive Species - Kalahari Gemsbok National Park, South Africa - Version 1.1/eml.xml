@@ -1,0 +1,335 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="df467958-bf14-4af9-bdaa-16ae8d3f92b0/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>df467958-bf14-4af9-bdaa-16ae8d3f92b0</alternateIdentifier>
+  <alternateIdentifier>https://cloud.gbif.org/griis/resource?r=pa-griis-kalahari-gemsbok</alternateIdentifier>
+  <title xml:lang="eng">Protected Areas - Global Register of Introduced and Invasive Species - Kalahari Gemsbok National Park, South Africa</title>
+      <creator>
+    <individualName>
+        <givenName>Llewellyn</givenName>
+      <surName>Foxcroft</surName>
+    </individualName>
+    <organizationName>South African National Parks</organizationName>
+    <positionName>Ecologist: Invasion Biology</positionName>
+    <address>
+        <country>ZA</country>
+    </address>
+    <electronicMailAddress>llewellyn.foxcroft@sanparks.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Johan A.</givenName>
+      <surName>Baard</surName>
+    </individualName>
+    <organizationName>South African National Parks, Garden Route Scientific Services, Knysna, South Africa</organizationName>
+    <address>
+        <country>ZA</country>
+    </address>
+    <electronicMailAddress>johan.baard@sanparks.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Nicola</givenName>
+      <surName>Bredenkamp</surName>
+    </individualName>
+    <organizationName>South African National Parks</organizationName>
+    <address>
+        <country>ZA</country>
+    </address>
+    <electronicMailAddress>Nicola.Bredenkamp@sanparks.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2020-04-02
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The Protected Areas -Global Register of Introduced and Invasive Species (PA-GRIIS) presents validated checklists of introduced (alien) and invasive alien species at a site level. The primary intention of PA-GRIIS is to provide checklists of introduced (alien) and invasive species present on designated protected areas (such as National Parks, Ramsar sites- Wetlands of International importance, World Heritage Sites (natural and mixed), Marine protected areas etc.) and other areas of biodiversity significance (such as Important Plant Areas (IPA), Important Bird Areas (IBA) etc.), as well as buffer zones around these areas. Areas surrounding protected areas and other areas of high biodiversity significance can serve as an invasion source of alien and invasive species propagules. The establishment of buffer zones and the management of alien and invasive species within these areas is a key management strategy in the prevention of introduction and control/management of biological invasions. In the case of islands buffer zones.
+
+Checklists are living entities, especially for biological invasions given the growing nature of the problem. PA -GRIIS checklists are based on the GRIIS published methodology (Pagad et al 2018) and supported by the Integrated Publishing Tool of the Global Biodiversity Information Infrastructure (GBIF) that jointly enable ongoing improvements and updates to expand their taxonomic coverage and completeness. 
+
+Phase 1 of the PA -GRIIS project will present close to 100 exemplar checklists of introduced (alien) and invasive species in a selection of protected areas and other areas of biodiversity significance
+
+This annotated checklist is of introduced (alien) and invasive alien species known to occur in the nationally designated Kalahari Gemsbok National Park, South Africa
+</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Inventorythematic</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Alien</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Invasive</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Protected areas</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>country_ZA</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>Versioning
+The PA -GRIIS checklists are dynamic and reflect the latest known status of alien and invasive species presence and impacts. Evaluation of ‘invasiveness’ and impacts of alien species are ongoing and the checklists will be updated as and when data is received.
+
+The original versions of each country checklist (v1.0) undergo two potential types of updates: 
+1. Major updates: These happen when batches of new species or records become available, usually addressing multiple taxonomic groups simultaneously.  Each checklist is assigned a new version number after a major update (e.g. from v1.0 to v2.0). 
+2. Incremental updates: These are smaller ongoing updates involving the addition of new species or records based on new publications as well as taxonomic or other updates. Incremental updates to a checklist are associated with a subversion number, e.g. v1.1.
+The checklist version number is visible/available on the citation.
+</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>South Africa</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>15.82</westBoundingCoordinate>
+          <eastBoundingCoordinate>34.805</eastBoundingCoordinate>
+          <northBoundingCoordinate>-22.106</northBoundingCoordinate>
+          <southBoundingCoordinate>-34.452</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Animalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Bacteria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Chromista</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Fungi</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Protozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Viruses</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>It is envisaged that this resource will assist and countries progress the implementation of the Convention on Biological Diversity (CBDs) Programme of Work on Protected Areas (PoWPA); and protected area managers in the effective planning and management of the invasive species threat in these areas. This resource will also support countries to progress achievement of Aichi Target 9 -in the development of their protected area component of the National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan, target setting and monitoring.
+
+</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>Updates with any new data and any revisions of existing data will be made on an ongoing basis.</para>
+    </description>
+    <maintenanceUpdateFrequency>biannually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Shyama</givenName>
+      <surName>Pagad</surName>
+    </individualName>
+    <organizationName>IUCN SSC Invasive Species Specialist Group (ISSG)</organizationName>
+    <positionName>Deputy Chair- Information</positionName>
+    <address>
+        <country>NZ</country>
+    </address>
+    <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Data collation and categorization
+Data filtering and categorization/ classification 
+Taxonomic harmonization and normalization
+Data validation
+Data verification
+</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>The published methods underpinning GRIIS and each checklist are described in the following article:
+Pagad S, Genovesi P, Carnevali L, Schigel D, McGeoch MA (2018) Introducing the Global Register of Introduced and Invasive Species. Scientific Data, 5, 170202.
+https://www.nature.com/articles/sdata2017202
+</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>The geographic focus of this checklist is the nationally designated Kalahari Gemsbok National Park, South Africa</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>This annotated checklist is focused on introduced (alien) and invasive species that are known to occur in the nationally designated Kalahari Gemsbok National Park, South Africa
+
+The International Union for Conservation of Nature, (IUCN) describes an Introduced/ Alien and Invasive alien species as follows:  
+
+An Introduced/ Alien species means a species, subspecies, or lower taxon occurring outside of its natural range (past or present) and dispersal potential (i.e. outside the range it occupies naturally or could not occupy without direct or indirect introduction or care by humans) and includes any part, gametes or propagule of such species that might survive and subsequently reproduce. 
+
+An Invasive alien species means an alien species which becomes established in natural or semi-natural ecosystems or habitat, is an agent of change, and threatens native biological diversity.
+
+In PA -GRIIS, species are recorded as having an impact (as &apos;yes&apos; under &apos;isInvasive&apos;) if there is evidence of the species negatively impacting biodiversity, and including species that are widespread, spreading rapidly or present in high abundance (Pagad et al. 2018). This usage is relevant to the purpose of PA -GRIIS, and consistent with the concept of impact as formulated by Parker et al. (1999) and now widely used (e.g. Didham et al. 2005, Strayer et al. 2006, McGeoch et al. 2010, 2012, Vila et al. 2011), where impact is a function not only of the per capita effect of an individual organism, but is a combined function of the effect, abundance and range size of a species. Impact can of course be defined in different ways, driven by different objectives, such as its usage in EICAT where it is defined as a measurable change to the properties of an ecosystem caused by an alien taxon (Hawkins et al. 2015). 
+
+Pagad S, Genovesi P, Carnevali L, Schigel D, McGeoch MA (2018) Introducing the Global Register of Introduced and Invasive Species. Scientific Data, 5, 170202.
+https://www.nature.com/articles/sdata2017202
+
+Parker I, Simberloff D, Lonsdale W. et al. (1999) Impact: Toward a Framework for Understanding the Ecological Effects of Invaders. Biological Invasions 1, 3–19 (1999). https://doi.org/10.1023/A:1010034312781
+
+Didham RK, Tylianakis JM, Hutchison MA, Ewers RM, Gemmell NJ. (2005) Are invasive species the drivers of ecological change? Trends Ecol Evol. 2005 Sep;20(9):470-4. Epub 2005 Jul 21.
+
+Strayer DL, Eviner VT, Jeschke JM, Pace ML. (2006) Understanding the long-term effects of species invasions. Trends in Ecology &amp; Evolution 21(11):645-51
+
+McGeoch MA, Butchart SHM, Spear D, Marais E. Kleynhans EJ, Symes A, Chanson J, Hoffmann M. (2010) Global indicators of biological invasion: species numbers, biodiversity impact and policy responses. Diversity and Distributions Volume16, Issue1 January 2010
+McGeoch, M.A., Spear, D., Kleynhans, E.J. &amp; Marais, E. 2012. Uncertainty in invasive alien species listing. Ecological Applications 22, 959-971. 10.1890/11-1252.1
+
+Vilà M, Espinar JL, Hejda M, Hulme PE, Jarošík V, Maron JL, Pergl J, Schaffner U, Sun Y, Pyšek P. (2011) Ecological impacts of invasive alien plants: a meta‐analysis of their effects on species, communities and ecosystems. Ecology Letters Volume14, Issue7 July 2011 Pages 702-708
+
+Hawkins CL, Bacher S, Essl F, Hulme PE, Jeschke JM, Kühn I, Kumschick S, Nentwig W, Pergl J, Pyšek P, Rabitsch W, Richardson DM, Vilà  M, Wilson JRU, Genovesi P, Blackburn TM. (2015) Framework and guidelines for implementing the proposed IUCN Environmental Impact Classification for Alien Taxa (EICAT) Diversity and Distributions Volume21, Issue11 November 2015 Pages 1360-1363
+</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>The draft checklist is compiled by collating data and information through a comprehensive literature overview. Additional steps implemented to control the quality of the data are described below.
+
+Taxonomic harmonization and normalization using the GBIF taxonomic backbone
+In order to harmonize all species names across countries, species lists are subjected to a normalization process in which taxon rank and taxonomic status are identified and assigned. Spelling and other errors in assigning species authorship are also corrected.
+
+Data validation
+The checklist compiler team completes a review and validates all the annotations especially those on provenance and &apos;invasiveness&apos; status of the species based on evidence of impact.
+
+Data verification
+The checklist is submitted to a network of protected area managers for a review of both accuracy of records, annotations and identification of any significant gaps in the data. Data verification is an iterative process and the activity is declared completed on agreement of all relevant country editors.
+
+A key tenet of the PA -GRIIS project is the engagement with protected area managers in the verification process and as custodians of their site checklists. In cases where this engagement is still in development the PA -GRIIS compiler team has completed the validation of the species records.
+
+</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="GRIIS">
+    <title>Protected Areas- Global Register of Introduced and Invasive Species PA -GRIIS</title>
+      <personnel>
+        <individualName>
+            <givenName>Shyama</givenName>
+          <surName>Pagad</surName>
+        </individualName>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>The Protected areas -Global Register of Introduced and Invasive Species (PA -GRIIS) presents validated checklists of introduced (alien) and invasive alien species at the site level.  Sites include designated protected areas (such as National Parks, Ramsar sites- Wetlands of International importance, World Heritage Sites (natural and mixed), Marine protected areas etc.) and other areas of biodiversity significance (such as Important Plant Areas (IPA), Important Bird Areas (IBA) etc.), as well as buffer zones around these areas. 
+
+It is envisaged that this resource will assist and countries progress the implementation of the Convention on Biological Diversity (CBDs) Programme of Work on Protected Areas (PoWPA); and protected area managers in the effective planning and management of the invasive species threat in these areas. This resource will also support countries to progress achievement of Aichi Target 9 -in the development of their protected area component of the National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan, target setting and monitoring.
+</para>
+      </abstract>
+      <funding>
+        <para>The GRIIS initiative has been developed within the framework of the GIASIPartnership, with co-funding from the European Union through the Secretariat of the Convention on Biological Diversity. As coordinator of GIASIP, on behalf of CBD Secretariat, GBIF has supported the development of GRIIS including this phase of PA -GRIIS and its integration into the GBIF data infrastructure to ensure interoperability. In July 2019, GBIF initiated providing direct funding from its core budget to support the completion of GRIIS lists for all countries, EU Overseas Territories and selected islands, and, the completion of over 75 PA -GRIIS checklists by March 2020. </para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>PA -GRIIS has global coverage, including the European Overseas Territories and Regions. 
+
+Taxonomic coverage includes all Kingdoms Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses.
+
+The annotations recorded in PA -GRIIS include- Species name and authorship, synonyms if used and authorship, Higher taxonomy (kingdom), Environment/system in which the species occurs, provenance or origin of the species, evidence of impact in that country, on biological diversity or natural areas and finally if the presence and biological status is verified. All information sources used to obtain any of the annotations are documented for every species record
+</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>The PA -Global Register of Introduced and Invasive Species (PA -GRIIS) was developed as a concept to develop site level checklists within the GRIIS project 
+
+A summary of the process
+•	The compiler team will conduct a comprehensive lit review of authoritative and credible source information and develop a draft annotated protected area and other areas of high biodiversity value checklist of introduced (alien) and invasive alien species. 
+•	Annotations include species name (accepted name and synonym if used by the source), higher taxonomy, environmental/system in which the species occurs, biological status (provenance and invasiveness-based on evidence of impact), 
+•	Protected area managers are identified (where available) and consulted with for advice including knowledge of any key resources 
+•	Draft checklists are submitted to these identified protected area managers for a review for both accuracy of information and for any significant gaps. Revisions are implemented based on feedback. 
+•	Names of the protected area managers/reviewers, as well as the complete reference list of sources consulted is recorded. 
+
+Notes on the annotations
+•	Species names recorded from source information are referred to the GBIF taxonomic editor; if the source species name is a synonym, the accepted name is also recorded. This will help us to apply a consistent taxonomy across all inventories 
+•	Higher taxonomy- Kingdom, Phylum, Class, Order, Genus and Species with species authority. 
+•	Environment system- terrestrial/ freshwater / brackish / marine/ host and combinations 
+•	Provenance- a) as recorded by the source information b) as interpreted by the compiler - three options applied are alien, native/alien (if the species is native in a part of a country and alien in another part), provenance uncertain/cryptogenic 
+•	Invasiveness is based on evidence of impact
+
+</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2020-03-28T22:57:14.715+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Foxcroft L, Baard J A, Bredenkamp N, Pagad S (2020): Protected Areas - Global Register of Introduced and Invasive Species - Kalahari Gemsbok National Park, South Africa. v1.1. Invasive Species Specialist Group ISSG. Dataset/Checklist. https://cloud.gbif.org/griis/resource?r=pa-griis-kalahari-gemsbok&amp;v=1.1</citation>
+          <dc:replaces>df467958-bf14-4af9-bdaa-16ae8d3f92b0/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

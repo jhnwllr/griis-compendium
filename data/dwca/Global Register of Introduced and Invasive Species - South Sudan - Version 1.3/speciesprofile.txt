@@ -1,0 +1,7 @@
+id	isInvasive	habitat
+93000	Null	Terrestrial
+93001	Null	Terrestrial
+93002	Invasive	Freshwater
+93003	Null	Terrestrial|Freshwater|Marine
+93004	Null	terrestrial
+93005	Null	Terrestrial

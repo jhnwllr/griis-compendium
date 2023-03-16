@@ -1,0 +1,248 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+502	502	Acridotheres cristatellus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+503	503	Acridotheres fuscus (Wagler, 1827)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+504	504	Acridotheres ginginianus (Latham, 1790)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+505	505	Acridotheres javanicus Cabanis, 1851		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+506	506	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+507	507	Acryllium vulturinum (Hardwicke, 1834)		Animalia	Chordata	Aves	Galliformes	Numididae	species	ACCEPTED
+508	508	Actophilornis africanus (Gmelin, 1789)		Animalia	Chordata	Aves	Charadriiformes	Jacanidae	species	ACCEPTED
+509	509	Agapornis fischeri Reichenow, 1887		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+510	510	Agapornis lilianae Shelley, 1894		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+511	511	Agapornis roseicollis (Vieillot, 1818)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+512	512	Aix galericulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+513	513	Aix sponsa (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+514	514	Albizia julibrissin Durazz.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	ACCEPTED
+515	515	Alectoris melanocephala (Ruppell, 1835)		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+516	516	Aleurocanthus woglumi Ashby, 1915		Animalia	Arthropoda	Insecta	Orthoptera	Aleyrodidae	species	ACCEPTED
+517	517	Alisterus scapularis (Lichtenstein, 1816)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+518	518	Allopeas gracile (Hutton, 1834)		Animalia	Mollusca	Gastropoda	Stylommatophora	Subulinidae	species	ACCEPTED
+519	519	Alopochen aegyptiaca (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+520	520	Amadina fasciata (Gmelin, 1789)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+521	521	Amandava amandava (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+522	522	Ammoperdix griseogularis (Brandt, 1843)		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+523	523	Aphis gossypii Glover, 1877		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	species	ACCEPTED
+524	524	Ara chloropterus G. R. Gray, 1859		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+525	525	Ardea goliath Cretzschmar, 1829		Animalia	Chordata	Aves	Pelecaniformes	Ardeidae	species	ACCEPTED
+526	526	Ardeotis arabs (Linnaeus, 1758)		Animalia	Chordata	Aves	Gruiformes	Otididae	species	ACCEPTED
+527	527	Autoserica inaequabilis Brenske, 1898	Maladera zeta	Animalia	Arthropoda	Insecta	Coleoptera	Melolonthidae	species	SYNONYM
+528	528	Bactrocera cucurbitae (Coquillett, 1899)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae 	species	ACCEPTED
+529	529	Bactrocera dorsalis (Hendel, 1912)		Animalia	Arthropoda	Insecta	Diptera	Tephritidae 	species	ACCEPTED
+530	530	Bactrocera zonata (Saunders, 1842)		Animalia	Arthropoda	Insecta	Orthoptera	Tephritidae	species	ACCEPTED
+531	531	Balearica regulorum (E. T. Bennett, 1834)		Animalia	Chordata	Aves	Gruiformes	Gruidae	species	ACCEPTED
+532	532	Bemisia tabaci (Gennadius, 1889)		Animalia	Arthropoda	Insecta	Hemiptera	Aleyrodidae	species	ACCEPTED
+533	533	Bidens pilosa L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+534	534	Blattella germanica (Linnaeus, 1767)		Animalia	Arthropoda	Insecta	Blattodea	Ectobiidae	species	ACCEPTED
+535	535	Branta canadensis (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+536	536	Branta sandvicensis (Vigors, 1834)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+537	537	Bregmatothrips dimorphus (Priesner, 1919) Priesner, 1919		Animalia	Arthropoda	Insecta	Orthoptera	Thripidae	species	ACCEPTED
+538	538	Bucorvus leadbeateri (Vigors, 1825)		Animalia	Chordata	Aves	Bucerotiformes	Bucorvidae	species	ACCEPTED
+539	539	Cacatua galerita (Latham, 1790)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+540	540	Cadra cautella Walker, 1863		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	species	ACCEPTED
+541	541	Cairina moschata (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+542	542	Calcisuccinea Pilsbry, 1948		Animalia	Mollusca	Gastropoda	Stylommatophora	Succineidae	species	DOUBTFUL
+543	543	Callipepla californica (Shaw, 1798)		Animalia	Chordata	Aves	Galliformes	Odontophoridae	species	ACCEPTED
+544	544	Callonetta leucophrys (Vieillot, 1816)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+545	545	Calotropis procera (Ait.) Ait. fil.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	species	ACCEPTED
+546	546	Camponotus compressus (Fabricius, 1787)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+547	547	Canis lupus subsp. familiaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	subspecies	ACCEPTED
+548	548	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	species	ACCEPTED
+549	549	Cardinalis cardinalis (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Cardinalidae	species	ACCEPTED
+550	550	Cardiocondyla emeryi Forel, 1881		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+551	551	Carpomya incompleta (Becker, 1903)		Animalia	Arthropoda	Insecta	Orthoptera	Tephritidae	species	ACCEPTED
+552	552	Caulerpa J.V. Lamouroux, 1809		Plantae	Chlorophyta	Bryopsidophyceae	Bryopsidales	Caulerpaceae	genus	ACCEPTED
+553	553	Charybdis hellerii (A. Milne-Edwards, 1867)		Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	species	ACCEPTED
+554	554	Chenopodium album L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Chenopodiaceae	species	ACCEPTED
+555	555	Chenopodium murale L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Chenopodiaceae	species	ACCEPTED
+556	556	Clarias gariepinus (Burchell, 1822)		Animalia	Chordata	Actinopterygii	Siluriformes	Clariidae	species	ACCEPTED
+557	557	Cochlodinium polykrikoides Margalef, 1961		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Gymnodiniaceae	species	ACCEPTED
+558	558	Colius striatus Gmelin, 1789		Animalia	Chordata	Aves	Coliiformes	Coliidae	species	ACCEPTED
+559	559	Columba guinea Linnaeus, 1758		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+560	560	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+561	561	Convolvulus arvensis L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	species	ACCEPTED
+562	562	Conyza bonariensis (L.) Cronquist	Erigeron bonariensis Hort.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	SYNONYM
+563	563	Corvus macrorhynchos Wagler, 1827		Animalia	Chordata	Aves	Passeriformes	Corvidae	species	ACCEPTED
+564	564	Corvus splendens Vieillot, 1817		Animalia	Chordata	Aves	Passeriformes	Corvidae	species	ACCEPTED
+565	565	Ctenopharyngodon idella (Valenciennes, 1844)		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+566	566	Culex quinquefasciatus Say, 1823		Animalia	Arthropoda	Insecta	Diptera	Culicidae	species	ACCEPTED
+567	567	Culicoides kingi (Austen, 1912)		Animalia	Arthropoda	Insecta	Diptera	Ceratopogonidae	species	ACCEPTED
+568	568	Cuscuta campestris Yunck.	Cuscuta pentagona Engelm.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	species	SYNONYM
+569	569	Cygnus atratus (Latham, 1790)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+570	570	Cygnus buccinator Richardson, 1831		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+571	571	Cygnus melancoryphus (Molina, 1782)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+572	572	Cygnus olor (Gmelin, 1789)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+573	573	Cylas formicarius (Fabricius, 1798)		Animalia	Arthropoda	Insecta	Coleoptera	Brentidae	species	ACCEPTED
+574	574	Cynodon dactylon (L.) Pers.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+575	575	Cyprinus carpio Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	species	ACCEPTED
+576	576	Datura ferox L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	species	ACCEPTED
+577	577	Dendrocitta vagabunda (Latham, 1790)		Animalia	Chordata	Aves	Passeriformes	Corvidae	species	ACCEPTED
+578	578	Dendrocygna autumnalis (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+579	579	Dendrocygna bicolor (Vieillot, 1816)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+580	580	Dendrocygna javanica (Horsfield, 1821)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+581	581	Dicentrarchus labrax (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Moronidae	species	ACCEPTED
+582	582	Dinophysis caudata Saville-Kent		Chromista	Myzozoa	Dinophyceae	Dinophysiales	Dinophysiaceae	species	ACCEPTED
+583	583	Duttaphrynus melanostictus (Schneider, 1799)		Animalia	Chordata	Amphibia	Anura	Bufonidae	species	ACCEPTED
+584	584	Earias insulana Boisduval, 1833		Animalia	Arthropoda	Insecta	Lepidoptera	Nolidae	species	ACCEPTED
+585	585	Eolophus roseicapilla (Vieillot, 1817)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+586	586	Eos bornea (Linnaeus, 1758)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+587	587	Equus africanus Heuglin & Fitzinger, 1866		Animalia	Chordata	Mammalia	Perissodactyla	Equidae	species	ACCEPTED
+588	588	Estrilda astrild (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+589	589	Estrilda caerulescens (Vieillot, 1817)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+590	590	Estrilda rufibarba (Cabanis, 1851)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+591	591	Eudocimus ruber (Linnaeus, 1758)		Animalia	Chordata	Aves	Pelecaniformes	Threskiornithidae	species	ACCEPTED
+592	592	Euphorbia hirta L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	species	ACCEPTED
+593	593	Euplectes afer (Gmelin, 1789)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+594	594	Euplectes albonotatus (Cassin, 1848)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+595	595	Euplectes ardens (Boddaert, 1783)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+596	596	Euplectes hordeaceus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+597	597	Euplectes nigroventris Cassin, 1848		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+598	598	Euplectes orix (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+599	599	Eupodotis senegalensis subsp. canicollis (Reichenow, 1881)		Animalia	Chordata	Aves	Gruiformes	Otididae	subspecies	ACCEPTED
+600	600	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	species	ACCEPTED
+601	601	Fiorinia phoenicis Balachowsky, 1967		Animalia	Arthropoda	Insecta	Hemiptera	Diaspididae	species	ACCEPTED
+602	602	Francolinus francolinus (Linnaeus, 1766)		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+603	603	Francolinus leucoscepus G. R. Gray, 1867		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+604	604	Funambulus pennantii Wroughton, 1905		Animalia	Chordata	Mammalia	Rodentia	Sciuridae	species	ACCEPTED
+605	605	Gambusia affinis (Baird & Girard, 1853)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	species	ACCEPTED
+606	606	Gambusia holbrooki Girard, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	species	ACCEPTED
+607	607	Gamochaeta pensylvanica (Willd.) Cabrera	Gnaphalium pensylvanicum Willd.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	SYNONYM
+608	608	Geopelia cuneata (Latham, 1802)		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+609	609	Geopelia striata (Linnaeus, 1766)		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+610	610	Gracula religiosa Linnaeus, 1758		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+611	611	Gracupica contra (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+612	612	Grus grus (Linnaeus, 1758)		Animalia	Chordata	Aves	Gruiformes	Gruidae	species	ACCEPTED
+613	613	Gymnodinium catenatum H.W.Graham, 1943		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Gymnodiniaceae	species	ACCEPTED
+614	614	Helicoverpa armigera Hübner, 1827		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	species	ACCEPTED
+615	615	Herpestes edwardsi		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	species	ACCEPTED
+616	616	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	species	ACCEPTED
+617	617	Iridomyrmex anceps (Roger, 1863)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+618	618	Karenia mikimotoi (Miyake & Kominami ex Oda) G. Hansen & Ø. Moestrup		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Kareniaceae	species	ACCEPTED
+619	619	Laevicaulis alte (Ferussac, 1821)		Animalia	Mollusca	Gastropoda	Systellommatophora	Veronicellidae	species	ACCEPTED
+620	620	Lagonosticta rhodopareia (Heuglin, 1868)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+621	621	Laguncularia racemosa (L.) Gaertn.f.		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Combretaceae	species	ACCEPTED
+622	622	Lamprotornis regius (Reichenow, 1879)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+623	623	Lamprotornis superbus Rüppell, 1845		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+624	624	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	species	ACCEPTED
+625	625	Lasioderma serricorne (Fabricius, 1792)		Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae	species	ACCEPTED
+626	626	Launaea intybacea (Jacq.) Beauverd		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+627	627	Leiothrix lutea (Scopoli, 1786)		Animalia	Chordata	Aves	Passeriformes	Sylviidae	species	ACCEPTED
+628	628	Leptoptilos crumeniferus (Lesson, 1831)		Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	species	ACCEPTED
+629	629	Leucopsar rothschildi Stresemann, 1912		Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	ACCEPTED
+630	630	Linepithema humile (Mayr, 1868)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+631	631	Lonchura atricapilla (Vieillot, 1807)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+632	632	Lonchura maja (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+633	633	Lonchura malacca (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+634	634	Lonchura punctulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+635	635	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	species	ACCEPTED
+636	636	Macrochlamys indica Benson, 1832		Animalia	Mollusca	Gastropoda	Stylommatophora	Ariophantidae	species	ACCEPTED
+637	637	Megathyrsus maximus (Jacq.) B.K.Simon & S.W.L.Jacobs	Panicum maximum Jacq.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	SYNONYM
+638	638	Melierax metabates Heuglin, 1861		Animalia	Chordata	Aves	Accipitriformes	Accipitridae	species	ACCEPTED
+639	639	Melopsittacus undulatus (Shaw, 1805)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+640	640	Monomorium destructor (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+641	641	Monomorium indicum Forel, 1902		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+642	642	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+643	643	Musca domestica subsp. domestica		Animalia	Arthropoda	Insecta	Diptera	Sarcophagidae	subspecies	ACCEPTED
+644	644	Mycteria ibis (Linnaeus, 1766)		Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	species	ACCEPTED
+645	645	Mycteria leucocephala (Pennant, 1769)		Animalia	Chordata	Aves	Ciconiiformes	Ciconiidae	species	ACCEPTED
+646	646	Myiopsitta monachus (Boddaert, 1783)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+647	647	Myzus persicae (Sulzer, 1776)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	species	ACCEPTED
+648	648	Nandayus nenday (Vieillot, 1823)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+649	649	Nezara viridula (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hemiptera	Pentatomidae	species	ACCEPTED
+650	650	Numida meleagris (Linnaeus, 1758)		Animalia	Chordata	Aves	Galliformes	Numididae	species	ACCEPTED
+651	651	Nymphicus hollandicus (Kerr, 1792)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+652	652	Oldenlandia corymbosa L.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Rubiaceae	species	ACCEPTED
+653	653	Opuntia ficus-indica (L.) Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	species	ACCEPTED
+654	654	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+655	655	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+656	656	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+657	657	Oreochromis spilurus (Günther, 1894)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+658	658	Orobanche aegyptiaca Pers.	Phelipanche aegyptiaca (Pers.) Pomel	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	species	SYNONYM
+659	659	Oryctes rhinoceros (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Dynastidae	species	ACCEPTED
+660	660	Oryzaephilus mercator (Fauvel, 1889)		Animalia	Arthropoda	Insecta	Coleoptera	Silvanidae	species	ACCEPTED
+661	661	Pachycondyla sennaarensis (Mayr, 1862)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+662	662	Padda oryzivora (Linnaeus, 1758)	Lonchura oryzivora (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	SYNONYM
+663	663	Pangasianodon hypophthalmus (Sauvage, 1878)		Animalia	Chordata	Actinopterygii	Siluriformes	Pangasiidae	species	ACCEPTED
+664	664	Papilio demoleus Linnaeus, 1758		Animalia	Arthropoda	Insecta	Lepidoptera	Papilionidae	species	ACCEPTED
+665	665	Paratrechina flavipes (Smith, 1874)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+666	666	Paratrechina jaegerskioeldi (Mayr, 1904)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+667	667	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+668	668	Parembia persica (McLachlan, 1877)		Animalia	Arthropoda	Insecta	Embioptera	Embiidae	species	ACCEPTED
+669	669	Paroaria coronata (J. F. Miller, 1776)		Animalia	Chordata	Aves	Passeriformes	Emberizidae	species	ACCEPTED
+670	670	Parthenium hysterophorus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+671	671	Passer luteus (Lichtenstein, 1823)		Animalia	Chordata	Aves	Passeriformes	Passeridae	species	ACCEPTED
+672	672	Pavo cristatus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+673	673	Pavo muticus Linnaeus, 1766		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+674	674	Pelecanus rufescens Gmelin, 1789		Animalia	Chordata	Aves	Pelecaniformes	Pelecanidae	species	ACCEPTED
+675	675	Pennisetum setaceum (Forssk.) Chiov.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+676	676	Periplaneta americana (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Blattodea	Blattidae	species	ACCEPTED
+677	677	Phasianus colchicus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+678	678	Phasianus colchicus subsp. versicolor Group		Animalia	Chordata	Aves	Galliformes	Phasianidae	subspecies	ACCEPTED
+679	679	Pheidole teneriffana Forel, 1893		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+680	680	Planococcus citri (Risso, 1813) Risso, 1813		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	species	ACCEPTED
+681	681	Platycercus eximius (Shaw, 1792)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+682	682	Plectropterus gambensis (Linnaeus, 1766)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+683	683	Ploceus benghalensis (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+684	684	Ploceus cucullatus (Statius Muller, 1776)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+685	685	Ploceus galbula Ruppell, 1840		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+686	686	Ploceus intermedius Rüppell, 1845		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+687	687	Ploceus jacksoni Shelley, 1888		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+688	688	Ploceus manyar (Horsfield, 1821)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+689	689	Ploceus philippinus (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+690	690	Ploceus rubiginosus Ruppell, 1840		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+691	691	Ploceus vitellinus (Lichtenstein, 1823)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+692	692	Plodia interpunctella Hübner, 1813		Animalia	Arthropoda	Insecta	Lepidoptera	Pyralidae	species	ACCEPTED
+693	693	Plutella xylostella Linnaeus, 1767		Animalia	Arthropoda	Insecta	Lepidoptera	Plutellidae	species	ACCEPTED
+694	694	Poecilia reticulata Peters, 1859		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	species	ACCEPTED
+695	695	Polygyra cereolus (Megerle von Muhlfeld, 1816)		Animalia	Mollusca	Gastropoda	Stylommatophora	Polygyridae	species	ACCEPTED
+696	696	Porphyrio poliocephalus (Latham, 1801) Latham, 1801		Animalia	Chordata	Aves	Gruiformes	Rallidae	species	HOMOTYPIC_SYNONYM
+697	697	Procavia capensis (Pallas, 1766)		Animalia	Chordata	Mammalia	Hyracoidea	Procaviidae	species	ACCEPTED
+698	698	Prorocentrum micans Ehrenberg, 1834		Chromista	Myzozoa	Dinophyceae	Prorocentrales	Prorocentraceae	species	ACCEPTED
+699	699	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+700	700	Psittacula cyanocephala (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+701	701	Psittacula eupatria (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+702	702	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+703	703	Psittacula roseata Biswas, 1951		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+704	704	Psittacus erithacus Linnaeus, 1758		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+705	705	Pterocles alchata (Linnaeus, 1766)		Animalia	Chordata	Aves	Pteroclidiformes	Pteroclididae	species	ACCEPTED
+706	706	Pycnonotus cafer (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	species	ACCEPTED
+707	707	Pycnonotus jocosus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	species	ACCEPTED
+708	708	Pycnonotus leucotis (Gould, 1836)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	species	ACCEPTED
+709	709	Pyrodinium bahamense Plate, 1906		Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Goniodomataceae	species	ACCEPTED
+710	710	Quelea erythrops (Hartlaub, 1848)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+711	711	Quelea quelea (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	species	ACCEPTED
+712	712	Ramphotyphlops braminus (Daudin, 1803)		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	species	ACCEPTED
+713	713	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+714	714	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+715	715	Rhizophora mucronata Lam.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Rhizophoraceae	species	ACCEPTED
+716	716	Rhynchophorus ferrugineus Herbst		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	species	DOUBTFUL
+717	717	Sciaenops ocellatus (Linnaeus, 1766)		Animalia	Chordata	Actinopterygii	Perciformes	Sciaenidae	species	ACCEPTED
+718	718	Sciurus anomalus Gmelin, 1778		Animalia	Chordata	Mammalia	Rodentia	Sciuridae	species	ACCEPTED
+719	719	Serinus alario subsp. alario		Animalia	Chordata	Aves	Passeriformes	Fringillidae	subspecies	ACCEPTED
+720	720	Sesuvium portulacastrum (L.) L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	species	ACCEPTED
+721	721	Sitophilus granarius (Linnaeus, 1758) Linnaeus, 1758		Animalia	Arthropoda	Insecta	Coleoptera	Dryophthoridae	species	ACCEPTED
+722	722	Solenopsis geminata (Fabricius, 1804)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+723	723	Sparus aurata Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	species	ACCEPTED
+724	724	Sphaeralcea bonariensis (Cav.) Griseb.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	species	ACCEPTED
+725	725	Sporaeginthus formosus		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+726	726	Sporaeginthus subflavus		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+727	727	Stegobium paniceum (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Coleoptera	Anobiidae	species	ACCEPTED
+728	728	Stomoxys calcitrans (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Diptera	Anthomyiidae	species	ACCEPTED
+729	729	Streptopelia roseogrisea (Sundevall, 1857)		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+730	730	Struthio camelus Linnaeus, 1758		Animalia	Chordata	Aves	Struthioniformes	Struthionidae	species	ACCEPTED
+731	731	Supella longipalpa (Fabricius, 1798)		Animalia	Arthropoda	Insecta	Blattodea	Ectobiidae	species	ACCEPTED
+732	732	Tadorna radjah (Lesson, 1828)		Animalia	Chordata	Aves	Anseriformes	Anatidae	species	ACCEPTED
+733	733	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+734	734	Tapinoma simrothi Krausse, 1911		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+735	735	Temenuchus pagodarum	Sturnus pagodarum (J. F. Gmelin, 1789)	Animalia	Chordata	Aves	Passeriformes	Sturnidae	species	SYNONYM
+736	736	Tetramorium bicarinatum (Nylander, 1846)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+737	737	Trachemys scripta subsp. elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	subspecies	ACCEPTED
+738	738	Treron bicinctus (Jerdon, 1840)		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+739	739	Tribulus terrestris L.		Plantae	Tracheophyta	Magnoliopsida	Zygophyllales	Zygophyllaceae	species	ACCEPTED
+740	740	Trichoplusia ni Hübner, 1802		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	species	ACCEPTED
+741	741	Trogoderma granarium Everts, 1899		Animalia	Arthropoda	Insecta	Coleoptera	Dermestidae	species	ACCEPTED
+742	742	Tuta absoluta (Meyrick, 1917)		Animalia	Arthropoda	Insecta	Orthoptera	Gelechiidae	species	ACCEPTED
+743	743	Uraeginthus cyanocephalus (Richmond, 1897)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	species	ACCEPTED
+744	744	Vanellus armatus (Burchell, 1822)		Animalia	Chordata	Aves	Charadriiformes	Charadriidae	species	ACCEPTED
+745	745	Verbesina encelioides (Cav.) Benth. & Hook.f.	Verbesina encelioides (Cav.) Benth. & Hook.f.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	HOMOTYPIC_SYNONYM
+746	746	Vidua macroura (Pallas, 1764)		Animalia	Chordata	Aves	Passeriformes	Viduidae	species	ACCEPTED
+747	747	Xiphophorus maculatus (Günther, 1866)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	species	ACCEPTED
+748	748	Zeuxine strateumatica (L.) Schltr.		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	species	ACCEPTED

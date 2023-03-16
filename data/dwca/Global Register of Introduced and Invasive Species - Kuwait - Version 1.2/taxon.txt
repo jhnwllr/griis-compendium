@@ -1,0 +1,60 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+77000	77000	Acridotheres ginginianus (Latham, 1790)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+77001	77001	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+77002	77002	Aerva javanica Juss.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+77003	77003	Amandava amandava (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+77004	77004	Aster squamatus Hieron.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+77005	77005	Boerhavia diffusa L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Nyctaginaceae	SPECIES	ACCEPTED
+77006	77006	Capsella bursa-pastoris (L.) Medik.		Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	ACCEPTED
+77007	77007	Chenopodium ficifolium Sm.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+77008	77008	Coronopus didymus (L.) Sm.	Lepidium didymum L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Brassicaceae	SPECIES	SYNONYM
+77009	77009	Crassula alata (Viv.) A.Berger		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED
+77010	77010	Cutandia dichotoma (Forssk.) Trab.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77011	77011	Cuthona albocrusta (MacFarland, 1966)	Trinchesia albocrusta (MacFarland, 1966)	Animalia	Mollusca	Gastropoda	Nudibranchia	Trinchesiidae	SPECIES	SYNONYM
+77012	77012	Dactyloctenium aegyptium (L.) Willd.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77013	77013	Doto kya Er.Marcus, 1961		Animalia	Mollusca	Gastropoda	Nudibranchia	Dotidae	SPECIES	ACCEPTED
+77014	77014	Echinochloa colona (L.) Link		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77015	77015	Eleusine indica (L.) Gaertn.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77016	77016	Eubranchus misakiensis Baba, 1960	Leostyletus misakiensis (Baba, 1960)	Animalia	Mollusca	Gastropoda	Nudibranchia	Eubranchidae	SPECIES	SYNONYM
+77017	77017	Flabellina amabilis Hirano & Kuzirian, 1991	Microchlamylla amabilis (Hirano & Kuzirian, 1991)	Animalia	Mollusca	Gastropoda	Nudibranchia	Coryphellidae	SPECIES	SYNONYM
+77018	77018	Gnaphalium uliginosum L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+77019	77019	Grateloupia filicina (J.V.Lamour.) C.Agardh		Plantae	Rhodophyta	Florideophyceae	Halymeniales	Halymeniaceae	SPECIES	ACCEPTED
+77020	77020	Herpestes edwardsi (Ã‰.Geoffroy Saint-Hilaire, 1818)		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	SPECIES	ACCEPTED
+77021	77021	Heterosigma akashiwo (Hada) Hada ex Hara & Chihara, 1967		Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED
+77022	77022	Hibiscus trionum L.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED
+77023	77023	Hordeum vulgare L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77024	77024	Imperata cylindrica (L.) P.Beauv.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77025	77025	Karenia selliformis A.J.Haywood, K.A.Steidinger & L.MacKenzie, 2004		ChromistaMyzozoa		Dinophyceae	Gymnodiniales	Brachidiniaceae	SPECIES	ACCEPTED
+77026	77026	Lasiurus scindicus Henrard		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77027	77027	Lathyrus aphaca L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+77028	77028	Leptochloa fusca Forssk.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77029	77029	Medicago polymorpha var. vulgaris (Benth.) Shinners		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	VARIETY	ACCEPTED
+77030	77030	Melilotus alba Ledeb.	Melilotus albus Medik.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	SYNONYM
+77031	77031	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+77032	77032	Myrionema orbiculare J.Agardh	Ascocyclus orbicularis (J.Agardh) Kjellm.	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	SYNONYM
+77033	77033	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+77034	77034	Oreochromis spilurus (GÃ¼nther, 1894)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+77035	77035	Orobanche ramosa Smith	Phelipanche ramosa Pomel	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Orobanchaceae	SPECIES	SYNONYM
+77036	77036	Parapholis incurva (L.) C.E.Hubb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+77037	77037	Physalis angulata L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+77038	77038	Ploceus galbula RÃ¼ppell, 1840		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+77039	77039	Ploceus manyar (Horsfield, 1821)		Animalia	Chordata	Aves	Passeriformes	Ploceidae	SPECIES	ACCEPTED
+77040	77040	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+77041	77041	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+77042	77042	Pycnonotus cafer (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	ACCEPTED
+77043	77043	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+77044	77044	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED
+77045	77045	Rhinogobius brunneus (Temminck & Schlegel, 1845)		Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED
+77046	77046	Rhopalophthalmus tattersallae Pillai, 1961		Animalia	Arthropoda	Malacostraca	Mysida	Mysidae	SPECIES	ACCEPTED
+77047	77047	Sargassum angustifolium (Turner) Agardh		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+77048	77048	Sargassum aquifolium (Turner) C.Agardh, 1820		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+77049	77049	Sargassum asperifolium Hering & G.Martens ex J.Agardh, 1848		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+77050	77050	Sargassum boveanum J.Agardh, 1848		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+77051	77051	Sargassum oligocystum Mont.		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+77052	77052	Sparus aurata Linnaeus, 1758		Animalia	Chordata	Actinopterygii	Perciformes	Sparidae	SPECIES	ACCEPTED
+77053	77053	Streptopelia roseogrisea (Sundevall, 1857)		Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED
+77054	77054	Tintinnopsis ampla Hada, 1937		Chromista	Ciliophora	Oligotrichea	Tintinnida	Codonellidae	SPECIES	ACCEPTED
+77055	77055	Tubastraea coccinea Lesson, 1829-1830		Animalia	Cnidaria	Anthozoa	Scleractinia	Dendrophylliidae	SPECIES	ACCEPTED
+77056	77056	Verbena tenuisecta Briq.	Glandularia aristigera (S.Moore) Tronc.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	SYNONYM
+77057	77057	Ziziphus mauritiana Lam.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED
+77058	77058	Ziziphus xylopyrus Hochst. ex A.Rich.		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED

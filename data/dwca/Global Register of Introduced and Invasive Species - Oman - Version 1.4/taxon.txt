@@ -1,0 +1,66 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+76000	76000	Acridotheres ginginianus (Latham, 1790)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+76001	76001	Acridotheres tristis (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED
+76002	76002	Akashiwo sanguinea (K.Hirasaka) Gert Hansen & Moestrup		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Gymnodiniaceae	SPECIES	ACCEPTED
+76003	76003	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76004	76004	Alexandrium cohorticula (Balech) Balech, 1985		Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Gonyaulacaceae	SPECIES	ACCEPTED
+76005	76005	Alternanthera pungens Kunth		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED
+76006	76006	Amphibalanus venustus (Darwin, 1854)		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+76007	76007	Argemone mexicana L.		Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED
+76008	76008	Azadirachta indica A.Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	SPECIES	ACCEPTED
+76009	76009	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76010	76010	Calotes versicolor (Daudin, 1802)		Animalia	Chordata	Reptilia	Squamata	Agamidae	SPECIES	ACCEPTED
+76011	76011	Cascabela thevetia (L.) Lippold		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED
+76012	76012	Cenchrus echinatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+76013	76013	Cerataulina pelagica (P.T.Cleve) Hendey, 1937		Animalia	Ochrophyta	Bacillariophyceae	Hemiaulales	Hemiaulaceae	SPECIES	ACCEPTED
+76014	76014	Chaetoceros peruvianus Brightwell		Chromista	Ochrophyta	Bacillariophyceae	Chaetocerotales	Chaetocerotaceae	SPECIES	ACCEPTED
+76015	76015	Cochlodinium polykrikoides Margalef		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Gymnodiniaceae	SPECIES	ACCEPTED
+76016	76016	Corvus splendens Vieillot, 1817		Animalia	Chordata	Aves	Passeriformes	Corvidae	SPECIES	ACCEPTED
+76017	76017	Crotalaria retusa L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76018	76018	Cylindrotheca closterium (Ehrenb.) J.C.Lewin & Reimann		Chromista	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	SPECIES	ACCEPTED
+76019	76019	Cyperus rotundus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED
+76020	76020	Datura innoxia Mill.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+76021	76021	Datura metel L.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+76022	76022	Dinophysis acuminata ClaparÃ¨de & Lachmann		Chromista	Myzozoa	Dinophyceae	Dinophysiales	Dinophysiaceae	SPECIES	ACCEPTED
+76023	76023	Dinophysis caudata Saville-Kent		Chromista	Myzozoa	Dinophyceae	Dinophysiales	Dinophysiaceae	SPECIES	ACCEPTED
+76024	76024	Dinophysis miles Cleve, 1900		Chromista	Myzozoa	Dinophyceae	Dinophysiales	Dinophysiaceae	SPECIES	ACCEPTED
+76025	76025	Guinardia delicatula (Cleve) Hasle		Chromista	Ochrophyta	Bacillariophyceae	Rhizosoleniales	Rhizosoleniaceae	SPECIES	ACCEPTED
+76026	76026	Gymnodinium catenatum Graham, 1943		Chromista	Myzozoa	Dinophyceae	Gymnodiniales	Gymnodiniaceae	SPECIES	ACCEPTED
+76027	76027	Hemidactylus flaviviridis Rüppell, 1835		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+76028	76028	Hemidactylus leschenaultii Duméril & Bibron, 1836		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	SPECIES	ACCEPTED
+76029	76029	Indotyphlops braminus (Daudin, 1803)		Animalia	Chordata	Reptilia	Squamata	Typhlopidae	SPECIES	ACCEPTED
+76030	76030	Karenia brevis (C.C.Davis) Gert Hansen & Moestrup		Chromista	Miozoa	Dinophyceae	Gymnodiniales	Brachidiniaceae	SPECIES	ACCEPTED
+76031	76031	Lantana camara L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+76032	76032	Leptocylindrus minimus Gran, 1915		Chromista	Ochrophyta	Bacillariophyceae	Leptocylindrales	Leptocylindraceae	SPECIES	ACCEPTED
+76033	76033	Leucaena leucacephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76034	76034	Lingulodinium polyedra (F.Stein) J.D.Dodge		Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Gonyaulacaceae	SPECIES	ACCEPTED
+76035	76035	Lonchura punctulata (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Estrildidae	SPECIES	ACCEPTED
+76036	76036	Megabalanus coccopoma (Darwin, 1854)		Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED
+76037	76037	Nicandra physalodes (L.) Gaertn.		Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED
+76038	76038	Noctiluca scintillans (Macartney) Kof. & Swezy		Chromista	Myzozoa	Dinophyceae	Noctilucales	Noctilucaceae	SPECIES	ACCEPTED
+76039	76039	Opuntia ficus-indica Mill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED
+76040	76040	Oreochromis aureus (Steindachner, 1864)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+76041	76041	Parthenium hystenophorus L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED
+76042	76042	Phalacroma mitra F.SchÃ¼tt		Chromista	Myzozoa	Dinophyceae	Dinophysiales	Dinophysiaceae	SPECIES	ACCEPTED
+76043	76043	Phalacroma rotundatum (Clap. & J.Lachm.) Kof. & J.R.Michener	Dinophysis rotundata Claperède & Lachmann, 1859	Chromista	Myzozoa	Dinophyceae	Dinophysiales	Dinophysiaceae	SPECIES	SYNONYM
+76044	76044	Pithecellobium dulce (Roxb.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76045	76045	Poecilia latipinna (Lesueur, 1821)		Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED
+76046	76046	Pontederia crassipes Mart.		Plantae	Tracheophyta	Liliopsida	Comminales	Pontederiaceae	SPECIES	ACCEPTED
+76047	76047	Prorocentrum cordatum (Ostenf.) J.D.Dodge		Chromista	Myzozoa	Dinophyceae	Prorocentrales	Prorocentraceae	SPECIES	ACCEPTED
+76048	76048	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76049	76049	Pseudo-nitzschia delicatissima (Cleve) Heiden	Nitzschia delicatissima Cleve	Chromista	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	SPECIES	SYNONYM
+76050	76050	Pseudo-nitzschia pungens (Grunow ex Cleve) Hasle		Chromista	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	SPECIES	ACCEPTED
+76051	76051	Pseudo-nitzschia seriata (Cleve) H.Perag.		Chromista	Ochrophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	SPECIES	ACCEPTED
+76052	76052	Psittacula eupatria (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+76053	76053	Psittacula krameri (Scopoli, 1769)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED
+76054	76054	Pycnonotus cafer (Linnaeus, 1766)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	ACCEPTED
+76055	76055	Pycnonotus leucotis (Gould, 1836)		Animalia	Chordata	Aves	Passeriformes	Pycnonotidae	SPECIES	ACCEPTED
+76056	76056	Sargassum muticum (Yendo) Fensholt		Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED
+76057	76057	Sarotherodon galilaeus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	SPECIES	ACCEPTED
+76058	76058	Scrippsiella trochoidea (Stein) Loeblich Iii, 1976		Chromista	Myzozoa	Dinophyceae	Peridiniales	Peridiniaceae	SPECIES	ACCEPTED
+76059	76059	Senna obtusifolia (L.) H.S.Irwin & Barneby		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76060	76060	Senna tora (L.) Roxb.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED
+76061	76061	Sesuvium portulacastrum (L.) L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED
+76062	76062	Tridax procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
+76063	76063	Tripos furca (Ehrenb.) F.GÃ³mez		Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Ceratiaceae	SPECIES	ACCEPTED
+76064	76064	Xanthium strumarium L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED
