@@ -3,20 +3,20 @@ library(purrr)
 
 setwd("C:/Users/ftw712/Desktop/griis-compendium/")
 
-# xml2::read_xml("https://cloud.gbif.org/griis/rss.do") %>% 
-# XML::xmlParse() %>%
-# XML::xmlToList() %>%
-# pluck("channel") %>%
-# `[`(15:500) %>%
-# map(~ tibble(title=.x$title,dwca=.x$dwca,link=.x$link)) %>%
-# bind_rows() %>% 
-# transpose() %>%
-# map(~ httr::GET(.x$dwca, httr::write_disk(paste0("data/zip/",.x$title,".zip"), overwrite=TRUE)))
+xml2::read_xml("https://cloud.gbif.org/griis/rss.do") %>% 
+XML::xmlParse() %>%
+XML::xmlToList() %>%
+pluck("channel") %>%
+`[`(15:500) %>%
+map(~ tibble(title=.x$title,dwca=.x$dwca,link=.x$link)) %>%
+bind_rows() %>% 
+transpose() %>%
+map(~ httr::GET(.x$dwca, httr::write_disk(paste0("data/zip/",.x$title,".zip"), overwrite=TRUE)))
 
-# list.files("data/zip/") %>%
-# map(~ unzip(paste0("data/zip/",.x),exdir=paste0("data/dwca/",gsub(".zip","",.x))))
+list.files("data/zip/") %>%
+map(~ unzip(paste0("data/zip/",.x),exdir=paste0("data/dwca/",gsub(".zip","",.x))))
 
-# list.files("data/dwca/",full.names=TRUE)
+list.files("data/dwca/",full.names=TRUE)
 
 d = list.files("data/dwca/",full.names=TRUE) %>%
 tibble(x=.) %>%
