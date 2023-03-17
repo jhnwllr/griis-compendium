@@ -31,7 +31,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pak::pkg_install(c("XML","xml2","rgbif","readr","purrr","dplyr"))
+          pak::pkg_install(c("XML","xml2","rgbif","readr","purrr","dplyr","httr"))
         shell: Rscript {0}
 
       - name: run stats
