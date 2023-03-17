@@ -45,6 +45,17 @@ rgbif::name_backbone_checklist() %>%
 setNames(.,paste0("gbif_",colnames(.))) %>%
 mutate(m_id = gbif_verbatim_name) %>% 
 merge(d, by="m_id") %>%
+mutate(source_isInvasive = 
+case_when(
+source_isInvasive == "true" ~ "invasive",
+source_isInvasive == "yes" ~ "invasive",
+grepl("invasive",source_isInvasive) ~ "invasive",
+source_isInvasive == "false" ~ NA_character_,
+source_isInvasive == "to be evaluated" ~ NA_character_,
+source_isInvasive == "not specified" ~ NA_character_,
+source_isInvasive == "not evaluated" ~ NA_character_,
+TRUE ~ as.character(source_isInvasive)
+)) %>%
 glimpse() %>%
 readr::write_tsv("exports/griis-compendium.tsv") 
 
