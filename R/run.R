@@ -1,7 +1,7 @@
 library(dplyr)
 library(purrr)
 
-setwd("C:/Users/ftw712/Desktop/griis-compendium/")
+# setwd("C:/Users/ftw712/Desktop/griis-compendium/")
 
 xml2::read_xml("https://cloud.gbif.org/griis/rss.do") %>% 
 XML::xmlParse() %>%
