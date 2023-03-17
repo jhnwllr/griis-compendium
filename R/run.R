@@ -54,6 +54,7 @@ source_isInvasive == "false" ~ NA_character_,
 source_isInvasive == "to be evaluated" ~ NA_character_,
 source_isInvasive == "not specified" ~ NA_character_,
 source_isInvasive == "not evaluated" ~ NA_character_,
+source_isInvasive == "null" ~ NA_character_,
 TRUE ~ as.character(source_isInvasive)
 )) %>%
 glimpse() %>%
