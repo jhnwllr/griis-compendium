@@ -45,6 +45,7 @@ rgbif::name_backbone_checklist() %>%
 setNames(.,paste0("gbif_",colnames(.))) %>%
 mutate(m_id = gbif_verbatim_name) %>% 
 merge(d, by="m_id") %>%
+mutate(source_establishmentMeans = tolower(source_establishmentMeans)) %>%
 mutate(source_isInvasive = tolower(source_isInvasive)) %>%
 mutate(source_isInvasive = 
 case_when(
