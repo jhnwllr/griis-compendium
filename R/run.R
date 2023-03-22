@@ -1,7 +1,11 @@
+
+
 library(dplyr)
 library(purrr)
 
-# setwd("C:/Users/ftw712/Desktop/griis-compendium/")
+setwd("C:/Users/ftw712/Desktop/griis-compendium/")
+
+if(FALSE) {
 
 xml2::read_xml("https://cloud.gbif.org/griis/rss.do") %>% 
 XML::xmlParse() %>%
@@ -19,6 +23,8 @@ list.files("data/zip/") %>%
 map(~ unzip(paste0("data/zip/",.x),exdir=paste0("data/dwca/",gsub(".zip","",.x)))) 
 
 list.files("data/dwca/",full.names=TRUE)
+}
+
 
 d = list.files("data/dwca/",full.names=TRUE) %>%
 map(~ {
@@ -36,7 +42,12 @@ out
 bind_rows() %>% 
 setNames(.,paste0("source_",colnames(.))) %>%
 mutate(m_id = source_scientificName) %>%
+mutate(source_file_name = gsub("Protected Areas - Global Register of Introduced and Invasive Species","",source_file_name)) %>%
+mutate(source_file_name = gsub("Global Register of Introduced and Invasive Species","",source_file_name)) %>%
+mutate(source_file_name = gsub("GRIIS Checklist of Introduced and Invasive Species","",source_file_name)) %>%
 glimpse() 
+
+d %>% pull(source_file_name) %>% unique()
 
 d %>% 
 pull(source_scientificName) %>% 
@@ -77,6 +88,31 @@ source_establishmentMeans == "cryptogenic/uncertain" ~ "uncertain",
 TRUE ~ source_establishmentMeans
 )) %>%
 glimpse() %>%
+select(
+-source_acceptedNameUsage,
+-source_originalNameUsage,
+-source_vernacularName,
+-source_locality,
+-source_locationID,
+-source_occurrenceRemarks,
+-source_habitat,
+-source_id,
+-source_taxonID,
+-source_acceptedNameUsage,
+-source_kingdom,
+-source_phylum,
+-source_class,
+-source_order,
+-source_family,
+-source_taxonRank,
+-source_taxonomicStatus,
+-source_occurrenceStatus
+) %>% 
 readr::write_tsv("exports/griis-compendium.tsv") 
 
+# }
 
+
+d = readr::read_tsv("exports/griis-compendium.tsv") 
+
+lapply(d, function(x) summary(x))
