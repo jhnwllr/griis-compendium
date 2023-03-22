@@ -58,6 +58,23 @@ source_isInvasive == "not specified" ~ NA_character_,
 source_isInvasive == "not evaluated" ~ NA_character_,
 source_isInvasive == "null" ~ NA_character_,
 TRUE ~ as.character(source_isInvasive)
+)) %>% 
+mutate(source_establishmentMeans = tolower(source_establishmentMeans)) %>%
+mutate(source_establishmentMeans = 
+case_when(
+source_establishmentMeans == "alien" ~ "alien",
+source_establishmentMeans == "native|alien" ~ NA_character_,
+source_establishmentMeans == "present" ~ "present",             
+source_establishmentMeans == "cryptogenic|uncertain" ~ "uncertain",
+source_establishmentMeans == "native/alien" ~ NA_character_,       
+source_establishmentMeans == "uncertain" ~ "uncertain",            
+source_establishmentMeans == "native|invasive" ~  NA_character_,      
+source_establishmentMeans == "cryptogenic|unknown" ~ "uncertain",
+source_establishmentMeans == "alien/native" ~ NA_character_,         
+source_establishmentMeans == "cryptogenic|uncerain" ~  "uncertain",
+source_establishmentMeans == "cryptogeni|uncertain" ~ "uncertain",
+source_establishmentMeans == "cryptogenic/uncertain" ~ "uncertain",
+TRUE ~ source_establishmentMeans
 )) %>%
 glimpse() %>%
 readr::write_tsv("exports/griis-compendium.tsv") 
