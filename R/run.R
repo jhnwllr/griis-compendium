@@ -3,9 +3,8 @@
 library(dplyr)
 library(purrr)
 
-setwd("C:/Users/ftw712/Desktop/griis-compendium/")
+# setwd("C:/Users/ftw712/Desktop/griis-compendium/")
 
-if(FALSE) {
 
 xml2::read_xml("https://cloud.gbif.org/griis/rss.do") %>% 
 XML::xmlParse() %>%
@@ -23,7 +22,6 @@ list.files("data/zip/") %>%
 map(~ unzip(paste0("data/zip/",.x),exdir=paste0("data/dwca/",gsub(".zip","",.x)))) 
 
 list.files("data/dwca/",full.names=TRUE)
-}
 
 
 d = list.files("data/dwca/",full.names=TRUE) %>%
