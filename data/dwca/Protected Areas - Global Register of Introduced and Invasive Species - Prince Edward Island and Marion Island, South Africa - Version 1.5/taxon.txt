@@ -1,0 +1,90 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	verbatimTaxonRank	taxonomicStatus	taxonRemarks	modified
+10000	10000	Agrostis castellana Boiss. & Reut.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Agrostis castellana	ACCEPTED		2024
+10001	10001	Agrostis gigantea Roth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Agrostis gigantea	ACCEPTED		2024
+10002	10002	Agrostis stolonifera L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Agrostis stolonifera	ACCEPTED		2024
+10003	10003	Agrotis ipsilon (Hufnagel, 1766)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	Agrotis ipsilon	ACCEPTED		2024
+10004	10004	Agrotis segetum (Denis & Schiffermüller, 1775)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	Agrotis segetum	ACCEPTED		2024
+10005	10005	Alopecurus geniculatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Alopecurus geniculatus	ACCEPTED		2024
+10006	10006	Anomis sabulifera Guenée, 1852		Animalia	Arthropoda	Insecta	Lepidoptera	Erebidae	SPECIES	Anomis sabulifera	ACCEPTED		2024
+10007	10007	Anser anser (Linnaeus, 1758)		Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	Anser anser	ACCEPTED		2024
+10008	10008	Aphidius matricariae Haliday, 1834		Animalia	Arthropoda	Insecta	Hymenoptera	Braconidae	SPECIES	Aphidius matricariae	ACCEPTED		2024
+10009	10009	Apterothrips apteris (Daniel, 1904)		Animalia	Arthropoda	Insecta	Thysanoptera	Thripidae	SPECIES	Apterothrips apteris	ACCEPTED		2024
+10010	10010	Avena sativa L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Avena sativa	ACCEPTED	Vagrant. Year of introduction is estimated between 1965 and 1966.	2024
+10011	10011	Bimastos rubidus (Savigny, 1826)		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SPECIES	Bimastos rubidus	ACCEPTED		2024
+10012	10012	Blattella germanica (Linnaeus, 1767)		Animalia	Arthropoda	Insecta	Blattodea	Ectobiidae	SPECIES	Blattella germanica	ACCEPTED	First introduced between 1983/1985, eradicated, and found again in 2022.	2024
+10013	10013	Botrytis cinerea Pers.Ex Nocca & Balb., 1821	Botrytis cinerea Pers.Ex Nocca & Balb., 1821	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	SPECIES	Botryotinia fuckeliana	SYNONYM	Year of introduction is estimated between 1987 and 1988.	2024
+10014	10014	Hyalopterus pruni (Geoffroy, 1762)	Hyalopterus pruni (Geoffroy, 1762)	Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	Brachycaudus helichrysi	SYNONYM	Year of introduction is estimated between 1965 and 1966.	2024
+10015	10015	Calliphora vicina Robineau-Desvoidy, 1830		Animalia	Arthropoda	Insecta	Diptera	Calliphoridae	SPECIES	Calliphora vicina	ACCEPTED		2024
+10016	10016	Canis lupus subsp. familiaris Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	SUBSPECIES	Canis lupus subsp. familiaris	ACCEPTED	The species was first introduced between 1818 and 1819; then in 1961 and again in 1978. First two males introduced as pets, the first in 1818/1819, the second in 1961. Three females in 1978 as potential control for cats, but removed from Marion Island after the experiment (Watkins and Cooper 1986).	2024
+10017	10017	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	Capra hircus	ACCEPTED		2024
+10018	10018	Carnivore protoparvovirus 1		Viruses	Cossaviricota	Quintoviricetes	Piccovirales	Parvoviridae	SPECIES	Carnivore protoparvovirus	ACCEPTED		2024
+10019	10019	Cerastium fontanum Baumg.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	Cerastium fontanum	ACCEPTED		2024
+10020	10020	Ceratophysella denticulata (Bagnall, 1941)		Animalia	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	SPECIES	Ceratophysella denticulata	ACCEPTED	Year of introduction is estimated between 1972 and 1973.	2024
+10021	10021	Chamaecyparis lawsoniana (A.Murray bis) Parl.		Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	Chamaecyparis lawsoniana	ACCEPTED		2024
+10022	10022	Cheiracanthium furculatum Karsch, 1879		Animalia	Arthropoda	Arachnida	Araneae	Cheiracanthiidae	SPECIES	Cheiracanthium furculatum	ACCEPTED	Vagrant.	2024
+10023	10023	Chrysodeixis acuta (Walker, 1858)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	Chrysodeixis acuta	ACCEPTED		2024
+10024	10024	Cryptacrus comes Fabricius, 1803		Animalia	Arthropoda	Insecta	Hemiptera	Pentatomidae	SPECIES	Cryptacrus comes	ACCEPTED		2024
+10025	10025	Dendrodrilus rubidus subsp. tenuis (Eisen, 1874)		Animalia	Annelida	Clitellata	Crassiclitellata	Lumbricidae	SUBSPECIES	Dendrodrilus rubidus subsp. tenuis	ACCEPTED		2024
+10026	10026	Deroceras panormitanum (Lessona & Pollonera, 1882)		Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	Deroceras panormitanum	ACCEPTED		2024
+10027	10027	Disparipes antarcticus Richters		Animalia	Arthropoda	Arachnida	Acarina	Scutacaridae	SPECIES	Disparipes antarcticus			2024
+10028	10028	Elymus repens (L.) Gould		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Elymus repens	ACCEPTED	Year of introduction is estimated between 1965 and 1966.	2024
+10029	10029	Equus asinus Linnaeus, 1758		Animalia	Chordata	Mammalia	Perissodactyla	Equidae	SPECIES	Equus asinus	ACCEPTED		2024
+10030	10030	Fannia canicularis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Diptera	Fanniidae	SPECIES	Fannia canicularis	ACCEPTED		2024
+10031	10031	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	Felis catus	ACCEPTED	The species was intentionally introduced in 1818/1819, 1948, 1949|2023. A female cat was first introduced in 1818/1819 by a Captain so the sealers could get rid of mice in their cave. This individual was not pregnant and even though it became feral, it did not establish a population. Thirty years later, five individuals were deliberately introduced into Marion Island in 1949 to control the mice in the meteorological station according to Bester et al. (2000) and Cooper (2008), although van Aarde (1981) and Bloomer and Bester (1992) consider that cats were introduced as pets instead. They reproduced and increased in numbers quickly, became feral by 1951, and started predating on native birds, becoming an invasive population. An eradication plan was put in place in 1977 which involved the introduction of a viral disease, followed by night hunting and intensive trapping and poisoning as latest measures (Bester et al. 2002). The eradication plan was successful and the species has been absent from Marion Island since 1991 (Bester et al. 2002).	2024
+10032	10032	Festuca rubra L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Festuca rubra	ACCEPTED		2024
+10033	10033	Gallus gallus f. domesticus		Animalia	Chordata	Aves	Galliformes	Phasianidae	FORM	Gallus gallus f. domesticus	ACCEPTED		2024
+10034	10034	Glycyphagus domesticus (de Geer, 1778)		Animalia	Arthropoda	Arachnida	Sarcoptiformes	Glycyphagidae	SPECIES	Glycyphagus domesticus	ACCEPTED		2024
+10035	10035	Helicoverpa armigera (Hübner, 1808)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	Helicoverpa armigera	ACCEPTED		2024
+10036	10036	Holcus lanatus L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Holcus lanatus	ACCEPTED	The species was first recorded in 1953, and later in 1965 and 2011. Considered as transient by Chown and Froneman (2008).	2024
+10037	10037	Hypochaeris radicata L.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	Hypochaeris radicata	ACCEPTED	The species was first recorded in 1953, and later in 1965/1966 and 1997.	2024
+10038	10038	Hypogastrura (Hypogastrura) viatica (Bagnall, 1940)		Animalia	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	SPECIES	Hypogastrura (Hypogastrura) viatica	DOUBTFUL		2024
+10039	10039	Isotomurus maculatus (Schäffer, 1896)		Animalia	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	SPECIES	Isotomurus maculatus	ACCEPTED		2024
+10040	10040	Juncus effusus L.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	Juncus effusus	ACCEPTED		2024
+10041	10041	Lamprolonchaea smaragdi (Walker, 1849)		Animalia	Arthropoda	Insecta	Diptera	Lonchaeidae	SPECIES	Lamprolonchaea smaragdi	ACCEPTED		2024
+10042	10042	Lepisiota capensis (Mayr, 1862)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	Lepisiota capensis	ACCEPTED		2024
+10043	10043	Leptodontium gemmascens Braithwaite, 1887		Plantae	Bryophyta	Bryopsida	Pottiales	Pottiaceae	SPECIES	Leptodontium gemmascens	ACCEPTED		2024
+10044	10044	Limnophyes minimus (Meigen, 1818)		Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	Limnophyes minimus	ACCEPTED		2024
+10045	10045	Luzula multiflora (Ehrh.) Lej.		Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	Luzula multiflora	ACCEPTED		2024
+10046	10046	Macrosiphum euphorbiae (Thomas, 1878)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	Macrosiphum euphorbiae	ACCEPTED	Year of introduction is estimated between 1965 and 1966.	2024
+10047	10047	Megalothorax minimus V.Willem, 1900		Animalia	Arthropoda	Collembola	Neelipleona	Neelidae	SPECIES	Megalothorax minimus	ACCEPTED		2024
+10048	10048	Mus musculus subsp. domesticus Schwarz & Schwarz, 1943		Animalia	Chordata	Mammalia	Rodentia	Muridae	SUBSPECIES	Mus musculus subsp. domesticus	ACCEPTED		2024
+10049	10049	Myzus ascalonicus Doncaster, 1946		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	Myzus ascalonicus	ACCEPTED		2024
+10050	10050	Neomyzus circumflexus (Buckton, 1876)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	Neomyzus circumflexus	ACCEPTED	Year of introduction is estimated between 1965 and 1966.	2024
+10051	10051	Oncorhynchus mykiss (Walbaum, 1792)		Animalia	Chordata		Salmoniformes	Salmonidae	SPECIES	Oncorhynchus mykiss	ACCEPTED		2024
+10052	10052	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	Ovis aries	ACCEPTED	Sheep were introduced in different years, starting in 1948, then 1950, and 1959 (Chown and Freeman 2008).	2024
+10053	10053	Parisotoma notabilis (Schäffer, 1896)		Animalia	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	SPECIES	Parisotoma notabilis	ACCEPTED		2024
+10054	10054	Passer domesticus (Linnaeus, 1758)		Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	Passer domesticus	ACCEPTED		2024
+10055	10055	Peregrinacarus reticulatus Bartsch, 1999		Animalia	Arthropoda	Arachnida	Trombidiformes	Halacaridae	SPECIES	Peregrinacarus reticulatus	ACCEPTED		2024
+10056	10056	Pinus pinaster Aiton		Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	Pinus pinaster	ACCEPTED		2024
+10057	10057	Pittosporum crassifolium Banks & Sol. ex A.Cunn.		Plantae	Tracheophyta	Magnoliopsida	Apiales	Pittosporaceae	SPECIES	Pittosporum crassifolium	ACCEPTED		2024
+10058	10058	Plantago lanceolata L.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	Plantago lanceolata	ACCEPTED	First recorded in 1965 (Gremmen (1997)), then eradicated, but detected again in 1988. All plants removed after discovery (Bergstrom and Smith (1990) in Gremmen (1997)). According to Gremmen and Smith (1999) the species was found in 1997 at the same place where it was found in 1988, and removed in 1997 after they flowered in January but before setting seed. Eradicated since 1997 (Leihy et al. (2023).	2024
+10059	10059	Plutella xylostella (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Lepidoptera	Plutellidae	SPECIES	Plutella xylostella	ACCEPTED		2024
+10060	10060	Poa annua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Poa annua	ACCEPTED		2024
+10061	10061	Poa pratensis L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Poa pratensis	ACCEPTED		2024
+10062	10062	Pogonognathellus flavescens (Tullberg, 1871)		Animalia	Arthropoda	Collembola	Entomobryomorpha	Tomoceridae	SPECIES	Pogonognathellus flavescens	ACCEPTED	the tomocerid Pogonognathellus flavescens, not reported by Deharveng (1981), is dated by an unpublished drawing to at least 1983' (in Gabriel et al. 2001).	2024
+10063	10063	Porcellio scaber Latreille, 1804		Animalia	Arthropoda	Malacostraca	Isopoda	Porcellionidae	SPECIES	Porcellio scaber	ACCEPTED		2024
+10064	10064	Potamogeton nodosus Poir.		Plantae	Tracheophyta	Liliopsida	Alismatales	Potamogetonaceae	SPECIES	Potamogeton nodosus	ACCEPTED		2024
+10065	10065	Prinerigone vagans (Audouin, 1826)		Animalia	Arthropoda	Arachnida	Araneae	Linyphiidae	SPECIES	Prinerigone vagans	ACCEPTED		2024
+10066	10066	Psittacus erithacus Linnaeus, 1758		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	Psittacus erithacus	ACCEPTED		2024
+10067	10067	Psychoda parthenogenetica Tonnoir, 1940		Animalia	Arthropoda	Insecta	Diptera	Psychodidae	SPECIES	Psychoda parthenogenetica	ACCEPTED		2024
+10068	10068	Rhopalosiphum padi (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	Rhopalosiphum padi	ACCEPTED	Recorded in PEI in April 1984 (Crafford et al. 1986), but '...likely introduced with station supplies in the 1940s (Crafford et al. 1986)' in Lee and Chown (2016).	2024
+10069	10069	Rumex acetosella L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	Rumex acetosella	ACCEPTED	Species first introduced in 1953, and refound more than 10 years later in 1965/1966.	2024
+10070	10070	Sagina procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	Sagina procumbens	ACCEPTED	Year of introduction is estimated between 1965 and 1966.	2024
+10071	10071	Salmo trutta Linnaeus, 1758		Animalia	Chordata		Salmoniformes	Salmonidae	SPECIES	Salmo trutta	ACCEPTED		2024
+10072	10072	Scaptomyza oxyphallus Tsacas, 1990		Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	SPECIES	Scaptomyza oxyphallus	ACCEPTED		2024
+10073	10073	Spodoptera exigua (Hübner, 1808)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	Spodoptera exigua	ACCEPTED		2024
+10074	10074	Stellaria media (L.) Vill.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	Stellaria media	ACCEPTED		2024
+10075	10075	Sus scrofa Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	SPECIES	Sus scrofa	ACCEPTED	The domestic pig (Sus scrofa L.) was deliberately introduced to Marion Island in 1804 where it bred successfully until it was eradicated some years later (Cooper 2008)' in Greve et al. (2017). 'Domestic pigs (two to three individuals) were again introduced to Marion Island in 1950 and kept in a pig sty on Boulder Beach, below the meteorological station and were eventually eaten (King 1952, J.J. La Grange pers. comm.)', in Watkins and Cooper (1986).	2024
+10076	10076	Clogmia albipunctatus (Williston, 1893)	Clogmia albipunctatus (Williston, 1893)	Animalia	Arthropoda	Insecta	Diptera	Psychodidae	SPECIES	Telmatoscopus albipunctatus	SYNONYM		2024
+10077	10077	Thuidium delicatulum W.P.Schimper, 1852		Plantae	Bryophyta	Bryopsida	Hypnales	Thuidiaceae	SPECIES	Thuidium delicatulum	ACCEPTED		2024
+10078	10078	Thysanoplusia orichalcea (Fabricius, 1775)		Animalia	Arthropoda	Insecta	Lepidoptera	Noctuidae	SPECIES	Thysanoplusia orichalcea	ACCEPTED		2024
+10079	10079	Vanessa cardui (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Lepidoptera	Nymphalidae	SPECIES	Vanessa cardui	ACCEPTED		2024
+10080	10080	Cerastium fontanum Baumg.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	Cerastium fontanum	ACCEPTED		2024
+10081	10081	Ceratophysella denticulata (Bagnall, 1941)		Animalia	Arthropoda	Collembola	Poduromorpha	Hypogastruridae	SPECIES	Ceratophysella denticulata	ACCEPTED		2024
+10082	10082	Fannia canicularis (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Diptera	Fanniidae	SPECIES	Fannia canicularis	ACCEPTED		2024
+10083	10083	Isotomurus maculatus (Schäffer, 1896)		Animalia	Arthropoda	Collembola	Entomobryomorpha	Isotomidae	SPECIES	Isotomurus maculatus	ACCEPTED		2024
+10084	10084	Limnophyes minimus (Meigen, 1818)		Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	Limnophyes minimus	ACCEPTED		2024
+10085	10085	Poa annua L.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	Poa annua	ACCEPTED		2024
+10086	10086	Psychoda parthenogenetica Tonnoir, 1940		Animalia	Arthropoda	Insecta	Diptera	Psychodidae	SPECIES	Psychoda parthenogenetica	ACCEPTED		2024
+10087	10087	Rhopalosiphum padi (Linnaeus, 1758)		Animalia	Arthropoda	Insecta	Hemiptera	Aphididae	SPECIES	Rhopalosiphum padi	ACCEPTED		2024
+10088	10088	Sagina procumbens L.		Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	Sagina procumbens	ACCEPTED		2024

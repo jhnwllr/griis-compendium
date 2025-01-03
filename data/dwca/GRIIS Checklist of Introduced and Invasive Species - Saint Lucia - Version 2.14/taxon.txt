@@ -1,0 +1,114 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus
+5763	5763	Abrus precatorius L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5764	5764	Achatina fulica (Férussac, 1821)	Lissachatina fulica (Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Achatinidae	species	SYNONYM
+5765	5765	Adenanthera pavonina L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5766	5766	Aedes aegypti (Linnaeus, 1762)		Animalia	Arthropoda	Insecta	Diptera	Culicidae	species	ACCEPTED
+5767	5767	Albizia lebbeck (L.) Benth.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5768	5768	Amazona amazonica (Linnaeus, 1766)		Animalia	Chordata	Aves	Psittaciformes	Psittacidae	species	ACCEPTED
+5769	5769	Anolis extremus (Garman, 1887)		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	species	ACCEPTED
+5770	5770	Anolis wattsi Boulenger, 1894		Animalia	Chordata	Reptilia	Squamata	Dactyloidae	species	ACCEPTED
+5771	5771	Ardisia elliptica Thunb.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Primulaceae	species	ACCEPTED
+5772	5772	Asiomorpha coarctata (Saussure, 1860)	Orthomorpha coarctata (Saussure, 1860)	Animalia	Arthropoda	Diplopoda	Polydesmida	Paradoxosomatidae	species	SYNONYM
+5773	5773	Azadirachta indica A. Juss.		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Meliaceae	species	ACCEPTED
+5774	5774	Bambusa vulgaris Schrad.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5775	5775	Biomphalaria glabrata Say, 1818		Animalia	Mollusca	Gastropoda	Hygrophila	Planorbidae	species	ACCEPTED
+5776	5776	Bothriochloa pertusa (L.) A.Camus		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5777	5777	Bubulcus ibis (Linnaeus, 1758)		Animalia	Chordata	Aves	Pelecaniformes	Ardeidae	species	ACCEPTED
+5778	5778	Caesalpinia pulcherrima (L.) Sw.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5779	5779	Calathea lutea (Aubl.) E.Mey. ex Schult.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Marantaceae	species	ACCEPTED
+5780	5780	Callisia fragrans (Lindl.) Woodson		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+5781	5781	Cananga odorata (Lam.) Hook. f. & Thomson		Plantae	Tracheophyta	Magnoliopsida	Magnoliales	Annonaceae	species	ACCEPTED
+5782	5782	Canis lupus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Canidae	species	ACCEPTED
+5783	5783	Capra hircus Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	species	ACCEPTED
+5784	5784	Casuarina equisetifolia L.		Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	species	ACCEPTED
+5785	5785	Clerodendrum chinense (Osbeck) Mabb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	species	ACCEPTED
+5786	5786	Coccinia grandis (L.) Voigt		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	species	ACCEPTED
+5787	5787	Columba livia Gmelin, 1789		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+5788	5788	Cordia obliqua Willd.		Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	species	ACCEPTED
+5789	5789	Costus scaber Ruiz & Pav.		Plantae	Tracheophyta	Liliopsida	Zingiberales	Costaceae	species	ACCEPTED
+5790	5790	Costus woodsonii Maas		Plantae	Tracheophyta	Liliopsida	Zingiberales	Costaceae	species	ACCEPTED
+5791	5791	Cryptostegia madagascariensis Boj.		Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	species	ACCEPTED
+5792	5792	Cyanotis cristata (L.) D.Don		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+5793	5793	Cymbopogon citratus (DC.) Stapf		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5794	5794	Cyperus difformis L.		Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	species	ACCEPTED
+5795	5795	Dasyprocta leporina subsp. fulva (Kerr, 1792)		Animalia	Chordata	Mammalia	Rodentia	Dasyproctidae	subspecies	ACCEPTED
+5796	5796	Delonix regia (Hook.) Raf.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5797	5797	Desmodium velutinum (Willd.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5798	5798	Didelphis marsupialis Linnaeus, 1758		Animalia	Chordata	Mammalia	Didelphimorphia	Didelphidae	species	ACCEPTED
+5799	5799	Dioscorea bulbifera L.		Plantae	Tracheophyta	Liliopsida	Dioscoreales	Dioscoreaceae	species	ACCEPTED
+5800	5800	Eichhornia crassipes (Mart.) Solms		Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	species	ACCEPTED
+5801	5801	Eleutherodactylus johnstonei Barbour, 1914		Animalia	Chordata	Amphibia	Anura	Eleutherodactylidae	species	ACCEPTED
+5802	5802	Emilia praetermissa Milne-Redh.		Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	species	DOUBTFUL
+5803	5803	Epipremnum pinnatum (L.) Engl.		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	species	ACCEPTED
+5804	5804	Eragrostis airoides Nees		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5805	5805	Eragrostis cilianensis (All.) Janch.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5806	5806	Felis catus Linnaeus, 1758		Animalia	Chordata	Mammalia	Carnivora	Felidae	species	ACCEPTED
+5807	5807	Gliricidia sepium (Jacq.) Walp.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5808	5808	Halophila stipulacea (Forssk.) Asch.		Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	species	ACCEPTED
+5809	5809	Hedychium coronarium J.Koenig		Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	species	ACCEPTED
+5810	5810	Hemidactylus mabouia (Moreau De Jonnès, 1818)		Animalia	Chordata	Reptilia	Squamata	Gekkonidae	species	ACCEPTED
+5811	5811	Herpestes javanicus		Animalia	Chordata	Mammalia	Carnivora	Herpestidae	species	ACCEPTED
+5812	5812	Iguana iguana (Linnaeus, 1758)		Animalia	Chordata	Reptilia	Squamata	Iguanidae	species	ACCEPTED
+5813	5813	Impatiens balsamina L.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	species	ACCEPTED
+5814	5814	Impatiens walleriana Hook. fil.		Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	species	ACCEPTED
+5815	5815	Ischaemum rugosum Salisb.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5816	5816	Ischaemum timorense Kunth		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5817	5817	Jatropha curcas L.		Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	species	ACCEPTED
+5818	5818	Kalanchoe pinnata (Lam.) Pers.		Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	species	ACCEPTED
+5819	5819	Leptochloa fusca Forssk.		Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	species	ACCEPTED
+5820	5820	Leucaena leucocephala (Lam.) de Wit		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5821	5821	Ligustrum japonicum Thunb.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	species	ACCEPTED
+5822	5822	Maconellicoccus hirsutus (Green, 1908)		Animalia	Arthropoda	Insecta	Hemiptera	Pseudococcidae	species	ACCEPTED
+5823	5823	Macrobrachium rosenbergii (De Man, 1879)		Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	species	ACCEPTED
+5824	5824	Macrothelypteris torresiana (Gaud.) Ching		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Thelypteridaceae	species	ACCEPTED
+5825	5825	Malvaviscus penduliflorus Moc. & Sesse ex DC.		Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	species	ACCEPTED
+5826	5826	Melanoides tuberculata Müller, 1774		Animalia	Mollusca	Gastropoda		Thiaridae	species	ACCEPTED
+5827	5827	Merremia tuberosa (L.) Rendle		Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	species	ACCEPTED
+5828	5828	Mimosa pigra L.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5829	5829	Momordica charantia L.		Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	species	ACCEPTED
+5830	5830	Monomorium destructor (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5831	5831	Monomorium floricola (Jerdon, 1851)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5832	5832	Mus musculus Linnaeus, 1758		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+5833	5833	Nephrolepis brownii (Desv.) Hovenk. & Miyam.		Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Nephrolepidaceae	species	ACCEPTED
+5834	5834	Norops sagrei		Animalia	Chordata	Reptilia	Squamata	Polychrotidae	species	ACCEPTED
+5835	5835	Oeceoclades maculata (Lindl.) Lindl.		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	species	ACCEPTED
+5836	5836	Ophisternon aenigmaticum Rosen & Greenwood, 1976		Animalia	Chordata	Actinopterygii	Synbranchiformes	Synbranchidae	species	ACCEPTED
+5837	5837	Oreochromis mossambicus (Peters, 1852)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+5838	5838	Oreochromis niloticus (Linnaeus, 1758)		Animalia	Chordata	Actinopterygii	Perciformes	Cichlidae	species	ACCEPTED
+5839	5839	Osteopilus septentrionalis (Duméril & Bibron, 1841)		Animalia	Chordata	Amphibia	Anura	Hylidae	species	ACCEPTED
+5840	5840	Ovis aries Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	species	ACCEPTED
+5841	5841	Paratrechina longicornis (Latreille, 1802)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5842	5842	Pavo cristatus Linnaeus, 1758		Animalia	Chordata	Aves	Galliformes	Phasianidae	species	ACCEPTED
+5843	5843	Peltophorum pterocarpum (DC.) K.Heyne		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5844	5844	Pheidole megacephala (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5845	5845	Plagiolepis alluaudi Emery, 1894		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5846	5846	Pogostemon cablin (Blanco) Benth.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	species	ACCEPTED
+5847	5847	Prosopis juliflora (Sw.) DC.		Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	species	ACCEPTED
+5848	5848	Ptychosperma macarthurii (H.Wendl. ex H.J.Veitch) H.Wendl. ex Hook.f.		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	species	ACCEPTED
+5849	5849	Raoiella indica Hirst, 1924		Animalia	Arthropoda	Arachnida	Prostigmata	Tenuipalpidae	species	ACCEPTED
+5850	5850	Rattus norvegicus (Berkenhout, 1769)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+5851	5851	Rattus rattus (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Rodentia	Muridae	species	ACCEPTED
+5852	5852	Rhinella marina (Linnaeus, 1758)		Animalia	Chordata	Amphibia	Anura	Bufonidae	species	ACCEPTED
+5853	5853	Roystonea oleracea (Jacq.) O.F.Cook		Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	species	ACCEPTED
+5854	5854	Rubus rosifolius Smith		Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	species	ACCEPTED
+5855	5855	Sansevieria hyacinthoides (L.) Druce		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	species	ACCEPTED
+5856	5856	Sansevieria trifasciata Prain		Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	species	ACCEPTED
+5857	5857	Sapajus apella (Linnaeus, 1758)		Animalia	Chordata	Mammalia	Primates	Cebidae	species	ACCEPTED
+5858	5858	Scaevola taccada (Gaertn.) Roxb.	Scaevola sericea Forst. fil.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Goodeniaceae	species	SYNONYM
+5859	5859	Scinax ruber (Laurenti, 1768)		Animalia	Chordata	Amphibia	Anura	Hylidae	species	ACCEPTED
+5860	5860	Solenopsis invicta Buren, 1972		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5861	5861	Spathodea campanulata Beauv.		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	species	ACCEPTED
+5862	5862	Spathoglottis plicata Blume		Plantae	Tracheophyta	Liliopsida	Asparagales	Orchidaceae	species	ACCEPTED
+5863	5863	Streptopelia decaocto (Frivaldszky, 1838)		Animalia	Chordata	Aves	Columbiformes	Columbidae	species	ACCEPTED
+5864	5864	Sus scrofa Linnaeus, 1758		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	species	ACCEPTED
+5865	5865	Syngonium podophyllum Schott		Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	species	ACCEPTED
+5866	5866	Syzygium cumini (L.) Skeels		Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	species	ACCEPTED
+5867	5867	Tapinoma melanocephalum (Fabricius, 1793)		Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	species	ACCEPTED
+5868	5868	Thelypteris extensa (Bl.) Morton	Amphineuron opulentum (Kaulf.) Holtt.	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Thelypteridaceae	species	SYNONYM
+5869	5869	Thunbergia alata Boj. ex Sims		Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	species	ACCEPTED
+5870	5870	Trachemys scripta subsp. elegans (Wied, 1838)		Animalia	Chordata	Reptilia	Testudines	Emydidae	subspecies	ACCEPTED
+5871	5871	Tradescantia spathacea Sw.		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+5872	5872	Tradescantia zebrina Bosse		Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	species	ACCEPTED
+5873	5873	Triphasia trifolia (Burm. fil.) P. Wilson		Plantae	Tracheophyta	Magnoliopsida	Sapindales	Rutaceae	species	ACCEPTED
+5874	5874	Varroa destructor Anderson & Trueman, 2000		Animalia	Arthropoda	Arachnida	Mesostigmata	Varroidae	species	ACCEPTED
+5875	5875	Xiphidium caeruleum Aubl.		Plantae	Tracheophyta	Liliopsida	Commelinales	Haemodoraceae	species	ACCEPTED

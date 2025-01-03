@@ -1,0 +1,800 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus	taxonRemarks	modified
+165000	165000	Acacia baileyana	Acacia baileyana F.Muell.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165001	165001	Acacia dealbata	Acacia dealbata Link	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165002	165002	Acacia longifolia	Acacia longifolia (Andrews) Willd.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165003	165003	Acacia mearnsii	Acacia mearnsii De Wild.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165004	165004	Acacia melanoxylon	Acacia melanoxylon R.Br.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165005	165005	Acacia paradoxa	Acacia paradoxa DC.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165006	165006	Acacia verticillata	Acacia verticillata (L'Her.) Willd.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165007	165007	Acanthus mollis	Acanthus mollis L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED		2024
+165008	165008	Acentrogobius pflaumii	Acentrogobius pflaumii (Bleeker, 1853)	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED		2019
+165009	165009	Acer negundo	Acer negundo L.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED		2024
+165010	165010	Acer pseudoplatanus	Acer pseudoplatanus L.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED		2024
+165011	165011	Acridotheres tristis	Acridotheres tristis (Linnaeus, 1766)	Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED		2019
+165012	165012	Actinidia chinensis	Actinidia chinensis Planch.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Actinidiaceae	SPECIES	ACCEPTED		2024
+165013	165013	Adiantum raddianum	Adiantum raddianum C.Presl	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED		2024
+165014	165014	Agapanthus praecox	Agapanthus praecox Willd.	Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED		2024
+165015	165015	Agave americana	Agave americana L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED		2024
+165016	165016	Ageratina adenophora	Ageratina adenophora (Spreng.) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165017	165017	Ageratina riparia	Ageratina riparia (Regel) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165018	165018	Ageratum houstonianum	Ageratum houstonianum Mill.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165019	165019	Agraptocorixa hirtifrons	Agraptocorixa hirtifrons (Hale, 1922)	Animalia	Arthropoda	Insecta	Hemiptera	Corixidae	SPECIES	ACCEPTED		2019
+165020	165020	Agrostis capillaris	Agrostis capillaris L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165021	165021	Ailanthus altissima	Ailanthus altissima (Mill.) Swingle	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Simaroubaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165022	165022	Akebia quinata	Akebia quinata (Houtt.) Decne.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Lardizabalaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165023	165023	Alauda arvensis	Alauda arvensis Linnaeus, 1758	Animalia	Chordata	Aves	Passeriformes	Alaudidae	SPECIES	ACCEPTED		2019
+165024	165024	Alectoris chukar	Alectoris chukar (J.E.Gray, 1830)	Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED		2019
+165025	165025	Allium triquetrum	Allium triquetrum L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Amaryllidaceae	SPECIES	ACCEPTED		2024
+165026	165026	Alnus glutinosa	Alnus glutinosa (L.) Gaertn.	Plantae	Tracheophyta	Magnoliopsida	Fagales	Betulaceae	SPECIES	ACCEPTED		2024
+165027	165027	Alocasia brisbanensis	Alocasia brisbanensis (F.M.Bailey) Domin	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED		2024
+165028	165028	Aloe maculata	Aloe maculata All.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED		2024
+165029	165029	Alternanthera philoxeroides	Alternanthera philoxeroides (Mart.) Griseb.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Amaranthaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165030	165030	Amanita muscaria	Amanita muscaria (L.) Lam., 1783	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	SPECIES	ACCEPTED		2019
+165031	165031	Amathia chimonidesi	Amathia chimonidesi Gordon & Spencer-Jones, 2013	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	SPECIES	ACCEPTED		2019
+165032	165032	Amathia distans	Amathia distans Busk, 1886	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	SPECIES	ACCEPTED		2019
+165033	165033	Amathia gracilis	Amathia gracilis (Leidy, 1855)	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	SPECIES	ACCEPTED		2019
+165034	165034	Amathia imbricata	Amathia imbricata (Adams, 1798)	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	SPECIES	ACCEPTED		2019
+165035	165035	Amathia verticillata	Amathia verticillata (delle Chiaje, 1822)	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Vesiculariidae	SPECIES	ACCEPTED		2019
+165036	165036	Amblyopone australis	Amblyopone australis Erichson, 1842	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165037	165037	Ameiurus nebulosus	Ameiurus nebulosus (Lesueur, 1819)	Animalia	Chordata	Actinopterygii	Siluriformes	Ictaluridae	SPECIES	ACCEPTED		2019
+165038	165038	Amphibalanus amphitrite	Amphibalanus amphitrite Darwin, 1854	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2019
+165039	165039	Amphilectus fucorum	Amphilectus fucorum (Esper, 1794)	Animalia	Porifera	Demospongiae	Poecilosclerida	Esperiopsidae	SPECIES	ACCEPTED		2019
+165040	165040	Amphilophium crucigerum	Amphilophium crucigerum (L.) L.G.Lohmann	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165041	165041	Amphisbetia maplestonei	Amphisbetia maplestonei (Bale, 1884)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	SPECIES	ACCEPTED		2019
+165042	165042	Anas platyrhynchos	Anas platyrhynchos Linnaeus, 1758	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2019
+165043	165043	Andropogon virginicus	Andropogon virginicus L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165044	165044	Angelica pachycarpa	Angelica pachycarpa Lange	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED		2024
+165045	165045	Anguinella palmata	Anguinella palmata Van Beneden, 1845	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Nolellidae	SPECIES	ACCEPTED		2019
+165046	165046	Anredera cordifolia	Anredera cordifolia (Ten.) Steenis	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Basellaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165047	165047	Anser anser	Anser anser (Linnaeus, 1758)	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2019
+165048	165048	Antithamnionella ternifolia	Antithamnionella ternifolia (Hook.f. & Harv.) Lyle	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2024
+165049	165049	Apis mellifera	Apis mellifera Linnaeus, 1758	Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED		2019
+165050	165050	Apocorophium acutum	Apocorophium acutum (Chevreux, 1908)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2019
+165051	165051	Aponogeton distachyos	Aponogeton distachyos L.f.	Plantae	Tracheophyta	Liliopsida	Alismatales	Aponogetonaceae	SPECIES	ACCEPTED		2024
+165052	165052	Araujia sericifera	Araujia sericifera Brot.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165053	165053	Arbopercula angulata	Arbopercula angulata (Levinsen, 1909)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	SPECIES	ACCEPTED		2019
+165054	165054	Archontophoenix cunninghamiana	Archontophoenix cunninghamiana (H.Wendl.) H.Wendl. & Drude	Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED		2024
+165055	165055	Arctium minus	Arctium minus (Hill) Bernh.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165056	165056	Arcuatula senhousia	Arcuatula senhousia (Benson, 1842)	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED		2019
+165057	165057	Arcuatula senhousia	Arcuatula senhousia (W.H.Benson, 1842)	Animalia	Mollusca	Bivalvia	Mytilida	Mytilidae	SPECIES	ACCEPTED		2024
+165058	165058	Arenigobius bifrenatus	Arenigobius bifrenatus (Kner, 1865)	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED		2019
+165059	165059	Arion distinctus	Arion distinctus Mabille, 1868	Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	SPECIES	ACCEPTED		2019
+165060	165060	Arion hortensis	Arion hortensis A.Férussac, 1819	Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	SPECIES	ACCEPTED		2019
+165061	165061	Arion intermedius	Arion intermedius Normand, 1852	Animalia	Mollusca	Gastropoda	Stylommatophora	Arionidae	SPECIES	ACCEPTED		2019
+165062	165062	Aristea ecklonii	Aristea ecklonii Baker	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165063	165063	Artemisia verlotiorum	Artemisia verlotiorum Lamotte	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165064	165064	Arum italicum	Arum italicum Mill.	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED		2024
+165065	165065	Arundo donax	Arundo donax L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165066	165066	Ascidiella aspersa	Ascidiella aspersa (Müller, 1776)	Animalia	Chordata	Ascidiacea	Phlebobranchia	Ascidiidae	SPECIES	ACCEPTED		2019
+165067	165067	Asparagus aethiopicus	Asparagus aethiopicus L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165068	165068	Asparagus asparagoides	Asparagus asparagoides (L.) Druce	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165069	165069	Asparagus scandens	Asparagus scandens Thunb.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165070	165070	Asperococcus bullosus	Asperococcus bullosus J.V.Lamour.	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2024
+165071	165071	Asperococcus ensiformis	Asperococcus ensiformis (Chiaje) Wynne, 2003	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2019
+165072	165072	Asperococcus ensiformis	Asperococcus ensiformis (Delle Chiaje) M.J.Wynne	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2024
+165073	165073	Asphodelus fistulosus	Asphodelus fistulosus L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asphodelaceae	SPECIES	ACCEPTED		2024
+165074	165074	Athene noctua	Athene noctua (Scopoli, 1769)	Animalia	Chordata	Aves	Strigiformes	Strigidae	SPECIES	ACCEPTED		2019
+165075	165075	Austrobalanus imperator	Austrobalanus imperator (Darwin, 1854)	Animalia	Arthropoda	Maxillopoda	Sessilia	Austrobalanidae	SPECIES	ACCEPTED		2019
+165076	165076	Austromegabalanus cylindricus	Austromegabalanus cylindricus (Gmelin, 1780)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2019
+165077	165077	Austromegabalanus nigrescens	Austromegabalanus nigrescens (Lamarck, 1818)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2019
+165078	165078	Austromegabalanus psittacus	Austromegabalanus psittacus (Molina, 1788)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2019
+165079	165079	Azolla pinnata	Azolla pinnata R.Br.	Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED		2024
+165080	165080	Baccharis halimifolia	Baccharis halimifolia L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165081	165081	Banksia integrifolia	Banksia integrifolia L.fil.	Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED		2024
+165082	165082	Barantolla lepte	Barantolla lepte Hutchings, 1974	Animalia	Annelida	Polychaeta		Capitellidae	SPECIES	ACCEPTED		2019
+165083	165083	Barbronia weberi	Barbronia weberi (Blanchard, 1897)	Animalia	Annelida	Clitellata	Euhirudinea	Salifidae	SPECIES	ACCEPTED		2019
+165084	165084	Barentsia matsushimana	Barentsia matsushimana Toriumi, 1951	Animalia	Entoprocta			Barentsiidae	SPECIES	ACCEPTED		2019
+165085	165085	Bartlettina sordida	Bartlettina sordida (Less.) R.M.King & H.Rob.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165086	165086	Baseodiscus delineatus	Baseodiscus delineatus (Delle Chiaje, 1822)	Animalia	Nemertea	Pilidiophora	Heteronemertea	Valenciniidae	SPECIES	ACCEPTED		2024
+165087	165087	Bellis perennis	Bellis perennis L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165088	165088	Berberis darwinii	Berberis darwinii Hook.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165089	165089	Berberis glaucocarpa	Berberis glaucocarpa Stapf	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Berberidaceae	SPECIES	ACCEPTED		2024
+165090	165090	Betula pendula	Betula pendula Roth	Plantae	Tracheophyta	Magnoliopsida	Fagales	Betulaceae	SPECIES	ACCEPTED		2024
+165091	165091	Biancaea decapetala	Biancaea decapetala (Roth) O.Deg.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165092	165092	Bidens frondosa	Bidens frondosa L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165093	165093	Biflustra grandicella	Biflustra grandicella (Canu & Bassler, 1929)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Membraniporidae	SPECIES	ACCEPTED		2019
+165094	165094	Bobilla bivittata	Bobilla bivittata (F.Walker, 1869)	Animalia	Arthropoda	Insecta	Orthoptera	Trigonidiidae	SPECIES	ACCEPTED		2019
+165095	165095	Boccardia proboscidea	Boccardia proboscidea Hartman, 1940	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165096	165096	Boccardia pseudonatrix	Boccardia pseudonatrix Day, 1961	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165097	165097	Bomarea multiflora	Bomarea multiflora (L.f.) Mirb.	Plantae	Tracheophyta	Liliopsida	Liliales	Alstroemeriaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165098	165098	Bombus hortorum	Bombus hortorum (Linnaeus, 1761)	Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED		2019
+165099	165099	Bombus ruderatus	Bombus ruderatus (Fabricius, 1775)	Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED		2019
+165100	165100	Bombus subterraneus	Bombus subterraneus (Linnaeus, 1758)	Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED		2019
+165101	165101	Bombus terrestris	Bombus terrestris (Linnaeus, 1758)	Animalia	Arthropoda	Insecta	Hymenoptera	Apidae	SPECIES	ACCEPTED		2019
+165102	165102	Bonnemaisonia hamifera	Bonnemaisonia hamifera Hariot	Plantae	Rhodophyta	Florideophyceae	Bonnemaisoniales	Bonnemaisoniaceae	SPECIES	ACCEPTED		2024
+165103	165103	Bos taurus	Bos taurus Linnaeus, 1758	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED		2019
+165104	165104	Botrylloides giganteum	Botrylloides giganteus (Pérès, 1949)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2019
+165105	165105	Botryllus tuberatus	Botryllus tuberatus Ritter & Forsyth, 1917	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2019
+165106	165106	Branta canadensis	Branta canadensis (Linnaeus, 1758)	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2019
+165107	165107	Bromus tectorum	Bromus tectorum L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165108	165108	Bryonia cretica	Bryonia cretica L.	Plantae	Tracheophyta	Magnoliopsida	Cucurbitales	Cucurbitaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Interest Pest Response (NIPR)	2024
+165109	165109	Buddleja davidii	Buddleja davidii Franch.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED		2024
+165110	165110	Buddleja madagascariensis	Buddleja madagascariensis Lam.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED		2024
+165111	165111	Bugula neritina	Bugula neritina (Linnaeus, 1758)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2019
+165112	165112	Bugulina flabellata	Bugulina flabellata (Thompson, 1848)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2019
+165113	165113	Bugulina simplex	Bugulina simplex (Hincks, 1886)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2019
+165114	165114	Bugulina stolonifera	Bugulina stolonifera (Ryland, 1960)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2019
+165115	165115	Buskia socialis	Buskia socialis Hincks, 1887	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Buskiidae	SPECIES	ACCEPTED		2019
+165116	165116	Cacatua galerita	Cacatua galerita (Latham, 1790)	Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED		2019
+165117	165117	Calamagrostis arenaria	Calamagrostis arenaria (L.) Roth	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165118	165118	Callipepla californica	Callipepla californica (Shaw, 1798)	Animalia	Chordata	Aves	Galliformes	Odontophoridae	SPECIES	ACCEPTED		2019
+165119	165119	Callistachys lanceolata	Callistachys lanceolata Vent.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165120	165120	Calluna vulgaris	Calluna vulgaris (L.) Hull	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165121	165121	Callyspongia robusta	Callyspongia robusta (Ridley, 1884)	Animalia	Porifera	Demospongiae	Haplosclerida	Callyspongiidae	SPECIES	ACCEPTED		2019
+165122	165122	Calystegia silvatica	Calystegia silvatica (Kit.) Griseb.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED		2024
+165123	165123	Candidula intersecta	Xeroplexa intersecta (Poiret, 1801)	Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	SYNONYM		2019
+165124	165124	Canna indica	Canna indica L.	Plantae	Tracheophyta	Liliopsida	Zingiberales	Cannaceae	SPECIES	ACCEPTED		2024
+165125	165125	Cantareus aspersus	Cornu aspersum (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicidae	SPECIES	SYNONYM		2019
+165126	165126	Capra hircus	Capra hircus Linnaeus, 1758	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED		2019
+165127	165127	Caprella andreae	Caprella andreae Mayer, 1890	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2019
+165128	165128	Caprella mutica	Caprella mutica Schurin, 1935	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2019
+165129	165129	Caprella penantis	Caprella penantis Leach, 1814	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2019
+165130	165130	Caprella scauroides	Caprella scauroides Mayer, 1903	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2019
+165131	165131	Carassius auratus	Carassius auratus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2019
+165132	165132	Cardiocondyla minutior	Cardiocondyla minutior Forel, 1899	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165133	165133	Carduelis carduelis	Carduelis carduelis (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Fringillidae	SPECIES	ACCEPTED		2019
+165134	165134	Carduelis chloris	Chloris chloris (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Fringillidae	SPECIES	SYNONYM		2019
+165135	165135	Carduelis flammea	Acanthis flammea (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Fringillidae	SPECIES	SYNONYM		2019
+165136	165136	Carex demissa	Carex demissa Hornem.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165137	165137	Carex divisa	Carex divisa Huds.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165138	165138	Carex divulsa	Carex divulsa Stokes	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165139	165139	Carex flacca	Carex flacca Schreb.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165140	165140	Carex leporina	Carex leporina L.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165141	165141	Carex longebrachiata	Carex longebrachiata Boeckeler	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165142	165142	Carex lurida	Carex lurida Wahlenb.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165143	165143	Carex pendula	Carex pendula Huds.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165144	165144	Carex scoparia	Carex scoparia Schkuhr ex Willd.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165145	165145	Carpobrotus chilensis	Carpobrotus chilensis (Molina) N.E.Br.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED		2024
+165146	165146	Carpobrotus edulis	Carpobrotus edulis (L.) N.E.Br.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Aizoaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165147	165147	Casuarina glauca	Casuarina glauca Sieber	Plantae	Tracheophyta	Magnoliopsida	Fagales	Casuarinaceae	SPECIES	ACCEPTED		2024
+165148	165148	Caulerpa brachypus	Caulerpa brachypus Harv.	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165149	165149	Caulerpa parvifolia	Caulerpa brachypus f. parvifolia (Harv.) A.B.Cribb, 1958	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Caulerpaceae	SPECIES	SYNONYM		2024
+165150	165150	Cecilioides acicula	Cecilioides acicula (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Ferussaciidae	SPECIES	ACCEPTED		2019
+165151	165151	Celastrus orbiculatus	Celastrus orbiculatus Thunb.	Plantae	Tracheophyta	Magnoliopsida	Celastrales	Celastraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165152	165152	Celleporaria aperta	Celleporaria aperta (Hincks, 1882)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Lepraliellidae	SPECIES	ACCEPTED		2019
+165153	165153	Celleporaria nodulosa	Celleporaria nodulosa (Busk, 1881)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Lepraliellidae	SPECIES	ACCEPTED		2019
+165154	165154	Celleporaria umbonatoidea	Celleporaria umbonatoidea (Liu & Li, 1987)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Lepraliellidae	SPECIES	ACCEPTED		2019
+165155	165155	Cenchrus alopecuroides	Cenchrus alopecuroides (L.) Thunb.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165156	165156	Cenchrus caudatus	Cenchrus caudatus (Schrad.) Kuntze	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165157	165157	Cenchrus clandestinus	Cenchrus clandestinus (Hochst. ex Chiov.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165158	165158	Cenchrus longisetus	Cenchrus longisetus M.C.Johnst.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165159	165159	Cenchrus purpureus	Cenchrus purpureus (Schumach.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165160	165160	Cenchrus setaceus	Cenchrus setaceus (Forssk.) Morrone	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165161	165161	Centranthus ruber	Centranthus ruber (L.) DC.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED		2024
+165162	165162	Ceratophyllum demersum	Ceratophyllum demersum L.	Plantae	Tracheophyta	Magnoliopsida	Ceratophyllales	Ceratophyllaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165163	165163	Cereopsis novaehollandiae	Cereopsis novaehollandiae Latham, 1801	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2019
+165164	165164	Cervus elaphus	Cervus elaphus Linnaeus, 1758	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED		2019
+165165	165165	Cervus nippon	Cervus nippon Temminck, 1838	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED		2019
+165166	165166	Cervus unicolor	Rusa unicolor (Kerr, 1792)	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	SYNONYM		2019
+165167	165167	Cestrum aurantiacum	Cestrum aurantiacum Lindl.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165168	165168	Cestrum elegans	Cestrum elegans (Brongn. ex Neumann) Schltdl.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165169	165169	Cestrum fasciculatum	Cestrum fasciculatum (Schltdl.) Miers	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165170	165170	Cestrum nocturnum	Cestrum nocturnum L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165171	165171	Chaetodon auriga	Chaetodon auriga ForsskÃ¥l, 1775	Animalia	Chordata		Perciformes	Chaetodontidae	SPECIES	ACCEPTED		2024
+165172	165172	Chamaecytisus prolifer	Chamaecytisus prolifer (L.f.) Link	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165173	165173	Champia affinis	Champia affinis (Hook.f. & Harv.) Harv.	Plantae	Rhodophyta	Florideophyceae	Rhodymeniales	Champiaceae	SPECIES	ACCEPTED		2024
+165174	165174	Charybdis (Charybdis) japonica	Charybdis japonica (A.Milne-Edwards, 1861)	Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED		2024
+165175	165175	Cherax tenuimanus	Cherax tenuimanus Smith, 1912	Animalia	Arthropoda	Malacostraca	Decapoda	Parastacidae	SPECIES	ACCEPTED		2019
+165176	165176	Chironemus maculosus	Chironemus maculosus (Richardson, 1850)	Animalia	Chordata	Actinopterygii	Perciformes	Chironemidae	SPECIES	ACCEPTED		2019
+165177	165177	Chlorophytum comosum	Chlorophytum comosum (Thunb.) Jacques	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED		2024
+165178	165178	Chnoospora minima	Chnoospora minima (K.Hering) Papenf.	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2024
+165179	165179	Chondria harveyana	Chondria harveyana (J.Agardh) De Toni	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165180	165180	Chondropsis topsenti	Chondropsis topsenti Dendy, 1895	Animalia	Porifera	Demospongiae	Poecilosclerida	Chondropsidae	SPECIES	ACCEPTED		2019
+165181	165181	Chrysojasminum humile	Chrysojasminum humile (L.) Banfi	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165182	165182	Ciona intestinalis	Ciona intestinalis (Linnaeus, 1767)	Animalia	Chordata	Ascidiacea	Phlebobranchia	Cionidae	SPECIES	ACCEPTED		2019
+165183	165183	Ciona robusta	Ciona robusta Hoshino & Tokioka, 1967	Animalia	Chordata	Ascidiacea	Phlebobranchia	Cionidae	SPECIES	ACCEPTED		2024
+165184	165184	Ciona savignyi	Ciona savignyi Herdman, 1882	Animalia	Chordata	Ascidiacea	Phlebobranchia	Cionidae	SPECIES	ACCEPTED		2019
+165185	165185	Cirrholovenia tetranema	Cirrholovenia tetranema Kramp, 1959	Animalia	Cnidaria	Hydrozoa	Leptothecata	Cirrholoveniidae	SPECIES	ACCEPTED		2019
+165186	165186	Cirsium arvense	Cirsium arvense (L.) Scop.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165187	165187	Cirsium vulgare	Cirsium vulgare (Savi) Ten.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165188	165188	Cladonema radiatum	Cladonema radiatum Dujardin, 1843	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cladonematidae	SPECIES	ACCEPTED		2019
+165189	165189	Cladophora ruchingeri	Cladophora ruchingeri (C.Agardh) KÃ¼tz.	Plantae	Chlorophyta	Ulvophyceae	Cladophorales	Cladophoraceae	SPECIES	ACCEPTED		2024
+165190	165190	Clathrina cf. procumbens	Clathrina procumbens (Lendenfeld, 1885)	Animalia	Porifera	Calcarea	Clathrinida	Clathrinidae	SPECIES	ACCEPTED		2024
+165191	165191	Clavelina lepadiformis	Clavelina lepadiformis (Müller, 1776)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Clavelinidae	SPECIES	ACCEPTED		2019
+165192	165192	Clavelina oblonga	Clavelina oblonga Herdman, 1880	Animalia	Chordata	Ascidiacea	Aplousobranchia	Clavelinidae	SPECIES	ACCEPTED		2024
+165193	165193	Clematis flammula	Clematis flammula L.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165194	165194	Clematis terniflora	Clematis terniflora DC.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED		2024
+165195	165195	Clematis vitalba	Clematis vitalba L.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Ranunculaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165196	165196	Clytia linearis	Clytia linearis (Thorneley, 1900)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	SPECIES	ACCEPTED		2019
+165197	165197	Cnemidocarpa hemprichi	Cnemidocarpa hemprichi Hartmeyer, 1916	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2019
+165198	165198	Cnemidocarpa stolonifera	Cnemidocarpa stolonifera (Herdman, 1899)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2019
+165199	165199	Cobaea scandens	Cobaea scandens Cav.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Polemoniaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165200	165200	Cochlicopa lubrica	Cochlicopa lubrica (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Cochlicopidae	SPECIES	ACCEPTED		2019
+165201	165201	Colinus virginianus	Colinus virginianus (Linnaeus, 1758)	Animalia	Chordata	Aves	Galliformes	Odontophoridae	SPECIES	ACCEPTED		2019
+165202	165202	Colpomenia bullosa	Colpomenia bullosa Saund.	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2019
+165203	165203	Colpomenia peregrina	Colpomenia peregrina Sauv.	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2024
+165204	165204	Columba livia	Columba livia Gmelin, 1789	Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED		2019
+165205	165205	Coneuplecta calculosa	Coneuplecta calculosa (Gould, 1852)	Animalia	Mollusca	Gastropoda	Stylommatophora	Euconulidae	SPECIES	ACCEPTED		2019
+165206	165206	Conocephalus albescens	Conocephalus albescens (F.Walker, 1869)	Animalia	Arthropoda	Insecta	Orthoptera	Tettigoniidae	SPECIES	ACCEPTED		2019
+165207	165207	Conocephalus bilineatus	Conocephalus bilineatus (Erichson, 1842)	Animalia	Arthropoda	Insecta	Orthoptera	Tettigoniidae	SPECIES	ACCEPTED		2019
+165208	165208	Conopeum seurati	Conopeum seurati (Canu, 1928)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Electridae	SPECIES	ACCEPTED		2019
+165209	165209	Cordylophora caspia	Cordylophora caspia (Pallas, 1771)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED		2019
+165210	165210	Cornus capitata	Cornus capitata Wall.	Plantae	Tracheophyta	Magnoliopsida	Cornales	Cornaceae	SPECIES	ACCEPTED		2024
+165211	165211	Cortaderia jubata	Cortaderia jubata (Lemoine) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165212	165212	Cortaderia selloana	Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165213	165213	Corvus frugilegus	Corvus frugilegus Linnaeus, 1758	Animalia	Chordata	Aves	Passeriformes	Corvidae	SPECIES	ACCEPTED		2019
+165214	165214	Coryne eximia	Coryne eximia Allman, 1859	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	SPECIES	ACCEPTED		2019
+165215	165215	Coryne japonica	Coryne japonica (Nagao, 1962)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	SPECIES	ACCEPTED		2019
+165216	165216	Coryne pusilla	Coryne pusilla Gaertner, 1774	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	SPECIES	ACCEPTED		2019
+165217	165217	Cotoneaster coriaceus	Cotoneaster coriaceus Franch.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165218	165218	Cotoneaster franchetii	Cotoneaster franchetii Boiss.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165219	165219	Cotoneaster glaucophyllus	Cotoneaster glaucophyllus Franch.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165220	165220	Cotoneaster simonsii	Cotoneaster simonsii Baker	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165221	165221	Coturnix ypsilophora	Coturnix ypsilophora australis (Latham, 1802)	Animalia	Chordata	Aves	Galliformes	Phasianidae	SUBSPECIES	ACCEPTED		2019
+165222	165222	Cotyledon orbiculata	Cotyledon orbiculata L.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165223	165223	Craspedacusta sowerbii	Craspedacusta sowerbii Lankester, 1880	Animalia	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	SPECIES	ACCEPTED		2019
+165224	165224	Crassicorophium bonellii	Crassicorophium bonellii (H.Milne Edwards, 1830)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2019
+165225	165225	Crassimarginatella xiamenensis	Crassimarginatella xiamenensis (Liu, 1999)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Calloporidae	SPECIES	ACCEPTED		2019
+165226	165226	Crassula multicava	Crassula multicava Lem.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165227	165227	Crataegus monogyna	Crataegus monogyna Jacq.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165228	165228	Crocosmia ×crocosmiiflora	Crocosmia ×crocosmiiflora (Lemoine) N.E.Br.	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED		2024
+165229	165229	Cryptosula pallasiana	Cryptosula pallasiana (Moll, 1803)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Cryptosulidae	SPECIES	ACCEPTED		2019
+165230	165230	Culex quinquefasciatus	Culex quinquefasciatus Say, 1823	Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED		2019
+165231	165231	Cupressus macrocarpa	Cupressus macrocarpa Hartw. ex Gordon	Plantae	Tracheophyta	Pinopsida	Pinales	Cupressaceae	SPECIES	ACCEPTED		2024
+165232	165232	Cuscuta campestris	Cuscuta campestris Yunck.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165233	165233	Cutleria multifida	Cutleria multifida (Turner) Grev.	Chromista	Ochrophyta	Phaeophyceae	Cutleriales	Cutleriaceae	SPECIES	ACCEPTED		2024
+165234	165234	Cyclicopora longipora	Cyclicopora longipora (MacGillivray, 1883)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Cyclicoporidae	SPECIES	ACCEPTED		2019
+165235	165235	Cygnus atratus	Cygnus atratus (Latham, 1790)	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2019
+165236	165236	Cygnus olor	Cygnus olor (Gmelin, 1789)	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2019
+165237	165237	Cynodon dactylon	Cynodon dactylon (L.) Pers.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165238	165238	Cyperus eragrostis	Cyperus eragrostis Lam.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165239	165239	Cyperus rotundus	Cyperus rotundus L.	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED		2024
+165240	165240	Cyprinus carpio	Cyprinus carpio Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2019
+165241	165241	Cyrtomium falcatum	Cyrtomium falcatum (L.fil.) C.Presl	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Dryopteridaceae	SPECIES	ACCEPTED		2024
+165242	165242	Cytisus multiflorus	Cytisus multiflorus (L'HÃ©r.) Sweet	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165243	165243	Cytisus scoparius	Cytisus scoparius (L.) Link	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165244	165244	Dacelo novaeguineae	Dacelo novaeguineae (Hermann, 1783)	Animalia	Chordata	Aves	Coraciiformes	Alcedinidae	SPECIES	ACCEPTED		2019
+165245	165245	Dactylia varia	Dactylia varia (Gray, 1843)	Animalia	Porifera	Demospongiae	Haplosclerida	Callyspongiidae	SPECIES	ACCEPTED		2019
+165246	165246	Dactylis glomerata	Dactylis glomerata L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165247	165247	Dactylosiphon bullosus	Dactylosiphon bullosus (D.A.Saunders) SantiaÃ±ez, K.M.Lee, S.M.Boo & Kogame	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2024
+165248	165248	Dama dama dama	Dama dama dama	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SUBSPECIES	ACCEPTED		2019
+165249	165249	Datura stramonium	Datura stramonium L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165250	165250	Delairea odorata	Delairea odorata Lem.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165251	165251	Dendya clathrata	Dendya clathrata (Carter, 1883)	Animalia	Porifera	Calcarea	Clathrinida	Dendyidae	SPECIES	ACCEPTED		2019
+165252	165252	Deroceras laeve	Deroceras laeve (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	ACCEPTED		2019
+165253	165253	Deroceras panormitanum	Deroceras panormitanum (Lessona & Pollonera, 1882)	Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	ACCEPTED		2019
+165254	165254	Deroceras reticulatum	Deroceras reticulatum (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Agriolimacidae	SPECIES	ACCEPTED		2019
+165255	165255	Diadumene lineata	Diadumene lineata (Verrill, 1869)	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2019
+165256	165256	Dictyota furcellata	Dictyota furcellata (C.Agardh) Grev., 1830	Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED		2019
+165257	165257	Dictyota furcellata	Dictyota furcellata (C.Agardh) Grev.	Chromista	Ochrophyta	Phaeophyceae	Dictyotales	Dictyotaceae	SPECIES	ACCEPTED		2024
+165258	165258	Didemnum patulum	Didemnum patulum (Herdman, 1899)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2024
+165259	165259	Didemnum vexillum	Didemnum vexillum Kott, 2002	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2019
+165260	165260	Didymosphenia geminata	Didymosphenia geminata (Lyngb.) M.Schmidt	Chromista	Ochrophyta	Bacillariophyceae	Cymbellales	Gomphonemataceae	SPECIES	ACCEPTED		2019
+165261	165261	Digitalis purpurea	Digitalis purpurea L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED		2024
+165262	165262	Dimorphotheca fruticosa	Dimorphotheca fruticosa (L.) Less., 1832	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165263	165263	Diplosoma listerianum	Diplosoma listerianum (Milne Edwards, 1841)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2019
+165264	165264	Dipogon lignosus	Dipogon lignosus (L.) Verdc.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165265	165265	Dipolydora armata	Dipolydora armata (Langerhans, 1880)	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165266	165266	Dipolydora giardi	Dipolydora giardi (Mesnil, 1893)	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165267	165267	Distaplia viridis	Distaplia viridis Kott, 1957	Animalia	Chordata	Ascidiacea	Aplousobranchia	Holozoidae	SPECIES	ACCEPTED		2019
+165268	165268	Doleromyrma darwiniana	Doleromyrma darwiniana (Forel, 1907)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165269	165269	Dolichandra unguis-cati	Dolichandra unguis-cati (L.) L.G.Lohmann	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165270	165270	Dryopteris affinis	Dryopteris affinis (Lowe) Fraser-Jenk.	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Dryopteridaceae	SPECIES	ACCEPTED		2024
+165271	165271	Dryopteris filix-mas	Dryopteris filix-mas (L.) Schott	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Dryopteridaceae	SPECIES	ACCEPTED		2024
+165272	165272	Eccremocarpus scaber	Eccremocarpus scaber Ruiz & Pav.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165273	165273	Echium vulgare	Echium vulgare L.	Plantae	Tracheophyta	Magnoliopsida	Boraginales	Boraginaceae	SPECIES	ACCEPTED		2024
+165274	165274	Ectopleura crocea	Ectopleura crocea (Agassiz, 1862)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	SPECIES	ACCEPTED		2019
+165275	165275	Ectopleura exxonia	Ectopleura exxonia (Watson, 1978)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	SPECIES	ACCEPTED		2019
+165276	165276	Ectopleura larynx	Ectopleura larynx (Ellis & Solander, 1786)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	SPECIES	ACCEPTED		2019
+165277	165277	Ehrharta erecta	Ehrharta erecta Lam.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165278	165278	Ehrharta villosa	Ehrharta villosa Schult.f.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA) | Notifiable Organism (NO) | National Interest Pest Response (NIPR)	2024
+165279	165279	Elaeagnus ×reflexa	Elaeagnus ×reflexa Ã‰.Morren & Decne.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Elaeagnaceae	SPECIES	ACCEPTED		2024
+165280	165280	Elasmopus rapax	Elasmopus rapax Costa, 1853	Animalia	Arthropoda	Malacostraca	Amphipoda	Maeridae	SPECIES	ACCEPTED		2019
+165281	165281	Elodea canadensis	Elodea canadensis Michx.	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED		2024
+165282	165282	Elodea densa	Elodea densa (Planch.) Casp.	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165283	165283	Elphidium vellai	Elphidium vellai Hayward, 1997	Chromista	Foraminifera	Globothalamea	Rotaliida	Elphidiidae	SPECIES	ACCEPTED		2019
+165284	165284	Emberiza cirlus	Emberiza cirlus Linnaeus, 1766	Animalia	Chordata	Aves	Passeriformes	Emberizidae	SPECIES	ACCEPTED		2019
+165285	165285	Emberiza citrinella	Emberiza citrinella Linnaeus, 1758	Animalia	Chordata	Aves	Passeriformes	Emberizidae	SPECIES	ACCEPTED		2019
+165286	165286	Embothrium coccineum	Embothrium coccineum J.R.Forst. & G.Forst.	Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED		2024
+165287	165287	Eolophus roseicapilla	Eolophus roseicapilla (Vieillot, 1817)	Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED		2019
+165288	165288	Epilobium hirsutum	Epilobium hirsutum L.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165289	165289	Equisetum arvense	Equisetum arvense L.	Plantae	Tracheophyta	Polypodiopsida	Equisetales	Equisetaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165290	165290	Equus caballus	Equus caballus Linnaeus, 1758	Animalia	Chordata	Mammalia	Perissodactyla	Equidae	SPECIES	ACCEPTED		2019
+165291	165291	Eragrostis curvula	Eragrostis curvula (Schrad.) Nees	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165292	165292	Ercolania boodleae	Ercolania boodleae (Baba, 1938)	Animalia	Mollusca	Gastropoda		Limapontiidae	SPECIES	ACCEPTED		2019
+165293	165293	Erica arborea	Erica arborea L.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED		2024
+165294	165294	Erica baccans	Erica baccans L.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED		2024
+165295	165295	Erica caffra	Erica caffra L.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED		2024
+165296	165296	Erica cinerea	Erica cinerea L.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165297	165297	Erica lusitanica	Erica lusitanica Rudolphi	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED		2024
+165298	165298	Erica vagans	Erica vagans L.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED		2024
+165299	165299	Ericthonius pugnax	Ericthonius pugnax (Dana, 1852)	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2019
+165300	165300	Erigeron karvinskianus	Erigeron karvinskianus DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165301	165301	Erinaceus europaeus	Erinaceus europaeus Linnaeus, 1758	Animalia	Chordata	Mammalia	Erinaceomorpha	Erinaceidae	SPECIES	ACCEPTED		2019
+165302	165302	Erythranthe guttata	Erythranthe guttata (DC.) G.L.Nesom	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Phrymaceae	SPECIES	ACCEPTED		2024
+165303	165303	Erythrina ×sykesii	Erythrina ×sykesii Barneby & Krukoff	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165304	165304	Eschscholzia californica	Eschscholzia californica Cham.	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED		2024
+165305	165305	Eucalyptus delegatensis	Eucalyptus delegatensis F.Muell. ex R.T.Baker	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165306	165306	Euchone limnicola	Euchone limnicola Reish, 1959	Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	SPECIES	ACCEPTED		2019
+165307	165307	Eudendrium capillare	Eudendrium capillare Alder, 1856	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	SPECIES	ACCEPTED		2019
+165308	165308	Eudendrium generale	Eudendrium generale von Lendenfeld, 1885	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	SPECIES	ACCEPTED		2019
+165309	165309	Eudistoma elongatum	Eudistoma elongatum (Herdman, 1886)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Polycitoridae	SPECIES	ACCEPTED		2024
+165310	165310	Euonymus europaeus	Euonymus europaeus L.	Plantae	Tracheophyta	Magnoliopsida	Celastrales	Celastraceae	SPECIES	ACCEPTED		2024
+165311	165311	Euonymus japonicus	Euonymus japonicus Thunb.	Plantae	Tracheophyta	Magnoliopsida	Celastrales	Celastraceae	SPECIES	ACCEPTED	National Pest Plant Accord (NPPA)	2024
+165312	165312	Eupatorium cannabinum	Eupatorium cannabinum L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165313	165313	Euphorbia paralias	Euphorbia paralias L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165314	165314	Fatsia japonica	Fatsia japonica (Thunb.) Decne. & Planch.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED		2024
+165315	165315	Favolaschia calocera	Favolaschia calocera R.Heim	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Mycenaceae	SPECIES	ACCEPTED		2019
+165316	165316	Felis catus	Felis catus Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED		2019
+165317	165317	Festuca rubra	Festuca rubra L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165318	165318	Ficopomatus enigmaticus	Ficopomatus enigmaticus (Fauvel, 1923)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2019
+165319	165319	Ficus macrophylla	Ficus macrophylla Pers.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Moraceae	SPECIES	ACCEPTED		2024
+165320	165320	Filellum serpens	Filellum serpens (Hassall, 1848)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Lafoeidae	SPECIES	ACCEPTED		2019
+165321	165321	Fraxinus excelsior	Fraxinus excelsior L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2024
+165322	165322	Fringilla coelebs	Fringilla coelebs Linnaeus, 1758	Animalia	Chordata	Aves	Passeriformes	Fringillidae	SPECIES	ACCEPTED		2019
+165323	165323	Fuchsia boliviana	Fuchsia boliviana Carrière	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165324	165324	Furcraea foetida	Furcraea foetida (L.) Haw.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED		2024
+165325	165325	Furcraea selloa	Furcraea selloa K.Koch	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED		2024
+165326	165326	Fushitsunagia catenata	Fushitsunagia catenata	Plantae	Rhodophyta	Florideophyceae	Rhodymeniales	Lomentariaceae	SPECIES	ACCEPTED		2024
+165327	165327	Gallus gallus gallus	Gallus gallus gallus	Animalia	Chordata	Aves	Galliformes	Phasianidae	SUBSPECIES	ACCEPTED		2019
+165328	165328	Gambusia affinis	Gambusia affinis (Baird & Girard, 1853)	Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED		2019
+165329	165329	Gelidium crinale	Gelidium crinale (Hare ex Turner) Gaillon	Plantae	Rhodophyta	Florideophyceae	Gelidiales	Gelidiaceae	SPECIES	ACCEPTED		2024
+165330	165330	Genista monspessulana	Genista monspessulana (L.) L.A.S.Johnson	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165331	165331	Glaucium flavum	Glaucium flavum Crantz	Plantae	Tracheophyta	Magnoliopsida	Ranunculales	Papaveraceae	SPECIES	ACCEPTED		2024
+165332	165332	Glebocarcinus amphioetus	Glebocarcinus amphioetus (Rathbun, 1898)	Animalia	Arthropoda	Malacostraca	Decapoda	Cancridae	SPECIES	ACCEPTED		2019
+165333	165333	Glyceria declinata	Glyceria declinata Bréb.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165334	165334	Glyceria fluitans	Glyceria fluitans (L.) R.Br.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165335	165335	Glyceria maxima	Glyceria maxima (Hartm.) Holmb.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165336	165336	Gobio gobio	Gobio gobio (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2019
+165337	165337	Gobiopterus semivestitus	Gobiopterus semivestitus (Munro, 1949)	Animalia	Chordata	Actinopterygii	Perciformes	Gobiidae	SPECIES	ACCEPTED		2019
+165338	165338	Goniodoris meracula	Goniodoris meracula Burn, 1958	Animalia	Mollusca	Gastropoda	Nudibranchia	Goniodorididae	SPECIES	ACCEPTED		2024
+165339	165339	Grantessa intusarticulata	Grantessa intusarticulata (Carter, 1886)	Animalia	Porifera	Calcarea	Leucosolenida	Heteropiidae	SPECIES	ACCEPTED		2019
+165340	165340	Grateloupia subpectinata	Grateloupia subpectinata Holmes	Plantae	Rhodophyta	Florideophyceae	Halymeniales	Halymeniaceae	SPECIES	ACCEPTED		2024
+165341	165341	Grateloupia turuturu	Grateloupia turuturu Yamada	Plantae	Rhodophyta	Florideophyceae	Halymeniales	Halymeniaceae	SPECIES	ACCEPTED		2024
+165342	165342	Griffithsia crassiuscula	Griffithsia crassiuscula C.Agardh	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Wrangeliaceae	SPECIES	ACCEPTED		2024
+165343	165343	Gunnera tinctoria	Gunnera tinctoria (Molina) Mirb.	Plantae	Tracheophyta	Magnoliopsida	Gunnerales	Gunneraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165344	165344	Gymnocoronis spilanthoides	Gymnocoronis spilanthoides DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165345	165345	Gymnorhina tibicen	Gymnorhina tibicen (Latham, 1802)	Animalia	Chordata	Aves	Passeriformes	Cracticidae	SPECIES	ACCEPTED		2019
+165346	165346	Hakea gibbosa	Hakea gibbosa (Sm.) Cav.	Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED		2024
+165347	165347	Hakea salicifolia	Hakea salicifolia (Vent.) B.L.Burtt	Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED		2024
+165348	165348	Hakea sericea	Hakea sericea Schrad. & J.C.Wendl.	Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED		2024
+165349	165349	Halisarca dujardinii	Halisarca dujardinii Johnston, 1842	Animalia	Porifera	Demospongiae	Chondrillida	Halisarcidae	SPECIES	ACCEPTED		2019
+165350	165350	Hedera canariensis	Hedera canariensis Willd.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED		2024
+165351	165351	Hedera helix	Hedera helix L.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Araliaceae	SPECIES	ACCEPTED		2024
+165352	165352	Hedychium flavescens	Hedychium flavescens Carey ex Roscoe	Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165353	165353	Hedychium gardnerianum	Hedychium gardnerianum Sheph. ex Ker Gawl.	Plantae	Tracheophyta	Liliopsida	Zingiberales	Zingiberaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165354	165354	Helichrysum petiolare	Helichrysum petiolare Hilliard & B.L.Burtt	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165355	165355	Helicodiscus singleyanus	Lucilla singleyana (Pilsbry, 1889)	Animalia	Mollusca	Gastropoda	Stylommatophora	Helicodiscidae	SPECIES	SYNONYM		2019
+165356	165356	Helosciadium nodiflorum	Helosciadium nodiflorum (L.) W.D.J.Koch	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED		2024
+165357	165357	Hemitragus jemlahicus	Hemitragus jemlahicus (C.H.Smith, 1826)	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED		2019
+165358	165358	Herdmania momus	Herdmania momus (Savigny, 1816)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Pyuridae	SPECIES	ACCEPTED		2019
+165359	165359	Hieracium levicaule	Hieracium levicaule Jord.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165360	165360	Hirayamaia mortoni	Hirayacorophium mortoni (Hirayama, 1986)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	SYNONYM		2024
+165361	165361	Holcus lanatus	Holcus lanatus L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165362	165362	Holopsamma crassa	Holopsamma crassa Carter, 1885	Animalia	Porifera	Demospongiae	Poecilosclerida	Microcionidae	SPECIES	ACCEPTED		2019
+165363	165363	Homalanthus populifolius	Homalanthus populifolius Graham	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165364	165364	Hoplangia durotrix	Hoplangia durotrix Gosse, 1860	Animalia	Cnidaria	Anthozoa	Scleractinia	Caryophylliidae	SPECIES	ACCEPTED		2019
+165365	165365	Humulus lupulus	Humulus lupulus L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Cannabaceae	SPECIES	ACCEPTED		2024
+165366	165366	Hydrangea macrophylla	Hydrangea macrophylla (Thunb.) Ser.	Plantae	Tracheophyta	Magnoliopsida	Cornales	Hydrangeaceae	SPECIES	ACCEPTED		2024
+165367	165367	Hydroclathrus clathratus	Hydroclathrus clathratus (C.Agardh) M.Howe	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED	Hydroclathrus clathratus, the current understanding is that this species is native to Rangitāhua but has been introduced to mainland New Zealand	2024
+165368	165368	Hydroides elegans	Hydroides elegans (Haswell, 1883)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2019
+165369	165369	Hydroides ezoensis	Hydroides ezoensis Okuda, 1934	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2019
+165370	165370	Hymeniacidon agminata	Hymeniacidon agminata Ridley, 1884	Animalia	Porifera	Demospongiae	Suberitida	Halichondriidae	SPECIES	ACCEPTED		2019
+165371	165371	Hypericum androsaemum	Hypericum androsaemum L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165372	165372	Hypericum perforatum	Hypericum perforatum L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Hypericaceae	SPECIES	ACCEPTED		2024
+165373	165373	Hypnea cervicornis	Hypnea cervicornis J.Agardh	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Cystocloniaceae	SPECIES	ACCEPTED		2024
+165374	165374	Hypnea cornuta	Hypnea cornuta (Kütz.) J.Agardh	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Cystocloniaceae	SPECIES	ACCEPTED		2024
+165375	165375	Ichthyosaura alpestris apuana	Ichthyosaura alpestris apuana (Bonaparte, 1839)	Animalia	Chordata	Amphibia	Caudata	Salamandridae	SUBSPECIES	ACCEPTED		2019
+165376	165376	Ilex aquifolium	Ilex aquifolium L.	Plantae	Tracheophyta	Magnoliopsida	Aquifoliales	Aquifoliaceae	SPECIES	ACCEPTED		2024
+165377	165377	Impatiens glandulifera	Impatiens glandulifera Royle	Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED		2024
+165378	165378	Impatiens sodenii	Impatiens sodenii Engl. & Warb. ex Engl.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Balsaminaceae	SPECIES	ACCEPTED		2024
+165379	165379	Imperata cylindrica	Imperata cylindrica (L.) Raeusch.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165380	165380	Ipomoea indica	Ipomoea indica (Burm.) Merr.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Convolvulaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165381	165381	Iris foetidissima	Iris foetidissima L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED		2024
+165382	165382	Iris pseudacorus	Iris pseudacorus L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165383	165383	Jacobaea vulgaris	Jacobaea vulgaris Gaertn.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165384	165384	Janolus hyalinus	Janolus hyalinus (Alder & Hancock, 1854)	Animalia	Mollusca	Gastropoda	Nudibranchia	Proctonotidae	SPECIES	ACCEPTED		2019
+165385	165385	Jasminum polyanthum	Jasminum polyanthum Franch.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2024
+165386	165386	Jassa marmorata	Jassa marmorata Holmes, 1905	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2019
+165387	165387	Jassa slatteryi	Jassa slatteryi Conlan, 1990	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2019
+165388	165388	Jassa staudei	Jassa staudei Conlan, 1990	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2019
+165389	165389	Juglans ailantifolia	Juglans ailantifolia Carrière	Plantae	Tracheophyta	Magnoliopsida	Fagales	Juglandaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165390	165390	Juncus acutus	Juncus acutus L.	Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED		2024
+165391	165391	Juncus articulatus	Juncus articulatus L.	Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED		2024
+165392	165392	Juncus bulbosus	Juncus bulbosus L.	Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED		2024
+165393	165393	Juncus squarrosus	Juncus squarrosus L.	Plantae	Tracheophyta	Liliopsida	Poales	Juncaceae	SPECIES	ACCEPTED		2024
+165394	165394	Kalanchoe pinnata	Kalanchoe pinnata (Lam.) Pers.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED		2024
+165395	165395	Kennedia rubicunda	Kennedia rubicunda (Schneev.) Vent.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165396	165396	Lagarosiphon major	Lagarosiphon major (Ridl.) Moss	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165397	165397	Lagunaria patersonia	Lagunaria patersonia (Andrews) G.Don	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED		2024
+165398	165398	Lamium galeobdolon	Lamium galeobdolon (L.) L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165399	165399	Lampropholis delicata	Lampropholis delicata (De Vis, 1888)	Animalia	Chordata	Reptilia	Squamata	Scincidae	SPECIES	ACCEPTED		2019
+165400	165400	Lantana camara	Lantana camara L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Verbenaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165401	165401	Larix decidua	Larix decidua Mill.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165402	165402	Lathyrus latifolius	Lathyrus latifolius L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165403	165403	Lathyrus tingitanus	Lathyrus tingitanus L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165404	165404	Laticorophium baconi	Laticorophium baconi (Shoemaker, 1934)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2019
+165405	165405	Lauria cylindracea	Lauria cylindracea (da Costa, 1778)	Animalia	Mollusca	Gastropoda	Stylommatophora	Lauriidae	SPECIES	ACCEPTED		2019
+165406	165406	Laurus nobilis	Laurus nobilis L.	Plantae	Tracheophyta	Magnoliopsida	Laurales	Lauraceae	SPECIES	ACCEPTED		2024
+165407	165407	Lehmannia nyctelia	Ambigolimax valentianus (A.Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	SPECIES	SYNONYM		2019
+165408	165408	Lehmannia valentiana	Ambigolimax valentianus (A.Férussac, 1821)	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	SPECIES	SYNONYM		2019
+165409	165409	Leptosiphonia brodiei	Leptosiphonia brodiei (Dillwyn) Savoie & G.W.Saunders	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165410	165410	Leptospermum laevigatum	Leptospermum laevigatum (Gaertn.) F.Muell.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165411	165411	Lepus europaeus occidentalis	Lepus europaeus occidentalis de Winton, 1898	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SUBSPECIES	ACCEPTED		2019
+165412	165412	Leucandra compacta	Leucandra compacta (Carter, 1886)	Animalia	Porifera	Calcarea	Leucosolenida	Grantiidae	SPECIES	ACCEPTED		2019
+165413	165413	Leucanthemum vulgare	Leucanthemum vulgare Lam.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165414	165414	Leuciscus idus	Leuciscus idus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2019
+165415	165415	Leycesteria formosa	Leycesteria formosa Wall.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED		2024
+165416	165416	Leymus racemosus	Leymus racemosus (Lam.) Tzvelev	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165417	165417	Ligia exotica	Ligia exotica Roux, 1828	Animalia	Arthropoda	Malacostraca	Isopoda	Ligiidae	SPECIES	ACCEPTED		2019
+165418	165418	Ligustrum lucidum	Ligustrum lucidum W.T.Aiton	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165419	165419	Ligustrum ovalifolium	Ligustrum ovalifolium Hassk.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2024
+165420	165420	Ligustrum sinense	Ligustrum sinense Lour.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2024
+165421	165421	Ligustrum vulgare	Ligustrum vulgare L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2024
+165422	165422	Lilium formosanum	Lilium formosanum A.Wallace	Plantae	Tracheophyta	Liliopsida	Liliales	Liliaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165423	165423	Limacus flavus	Limacus flavus (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	SPECIES	ACCEPTED		2019
+165424	165424	Limaria orientalis	Limaria orientalis (Adams & Reeve, 1850)	Animalia	Mollusca	Bivalvia	Limida	Limidae	SPECIES	ACCEPTED		2019
+165425	165425	Limax maximus	Limax maximus Linnaeus, 1758	Animalia	Mollusca	Gastropoda	Stylommatophora	Limacidae	SPECIES	ACCEPTED		2019
+165426	165426	Limnoria rugosissima	Limnoria rugosissima Menzies, 1957	Animalia	Arthropoda	Malacostraca	Isopoda	Limnoriidae	SPECIES	ACCEPTED		2019
+165427	165427	Limnoria tripunctata	Limnoria tripunctata Menzies, 1951	Animalia	Arthropoda	Malacostraca	Isopoda	Limnoriidae	SPECIES	ACCEPTED		2019
+165428	165428	Linepithema humile	Linepithema humile (Mayr, 1868)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165429	165429	Lissoclinum perforatum	Lissoclinum perforatum (Giard, 1872)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2024
+165430	165430	Litoria ewingii	Litoria ewingii (Duméril & Bibron, 1841)	Animalia	Chordata	Amphibia	Anura	Hylidae	SPECIES	ACCEPTED		2019
+165431	165431	Lolium arundinaceum	Lolium arundinaceum (Schreb.) Darbysh.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165432	165432	Lolium perenne	Lolium perenne L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165433	165433	Lomatia fraseri	Lomatia fraseri R.Br.	Plantae	Tracheophyta	Magnoliopsida	Proteales	Proteaceae	SPECIES	ACCEPTED		2024
+165434	165434	Lonicera japonica	Lonicera japonica Thunb.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165435	165435	Lophospermum erubescens	Lophospermum erubescens D.Don ex Sweet	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Plantaginaceae	SPECIES	ACCEPTED		2024
+165436	165436	Loxoconcha parvifoveata	Loxoconcha parvifoveata Hartmann, 1980	Animalia	Arthropoda	Ostracoda	Podocopida	Loxoconchidae	SPECIES	ACCEPTED		2019
+165437	165437	Ludwigia peploides	Ludwigia peploides (Kunth) P.H.Raven	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165438	165438	Luma apiculata	Luma apiculata (DC.) Burret	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165439	165439	Lupinus arboreus	Lupinus arboreus Sims	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165440	165440	Lupinus polyphyllus	Lupinus polyphyllus Lindl.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165441	165441	Lycium ferocissimum	Lycium ferocissimum Miers	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165442	165442	Lycopus europaeus	Lycopus europaeus L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED		2024
+165443	165443	Lymnaea auricularia	Radix auricularia (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	SYNONYM		2019
+165444	165444	Lymnaea stagnalis	Lymnaea stagnalis (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	ACCEPTED		2019
+165445	165445	Lysidice unicornis	Lysidice unicornis (Grube, 1840)	Animalia	Annelida	Polychaeta	Eunicida	Eunicidae	SPECIES	ACCEPTED		2019
+165446	165446	Lysmata californica	Lysmata californica (Stimpson, 1866)	Animalia	Arthropoda	Malacostraca	Decapoda	Hippolytidae	SPECIES	ACCEPTED		2019
+165447	165447	Lythrum salicaria	Lythrum salicaria L.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Lythraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165448	165448	Macropus dorsalis	Macropus dorsalis (Gray, 1837)	Animalia	Chordata	Mammalia	Diprotodontia	Macropodidae	SPECIES	ACCEPTED		2019
+165449	165449	Macropus eugenii	Macropus eugenii (Desmarest, 1817)	Animalia	Chordata	Mammalia	Diprotodontia	Macropodidae	SPECIES	ACCEPTED		2019
+165450	165450	Macropus parma	Macropus parma Waterhouse, 1846	Animalia	Chordata	Mammalia	Diprotodontia	Macropodidae	SPECIES	ACCEPTED		2019
+165451	165451	Macropus rufogriseus rufogriseus	Macropus rufogriseus rufogriseus	Animalia	Chordata	Mammalia	Diprotodontia	Macropodidae	SUBSPECIES	ACCEPTED		2019
+165452	165452	Magallana gigas	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED		2019
+165453	165453	Malva arborea	Malva arborea (L.) Webb & Berthel.	Plantae	Tracheophyta	Magnoliopsida	Malvales	Malvaceae	SPECIES	ACCEPTED		2024
+165454	165454	Mayriella abstinens	Mayriella abstinens Forel, 1902	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165455	165455	Maytenus boaria	Maytenus boaria Molina	Plantae	Tracheophyta	Magnoliopsida	Celastrales	Celastraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165456	165456	Medicago lupulina	Medicago lupulina L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165457	165457	Megabalanus coccopoma	Megabalanus coccopoma (Darwin, 1854)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2019
+165458	165458	Megachile rotundata	Megachile rotundata (Fabricius, 1793)	Animalia	Arthropoda	Insecta	Hymenoptera	Megachilidae	SPECIES	ACCEPTED		2019
+165459	165459	Melanoides tuberculata	Melanoides tuberculata (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda		Thiaridae	SPECIES	ACCEPTED		2019
+165460	165460	Melanothamnus harveyi	Melanothamnus harveyi (Bailey) Diaz-Tapia & Maggs	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165461	165461	Melanothamnus japonicus	Melanothamnus japonicus (Harv.) Diaz-Tapia & Maggs	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165462	165462	Meleagris gallopavo	Meleagris gallopavo Linnaeus, 1758	Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED		2019
+165463	165463	Melianthus major	Melianthus major L.	Plantae	Tracheophyta	Magnoliopsida	Geraniales	Melianthaceae	SPECIES	ACCEPTED		2024
+165464	165464	Melibe australis	Melibe australis (Angas, 1864)	Animalia	Mollusca	Gastropoda	Nudibranchia	Tethydidae	SPECIES	ACCEPTED		2024
+165465	165465	Melita matilda	Barnardomelita matilda (J.L.Barnard, 1972)	Animalia	Arthropoda	Malacostraca	Amphipoda	Melitidae	SPECIES	SYNONYM		2019
+165466	165466	Membraniporopsis tubigera	Membraniporopsis tubigera (Osburn, 1940)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Sinoflustridae	SPECIES	ACCEPTED		2019
+165467	165467	Mesovelia hackeri	Mesovelia hackeri Harris & Drake, 1941	Animalia	Arthropoda	Insecta	Hemiptera	Mesoveliidae	SPECIES	ACCEPTED		2019
+165468	165468	Metapenaeus bennettae	Metapenaeus bennettae Racek & Dall, 1965	Animalia	Arthropoda	Malacostraca	Decapoda	Penaeidae	SPECIES	ACCEPTED		2024
+165469	165469	Microscolex dubius	Microscolex dubius (Fletcher, 1887)	Animalia	Annelida	Clitellata	Crassiclitellata	Acanthodrilidae	SPECIES	ACCEPTED		2019
+165470	165470	Milax gagates	Milax gagates (Draparnaud, 1801)	Animalia	Mollusca	Gastropoda	Stylommatophora	Milacidae	SPECIES	ACCEPTED		2019
+165471	165471	Miscanthus nepalensis	Miscanthus nepalensis (Trin.) Hack.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165472	165472	Molgula manhattensis	Molgula manhattensis (De Kay, 1843)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED		2019
+165473	165473	Monanchora clathrata	Monanchora clathrata Carter, 1883	Animalia	Porifera	Demospongiae	Poecilosclerida	Crambeidae	SPECIES	ACCEPTED		2019
+165474	165474	Monocorophium acherusicum	Monocorophium acherusicum (Costa, 1853)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2019
+165475	165475	Monocorophium sextonae	Monocorophium sextonae (Crawford, 1937)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2019
+165476	165476	Monomorium floricola	Monomorium floricola (Jerdon, 1851)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165477	165477	Monomorium pharaonis	Monomorium pharaonis (Linnaeus, 1758)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165478	165478	Monomorium sydneyense	Monomorium sydneyense Forel, 1902	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165479	165479	Moraea flaccida	Moraea flaccida (Sweet) Steud.	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA) | Notifiable Organism (NO) | National Interest Pest Response (NIPR)	2024
+165480	165480	Mugilogobius platynotus	Mugilogobius platynotus (GÃ¼nther, 1861)	Animalia	Chordata		Perciformes	Gobiidae	SPECIES	ACCEPTED		2024
+165481	165481	Mus musculus	Mus musculus Linnaeus, 1758	Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED		2019
+165482	165482	Mustela erminea	Mustela erminea Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED		2019
+165483	165483	Mustela furo	Mustela furo Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED		2019
+165484	165484	Mustela nivalis	Mustela nivalis Linnaeus, 1766	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED		2019
+165485	165485	Mycale stecarmia	Mycale stecarmia (de Laubenfels, 1954)	Animalia	Porifera	Demospongiae	Poecilosclerida	Mycalidae	SPECIES	ACCEPTED		2019
+165486	165486	Mycale toxifera	Mycale toxifera (Dendy, 1896)	Animalia	Porifera	Demospongiae	Poecilosclerida	Mycalidae	SPECIES	ACCEPTED		2019
+165487	165487	Myoporum insulare	Myoporum insulare R.Br.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165488	165488	Myricaria germanica	Myricaria germanica Qaiser	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Tamaricaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165489	165489	Myriophyllum aquaticum	Myriophyllum aquaticum (Vell.) Verdc.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165490	165490	Nardus stricta	Nardus stricta L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165491	165491	Nassella neesiana	Nassella neesiana (Trin. & Rupr.) Barkworth	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165492	165492	Nassella tenuissima	Nassella tenuissima (Trin.) Barkworth	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165493	165493	Nassella trichotoma	Nassella trichotoma (Nees) Hack. & Arechav.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165494	165494	Neosiphonia sertularioides	Neosiphonia sertularioides (Gratel.) K.W.Nam & P.J.Kang	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165495	165495	Neosiphonia subtilissima	Neosiphonia subtilissima (Mont.) M.S.Kim & I.K.Lee	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165496	165496	Nephrolepis cordifolia	Nephrolepis cordifolia (L.) C.Presl	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Nephrolepidaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165497	165497	Nomia melanderi	Nomia melanderi Cockerell, 1906	Animalia	Arthropoda	Insecta	Hymenoptera	Halictidae	SPECIES	ACCEPTED		2019
+165498	165498	Numida meleagris	Numida meleagris (Linnaeus, 1758)	Animalia	Chordata	Aves	Galliformes	Numididae	SPECIES	ACCEPTED		2019
+165499	165499	Nymphaea alba	Nymphaea alba L.	Plantae	Tracheophyta	Magnoliopsida	Nymphaeales	Nymphaeaceae	SPECIES	ACCEPTED		2024
+165500	165500	Nymphaea mexicana	Nymphaea mexicana Zucc.	Plantae	Tracheophyta	Magnoliopsida	Nymphaeales	Nymphaeaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165501	165501	Obelia geniculata	Obelia geniculata (Linnaeus, 1758)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	SPECIES	ACCEPTED		2019
+165502	165502	Obelia longissima	Obelia longissima (Pallas, 1766)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	SPECIES	ACCEPTED		2019
+165503	165503	Ochetellus glaber	Ochetellus glaber (Mayr, 1862)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165504	165504	Ochlerotatus australis	Aedes australis (Erichson, 1842)	Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	SYNONYM		2019
+165505	165505	Ochlerotatus camptorhynchus	Aedes camptorhynchus (Thomson, 1869)	Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	SYNONYM		2019
+165506	165506	Ochlerotatus notoscriptus	Ochlerotatus notoscriptus	Animalia	Arthropoda	Insecta	Diptera	Culicidae	SPECIES	ACCEPTED		2019
+165507	165507	Ochna serrulata	Ochna serrulata (Hochst.) Walp.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Ochnaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165508	165508	Okenia eolida	Okenia eolida (Quoy & Gaimard, 1832)	Animalia	Mollusca	Gastropoda	Nudibranchia	Goniodorididae	SPECIES	ACCEPTED		2019
+165509	165509	Okenia pellucida	Okenia pellucida Burn, 1967	Animalia	Mollusca	Gastropoda	Nudibranchia	Goniodorididae	SPECIES	ACCEPTED		2019
+165510	165510	Olea europaea	Olea europaea L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2024
+165511	165511	Omobranchus anolius	Omobranchus anolius (Valenciennes, 1836)	Animalia	Chordata	Actinopterygii	Perciformes	Blenniidae	SPECIES	ACCEPTED		2019
+165512	165512	Oncorhynchus mykiss	Oncorhynchus mykiss (Walbaum, 1792)	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165513	165513	Oncorhynchus nerka	Oncorhynchus nerka (Walbaum, 1792)	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165514	165514	Oncorhynchus tshawytscha	Oncorhynchus tshawytscha (Walbaum, 1792)	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165515	165515	Opuntia monacantha	Opuntia monacantha Haw.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Cactaceae	SPECIES	ACCEPTED		2024
+165516	165516	Oratosquilla oratoria	Oratosquilla oratoria (De Haan, 1844), 1833-1850	Animalia	Arthropoda	Malacostraca	Stomatopoda	Squillidae	SPECIES	ACCEPTED		2019
+165517	165517	Orectognathus antennatus	Orectognathus antennatus Smith, 1854	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165518	165518	Ornebius aperta	Ornebius aperta Otte & Alexander, 1983	Animalia	Arthropoda	Insecta	Orthoptera	Mogoplistidae	SPECIES	ACCEPTED		2019
+165519	165519	Ornebius novarae	Ornebius novarae (Saussure, 1877)	Animalia	Arthropoda	Insecta	Orthoptera	Mogoplistidae	SPECIES	ACCEPTED		2019
+165520	165520	Oryctolagus cuniculus	Oryctolagus cuniculus (Linnaeus, 1758)	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SPECIES	ACCEPTED		2019
+165521	165521	Osmia caerulescens	Osmia caerulescens (Linnaeus, 1758)	Animalia	Arthropoda	Insecta	Hymenoptera	Megachilidae	SPECIES	ACCEPTED		2019
+165522	165522	Osmunda regalis	Osmunda regalis L.	Plantae	Tracheophyta	Polypodiopsida	Osmundales	Osmundaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165523	165523	Osteospermum moniliferum	Osteospermum moniliferum L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165524	165524	Ovis aries	Ovis aries Linnaeus, 1758	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED		2019
+165525	165525	Oxychilus alliarius	Oxychilus alliarius (J.S.Miller, 1822)	Animalia	Mollusca	Gastropoda	Stylommatophora	Oxychilidae	SPECIES	ACCEPTED		2019
+165526	165526	Oxychilus cellarius	Oxychilus cellarius (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Oxychilidae	SPECIES	ACCEPTED		2019
+165527	165527	Oxychilus draparnaudi	Oxychilus draparnaudi (H.Beck, 1837)	Animalia	Mollusca	Gastropoda	Stylommatophora	Oxychilidae	SPECIES	ACCEPTED		2019
+165528	165528	Pachymeniopsis lanceolata	Pachymeniopsis lanceolata (K.Okamura) Y.Yamada ex S.Kawabata, 1954	Plantae	Rhodophyta	Florideophyceae	Halymeniales	Halymeniaceae	SPECIES	SYNONYM		2024
+165529	165529	Parablennius intermedius	Parablennius intermedius (Ogilby, 1915)	Animalia	Chordata		Perciformes	Blenniidae	SPECIES	ACCEPTED		2024
+165530	165530	Parablennius tasmanianus	Parablennius tasmanianus (Richardson, 1842)	Animalia	Chordata		Perciformes	Blenniidae	SPECIES	ACCEPTED		2024
+165531	165531	Paracorophium brisbanensis	Paracorophium brisbanensis Chapman, 2002	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2019
+165532	165532	Paraheteropia ijimai	Paraheteropia ijimai (Hôzawa, 1916)	Animalia	Porifera	Calcarea	Leucosolenida	Heteropiidae	SPECIES	ACCEPTED		2024
+165533	165533	Paralepidonotus ampulliferus	Paralepidonotus ampulliferus (Grube, 1878)	Animalia	Annelida	Polychaeta	Phyllodocida	Polynoidae	SPECIES	ACCEPTED		2019
+165534	165534	Paraserianthes lophantha	Paraserianthes lophantha (Willd.) I.C.Nielsen	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165535	165535	Parioglossus marginalis	Parioglossus marginalis Rennis & Hoese, 1985	Animalia	Chordata	Actinopterygii	Perciformes	Microdesmidae	SPECIES	ACCEPTED		2019
+165536	165536	Paspalum distichum	Paspalum distichum L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165537	165537	Paspalum vaginatum	Paspalum vaginatum Sw.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165538	165538	Passer domesticus	Passer domesticus (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Passeridae	SPECIES	ACCEPTED		2019
+165539	165539	Passiflora caerulea	Passiflora caerulea L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165540	165540	Passiflora edulis	Passiflora edulis Sims	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED		2024
+165541	165541	Passiflora mixta	Passiflora mixta L.fil.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED		2024
+165542	165542	Passiflora pinnatistipula	Passiflora pinnatistipula Cav.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED		2024
+165543	165543	Passiflora tarminiana	Passiflora tarminiana Coppens & V.E.Barney	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165544	165544	Passiflora tripartita	Passiflora tripartita (Juss.) Poir.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165545	165545	Passiflora ×rosea	Passiflora ×rosea (H.Karst.) Killip	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Passifloraceae	SPECIES	ACCEPTED		2024
+165546	165546	Pavo cristatus	Pavo cristatus Linnaeus, 1758	Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED		2019
+165547	165547	Pennaria disticha	Pennaria disticha Goldfuss, 1820	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Pennariidae	SPECIES	ACCEPTED		2019
+165548	165548	Perca fluviatilis	Perca fluviatilis Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Perciformes	Percidae	SPECIES	ACCEPTED		2019
+165549	165549	Perophora annectens	Perophora annectens Ritter, 1893	Animalia	Chordata	Ascidiacea	Phlebobranchia	Perophoridae	SPECIES	ACCEPTED		2024
+165550	165550	Persicaria capitata	Persicaria capitata (Buch.-Ham. ex D.Don) H.Gross	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED		2024
+165551	165551	Petrogale penicillata	Petrogale penicillata (Gray, 1827)	Animalia	Chordata	Mammalia	Diprotodontia	Macropodidae	SPECIES	ACCEPTED		2019
+165552	165552	Phalaris arundinacea	Phalaris arundinacea L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165553	165553	Phalloceros caudimaculatus	Phalloceros caudimaculatus (Hensel, 1868)	Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED		2019
+165554	165554	Phasianus colchicus	Phasianus colchicus Linnaeus, 1758	Animalia	Chordata	Aves	Galliformes	Phasianidae	SPECIES	ACCEPTED		2019
+165555	165555	Pheidole megacephala	Pheidole megacephala (Fabricius, 1793)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165556	165556	Pheidole proxima	Pheidole proxima Mayr, 1876	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165557	165557	Pheidole rugosula	Pheidole rugosula	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165558	165558	Pheidole vigilans	Pheidole vigilans (Smith, 1858)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165559	165559	Pheretima peregrina	Pheretima peregrina	Animalia	Annelida	Clitellata	Opisthopora	Megascolecidae	SPECIES			2019
+165560	165560	Phoenix canariensis	Phoenix canariensis H.Wildpret	Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED		2024
+165561	165561	Phoronis ijimai	Phoronis ijimai Oka, 1897	Animalia	Phoronida			Phoronidae	SPECIES	ACCEPTED		2019
+165562	165562	Phragmites karka	Phragmites karka (Retz.) Trin. ex Steud.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165563	165563	Phyllorhiza punctata	Phyllorhiza punctata Lendenfeld, 1884	Animalia	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	SPECIES	ACCEPTED		2019
+165564	165564	Phyllostachys aurea	Phyllostachys aurea (André) Rivière & C.Rivière	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165565	165565	Phyllotricha verruculosa	Phyllotricha verruculosa (C.Agardh) R.R.M.Dixon & Huisman, 2012	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	DOUBTFUL		2019
+165566	165566	Phyllotricha verruculosa	Phyllotricha verruculosa (C.Agardh) R.M Dixon & Huisman	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	DOUBTFUL		2024
+165567	165567	Physa acuta	Physella acuta (Draparnaud, 1805)	Animalia	Mollusca	Gastropoda		Physidae	SPECIES	SYNONYM		2019
+165568	165568	Phytolacca icosandra	Phytolacca icosandra L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Phytolaccaceae	SPECIES	ACCEPTED		2024
+165569	165569	Pilosella officinarum	Pilosella officinarum Vaill.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165570	165570	Pilosella piloselloides	Pilosella piloselloides (Vill.) Soják	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165571	165571	Pinus contorta	Pinus contorta Douglas ex Loudon	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165572	165572	Pinus halepensis	Pinus halepensis Mill.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165573	165573	Pinus monticola	Pinus monticola Douglas ex D.Don	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165574	165574	Pinus mugo	Pinus mugo Turra	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165575	165575	Pinus muricata	Pinus muricata D.Don	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165576	165576	Pinus nigra	Pinus nigra J.F.Arnold	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165577	165577	Pinus patula	Pinus patula Schiede ex Schltdl. & Cham.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165578	165578	Pinus pinaster	Pinus pinaster Aiton	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165579	165579	Pinus ponderosa	Pinus ponderosa Douglas ex C.Lawson	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165580	165580	Pinus radiata	Pinus radiata D.Don	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165581	165581	Pinus strobus	Pinus strobus L.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165582	165582	Pinus sylvestris	Pinus sylvestris L.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165583	165583	Pinus thunbergii	Pinus thunbergii Parl.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165584	165584	Pinus uncinata	Pinus uncinata Ramond ex DC.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165585	165585	Pittosporum undulatum	Pittosporum undulatum Vent.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Pittosporaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165586	165586	Plagiolepis alluaudi	Plagiolepis alluaudi Emery, 1894	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165587	165587	Planorbarius corneus	Planorbarius corneus (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda		Planorbidae	SPECIES	ACCEPTED		2019
+165588	165588	Platycercus elegans	Platycercus elegans (Gmelin, 1788)	Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED		2019
+165589	165589	Platycercus eximius	Platycercus eximius (Shaw, 1792)	Animalia	Chordata	Aves	Psittaciformes	Psittacidae	SPECIES	ACCEPTED		2019
+165590	165590	Plectranthus ciliatus	Plectranthus ciliatus E.Mey.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165591	165591	Plectranthus ecklonii	Plectranthus ecklonii Benth.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED		2024
+165592	165592	Plumularia pulchella	Plumularia pulchella Bale, 1882	Animalia	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	SPECIES	ACCEPTED		2019
+165593	165593	Plumularia setacea	Plumularia setacea (Linnaeus, 1758)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	SPECIES	ACCEPTED		2019
+165594	165594	Poa annua	Poa annua L.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165595	165595	Poecilia latipinna	Poecilia latipinna (Lesueur, 1821)	Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED		2019
+165596	165596	Poecilia reticulata	Poecilia reticulata Peters, 1859	Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED		2019
+165597	165597	Polistes chinensis	Polistes chinensis (Fabricius, 1793)	Animalia	Arthropoda	Insecta	Hymenoptera	Eumenidae	SPECIES	ACCEPTED		2019
+165598	165598	Polistes humilis	Polistes humilis (Fabricius, 1781)	Animalia	Arthropoda	Insecta	Hymenoptera	Eumenidae	SPECIES	ACCEPTED		2019
+165599	165599	Polyandrocarpa zorritensis	Polyandrocarpa zorritensis (Van Name, 1931)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2019
+165600	165600	Polycera hedgpethi	Polycera hedgpethi Er.Marcus, 1964	Animalia	Mollusca	Gastropoda	Nudibranchia	Polyceridae	SPECIES	ACCEPTED		2019
+165601	165601	Polydora cornuta	Polydora cornuta Bosc, 1802	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165602	165602	Polydora haswelli	Polydora haswelli Blake & Kudenov, 1978	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165603	165603	Polydora hoplura	Polydora hoplura Claparède, 1868	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165604	165604	Polydora websteri	Polydora websteri Hartman, 1943	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165605	165605	Polygala myrtifolia	Polygala myrtifolia L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Polygalaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165606	165606	Polypodium vulgare	Polypodium vulgare L.	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Polypodiaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165607	165607	Polysiphonia morrowii	Polysiphonia morrowii Harv.	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165608	165608	Polysiphonia senticulosa	Polysiphonia senticulosa Harv.	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165609	165609	Pomaderris aspera	Pomaderris aspera Sieber ex DC.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED		2024
+165610	165610	Populus alba	Populus alba L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED		2024
+165611	165611	Potamogeton crispus	Potamogeton crispus L.	Plantae	Tracheophyta	Liliopsida	Alismatales	Potamogetonaceae	SPECIES	ACCEPTED		2024
+165612	165612	Prietocella barbara	Cochlicella barbara (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Stylommatophora	Geomitridae	SPECIES	SYNONYM		2019
+165613	165613	Prunella modularis	Prunella modularis (Linnaeus, 1758)	Animalia	Chordata	Aves	Passeriformes	Prunellidae	SPECIES	ACCEPTED		2019
+165614	165614	Prunus avium	Prunus avium (L.) L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165615	165615	Prunus campanulata	Prunus campanulata Maxim.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165616	165616	Prunus domestica	Prunus domestica L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165617	165617	Prunus laurocerasus	Prunus laurocerasus L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165618	165618	Prunus lusitanica	Prunus lusitanica L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165619	165619	Prunus serotina	Prunus serotina Ehrh.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165620	165620	Prunus serrulata	Prunus serrulata Lindl.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165621	165621	Pseudopolydora corniculata	Pseudopolydora corniculata Radashevsky & Hsieh, 2000	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165622	165622	Pseudopolydora paucibranchiata	Pseudopolydora paucibranchiata (Okuda, 1937)	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2019
+165623	165623	Pseudosasa japonica	Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino ex Nakai	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165624	165624	Pseudosuccinea columella	Pseudosuccinea columella (Say, 1817)	Animalia	Mollusca	Gastropoda		Lymnaeidae	SPECIES	ACCEPTED		2019
+165625	165625	Pseudotsuga menziesii	Pseudotsuga menziesii (Mirb.) Franco	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2024
+165626	165626	Psidium cattleianum	Psidium cattleianum Afzel. ex Sabine	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165627	165627	Psidium guajava	Psidium guajava L.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165628	165628	Psoralea pinnata	Psoralea pinnata L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165629	165629	Pteris cretica	Pteris cretica L.	Plantae	Tracheophyta	Polypodiopsida	Polypodiales	Pteridaceae	SPECIES	ACCEPTED		2024
+165630	165630	Pueraria montana	Pueraria montana (Lour.) Merr.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165631	165631	Pultenaea daphnoides	Pultenaea daphnoides J.C.Wendl.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165632	165632	Punctaria latifolia	Punctaria latifolia Grev.	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2024
+165633	165633	Pyracantha angustifolia	Pyracantha angustifolia (Franch.) C.K.Schneid.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165634	165634	Pyromaia tuberculata	Pyromaia tuberculata (Lockington, 1877)	Animalia	Arthropoda	Malacostraca	Decapoda	Inachoididae	SPECIES	ACCEPTED		2019
+165635	165635	Pyropia koreana	Pyropia koreana (M.S.Hwang & I.K.Lee) M.S.Hwang, H.G.Choi, Y.S.Oh & I.K.Lee	Plantae	Rhodophyta	Bangiophyceae	Bangiales	Bangiaceae	SPECIES	ACCEPTED		2024
+165636	165636	Pyropia suborbiculata	Pyropia suborbiculata (Kjellm.) J.E.Sutherl., H.G.Choi, M.S.Hwang & W.A.Nelson	Plantae	Rhodophyta	Bangiophyceae	Bangiales	Bangiaceae	SPECIES	ACCEPTED		2024
+165637	165637	Pyura doppelgangera	Pyura doppelgangera Rius & Teske, 2013	Animalia	Chordata	Ascidiacea	Stolidobranchia	Pyuridae	SPECIES	ACCEPTED		2019
+165638	165638	Quercus robur	Quercus robur L.	Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED		2024
+165639	165639	Ranoidea aurea	Ranoidea aurea (Lesson, 1829)	Animalia	Chordata	Amphibia	Anura	Pelodryadidae	SPECIES	ACCEPTED		2019
+165640	165640	Ranoidea raniformis	Ranoidea raniformis	Animalia	Chordata	Amphibia	Anura	Pelodryadidae	SPECIES	ACCEPTED		2019
+165641	165641	Raspailia arbuscula	Raspailia arbuscula (Lendenfeld, 1888)	Animalia	Porifera	Demospongiae	Axinellida	Raspailiidae	SPECIES	ACCEPTED		2019
+165642	165642	Rattus exulans	Rattus exulans (Peale, 1848)	Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED		2019
+165643	165643	Rattus norvegicus	Rattus norvegicus (Berkenhout, 1769)	Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED		2019
+165644	165644	Rattus rattus	Rattus rattus (Linnaeus, 1758)	Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED		2019
+165645	165645	Reynoutria ×bohemica	Reynoutria ×bohemica Chrtek & Chrtková	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165646	165646	Reynoutria japonica	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165647	165647	Reynoutria sachalinensis	Reynoutria sachalinensis (F.Schmidt) Nakai	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165648	165648	Rhamnus alaternus	Rhamnus alaternus L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rhamnaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165649	165649	Rhaphiolepis bibas	Rhaphiolepis bibas (Lour.) Galasso & Banfi	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165650	165650	Rhaphiolepis umbellata	Rhaphiolepis umbellata (Thunb.) Makino	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165651	165651	Rhododendron ponticum	Rhododendron ponticum L.	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165652	165652	Rhytidoponera chalybaea	Rhytidoponera chalybaea Emery, 1901	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165653	165653	Rhytidoponera metallica	Rhytidoponera metallica (Smith, 1858)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165654	165654	Ribes sanguineum	Ribes sanguineum Pursh	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Grossulariaceae	SPECIES	ACCEPTED		2024
+165655	165655	Ribes uva-crispa	Ribes uva-crispa L.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Grossulariaceae	SPECIES	ACCEPTED		2024
+165656	165656	Ricinus communis	Ricinus communis L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Euphorbiaceae	SPECIES	ACCEPTED		2024
+165657	165657	Robinia pseudoacacia	Robinia pseudoacacia L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165658	165658	Roldana petasitis	Roldana petasitis (Sims) H.Rob. & Brettell	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165659	165659	Romaleon gibbosulum	Romaleon gibbosulum (De Haan, 1833)	Animalia	Arthropoda	Malacostraca	Decapoda	Cancridae	SPECIES	ACCEPTED		2019
+165660	165660	Rosa rubiginosa	Rosa rubiginosa L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165661	165661	Rosenvingea sanctae-crucis	Rosenvingea sanctae-crucis Boergesen	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2024
+165662	165662	Rubus armeniacus	Rubus armeniacus Focke	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165663	165663	Rubus cardiophyllus	Rubus cardiophyllus P.J.Müll. & Lefèvre	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165664	165664	Rubus cissburiensis	Rubus cissburiensis W.P.C.Barton & Ridd.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165665	165665	Rubus echinatus	Rubus echinatus Lindl.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165666	165666	Rubus laciniatus	Rubus laciniatus Willd.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165667	165667	Rubus leptothyrsos	Rubus leptothyrsos G.Braun	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165668	165668	Rubus phoenicolasius	Rubus phoenicolasius Maxim.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165669	165669	Rubus polyanthemus	Rubus polyanthemus Lindeb.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165670	165670	Rubus ulmifolius	Rubus ulmifolius Schott	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165671	165671	Rubus vestitus	Rubus vestitus Weihe	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165672	165672	Rumex sagittatus	Rumex sagittatus Thunb.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	ACCEPTED		2024
+165673	165673	Rupicapra rupicapra	Rupicapra rupicapra (Linnaeus, 1758)	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	SPECIES	ACCEPTED		2019
+165674	165674	Rusa timorensis	Rusa timorensis (Blainville, 1822)	Animalia	Chordata	Mammalia	Artiodactyla	Cervidae	SPECIES	ACCEPTED		2019
+165675	165675	Sabella spallanzanii	Sabella spallanzanii (Gmelin, 1791)	Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	SPECIES	ACCEPTED		2024
+165676	165676	Sagina procumbens	Sagina procumbens L.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Caryophyllaceae	SPECIES	ACCEPTED		2024
+165677	165677	Salix cinerea	Salix cinerea L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165678	165678	Salix fragilis	Salix fragilis L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165679	165679	Salix purpurea	Salix purpurea L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED		2024
+165680	165680	Salmo salar	Salmo salar Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165681	165681	Salmo trutta	Salmo trutta Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165682	165682	Salomona solida	Salomona solida (F.Walker, 1869)	Animalia	Arthropoda	Insecta	Orthoptera	Tettigoniidae	SPECIES	ACCEPTED		2019
+165683	165683	Salpichroa origanifolia	Salpichroa origanifolia (Lam.) Baill.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165684	165684	Salvelinus fontinalis	Salvelinus fontinalis (Mitchill, 1814)	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165685	165685	Salvelinus namaycush	Salvelinus namaycush (Walbaum, 1792)	Animalia	Chordata	Actinopterygii	Salmoniformes	Salmonidae	SPECIES	ACCEPTED		2019
+165686	165686	Sambucus nigra	Sambucus nigra L.	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Viburnaceae	SPECIES	ACCEPTED		2024
+165687	165687	Scardinius erythrophthalmus	Scardinius erythrophthalmus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2019
+165688	165688	Schinus terebinthifolia	Schinus terebinthifolia Raddi	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165689	165689	Schizoporella errata	Schizoporella errata (Waters, 1878)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED		2019
+165690	165690	Schizoporella japonica	Schizoporella japonica Ortmann, 1890	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED		2019
+165691	165691	Schizymenia apoda	Schizymenia apoda (J.Agardh) J.Agardh	Plantae	Rhodophyta	Florideophyceae	Nemastomatales	Schizymeniaceae	SPECIES	ACCEPTED		2024
+165692	165692	Schoenoplectus californicus	Schoenoplectus californicus (C.A.Mey.) Soják	Plantae	Tracheophyta	Liliopsida	Poales	Cyperaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165693	165693	Sedum acre	Sedum acre L.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED		2024
+165694	165694	Sedum praealtum	Sedum praealtum A.DC.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED		2024
+165695	165695	Selaginella kraussiana	Selaginella kraussiana (Kunze) A.Braun	Plantae	Tracheophyta	Lycopodiopsida	Selaginellales	Selaginellaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165696	165696	Senecio angulatus	Senecio angulatus L.fil.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165697	165697	Senecio elegans	Senecio elegans L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165698	165698	Senecio glastifolius	Senecio glastifolius L.fil.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165699	165699	Senecio skirrhodon	Senecio skirrhodon DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165700	165700	Senna septemtrionalis	Senna septemtrionalis (Viv.) H.S.Irwin & Barneby	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165701	165701	Setaria palmifolia	Setaria palmifolia (J.Koenig) Stapf	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165702	165702	Setaria pumila	Setaria pumila (Poir.) Roem. & Schult.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165703	165703	Silybum marianum	Silybum marianum (L.) Gaertn.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2024
+165704	165704	Siphogenerina raphana	Siphogenerina raphana (Parker & Jones, 1865)	Chromista	Foraminifera	Globothalamea	Rotaliida	Siphogenerinoididae	SPECIES	ACCEPTED		2019
+165705	165705	Solanum dulcamara	Solanum dulcamara L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165706	165706	Solanum laxum	Solanum laxum Spreng.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165707	165707	Solanum linnaeanum	Solanum linnaeanum Hepper & P.-M.L.Jaeger	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165708	165708	Solanum marginatum	Solanum marginatum L.fil.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165709	165709	Solanum mauritianum	Solanum mauritianum Scop.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165710	165710	Solanum pseudocapsicum	Solanum pseudocapsicum L.	Plantae	Tracheophyta	Magnoliopsida	Solanales	Solanaceae	SPECIES	ACCEPTED		2024
+165711	165711	Sorbus aucuparia	Sorbus aucuparia L.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165712	165712	Spartium junceum	Spartium junceum L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165713	165713	Sphaeropteris cooperi	Sphaeropteris cooperi (Hook. ex F.Muell.) R.M.Tryon	Plantae	Tracheophyta	Polypodiopsida	Cyatheales	Cyatheaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165714	165714	Spiraea japonica	Spiraea japonica L.fil.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2024
+165715	165715	Sporobolus ×townsendii	Sporobolus ×townsendii (H.Groves & J.Groves) P.M.Peterson & Saarela	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165716	165716	Sporobolus alterniflorus	Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165717	165717	Sporobolus anglicus	Sporobolus anglicus (C.E.Hubb.) P.M.Peterson & Saarela	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165718	165718	Stenotaphrum secundatum	Stenotaphrum secundatum (Walter) Kuntze	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165719	165719	Stictyosiphon soriferus	Stictyosiphon soriferus (Reinke) Rosenv.	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2024
+165720	165720	Streptopelia chinensis	Streptopelia chinensis tigrina (Temminck, 1809)	Animalia	Chordata	Aves	Columbiformes	Columbidae	SUBSPECIES	ACCEPTED		2019
+165721	165721	Streptopelia risoria	Streptopelia risoria (Linnaeus, 1758)	Animalia	Chordata	Aves	Columbiformes	Columbidae	SPECIES	ACCEPTED		2019
+165722	165722	Striaria attentuata	Striaria attentuata	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2024
+165723	165723	Striaria attenuata	Striaria attenuata (Grev.) Grev.	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	SPECIES	ACCEPTED		2019
+165724	165724	Strumigenys perplexa	Strumigenys perplexa (Smith, 1876)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165725	165725	Strumigenys xenos	Strumigenys xenos Brown, 1955	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165726	165726	Sturnus vulgaris	Sturnus vulgaris Linnaeus, 1758	Animalia	Chordata	Aves	Passeriformes	Sturnidae	SPECIES	ACCEPTED		2019
+165727	165727	Styela canopus	Styela canopus (Savigny, 1816)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2019
+165728	165728	Styela clava	Styela clava Herdman, 1881	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2024
+165729	165729	Sus scrofa	Sus scrofa Linnaeus, 1758	Animalia	Chordata	Mammalia	Artiodactyla	Suidae	SPECIES	ACCEPTED		2019
+165730	165730	Symplectoscyphus indivisus	Symplectoscyphus indivisus (Bale, 1882)	Animalia	Cnidaria	Hydrozoa	Leptothecata	Symplectoscyphidae	SPECIES	ACCEPTED		2019
+165731	165731	Symplegma brakenhielmi	Symplegma brakenhielmi (Michaelsen, 1904)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2024
+165732	165732	Symplegma rubra	Symplegma rubra Monniot C., 1972	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2024
+165733	165733	Syzygium australe	Syzygium australe (J.C.Wendl. ex Link) B.Hyland	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165734	165734	Syzygium smithii	Syzygium smithii (Poir.) Nied.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165735	165735	Tandonia budapestensis	Tandonia budapestensis (Hazay, 1880)	Animalia	Mollusca	Gastropoda	Stylommatophora	Milacidae	SPECIES	ACCEPTED		2019
+165736	165736	Tandonia sowerbyi	Tandonia sowerbyi (A.Férussac, 1823)	Animalia	Mollusca	Gastropoda	Stylommatophora	Milacidae	SPECIES	ACCEPTED		2019
+165737	165737	Technomyrmex jocosus	Technomyrmex jocosus Forel, 1910	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165738	165738	Tecomaria capensis	Tecomaria capensis (Thunb.) Spach	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Bignoniaceae	SPECIES	ACCEPTED		2024
+165739	165739	Teleogryllus commodus	Teleogryllus commodus (F.Walker, 1869)	Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	SPECIES	ACCEPTED		2019
+165740	165740	Testacella haliotidea	Testacella haliotidea Draparnaud, 1801	Animalia	Mollusca	Gastropoda	Stylommatophora	Testacellidae	SPECIES	ACCEPTED		2019
+165741	165741	Tethocyathus cylindraceus	Tethocyathus cylindraceus (Pourtalès, 1868)	Animalia	Cnidaria	Anthozoa	Scleractinia	Caryophylliidae	SPECIES	ACCEPTED		2019
+165742	165742	Tethya bergquistae	Tethya bergquistae Hooper, 1994	Animalia	Porifera	Demospongiae	Tethyida	Tethyidae	SPECIES	ACCEPTED		2019
+165743	165743	Tethya multistella	Tethya multistella Lendenfeld, 1888	Animalia	Porifera	Demospongiae	Tethyida	Tethyidae	SPECIES	ACCEPTED		2019
+165744	165744	Tetramorium bicarinatum	Tetramorium bicarinatum (Nylander, 1846)	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165745	165745	Tetramorium grassii	Tetramorium grassii Emery, 1895	Animalia	Arthropoda	Insecta	Hymenoptera	Formicidae	SPECIES	ACCEPTED		2019
+165746	165746	Thalamoporella californica	Thalamoporella californica (Levinsen, 1909)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Thalamoporellidae	SPECIES	ACCEPTED		2019
+165747	165747	Theora lubrica	Theora lubrica Gould, 1861	Animalia	Mollusca	Bivalvia	Cardiida	Semelidae	SPECIES	ACCEPTED		2024
+165748	165748	Thinopyrum acutum	Thinopyrum acutum (DC.) Banfi	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165749	165749	Thinopyrum obtusiflorum	Thinopyrum obtusiflorum (DC.) Banfi	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED		2024
+165750	165750	Thunbergia alata	Thunbergia alata Bojer ex Sims	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Acanthaceae	SPECIES	ACCEPTED		2024
+165751	165751	Thymus vulgaris	Thymus vulgaris L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lamiaceae	SPECIES	ACCEPTED		2024
+165752	165752	Tinca tinca	Tinca tinca (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2019
+165753	165753	Toxicodendron succedaneum	Toxicodendron succedaneum (L.) Kuntze	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Anacardiaceae	SPECIES	ACCEPTED		2024
+165754	165754	Trachycarpus fortunei	Trachycarpus fortunei (Hook.) H.Wendl.	Plantae	Tracheophyta	Liliopsida	Arecales	Arecaceae	SPECIES	ACCEPTED		2024
+165755	165755	Tradescantia fluminensis	Tradescantia fluminensis Vell.	Plantae	Tracheophyta	Liliopsida	Commelinales	Commelinaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165756	165756	Tricellaria inopinata	Tricellaria inopinata d'Hondt & Occhipinti Ambrogi, 1985	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Candidae	SPECIES	ACCEPTED		2019
+165757	165757	Trichosurus vulpecula	Trichosurus vulpecula (Kerr, 1792)	Animalia	Chordata	Mammalia	Diprotodontia	Phalangeridae	SPECIES	ACCEPTED		2019
+165758	165758	Tritia burchardi	Tritia burchardi (Dunker, 1849)	Animalia	Mollusca	Gastropoda	Neogastropoda	Nassariidae	SPECIES	ACCEPTED		2019
+165759	165759	Tropaeolum majus	Tropaeolum majus L.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Tropaeolaceae	SPECIES	ACCEPTED		2024
+165760	165760	Tropaeolum speciosum	Tropaeolum speciosum Poepp. & Endl.	Plantae	Tracheophyta	Magnoliopsida	Brassicales	Tropaeolaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165761	165761	Turdus merula	Turdus merula Linnaeus, 1758	Animalia	Chordata	Aves	Passeriformes	Turdidae	SPECIES	ACCEPTED		2019
+165762	165762	Turdus philomelos	Turdus philomelos C.L.Brehm, 1831	Animalia	Chordata	Aves	Passeriformes	Turdidae	SPECIES	ACCEPTED		2019
+165763	165763	Tussilago farfara	Tussilago farfara L.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165764	165764	Ugni molinae	Ugni molinae Turcz.	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Myrtaceae	SPECIES	ACCEPTED		2024
+165765	165765	Ulex europaeus	Ulex europaeus L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2024
+165766	165766	Ulva australis	Ulva australis Aresch.	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165767	165767	Ulva californica	Ulva californica Wille	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165768	165768	Ulva compressa	Ulva compressa L.	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165769	165769	Ulva flexuosa	Ulva flexuosa Wulfen	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165770	165770	Ulva intestinalis	Ulva intestinalis L.	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165771	165771	Ulva lactuca	Ulva lactuca L.	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165772	165772	Ulva rigida	Ulva rigida C.Agardh	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165773	165773	Ulva tanneri	Ulva tanneri H.S.Hayden & J.R.Waaland, 2003	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165774	165774	Umbraulva japonica	Umbraulva japonica (Holmes) E.H.Bae & I.K.Lee	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2024
+165775	165775	Undaria pinnatifida	Undaria pinnatifida (Harv.) Suringar	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Alariaceae	SPECIES	ACCEPTED	Unwanted Organism (UO)	2024
+165776	165776	Utricularia gibba	Utricularia gibba L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Lentibulariaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165777	165777	Vallisneria australis	Vallisneria australis S.W.L.Jacobs & Les	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165778	165778	Vallonia costata	Vallonia costata (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	SPECIES	ACCEPTED		2019
+165779	165779	Vallonia excentrica	Vallonia excentrica Sterki, 1893	Animalia	Mollusca	Gastropoda	Stylommatophora	Valloniidae	SPECIES	ACCEPTED		2019
+165780	165780	Verbascum thapsus	Verbascum thapsus L.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Scrophulariaceae	SPECIES	ACCEPTED		2024
+165781	165781	Vertebrata constricta	Vertebrata constricta (Womersley) Diaz-Tapia & Maggs	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2024
+165782	165782	Vertigo ovata	Vertigo ovata (Say, 1822)	Animalia	Mollusca	Gastropoda	Stylommatophora	Vertiginidae	SPECIES	ACCEPTED		2019
+165783	165783	Vespula germanica	Vespula germanica (Fabricius, 1793)	Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	SPECIES	ACCEPTED		2019
+165784	165784	Vespula vulgaris	Vespula vulgaris (Linnaeus, 1758)	Animalia	Arthropoda	Insecta	Hymenoptera	Vespidae	SPECIES	ACCEPTED		2019
+165785	165785	Vinca major	Vinca major L.	Plantae	Tracheophyta	Magnoliopsida	Gentianales	Apocynaceae	SPECIES	ACCEPTED		2024
+165786	165786	Virgulinella fragilis	Virgulinella fragilis Grindell & Collen, 1976	Chromista	Foraminifera	Globothalamea	Rotaliida	Virgulinellidae	SPECIES	ACCEPTED		2019
+165787	165787	Vitis vinifera	Vitis vinifera L.	Plantae	Tracheophyta	Magnoliopsida	Vitales	Vitaceae	SPECIES	ACCEPTED		2024
+165788	165788	Vitrea crystallina	Vitrea crystallina (O.F.Müller, 1774)	Animalia	Mollusca	Gastropoda	Stylommatophora	Pristilomatidae	SPECIES	ACCEPTED		2019
+165789	165789	Vosmaeropsis macera	Vosmaeropsis macera (Carter, 1886)	Animalia	Porifera	Calcarea	Leucosolenida	Heteropiidae	SPECIES	ACCEPTED		2019
+165790	165790	Wallabia bicolor	Wallabia bicolor (Desmarest, 1804)	Animalia	Chordata	Mammalia	Diprotodontia	Macropodidae	SPECIES	ACCEPTED		2019
+165791	165791	Watersipora arcuata	Watersipora arcuata Banta, 1969	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Watersiporidae	SPECIES	ACCEPTED		2019
+165792	165792	Watersipora subatra	Watersipora subatra (Ortmann, 1890)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Watersiporidae	SPECIES	ACCEPTED		2019
+165793	165793	Watsonia meriana	Watsonia meriana (L.) Mill.	Plantae	Tracheophyta	Liliopsida	Asparagales	Iridaceae	SPECIES	ACCEPTED		2024
+165794	165794	Xiphophorus hellerii	Xiphophorus hellerii Heckel, 1848	Animalia	Chordata	Actinopterygii	Cyprinodontiformes	Poeciliidae	SPECIES	ACCEPTED		2019
+165795	165795	Yucca gloriosa	Yucca gloriosa L.	Plantae	Tracheophyta	Liliopsida	Asparagales	Asparagaceae	SPECIES	ACCEPTED		2024
+165796	165796	Zantedeschia aethiopica	Zantedeschia aethiopica (L.) Spreng.	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA)	2024
+165797	165797	Zizania latifolia	Zizania latifolia (Griseb.) Hance ex F.Muell.	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	ACCEPTED	Unwanted Organism (UO) | National Pest Plant Accord (NPPA) | Notifiable Organism (NO) | National Interest Pest Response (NIPR)	2024
+165798	165798	Zonitoides arboreus	Zonitoides arboreus (Say, 1817)	Animalia	Mollusca	Gastropoda	Stylommatophora	Gastrodontidae	SPECIES	ACCEPTED		2019

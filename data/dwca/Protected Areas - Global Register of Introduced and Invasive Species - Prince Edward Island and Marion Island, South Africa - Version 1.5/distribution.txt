@@ -1,0 +1,90 @@
+id	locality	countryCode	occurrenceStatus	establishmentMeans	pathway	eventDate
+10000	MARION ISLAND	ZA	present	introduced	unknown	1975|2023
+10001	MARION ISLAND	ZA	present	introduced	unknown	1994|2023
+10002	MARION ISLAND	ZA	present	introduced	unknown	1965|2023
+10003	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	1996|2023
+10004	MARION ISLAND	ZA	absent	introduced	unknown	1992|2023
+10005	MARION ISLAND	ZA	uncertain	introduced	unknown	1965|2023
+10006	MARION ISLAND	ZA	absent	introduced	unknown	1993|2023
+10007	MARION ISLAND	ZA	absent	introduced	unknown	1948|2023
+10008	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	2001|2023
+10009	MARION ISLAND	ZA	present	introduced	unknown	1972|2023
+10010	MARION ISLAND	ZA	absent	introduced	unknown	1965|2023
+10011	MARION ISLAND	ZA	present	introduced	unknown	1966|2023
+10012	MARION ISLAND	ZA	uncertain	introduced	unknown	1983|2023
+10013	MARION ISLAND	ZA	present	introduced	unknown	1987|2023
+10014	MARION ISLAND	ZA	absent	introduced	unknown	1965|2023
+10015	MARION ISLAND	ZA	present	introduced	unknown	1992|2023
+10016	MARION ISLAND	ZA	absent	introduced	escapeFromConfinement:pet	1818|2023
+10017	MARION ISLAND	ZA	absent	introduced	escapeFromConfinement:farmedAnimals	1950|2023
+10018	MARION ISLAND	ZA	absent	introduced	releaseInNature:biologicalControl	1977|2023
+10019	MARION ISLAND	ZA	present	introduced	unknown	1873|2023
+10020	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	1972|2023
+10021	MARION ISLAND	ZA	absent	introduced	releaseInNature:landscapeImprovement	1950|2023
+10022	MARION ISLAND	ZA	present	introduced	unknown	2004|2023
+10023	MARION ISLAND	ZA	absent	introduced	unknown	1993|2023
+10024	MARION ISLAND	ZA	absent	introduced	unknown	NA
+10025	MARION ISLAND	ZA	present	introduced	unknown	1966|2023
+10026	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	1972|2023
+10027	MARION ISLAND	ZA	present	introduced	unknown	NA
+10028	MARION ISLAND	ZA	present	introduced	unknown	1965|2023
+10029	MARION ISLAND	ZA	absent	introduced	escapeFromConfinement:farmedAnimals	1955|2023
+10030	MARION ISLAND	ZA	present	introduced	unknown	1956|2023
+10031	MARION ISLAND	ZA	eradicated	introduced	releaseInNature:biologicalControl|escapeFromConfinement:pet	1818|2023
+10032	MARION ISLAND	ZA	present	introduced	unknown	1910|2023
+10033	MARION ISLAND	ZA	absent	introduced	escapeFromConfinement:farmedAnimals	1948|2023
+10034	MARION ISLAND	ZA	present	introduced	unknown	NA
+10035	MARION ISLAND	ZA	absent	introduced	unknown	1986|2023
+10036	MARION ISLAND	ZA	uncertain	introduced	unknown	1953|2023
+10037	MARION ISLAND	ZA	eradicated	introduced	unknown	1953|2023
+10038	MARION ISLAND	ZA	absent	introduced	unknown	1972|2023
+10039	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	1956|2023
+10040	MARION ISLAND	ZA	uncertain	introduced	unknown	1965|2023
+10041	MARION ISLAND	ZA	absent	introduced	transportContaminant:foodContaminant	1996|2023
+10042	MARION ISLAND	ZA	absent	introduced	unknown	1996|2023
+10043	MARION ISLAND	ZA	present	introduced	unknown	1971|2023
+10044	MARION ISLAND	ZA	present	introduced	unknown	1939|2023
+10045	MARION ISLAND	ZA	present	introduced	unknown	1999|2023
+10046	MARION ISLAND	ZA	present	introduced	unknown	1965|2023
+10047	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	1972|2023
+10048	MARION ISLAND	ZA	present	introduced	transportStowaway:hitchhikersShip	1818|2023
+10049	MARION ISLAND	ZA	present	introduced	unknown	1986|2023
+10050	MARION ISLAND	ZA	absent	introduced	unknown	1965|2023
+10051	MARION ISLAND	ZA	absent	introduced	releaseInNature:fisheryInTheWild	1959|2023
+10052	MARION ISLAND	ZA	eradicated	introduced	escapeFromConfinement:farmedAnimals	1948|2023
+10053	MARION ISLAND	ZA	present	introduced	transportContaminant:foodContaminant	1972|2023
+10054	MARION ISLAND	ZA	absent	introduced	transportStowaway:hitchhikersShip	1976|2023
+10055	MARION ISLAND	ZA	present	introduced	unknown	NA
+10056	MARION ISLAND	ZA	absent	introduced	releaseInNature:landscapeImprovement	1950|2023
+10057	MARION ISLAND	ZA	absent	introduced	releaseInNature:landscapeImprovement	1950|2023
+10058	MARION ISLAND	ZA	eradicated	introduced	transportStowaway:machineryEquipment	1965|2023
+10059	MARION ISLAND	ZA	present	introduced	unaided:naturalDispersal	1986|2023
+10060	MARION ISLAND	ZA	present	introduced	unknown	1948|2023
+10061	MARION ISLAND	ZA	present	introduced	transportStowaway:machineryEquipment	1965|2023
+10062	MARION ISLAND	ZA	present	introduced	unknown	1981|2023
+10063	MARION ISLAND	ZA	present	introduced	transportStowaway:machineryEquipment	2001|2023
+10064	MARION ISLAND	ZA	present	introduced	unknown	1965|2023
+10065	MARION ISLAND	ZA	present	introduced	unknown	1965|2023
+10066	MARION ISLAND	ZA	absent	introduced	escapeFromConfinement:pet	1962|2023
+10067	MARION ISLAND	ZA	present	introduced	unknown	1986|2023
+10068	MARION ISLAND	ZA	present	introduced	unknown	1940|2023
+10069	MARION ISLAND	ZA	present	introduced	transportStowaway:people	1953|2023
+10070	MARION ISLAND	ZA	present	introduced	unknown	1965|2023
+10071	MARION ISLAND	ZA	eradicated	introduced	releaseInNature:fisheryInTheWild	1964|2023
+10072	MARION ISLAND	ZA	present	introduced	unknown	1984|2023
+10073	MARION ISLAND	ZA	absent	introduced	unknown	1993|2023
+10074	MARION ISLAND	ZA	uncertain	introduced	unknown	1873|2023
+10075	MARION ISLAND	ZA	eradicated	introduced	releaseInNature:hunting	1804|2023
+10076	MARION ISLAND	ZA	absent	introduced	unknown	1965|2023
+10077	MARION ISLAND	ZA	present	introduced	unknown	1996|2023
+10078	MARION ISLAND	ZA	absent	introduced	unknown	1987|2023
+10079	MARION ISLAND	ZA	present	introduced	unknown	1970s|2023
+10080	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1987|2023
+10081	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	2000|2023
+10082	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1986|2023
+10083	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	2023|2023
+10084	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1986|2023
+10085	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1966|2023
+10086	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1986|2023
+10087	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1984|2023
+10088	PRINCE EDWARD ISLAND	ZA	present	introduced	unknown	1997|2023
