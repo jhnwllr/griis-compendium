@@ -1,0 +1,378 @@
+id	taxonID	scientificName	acceptedNameUsage	kingdom	phylum	class	order	family	taxonRank	taxonomicStatus	taxonRemarks	modified
+11000	11000	Amphibalanus improvisus	Amphibalanus improvisus (Darwin, 1854)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2025
+11001	11001	Anguillicoloides crassus	Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974	Animalia	Nematoda	Chromadorea	Rhabditida	Anguillicolidae	SPECIES	SYNONYM		2025
+11002	11002	Aphelochaeta marioni	Aphelochaeta marioni (Saint-Joseph, 1894)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11003	11003	Austrominius modestus	Austrominius modestus (Darwin, 1854)	Animalia	Arthropoda			Elminiidae	SPECIES	ACCEPTED		2025
+11004	11004	Caprella mutica	Caprella mutica Schurin, 1935	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2025
+11005	11005	Chattonella marina var. antiqua	Chattonella marina var. antiqua (Hada) Demura & Kawachi, 2009	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11006	11006	Colpomenia peregrina	Colpomenia peregrina Sauvageau, 1927	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2025
+11007	11007	Cordylophora caspia	Cordylophora caspia (Pallas, 1771)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED		2025
+11008	11008	Crassostrea gigas	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED		2025
+11009	11009	Crepidula fornicata	Crepidula fornicata (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	SPECIES	ACCEPTED		2025
+11010	11010	Diplosoma listerianum	Diplosoma listerianum (Milne Edwards, 1841)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11011	11011	Ensis directus	Ensis directus (Conrad, 1844)	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED		2025
+11012	11012	Eriocheir sinensis	Eriocheir sinensis H. Milne Edwards, 1853	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11013	11013	Eteone heteropoda	Hypereteone heteropoda (Hartman, 1951)	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	SPECIES	SYNONYM		2025
+11014	11014	Gracilaria vermiculophylla	Gracilaria vermiculophylla (Ohmi) Papenfuss, 1967	Plantae	Rhodophyta	Florideophyceae	Gracilariales	Gracilariaceae	SPECIES	ACCEPTED		2025
+11015	11015	Hemigrapsus sanguineus	Hemigrapsus sanguineus (De Haan, 1835)	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11016	11016	Hemigrapsus takanoi	Hemigrapsus takanoi Asakura & Watanabe, 2005	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11017	11017	Jassa marmorata	Jassa marmorata Holmes, 1905	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2025
+11018	11018	Marenzelleria viridis	Marenzelleria viridis (Verrill, 1873)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11019	11019	Microphthalmus similis	Microphthalmus similis Bobretzky, 1870	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	SPECIES	ACCEPTED		2025
+11020	11020	Mnemiopsis leidyi	Mnemiopsis leidyi A. Agassiz, 1865	Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED		2025
+11021	11021	Molgula manhattensis	Molgula manhattensis (De Kay, 1843)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED		2025
+11022	11022	Mya arenaria	Mya arenaria Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED		2025
+11023	11023	Petricolaria pholadiformis	Petricolaria pholadiformis (Lamarck, 1818)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED		2025
+11024	11024	Spartina townsendii var. anglica	Spartina anglica C.E. Hubbard	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM		2025
+11025	11025	Streblospio benedicti	Streblospio benedicti Webster, 1879	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11026	11026	Styela clava	Styela clava Herdman, 1881	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11027	11027	Telmatogeton japonicus	Telmatogeton japonicus Tokunaga, 1933	Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	ACCEPTED		2025
+11028	11028	Tharyx killariensis	Tharyx killariensis (Southern, 1914)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11029	11029	Agardhiella subulata	Agardhiella subulata (C.Agardh) Kraft & M.J.Wynne, 1979	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Solieriaceae	SPECIES	ACCEPTED		2025
+11030	11030	Alexandrium tamarense	Alexandrium tamarense (Lebour) Balech, 1995	Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Ostreopsidaceae	SPECIES	ACCEPTED		2025
+11031	11031	Alitta virens	Alitta virens (M. Sars, 1835)	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED		2025
+11032	11032	Amphibalanus improvisus	Amphibalanus improvisus (Darwin, 1854)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2025
+11033	11033	Anguillicoloides crassus	Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974	Animalia	Nematoda	Chromadorea	Rhabditida	Anguillicolidae	SPECIES	SYNONYM		2025
+11034	11034	Antithamnionella spirographidis	Antithamnionella spirographidis (Schiffner) E.M.Wollaston, 1968	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11035	11035	Antithamnionella ternifolia	Antithamnionella ternifolia (Hooker f. & Harvey) Lyle, 1922	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11036	11036	Aoroides semicurvatus	Aoroides semicurvatus Ariyama, 2004	Animalia	Arthropoda	Malacostraca	Amphipoda	Aoridae	SPECIES	ACCEPTED		2025
+11037	11037	Aphelochaeta marioni	Aphelochaeta marioni (Saint-Joseph, 1894)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11038	11038	Aplidium glabrum	Aplidium glabrum (Verrill, 1871)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Polyclinidae	SPECIES	ACCEPTED		2025
+11039	11039	Arachnidium lacourti	Arachnidium lacourti d'Hondt & Faasse, 2006	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Arachnidiidae	SPECIES	ACCEPTED		2025
+11040	11040	Austrominius modestus	Austrominius modestus (Darwin, 1854)	Animalia	Arthropoda			Elminiidae	SPECIES	ACCEPTED		2025
+11041	11041	Boccardiella ligerica	Boccardiella ligerica (Ferronnière, 1898)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11042	11042	Botrylloides violaceus violaceus	Botrylloides violaceus violaceus Oka, 1927	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11043	11043	Bugula neritina	Bugula neritina (Linnaeus, 1758)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2025
+11044	11044	Bugulina stolonifera	Bugulina stolonifera (Ryland, 1960)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2025
+11045	11045	Callinectes sapidus	Callinectes sapidus Rathbun, 1896	Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED		2025
+11046	11046	Caprella mutica	Caprella mutica Schurin, 1935	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2025
+11047	11047	Ceramium cimbricum	Ceramium cimbricum H.E.Petersen, 1924	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11048	11048	Chattonella marina var. antiqua	Chattonella marina var. antiqua (Hada) Demura & Kawachi, 2009	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11049	11049	Chelicorophium curvispinum	Chelicorophium curvispinum (G.O. Sars, 1895)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11050	11050	Codium fragile subsp. atlanticum	Codium fragile subsp. atlanticum (A.D.Cotton) P.C.Silva, 1955	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED		2025
+11051	11051	Codium fragile subsp. fragile	Codium fragile subsp. fragile (Suringar) Hariot, 1889	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED		2025
+11052	11052	Corambe obscura	Corambe obscura (A. E. Verrill, 1870)	Animalia	Mollusca	Gastropoda	Nudibranchia	Corambidae	SPECIES	ACCEPTED		2025
+11053	11053	Cordylophora caspia	Cordylophora caspia (Pallas, 1771)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED		2025
+11054	11054	Corella eumyota	Corella eumyota Traustedt, 1882	Animalia	Chordata	Ascidiacea	Phlebobranchia	Corellidae	SPECIES	ACCEPTED		2025
+11055	11055	Coscinodiscus wailesii	Coscinodiscus wailesii Gran & Angst, 1931	Chromista	Ochrophyta	Bacillariophyceae	Coscinodiscales	Coscinodiscaceae	SPECIES	ACCEPTED		2025
+11056	11056	Crassostrea gigas	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED		2025
+11057	11057	Crepidula fornicata	Crepidula fornicata (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	SPECIES	ACCEPTED		2025
+11058	11058	Dasya baillouviana	Dasya pedicellata (C.Agardh) C.Agardh, 1824	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	SYNONYM		2025
+11059	11059	Dasysiphonia japonica	Dasysiphonia japonica (Yendo) H.-S.Kim, 2012	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	ACCEPTED		2025
+11060	11060	Diadumene cincta	Diadumene cincta Stephenson, 1925	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2025
+11061	11061	Diadumene lineata	Diadumene lineata (Verrill, 1869)	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2025
+11062	11062	Didemnum vexillum	Didemnum vexillum Kott, 2002	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11063	11063	Diplosoma listerianum	Diplosoma listerianum (Milne Edwards, 1841)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11064	11064	Dreissena polymorpha	Dreissena polymorpha (Pallas, 1771)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11065	11065	Ensis directus	Ensis directus (Conrad, 1844)	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED		2025
+11066	11066	Eriocheir sinensis	Eriocheir sinensis H. Milne Edwards, 1853	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11067	11067	Fibrocapsa japonica	Fibrocapsa japonica S.Toriumi & H.Takano, 1973	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11068	11068	Ficopomatus enigmaticus	Ficopomatus enigmaticus (Fauvel, 1923)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11069	11069	Gammarus tigrinus	Gammarus tigrinus Sexton, 1939	Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED		2025
+11070	11070	Garveia franciscana	Calyptospadix cerulea Clarke, 1882	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	SPECIES	SYNONYM	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11071	11071	Gonionemus vertens	Gonionemus vertens A. Agassiz, 1862	Animalia	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	SPECIES	ACCEPTED		2025
+11072	11072	Gracilaria vermiculophylla	Gracilaria vermiculophylla (Ohmi) Papenfuss, 1967	Plantae	Rhodophyta	Florideophyceae	Gracilariales	Gracilariaceae	SPECIES	ACCEPTED		2025
+11073	11073	Grateloupia turuturu	Grateloupia turuturu Yamada, 1941	Plantae	Rhodophyta	Florideophyceae	Halymeniales	Halymeniaceae	SPECIES	ACCEPTED		2025
+11074	11074	Hemigrapsus sanguineus	Hemigrapsus sanguineus (De Haan, 1835)	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11075	11075	Hemigrapsus takanoi	Hemigrapsus takanoi Asakura & Watanabe, 2005	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11076	11076	Heterosigma akashiwo	Heterosigma akashiwo (Hada) Hada ex Y.Hara & Chihara, 1987	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11077	11077	Hypereteone lighti	Hypereteone lighti (Hartman, 1936)	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	SPECIES	ACCEPTED		2025
+11078	11078	Incisocalliope aestuarius	Incisocalliope aestuarius (Watling & Maurer, 1973)	Animalia	Arthropoda	Malacostraca	Amphipoda	Pleustidae	SPECIES	ACCEPTED		2025
+11079	11079	Jassa marmorata	Jassa marmorata Holmes, 1905	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2025
+11080	11080	Laonome xeprovala	Laonome xeprovala Bick & Bastrop, in Bick et al., 2018	Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11081	11081	Leucosolenia somesii	Leucosolenia somesii (Bowerbank, 1874)	Animalia	Porifera	Calcarea	Leucosolenida	Leucosoleniidae	SPECIES	ACCEPTED		2025
+11082	11082	Marenzelleria viridis	Marenzelleria viridis (Verrill, 1873)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11083	11083	Mediopyxis helysia	Mediopyxis helysia Kühn, Hargreaves & Halliger, 2006	Chromista	Ochrophyta	Bacillariophyceae			SPECIES	ACCEPTED		2025
+11084	11084	Melita nitida	Melita nitida S.I. Smith in Verrill & Smith, 1874	Animalia	Arthropoda	Malacostraca	Amphipoda	Melitidae	SPECIES	ACCEPTED		2025
+11085	11085	Microphthalmus similis	Microphthalmus similis Bobretzky, 1870	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	SPECIES	ACCEPTED		2025
+11086	11086	Mnemiopsis leidyi	Mnemiopsis leidyi A. Agassiz, 1865	Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED		2025
+11087	11087	Molgula manhattensis	Molgula manhattensis (De Kay, 1843)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED		2025
+11088	11088	Monocorophium sextonae	Monocorophium sextonae (Crawford, 1937)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11089	11089	Monocorophium uenoi	Monocorophium uenoi (Stephensen, 1932)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11090	11090	Mulinia lateralis	Mulinia lateralis (Say, 1822)	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED		2025
+11091	11091	Mya arenaria	Mya arenaria Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED		2025
+11092	11092	Mytilicola intestinalis	Mytilicola intestinalis Steuer, 1902	Animalia	Arthropoda	Copepoda	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED		2025
+11093	11093	Mytilicola orientalis	Mytilicola orientalis Mori, 1935	Animalia	Arthropoda	Copepoda	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED		2025
+11094	11094	Mytilopsis leucophaeata	Mytilopsis leucophaeata (Conrad, 1831)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED		2025
+11095	11095	Nemopsis bachei	Nemopsis bachei L. Agassiz, 1849	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	SPECIES	ACCEPTED		2025
+11096	11096	Neosiphonia harveyi	Melanothamnus harveyi (Bailey) Díaz-Tapia & Maggs, 2017	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	SYNONYM		2025
+11097	11097	Oithona davisae	Oithona davisae Ferrari F.D. & Orsi, 1984	Animalia	Arthropoda	Copepoda	Cyclopoida	Oithonidae	SPECIES	ACCEPTED		2025
+11098	11098	Palaemon macrodactylus	Palaemon macrodactylus Rathbun, 1902	Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED		2025
+11099	11099	Petricolaria pholadiformis	Petricolaria pholadiformis (Lamarck, 1818)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED		2025
+11100	11100	Pileolaria berkeleyana	Pileolaria berkeleyana (Rioja, 1942)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11101	11101	Platorchestia platensis	Platorchestia platensis (Krøyer, 1845)	Animalia	Arthropoda	Malacostraca	Amphipoda	Talitridae	SPECIES	ACCEPTED		2025
+11102	11102	Polydora websteri	Polydora websteri Hartman in Loosanoff & Engle, 1943	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11103	11103	Proasellus coxalis	Proasellus coxalis coxalis (Dollfus, 1892)	Animalia	Arthropoda	Malacostraca	Isopoda	Asellidae	SPECIES	ACCEPTED		2025
+11104	11104	Rangia cuneata	Rangia cuneata (G. B. Sowerby I, 1832)	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11105	11105	Rhithropanopeus harrisii	Rhithropanopeus harrisii (Gould, 1841)	Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED		2025
+11106	11106	Ruditapes philippinarum	Ruditapes philippinarum (A. Adams & Reeve, 1850)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED		2025
+11107	11107	Sargassum muticum	Sargassum muticum (Yendo) Fensholt, 1955	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED		2025
+11108	11108	Schizoporella japonica	Schizoporella japonica Ortmann, 1890	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED		2025
+11109	11109	Sinelobus vanhaareni	Sinelobus vanhaareni Bamber, 2014	Animalia	Arthropoda	Malacostraca	Tanaidacea	Tanaididae	SPECIES	ACCEPTED		2025
+11110	11110	Smittoidea prolifica	Smittoidea prolifica Osburn, 1952	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	SPECIES	ACCEPTED		2025
+11111	11111	Spartina townsendii var. anglica	Spartina anglica C.E. Hubbard	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM		2025
+11112	11112	Streblospio benedicti	Streblospio benedicti Webster, 1879	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11113	11113	Styela clava	Styela clava Herdman, 1881	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11114	11114	Synidotea laticauda	Synidotea laticauda Benedict, 1897	Animalia	Arthropoda	Malacostraca	Isopoda	Idoteidae	SPECIES	ACCEPTED		2025
+11115	11115	Telmatogeton japonicus	Telmatogeton japonicus Tokunaga, 1933	Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	ACCEPTED		2025
+11116	11116	Teredo navalis	Teredo navalis Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Teredinidae	SPECIES	ACCEPTED		2025
+11117	11117	Tharyx killariensis	Tharyx killariensis (Southern, 1914)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11118	11118	Tricellaria inopinata	Tricellaria inopinata d'Hondt & Occhipinti Ambrogi, 1985	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Candidae	SPECIES	ACCEPTED		2025
+11119	11119	Ulva australis	Ulva australis Areschoug, 1854	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11120	11120	Ulva californica	Ulva californica Wille, 1899	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11121	11121	Undaria pinnatifida	Undaria pinnatifida (Harvey) Suringar, 1873	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Alariaceae	SPECIES	ACCEPTED		2025
+11122	11122	Vaucheria longicaulis	Vaucheria longicaulis Hoppaugh, 1930	Chromista	Ochrophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	SPECIES	ACCEPTED	Transform rippled sand into bumpy mud flats, expel lugworms but facilitate tube-worms and juvenile clams	2025
+11123	11123	Vaucheria velutina	Vaucheria velutina C.Agardh, 1824	Chromista	Ochrophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	SPECIES	ACCEPTED	Transform rippled sand into bumpy mud flats, expel lugworms but facilitate tube-worms and juvenile clams	2025
+11124	11124	Acer platanoides	Acer platanoides L.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED		2020
+11125	11125	Acer pseudoplatanus	Acer pseudoplatanus L.	Plantae	Tracheophyta	Magnoliopsida	Sapindales	Sapindaceae	SPECIES	ACCEPTED		2020
+11126	11126	Acrochaetium densum	Acrochaetium catenulatum M.Howe, 1914	Plantae	Rhodophyta	Florideophyceae	Acrochaetiales	Acrochaetiaceae	SPECIES	SYNONYM		2025
+11127	11127	Alexandrium tamarense	Alexandrium tamarense (Lebour) Balech, 1995	Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Ostreopsidaceae	SPECIES	ACCEPTED		2025
+11128	11128	Alitta virens	Alitta virens (M. Sars, 1835)	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED		2025
+11129	11129	Alopochen aegyptiaca	Alopochen aegyptiaca (Linnaeus, 1766)	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2020
+11130	11130	Amelanchier lamarckii	Amelanchier ×lamarckii F.G.Schroed.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2020
+11131	11131	Amphibalanus improvisus	Amphibalanus improvisus (Darwin, 1854)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2025
+11132	11132	Anguillicoloides crassus	Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974	Animalia	Nematoda	Chromadorea	Rhabditida	Anguillicolidae	SPECIES	SYNONYM		2025
+11133	11133	Antithamnionella spirographidis	Antithamnionella spirographidis (Schiffner) E.M.Wollaston, 1968	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11134	11134	Aphelochaeta marioni	Aphelochaeta marioni (Saint-Joseph, 1894)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11135	11135	Aplidium glabrum	Aplidium glabrum (Verrill, 1871)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Polyclinidae	SPECIES	ACCEPTED		2025
+11136	11136	Austrominius modestus	Austrominius modestus (Darwin, 1854)	Animalia	Arthropoda			Elminiidae	SPECIES	ACCEPTED		2025
+11137	11137	Azolla filiculoides	Azolla filiculoides Lam.	Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED		2020
+11138	11138	Botrylloides violaceus violaceus	Botrylloides violaceus violaceus Oka, 1927	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11139	11139	Botrytella	Botrytella Bory	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	GENUS	ACCEPTED		2025
+11140	11140	Branta canadensis	Branta canadensis (Linnaeus, 1758)	Animalia	Chordata	Aves	Anseriformes	Anatidae	SPECIES	ACCEPTED		2020
+11141	11141	Bugulina stolonifera	Bugulina stolonifera (Ryland, 1960)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2025
+11142	11142	Cabomba caroliniana	Cabomba caroliniana A.Gray	Plantae	Tracheophyta	Magnoliopsida	Nymphaeales	Cabombaceae	SPECIES	ACCEPTED		2020
+11143	11143	Callinectes sapidus	Callinectes sapidus Rathbun, 1896	Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED		2025
+11144	11144	Campylopus introflexus	Campylopus introflexus (Hedw.) Brid.	Plantae	Bryophyta	Bryopsida	Dicranales	Dicranaceae	SPECIES	ACCEPTED		2020
+11145	11145	Caprella mutica	Caprella mutica Schurin, 1935	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2025
+11146	11146	Carassius auratus	Carassius auratus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2020
+11147	11147	Caulacanthus okamurae	Caulacanthus okamurae Yamada, 1933	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Caulacanthaceae	SPECIES	ACCEPTED		2025
+11148	11148	Ceramium botryocarpum	Ceramium botryocarpum A.W.Griffiths ex Harvey, 1848	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11149	11149	Ceramium cimbricum	Ceramium cimbricum H.E.Petersen, 1924	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11150	11150	Ceramium sungminbooi	Ceramium sungminbooi J.R.Hughey & G.H.Boo, 2016	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11151	11151	Chattonella marina var. antiqua	Chattonella marina var. antiqua (Hada) Demura & Kawachi, 2009	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11152	11152	Codium fragile subsp. atlanticum	Codium fragile subsp. atlanticum (A.D.Cotton) P.C.Silva, 1955	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED		2025
+11153	11153	Codium fragile subsp. Fragile	Codium fragile subsp. fragile (Suringar) Hariot, 1889	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED		2025
+11154	11154	Colpomenia peregrina	Colpomenia peregrina Sauvageau, 1927	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2025
+11155	11155	Corambe obscura	Corambe obscura (A. E. Verrill, 1870)	Animalia	Mollusca	Gastropoda	Nudibranchia	Corambidae	SPECIES	ACCEPTED		2025
+11156	11156	Cordylophora caspia	Cordylophora caspia (Pallas, 1771)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED		2025
+11157	11157	Coscinodiscus wailesii	Coscinodiscus wailesii Gran & Angst, 1931	Chromista	Ochrophyta	Bacillariophyceae	Coscinodiscales	Coscinodiscaceae	SPECIES	ACCEPTED		2025
+11158	11158	Crassostrea gigas	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED		2025
+11159	11159	Crassula helmsii	Crassula helmsii (Kirk) Cockayne	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Crassulaceae	SPECIES	ACCEPTED		2020
+11160	11160	Crepidula fornicata	Crepidula fornicata (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	SPECIES	ACCEPTED		2025
+11161	11161	Cyprinus carpio	Cyprinus carpio Linnaeus, 1758	Animalia	Chordata	Actinopterygii	Cypriniformes	Cyprinidae	SPECIES	ACCEPTED		2020
+11162	11162	Dasya sessilis	Dasya sessilis Yamada, 1928	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	ACCEPTED		2025
+11163	11163	Dasysiphonia japonica	Dasysiphonia japonica (Yendo) H.-S.Kim, 2012	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	ACCEPTED		2025
+11164	11164	Diadumene cincta	Diadumene cincta Stephenson, 1925	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2025
+11165	11165	Diadumene lineata	Diadumene lineata (Verrill, 1869)	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2025
+11166	11166	Didemnum vexillum	Didemnum vexillum Kott, 2002	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11167	11167	Diplosoma listerianum	Diplosoma listerianum (Milne Edwards, 1841)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11168	11168	Egeria densa	Elodea densa (Planch.) Casp.	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	SYNONYM		2020
+11169	11169	Eichhornia crassipes	Pontederia crassipes Mart.	Plantae	Tracheophyta	Liliopsida	Commelinales	Pontederiaceae	SPECIES	SYNONYM		2020
+11170	11170	Elodea nuttallii	Elodea nuttallii (Planch.) H.St.John	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED		2020
+11171	11171	Ensis directus	Ensis directus (Conrad, 1844)	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED		2025
+11172	11172	Eriocheir sinensis	Eriocheir sinensis H. Milne Edwards, 1853	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11173	11173	Fallopia japonica	Reynoutria japonica Houtt.	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales	Polygonaceae	SPECIES	SYNONYM		2020
+11174	11174	Felis catus	Felis catus Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Felidae	SPECIES	ACCEPTED		2020
+11175	11175	Fibrocapsa japonica	Fibrocapsa japonica S.Toriumi & H.Takano, 1973	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11176	11176	Ficopomatus enigmaticus	Ficopomatus enigmaticus (Fauvel, 1923)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11177	11177	Gammarus tigrinus	Gammarus tigrinus Sexton, 1939	Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED		2025
+11178	11178	Gonionemus vertens	Gonionemus vertens A. Agassiz, 1862	Animalia	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	SPECIES	ACCEPTED		2025
+11179	11179	Gracilaria vermiculophylla	Gracilaria vermiculophylla (Ohmi) Papenfuss, 1967	Plantae	Rhodophyta	Florideophyceae	Gracilariales	Gracilariaceae	SPECIES	ACCEPTED		2025
+11180	11180	Haliclona (Soestella) xena	Haliclona (Soestella) xena de Weerdt, 1986	Animalia	Porifera	Demospongiae	Haplosclerida	Chalinidae	SPECIES	ACCEPTED		2025
+11181	11181	Hemigrapsus sanguineus	Hemigrapsus sanguineus (De Haan, 1835)	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11182	11182	Hemigrapsus takanoi	Hemigrapsus takanoi Asakura & Watanabe, 2005	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11183	11183	Heracleum mantegazzianum	Heracleum mantegazzianum Sommier & Levier	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED		2020
+11184	11184	Heterosigma akashiwo	Heterosigma akashiwo (Hada) Hada ex Y.Hara & Chihara, 1987	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11185	11185	Hydrilla verticillata	Hydrilla verticillata (L.f.) Royle	Plantae	Tracheophyta	Liliopsida	Alismatales	Hydrocharitaceae	SPECIES	ACCEPTED		2020
+11186	11186	Hydrocotyle ranunculoides	Hydrocotyle ranunculoides L.fil.	Plantae	Tracheophyta	Magnoliopsida	Apiales	Apiaceae	SPECIES	ACCEPTED		2020
+11187	11187	Hymeniacidon perlevis	Hymeniacidon perlevis (Montagu, 1814)	Animalia	Porifera	Demospongiae	Suberitida	Halichondriidae	SPECIES	ACCEPTED		2025
+11188	11188	Jassa marmorata	Jassa marmorata Holmes, 1905	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2025
+11189	11189	Lepomis gibbosus	Lepomis gibbosus (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Perciformes	Centrarchidae	SPECIES	ACCEPTED		2020
+11190	11190	Leucosolenia somesii	Leucosolenia somesii (Bowerbank, 1874)	Animalia	Porifera	Calcarea	Leucosolenida	Leucosoleniidae	SPECIES	ACCEPTED		2025
+11191	11191	Ligustrum ovalifolium	Ligustrum ovalifolium Hassk.	Plantae	Tracheophyta	Magnoliopsida	Lamiales	Oleaceae	SPECIES	ACCEPTED		2020
+11192	11192	Ludwigia grandiflora	Ludwigia grandiflora (Michx.) Greuter & Burdet	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED		2020
+11193	11193	Ludwigia peploides	Ludwigia peploides (Kunth) P.H.Raven	Plantae	Tracheophyta	Magnoliopsida	Myrtales	Onagraceae	SPECIES	ACCEPTED		2020
+11194	11194	Marenzelleria neglecta	Marenzelleria neglecta Sikorski & Bick, 2004	Animalia	Annelida	Polychaeta	Spionida	Spionidae	SPECIES	ACCEPTED		2020
+11195	11195	Marenzelleria viridis	Marenzelleria viridis (Verrill, 1873)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11196	11196	Mediopyxis helysia	Mediopyxis helysia Kühn, Hargreaves & Halliger, 2006	Chromista	Ochrophyta	Bacillariophyceae			SPECIES	ACCEPTED		2025
+11197	11197	Melita nitida	Melita nitida S.I. Smith in Verrill & Smith, 1874	Animalia	Arthropoda	Malacostraca	Amphipoda	Melitidae	SPECIES	ACCEPTED		2025
+11198	11198	Microphthalmus similis	Microphthalmus similis Bobretzky, 1870	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	SPECIES	ACCEPTED		2025
+11199	11199	Mnemiopsis leidyi	Mnemiopsis leidyi A. Agassiz, 1865	Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED		2025
+11200	11200	Molgula manhattensis	Molgula manhattensis (De Kay, 1843)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED		2025
+11201	11201	Monocorophium sextonae	Monocorophium sextonae (Crawford, 1937)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11202	11202	Mulinia lateralis	Mulinia lateralis (Say, 1822)	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED		2025
+11203	11203	Mustela furo	Mustela furo Linnaeus, 1758	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	SPECIES	ACCEPTED		2020
+11204	11204	Mya arenaria	Mya arenaria Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED		2025
+11205	11205	Myriophyllum aquaticum	Myriophyllum aquaticum (Vell.) Verdc.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED		2020
+11206	11206	Myriophyllum heterophyllum	Myriophyllum heterophyllum Michx.	Plantae	Tracheophyta	Magnoliopsida	Saxifragales	Haloragaceae	SPECIES	ACCEPTED		2020
+11207	11207	Mytilicola intestinalis	Mytilicola intestinalis Steuer, 1902	Animalia	Arthropoda	Copepoda	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED		2025
+11208	11208	Mytilicola orientalis	Mytilicola orientalis Mori, 1935	Animalia	Arthropoda	Copepoda	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED		2025
+11209	11209	Mytilopsis leucophaeata	Mytilopsis leucophaeata (Conrad, 1831)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED		2025
+11210	11210	Nemopsis bachei	Nemopsis bachei L. Agassiz, 1849	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	SPECIES	ACCEPTED		2025
+11211	11211	Neodexiospira brasiliensis	Neodexiospira brasiliensis (Grube, 1872)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11212	11212	Neogobius melanostomus	Neogobius melanostomus (Pallas, 1814)	Animalia	Chordata		Perciformes	Gobiidae	SPECIES	ACCEPTED		2025
+11213	11213	Neosiphonia harveyi	Melanothamnus harveyi (Bailey) Díaz-Tapia & Maggs, 2017	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	SYNONYM		2025
+11214	11214	Odontella affinis	Triceratium affine Grunow in Van Heurck, 1883	Chromista	Ochrophyta	Bacillariophyceae	Triceratiales	Triceratiaceae	SPECIES	SYNONYM		2025
+11215	11215	Oryctolagus cuniculus	Oryctolagus cuniculus (Linnaeus, 1758)	Animalia	Chordata	Mammalia	Lagomorpha	Leporidae	SPECIES	ACCEPTED		2020
+11216	11216	Ostreid herpesvirus 1	Ostreid herpesvirus 1	Viruses	Peploviricota	Herviviricetes	Herpesvirales	Malacoherpesviridae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11217	11217	Palaemon macrodactylus	Palaemon macrodactylus Rathbun, 1902	Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED		2025
+11218	11218	Petricolaria pholadiformis	Petricolaria pholadiformis (Lamarck, 1818)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED		2025
+11219	11219	Pinus sylvestris	Pinus sylvestris L.	Plantae	Tracheophyta	Pinopsida	Pinales	Pinaceae	SPECIES	ACCEPTED		2020
+11220	11220	Pistia stratiotes	Pistia stratiotes L.	Plantae	Tracheophyta	Liliopsida	Alismatales	Araceae	SPECIES	ACCEPTED		2020
+11221	11221	Platorchestia platensis	Platorchestia platensis (Krøyer, 1845)	Animalia	Arthropoda	Malacostraca	Amphipoda	Talitridae	SPECIES	ACCEPTED		2025
+11222	11222	Pleurosigma simonsenii	Pleurosigma simonsenii Hasle, 1990	Chromista	Ochrophyta	Bacillariophyceae	Naviculales	Pleurosigmataceae	SPECIES	ACCEPTED		2025
+11223	11223	Polydora websteri	Polydora websteri Hartman in Loosanoff & Engle, 1943	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11224	11224	Polysiphonia senticulosa	Polysiphonia senticulosa Harvey, 1862	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2025
+11225	11225	Populus alba	Populus alba L.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED		2020
+11226	11226	Populus canescens	Populus ×canescens (Aiton) Sm.	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	Salicaceae	SPECIES	ACCEPTED		2020
+11227	11227	Prorocentrum triestinum	Prorocentrum triestinum J.Schiller, 1918	Chromista	Myzozoa	Dinophyceae	Prorocentrales	Prorocentraceae	SPECIES	ACCEPTED		2025
+11228	11228	Prunus serotina	Prunus serotina Ehrh.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2020
+11229	11229	Quercus rubra	Quercus rubra L.	Plantae	Tracheophyta	Magnoliopsida	Fagales	Fagaceae	SPECIES	ACCEPTED		2020
+11230	11230	Rangia cuneata	Rangia cuneata (G. B. Sowerby I, 1832)	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED		2025
+11231	11231	Rattus norvegicus	Rattus norvegicus (Berkenhout, 1769)	Animalia	Chordata	Mammalia	Rodentia	Muridae	SPECIES	ACCEPTED		2020
+11232	11232	Rhithropanopeus harrisii	Rhithropanopeus harrisii (Gould, 1841)	Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED		2025
+11233	11233	Robinia pseudoacacia	Robinia pseudoacacia L.	Plantae	Tracheophyta	Magnoliopsida	Fabales	Fabaceae	SPECIES	ACCEPTED		2020
+11234	11234	Rosa rugosa	Rosa rugosa Thunb.	Plantae	Tracheophyta	Magnoliopsida	Rosales	Rosaceae	SPECIES	ACCEPTED		2020
+11235	11235	Salvinia molesta	Salvinia ×molesta D.S.Mitch.	Plantae	Tracheophyta	Polypodiopsida	Salviniales	Salviniaceae	SPECIES	ACCEPTED		2020
+11236	11236	Sander lucioperca	Sander lucioperca (Linnaeus, 1758)	Animalia	Chordata	Actinopterygii	Perciformes	Percidae	SPECIES	ACCEPTED		2020
+11237	11237	Sargassum muticum	Sargassum muticum (Yendo) Fensholt, 1955	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED		2025
+11238	11238	Schizoporella japonica	Schizoporella japonica Ortmann, 1890	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED		2025
+11239	11239	Senecio inaequidens	Senecio inaequidens DC.	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2020
+11240	11240	Senecio inaequidens	Spartina anglica C.E. Hubbard	Plantae	Tracheophyta	Magnoliopsida	Asterales	Asteraceae	SPECIES	ACCEPTED		2020
+11241	11241	Sinelobus vanhaareni	Sinelobus vanhaareni Bamber, 2014	Animalia	Arthropoda	Malacostraca	Tanaidacea	Tanaididae	SPECIES	ACCEPTED		2025
+11242	11242	Smittoidea prolifica	Smittoidea prolifica Osburn, 1952	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	SPECIES	ACCEPTED		2025
+11243	11243	Spartina townsendii var. anglica	Spartina anglica C.E. Hubbard	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM		2025
+11244	11244	Streblospio benedicti	Streblospio benedicti Webster, 1879	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11245	11245	Styela clava	Styela clava Herdman, 1881	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11246	11246	Stylochus flevensis	Stylochus flevensis Hofker, 1930	Animalia	Platyhelminthes	Turbellaria		Stylochidae	SPECIES	ACCEPTED		2025
+11247	11247	Symphoricarpos albus	Symphoricarpos albus (L.) K.Koch	Plantae	Tracheophyta	Magnoliopsida	Dipsacales	Caprifoliaceae	SPECIES	ACCEPTED		2020
+11248	11248	Telmatogeton japonicus	Telmatogeton japonicus Tokunaga, 1933	Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	ACCEPTED		2025
+11249	11249	Teredo navalis	Teredo navalis Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Teredinidae	SPECIES	ACCEPTED		2025
+11250	11250	Tharyx killariensis	Tharyx killariensis (Southern, 1914)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11251	11251	Tricellaria inopinata	Tricellaria inopinata d'Hondt & Occhipinti Ambrogi, 1985	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Candidae	SPECIES	ACCEPTED		2025
+11252	11252	Trinectes maculatus	Trinectes maculatus (Bloch & Schneider, 1801)	Animalia	Chordata		Pleuronectiformes	Achiridae	SPECIES	ACCEPTED		2025
+11253	11253	Ulva australis	Ulva australis Areschoug, 1854	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11254	11254	Ulva pertusa	Ulva spec Areschoug	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	SYNONYM		2020
+11255	11255	Ulvaria splendens	Ulvaria splendens (Ruprecht) K.L.Vinogradova, 1979	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11256	11256	Undaria pinnatifida	Undaria pinnatifida (Harvey) Suringar, 1873	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Alariaceae	SPECIES	ACCEPTED		2025
+11257	11257	Vaccinium macrocarpum	Vaccinium macrocarpon Aiton	Plantae	Tracheophyta	Magnoliopsida	Ericales	Ericaceae	SPECIES	ACCEPTED		2020
+11258	11258	Acrochaetium densum	Acrochaetium catenulatum M.Howe, 1914	Plantae	Rhodophyta	Florideophyceae	Acrochaetiales	Acrochaetiaceae	SPECIES	SYNONYM		2025
+11259	11259	Agardhiella subulata	Agardhiella subulata (C.Agardh) Kraft & M.J.Wynne, 1979	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Solieriaceae	SPECIES	ACCEPTED		2025
+11260	11260	Alexandrium tamarense	Alexandrium tamarense (Lebour) Balech, 1995	Chromista	Myzozoa	Dinophyceae	Gonyaulacales	Ostreopsidaceae	SPECIES	ACCEPTED		2025
+11261	11261	Alitta virens	Alitta virens (M. Sars, 1835)	Animalia	Annelida	Polychaeta	Phyllodocida	Nereididae	SPECIES	ACCEPTED		2025
+11262	11262	Amphibalanus improvisus	Amphibalanus improvisus (Darwin, 1854)	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	SPECIES	ACCEPTED		2025
+11263	11263	Anguillicoloides crassus	Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974	Animalia	Nematoda	Chromadorea	Rhabditida	Anguillicolidae	SPECIES	SYNONYM		2025
+11264	11264	Antithamnionella spirographidis	Antithamnionella spirographidis (Schiffner) E.M.Wollaston, 1968	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11265	11265	Antithamnionella ternifolia	Antithamnionella ternifolia (Hooker f. & Harvey) Lyle, 1922	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11266	11266	Antithamnionella ternifolia	Antithamnionella ternifolia (Hooker f. & Harvey) Lyle, 1922	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11267	11267	Aoroides semicurvatus	Aoroides semicurvatus Ariyama, 2004	Animalia	Arthropoda	Malacostraca	Amphipoda	Aoridae	SPECIES	ACCEPTED		2025
+11268	11268	Aphelochaeta marioni	Aphelochaeta marioni (Saint-Joseph, 1894)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11269	11269	Aplidium glabrum	Aplidium glabrum (Verrill, 1871)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Polyclinidae	SPECIES	ACCEPTED		2025
+11270	11270	Arachnidium lacourti	Arachnidium lacourti d'Hondt & Faasse, 2006	Animalia	Bryozoa	Gymnolaemata	Ctenostomatida	Arachnidiidae	SPECIES	ACCEPTED		2025
+11271	11271	Austrominius modestus	Austrominius modestus (Darwin, 1854)	Animalia	Arthropoda			Elminiidae	SPECIES	ACCEPTED		2025
+11272	11272	Boccardiella ligerica	Boccardiella ligerica (Ferronnière, 1898)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11273	11273	Boccardiella ligerica	Boccardiella ligerica (Ferronnière, 1898)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11274	11274	Botrylloides violaceus violaceus	Botrylloides violaceus violaceus Oka, 1927	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11275	11275	Botrytella	Botrytella Bory	Chromista	Ochrophyta	Phaeophyceae	Ectocarpales	Chordariaceae	GENUS	ACCEPTED		2025
+11276	11276	Bugula neritina	Bugula neritina (Linnaeus, 1758)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2025
+11277	11277	Bugulina stolonifera	Bugulina stolonifera (Ryland, 1960)	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Bugulidae	SPECIES	ACCEPTED		2025
+11278	11278	Callinectes sapidus	Callinectes sapidus Rathbun, 1896	Animalia	Arthropoda	Malacostraca	Decapoda	Portunidae	SPECIES	ACCEPTED		2025
+11279	11279	Caprella mutica	Caprella mutica Schurin, 1935	Animalia	Arthropoda	Malacostraca	Amphipoda	Caprellidae	SPECIES	ACCEPTED		2025
+11280	11280	Caulacanthus okamurae	Caulacanthus okamurae Yamada, 1933	Plantae	Rhodophyta	Florideophyceae	Gigartinales	Caulacanthaceae	SPECIES	ACCEPTED		2025
+11281	11281	Ceramium botryocarpum	Ceramium botryocarpum A.W.Griffiths ex Harvey, 1848	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11282	11282	Ceramium cimbricum	Ceramium cimbricum H.E.Petersen, 1924	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11283	11283	Ceramium sungminbooi	Ceramium sungminbooi J.R.Hughey & G.H.Boo, 2016	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Ceramiaceae	SPECIES	ACCEPTED		2025
+11284	11284	Chattonella marina var. antiqua	Chattonella marina var. antiqua (Hada) Demura & Kawachi, 2009	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11285	11285	Chelicorophium curvispinum	Chelicorophium curvispinum (G.O. Sars, 1895)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11286	11286	Codium fragile subsp. atlanticum	Codium fragile subsp. atlanticum (A.D.Cotton) P.C.Silva, 1955	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED		2025
+11287	11287	Codium fragile subsp. Fragile	Codium fragile subsp. fragile (Suringar) Hariot, 1889	Plantae	Chlorophyta	Ulvophyceae	Bryopsidales	Codiaceae	SPECIES	ACCEPTED		2025
+11288	11288	Colpomenia peregrina	Colpomenia peregrina Sauvageau, 1927	Chromista	Ochrophyta	Phaeophyceae	Scytosiphonales	Scytosiphonaceae	SPECIES	ACCEPTED		2025
+11289	11289	Corambe obscura	Corambe obscura (A. E. Verrill, 1870)	Animalia	Mollusca	Gastropoda	Nudibranchia	Corambidae	SPECIES	ACCEPTED		2025
+11290	11290	Cordylophora caspia	Cordylophora caspia (Pallas, 1771)	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	SPECIES	ACCEPTED		2025
+11291	11291	Corella eumyota	Corella eumyota Traustedt, 1882	Animalia	Chordata	Ascidiacea	Phlebobranchia	Corellidae	SPECIES	ACCEPTED		2025
+11292	11292	Coscinodiscus wailesii	Coscinodiscus wailesii Gran & Angst, 1931	Chromista	Ochrophyta	Bacillariophyceae	Coscinodiscales	Coscinodiscaceae	SPECIES	ACCEPTED		2025
+11293	11293	Crassostrea gigas	Magallana gigas (Thunberg, 1793)	Animalia	Mollusca	Bivalvia	Ostreida	Ostreidae	SPECIES	ACCEPTED		2025
+11294	11294	Crepidula fornicata	Crepidula fornicata (Linnaeus, 1758)	Animalia	Mollusca	Gastropoda	Littorinimorpha	Calyptraeidae	SPECIES	ACCEPTED		2025
+11295	11295	Dasya baillouviana	Dasya pedicellata (C.Agardh) C.Agardh, 1824	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	SYNONYM		2025
+11296	11296	Dasya sessilis	Dasya sessilis Yamada, 1928	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	ACCEPTED		2025
+11297	11297	Dasysiphonia japonica	Dasysiphonia japonica (Yendo) H.-S.Kim, 2012	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Dasyaceae	SPECIES	ACCEPTED		2025
+11298	11298	Diadumene cincta	Diadumene cincta Stephenson, 1925	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2025
+11299	11299	Diadumene lineata	Diadumene lineata (Verrill, 1869)	Animalia	Cnidaria	Anthozoa	Actiniaria	Diadumenidae	SPECIES	ACCEPTED		2025
+11300	11300	Didemnum vexillum	Didemnum vexillum Kott, 2002	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11301	11301	Diplosoma listerianum	Diplosoma listerianum (Milne Edwards, 1841)	Animalia	Chordata	Ascidiacea	Aplousobranchia	Didemnidae	SPECIES	ACCEPTED		2025
+11302	11302	Dreissena polymorpha	Dreissena polymorpha (Pallas, 1771)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11303	11303	Ensis directus	Ensis directus (Conrad, 1844)	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED		2025
+11304	11304	Ensis leei	Ensis leei M.Huber, 2015	Animalia	Mollusca	Bivalvia	Adapedonta	Pharidae	SPECIES	ACCEPTED	Important prey to diving ducks, oystercatcher and gulls	2025
+11305	11305	Eriocheir sinensis	Eriocheir sinensis H. Milne Edwards, 1853	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED	Erodes river banks with burrows; no interference with resident crabs	2025
+11306	11306	Eteone heteropoda	Hypereteone heteropoda (Hartman, 1951)	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	SPECIES	SYNONYM		2025
+11307	11307	Fibrocapsa japonica	Fibrocapsa japonica S.Toriumi & H.Takano, 1973	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11308	11308	Ficopomatus enigmaticus	Ficopomatus enigmaticus (Fauvel, 1923)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11309	11309	Gammarus tigrinus	Gammarus tigrinus Sexton, 1939	Animalia	Arthropoda	Malacostraca	Amphipoda	Gammaridae	SPECIES	ACCEPTED		2025
+11310	11310	Garveia franciscana	Calyptospadix cerulea Clarke, 1882	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	SPECIES	SYNONYM	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11311	11311	Gonionemus vertens	Gonionemus vertens A. Agassiz, 1862	Animalia	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	SPECIES	ACCEPTED		2025
+11312	11312	Gracilaria vermiculophylla	Gracilaria vermiculophylla (Ohmi) Papenfuss, 1967	Plantae	Rhodophyta	Florideophyceae	Gracilariales	Gracilariaceae	SPECIES	ACCEPTED		2025
+11313	11313	Grateloupia turuturu	Grateloupia turuturu Yamada, 1941	Plantae	Rhodophyta	Florideophyceae	Halymeniales	Halymeniaceae	SPECIES	ACCEPTED		2025
+11314	11314	Haliclona (Soestella) xena	Haliclona (Soestella) xena de Weerdt, 1986	Animalia	Porifera	Demospongiae	Haplosclerida	Chalinidae	SPECIES	ACCEPTED		2025
+11315	11315	Hemigrapsus sanguineus	Hemigrapsus sanguineus (De Haan, 1835)	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11316	11316	Hemigrapsus takanoi	Hemigrapsus takanoi Asakura & Watanabe, 2005	Animalia	Arthropoda	Malacostraca	Decapoda	Varunidae	SPECIES	ACCEPTED		2025
+11317	11317	Heterosigma akashiwo	Heterosigma akashiwo (Hada) Hada ex Y.Hara & Chihara, 1987	Chromista	Ochrophyta	Raphidophyceae	Chattonellales	Chattonellaceae	SPECIES	ACCEPTED		2025
+11318	11318	Hymeniacidon perlevis	Hymeniacidon perlevis (Montagu, 1814)	Animalia	Porifera	Demospongiae	Suberitida	Halichondriidae	SPECIES	ACCEPTED		2025
+11319	11319	Hypereteone lighti	Hypereteone lighti (Hartman, 1936)	Animalia	Annelida	Polychaeta	Phyllodocida	Phyllodocidae	SPECIES	ACCEPTED		2025
+11320	11320	Incisocalliope aestuarius	Incisocalliope aestuarius (Watling & Maurer, 1973)	Animalia	Arthropoda	Malacostraca	Amphipoda	Pleustidae	SPECIES	ACCEPTED		2025
+11321	11321	Jassa marmorata	Jassa marmorata Holmes, 1905	Animalia	Arthropoda	Malacostraca	Amphipoda	Ischyroceridae	SPECIES	ACCEPTED		2025
+11322	11322	Laonome xeprovala	Laonome xeprovala Bick & Bastrop, in Bick et al., 2018	Animalia	Annelida	Polychaeta	Sabellida	Sabellidae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11323	11323	Leucosolenia somesii	Leucosolenia somesii (Bowerbank, 1874)	Animalia	Porifera	Calcarea	Leucosolenida	Leucosoleniidae	SPECIES	ACCEPTED		2025
+11324	11324	Marenzelleria viridis	Marenzelleria viridis (Verrill, 1873)	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11325	11325	Mediopyxis helysia	Mediopyxis helysia Kühn, Hargreaves & Halliger, 2006	Chromista	Ochrophyta	Bacillariophyceae			SPECIES	ACCEPTED		2025
+11326	11326	Melita nitida	Melita nitida S.I. Smith in Verrill & Smith, 1874	Animalia	Arthropoda	Malacostraca	Amphipoda	Melitidae	SPECIES	ACCEPTED		2025
+11327	11327	Microphthalmus similis	Microphthalmus similis Bobretzky, 1870	Animalia	Annelida	Polychaeta	Phyllodocida	Hesionidae	SPECIES	ACCEPTED		2025
+11328	11328	Mnemiopsis leidyi	Mnemiopsis leidyi A. Agassiz, 1865	Animalia	Ctenophora	Tentaculata	Lobata	Bolinopsidae	SPECIES	ACCEPTED		2025
+11329	11329	Molgula manhattensis	Molgula manhattensis (De Kay, 1843)	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	SPECIES	ACCEPTED		2025
+11330	11330	Monocorophium sextonae	Monocorophium sextonae (Crawford, 1937)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11331	11331	Monocorophium uenoi	Monocorophium uenoi (Stephensen, 1932)	Animalia	Arthropoda	Malacostraca	Amphipoda	Corophiidae	SPECIES	ACCEPTED		2025
+11332	11332	Mulinia lateralis	Mulinia lateralis (Say, 1822)	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED		2025
+11333	11333	Mya arenaria	Mya arenaria Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Myidae	SPECIES	ACCEPTED		2025
+11334	11334	Mytilicola intestinalis	Mytilicola intestinalis Steuer, 1902	Animalia	Arthropoda	Copepoda	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED		2025
+11335	11335	Mytilicola orientalis	Mytilicola orientalis Mori, 1935	Animalia	Arthropoda	Copepoda	Cyclopoida	Mytilicolidae	SPECIES	ACCEPTED		2025
+11336	11336	Mytilopsis leucophaeata	Mytilopsis leucophaeata (Conrad, 1831)	Animalia	Mollusca	Bivalvia	Myida	Dreissenidae	SPECIES	ACCEPTED		2025
+11337	11337	Nemopsis bachei	Nemopsis bachei L. Agassiz, 1849	Animalia	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	SPECIES	ACCEPTED		2025
+11338	11338	Neodexiospira brasiliensis	Neodexiospira brasiliensis (Grube, 1872)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11339	11339	Neogobius melanostomus	Neogobius melanostomus (Pallas, 1814)	Animalia	Chordata		Perciformes	Gobiidae	SPECIES	ACCEPTED		2025
+11340	11340	Neosiphonia harveyi	Melanothamnus harveyi (Bailey) Díaz-Tapia & Maggs, 2017	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	SYNONYM		2025
+11341	11341	Odontella affinis	Triceratium affine Grunow in Van Heurck, 1883	Chromista	Ochrophyta	Bacillariophyceae	Triceratiales	Triceratiaceae	SPECIES	SYNONYM		2025
+11342	11342	Oithona davisae	Oithona davisae Ferrari F.D. & Orsi, 1984	Animalia	Arthropoda	Copepoda	Cyclopoida	Oithonidae	SPECIES	ACCEPTED		2025
+11343	11343	Ostreid herpesvirus 1	Ostreid herpesvirus 1	Viruses	Peploviricota	Herviviricetes	Herpesvirales	Malacoherpesviridae	SPECIES	ACCEPTED		2025
+11344	11344	Palaemon macrodactylus	Palaemon macrodactylus Rathbun, 1902	Animalia	Arthropoda	Malacostraca	Decapoda	Palaemonidae	SPECIES	ACCEPTED		2025
+11345	11345	Petricolaria pholadiformis	Petricolaria pholadiformis (Lamarck, 1818)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED		2025
+11346	11346	Pileolaria berkeleyana	Pileolaria berkeleyana (Rioja, 1942)	Animalia	Annelida	Polychaeta	Sabellida	Serpulidae	SPECIES	ACCEPTED		2025
+11347	11347	Platorchestia platensis	Platorchestia platensis (Krøyer, 1845)	Animalia	Arthropoda	Malacostraca	Amphipoda	Talitridae	SPECIES	ACCEPTED		2025
+11348	11348	Pleurosigma simonsenii	Pleurosigma simonsenii Hasle, 1990	Chromista	Ochrophyta	Bacillariophyceae	Naviculales	Pleurosigmataceae	SPECIES	ACCEPTED		2025
+11349	11349	Polydora websteri	Polydora websteri Hartman in Loosanoff & Engle, 1943	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11350	11350	Polysiphonia senticulosa	Polysiphonia senticulosa Harvey, 1862	Plantae	Rhodophyta	Florideophyceae	Ceramiales	Rhodomelaceae	SPECIES	ACCEPTED		2025
+11351	11351	Proasellus coxalis	Proasellus coxalis coxalis (Dollfus, 1892)	Animalia	Arthropoda	Malacostraca	Isopoda	Asellidae	SPECIES	ACCEPTED		2025
+11352	11352	Prorocentrum triestinum	Prorocentrum triestinum J.Schiller, 1918	Chromista	Myzozoa	Dinophyceae	Prorocentrales	Prorocentraceae	SPECIES	ACCEPTED		2025
+11353	11353	Rangia cuneata	Rangia cuneata (G. B. Sowerby I, 1832)	Animalia	Mollusca	Bivalvia	Venerida	Mactridae	SPECIES	ACCEPTED	Alien species detected on the margins of the Wadden Sea Area (Gittenberger, 2021)	2025
+11354	11354	Rhithropanopeus harrisii	Rhithropanopeus harrisii (Gould, 1841)	Animalia	Arthropoda	Malacostraca	Decapoda	Panopeidae	SPECIES	ACCEPTED		2025
+11355	11355	Ruditapes philippinarum	Ruditapes philippinarum (A. Adams & Reeve, 1850)	Animalia	Mollusca	Bivalvia	Venerida	Veneridae	SPECIES	ACCEPTED		2025
+11356	11356	Sargassum muticum	Sargassum muticum (Yendo) Fensholt, 1955	Chromista	Ochrophyta	Phaeophyceae	Fucales	Sargassaceae	SPECIES	ACCEPTED		2025
+11357	11357	Schizoporella japonica	Schizoporella japonica Ortmann, 1890	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Schizoporellidae	SPECIES	ACCEPTED		2025
+11358	11358	Sinelobus vanhaareni	Sinelobus vanhaareni Bamber, 2014	Animalia	Arthropoda	Malacostraca	Tanaidacea	Tanaididae	SPECIES	ACCEPTED		2025
+11359	11359	Smittoidea prolifica	Smittoidea prolifica Osburn, 1952	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Smittinidae	SPECIES	ACCEPTED		2025
+11360	11360	Spartina townsendii var. anglica	Spartina anglica C.E. Hubbard	Plantae	Tracheophyta	Liliopsida	Poales	Poaceae	SPECIES	SYNONYM		2025
+11361	11361	Streblospio benedicti	Streblospio benedicti Webster, 1879	Animalia	Annelida	Polychaeta		Spionidae	SPECIES	ACCEPTED		2025
+11362	11362	Styela clava	Styela clava Herdman, 1881	Animalia	Chordata	Ascidiacea	Stolidobranchia	Styelidae	SPECIES	ACCEPTED		2025
+11363	11363	Stylochus flevensis	Stylochus flevensis Hofker, 1930	Animalia	Platyhelminthes	Turbellaria		Stylochidae	SPECIES	ACCEPTED		2025
+11364	11364	Synidotea laticauda	Synidotea laticauda Benedict, 1897	Animalia	Arthropoda	Malacostraca	Isopoda	Idoteidae	SPECIES	ACCEPTED		2025
+11365	11365	Telmatogeton japonicus	Telmatogeton japonicus Tokunaga, 1933	Animalia	Arthropoda	Insecta	Diptera	Chironomidae	SPECIES	ACCEPTED		2025
+11366	11366	Teredo navalis	Teredo navalis Linnaeus, 1758	Animalia	Mollusca	Bivalvia	Myida	Teredinidae	SPECIES	ACCEPTED		2025
+11367	11367	Tharyx killariensis	Tharyx killariensis (Southern, 1914)	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11368	11368	Tharyx maryae	Tharyx maryae Blake & Göransson, 2015	Animalia	Annelida	Polychaeta		Cirratulidae	SPECIES	ACCEPTED		2025
+11369	11369	Tricellaria inopinata	Tricellaria inopinata d'Hondt & Occhipinti Ambrogi, 1985	Animalia	Bryozoa	Gymnolaemata	Cheilostomatida	Candidae	SPECIES	ACCEPTED		2025
+11370	11370	Trinectes maculatus	Trinectes maculatus (Bloch & Schneider, 1801)	Animalia	Chordata		Pleuronectiformes	Achiridae	SPECIES	ACCEPTED		2025
+11371	11371	Ulva australis	Ulva australis Areschoug, 1854	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11372	11372	Ulva californica	Ulva californica Wille, 1899	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11373	11373	Ulvaria splendens	Ulvaria splendens (Ruprecht) K.L.Vinogradova, 1979	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	SPECIES	ACCEPTED		2025
+11374	11374	Undaria pinnatifida	Undaria pinnatifida (Harvey) Suringar, 1873	Chromista	Ochrophyta	Phaeophyceae	Laminariales	Alariaceae	SPECIES	ACCEPTED		2025
+11375	11375	Vaucheria longicaulis	Vaucheria longicaulis Hoppaugh, 1930	Chromista	Ochrophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	SPECIES	ACCEPTED	Transform rippled sand into bumpy mud flats, expel lugworms but facilitate tube-worms and juvenile clams	2025
+11376	11376	Vaucheria velutina	Vaucheria velutina C.Agardh, 1824	Chromista	Ochrophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	SPECIES	ACCEPTED	Transform rippled sand into bumpy mud flats, expel lugworms but facilitate tube-worms and juvenile clams	2025
